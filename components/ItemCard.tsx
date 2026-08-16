@@ -36,14 +36,31 @@ export default function ItemCard({
   const isNew =
     !!item.firstSeen && !!now && now - new Date(item.firstSeen).getTime() < NEW_WINDOW_MS;
 
+  const editorialProfile = (() => {
+    switch (item.radarChannel) {
+      case "breaking":
+        return { account: "资讯快报号", angle: "先交代确认发生的事实、时间线和影响，伤亡/案件/灾害必须双信源核验，不使用煽动猜测。" };
+      case "society":
+        return { account: "社会热点号", angle: "还原事情怎么突然火起来，区分原始事实、网友二创和后续反转，找到普通人真正关心的部分。" };
+      case "people":
+        return { account: "人物热点号", angle: "只使用已公开可核验的动态，补充人物背景和这次为什么引发关注，不推断私生活。" };
+      default:
+        return { account: "NEXT LAB", angle: "亲自试用或复现，说清它解决什么、哪里好用、哪里还不行；配图优先真实 UI、GitHub 和输入输出。" };
+    }
+  })();
+
   async function copyTopicBrief() {
     const brief = [
       `选题：${item.title}`,
       `来源：${item.source}`,
       `原文：${item.sourceUrl}`,
+      `目标账号：${editorialProfile.account}`,
+      `频道：${item.radarChannel ?? "ai-tech"}`,
+      `可信度：${item.confidence ?? "待评估"}，交叉信源：${item.corroboration ?? 1}`,
       item.summary ? `信息：${cleanText(item.summary)}` : "",
       "",
-      "NEXT LAB 转化要求：",
+      `${editorialProfile.account} 转化要求：`,
+      editorialProfile.angle,
       "1. 先核验原始发布时间、官方说明与 GitHub 状态。",
       "2. 亲自试用或复现，保留截图、输入和输出。",
       "3. 以第一人称写：它解决什么、哪里好用、哪里还不行。",
@@ -153,7 +170,7 @@ export default function ItemCard({
           <span className="truncate">{item.source}</span>
         </a>
         <button type="button" onClick={copyTopicBrief} className="topic-brief-button shrink-0">
-          {briefCopied ? "已复制" : "转为选题"}
+          {briefCopied ? "已复制" : `转给 ${editorialProfile.account}`}
         </button>
       </div>
     </article>
