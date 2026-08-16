@@ -1,71 +1,38 @@
 {
-  "generatedAt": "2026-08-16T16:27:59.393Z",
+  "generatedAt": "2026-08-16T16:31:12.059Z",
   "alerts": [
     {
-      "eventId": "event-113znl4",
-      "title": "Gemini 3.7 Flash now available on AI Gateway for 50% off",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/gemini-3-7-flash-now-available-on-ai-gateway-for-50-off",
-      "channel": "ai-tech",
-      "heat": 47,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-08-16T16:27:59.393Z"
-    },
-    {
-      "eventId": "event-rrn0q8",
-      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
-      "channel": "ai-tech",
-      "heat": 35,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-08-16T16:27:59.393Z"
-    },
-    {
-      "eventId": "event-1ffsyhk",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/previewing-ultrafast",
-      "channel": "ai-tech",
-      "heat": 48,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-08-16T16:27:59.393Z"
-    },
-    {
-      "eventId": "event-1wl9izy",
-      "title": "Two dead and evacuation under way as fires break out on Greek island",
+      "eventId": "event-1ugl1h7",
+      "title": "Soldiers praised for 'phenomenal job' helping crews tackle wildfires",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-16T16:27:59.393Z"
-    },
-    {
-      "eventId": "event-6la5b7",
-      "title": "Murder inquiry after man bitten by dog dies",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-16T16:27:59.393Z"
-    },
-    {
-      "eventId": "event-1eyl9rv",
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgq55zv4ek8o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-16T16:27:59.393Z"
+      "detectedAt": "2026-08-16T16:31:12.059Z"
+    },
+    {
+      "eventId": "event-fs56r8",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 53,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-16T16:31:12.059Z"
+    },
+    {
+      "eventId": "event-1u55s4d",
+      "title": "South Korea proposes talks to officially end war with North",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 52,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-16T16:31:12.059Z"
     }
   ]
 }
