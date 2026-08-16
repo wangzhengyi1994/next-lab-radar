@@ -1191,7 +1191,7 @@
   {
     "id": "rss:anthropic-9fdb584812",
     "title": "AI Learning Resources & Guides from Anthropic",
-    "summary": "AI Learning Resources & Guides from Anthropic anthropic.com",
+    "summary": "AI Learning Resources & Guides from Anthropic Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5RlpUaHljdXZRMzUxOXAtOW1HVEVhWXk0RWRaYVhELS13S0ZUUDFoY29MYUFEdXVSR01wN1d4WU1FYktLbWc?oc=5",
     "category": "tip",
@@ -1230,7 +1230,7 @@
   {
     "id": "rss:anthropic-05aa839d41",
     "title": "Supported countries and regions",
-    "summary": "Supported countries and regions anthropic.com",
+    "summary": "Supported countries and regions Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lQ1loVmNpb1piSXBtVnM0U1VZaElpcVpqa0JRcF9xSC1LRXFoWjc4SlM5OEk4aTBfelRGRkxieUJ0UmpjVVBaM05WenRCV3FSbzYwdzFLMEc?oc=5",
     "category": "ai-models",
@@ -4700,7 +4700,7 @@
   {
     "id": "rss:anthropic-7b83453e11",
     "title": "Anthropic Economic Index Understanding AI’s effects on the economy",
-    "summary": "Anthropic Economic Index Understanding AI’s effects on the economy anthropic.com",
+    "summary": "Anthropic Economic Index Understanding AI’s effects on the economy Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wcEZ6cjlBVzhrMXplMmJVWHFZN3owVk1BY0JBNEFFaEVpYzNjMWtpUlp4U1NaclhSQjcxU0w2ZmFHaFNZUlMwRHNQM09LSklrU3c?oc=5",
     "category": "ai-models",
@@ -11278,7 +11278,7 @@
   {
     "id": "rss:anthropic-0290774058",
     "title": "How we built our multi-agent research system",
-    "summary": "How we built our multi-agent research system anthropic.com",
+    "summary": "How we built our multi-agent research system Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OVmpIRVFyWE5TR2dIZXRKLWE2OWlaaXM3QjAxaVRSVVl6VFE3TXJGbjZzZEJoNW5SX29GOTdHTmFlQXAxSWZMb3BYRkVNZldSalFRTEdxR2RWdWI5bTNjbW9jbHpTN3B1UURvamxfMS01NDA?oc=5",
     "category": "ai-models",
@@ -12190,7 +12190,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 27,
     "firstSeen": "2026-08-07T01:33:58.898Z",
     "fetchedAt": null,
     "tier": 2,
@@ -12516,9 +12516,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 39,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1l6bnnn",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qbitai-2d6c8d8735",
@@ -12635,9 +12640,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 39,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-w2kg9z",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qbitai-b43d7cf698",
@@ -12831,9 +12841,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 39,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1awovx3",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:hf-blog-72ea094fa8",
@@ -15253,9 +15268,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 40,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1n92eu1",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:infoq-17f4558aa6",
@@ -15680,9 +15700,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 40,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-sg6vcv",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:thedecoder-9d4d19f686",
@@ -19574,7 +19599,7 @@
     "origin": "hackernews",
     "aiNote": "AI巨头主动公开水印技术，行业透明化迈出关键一步。",
     "image": null,
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-08-10T22:57:01.923Z",
     "fetchedAt": null,
     "tier": 2,
@@ -19738,7 +19763,7 @@
   {
     "id": "rss:anthropic-95a653850d",
     "title": "Learning more about Claude's mathematical capabilities",
-    "summary": "Learning more about Claude's mathematical capabilities anthropic.com",
+    "summary": "Learning more about Claude's mathematical capabilities Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5",
     "category": "ai-models",
@@ -19813,9 +19838,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 44,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1fautl3",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hn-68389810e2",
@@ -20143,9 +20173,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 44,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1tqoxiy",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:theverge-ai-4427e8e8b9",
@@ -20336,9 +20371,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 44,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-b45v78",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-393ea70e1f",
@@ -20503,9 +20543,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 44,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-129xmuy",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:openai-7f776d7829",
@@ -20520,9 +20565,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 44,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-3cn5st",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:infoq-562a437e7f",
@@ -20879,9 +20929,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 43,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-fndpo5",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:openai-1ea3eea3d9",
@@ -20896,9 +20951,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 43,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1iffnnj",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:openai-8f3f7b5717",
@@ -20913,9 +20973,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 43,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1izk9ot",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:hf-blog-0da6fb777e",
@@ -23247,7 +23312,7 @@
       "image-generation",
       "Python"
     ],
-    "engagement": 114,
+    "engagement": 113,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -23400,7 +23465,7 @@
   {
     "id": "rss:anthropic-d88b94e37d",
     "title": "Introducing Claude Sonnet 5",
-    "summary": "Introducing Claude Sonnet 5 anthropic.com",
+    "summary": "Introducing Claude Sonnet 5 Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "category": "ai-models",
@@ -23493,8 +23558,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1j9rrg3",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -24101,7 +24166,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 30,
+    "heat": 31,
     "firstSeen": "2026-08-11T23:04:36.948Z",
     "fetchedAt": null,
     "tier": 2,
@@ -24228,9 +24293,9 @@
     "fetchedAt": null,
     "tier": 1,
     "radarChannel": "ai-tech",
-    "eventId": "event-g7v4os",
-    "corroboration": 2,
-    "confidence": 92,
+    "eventId": "event-z1tiyf",
+    "corroboration": 1,
+    "confidence": 88,
     "surge": false
   },
   {
@@ -24519,9 +24584,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 45,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1q0ffjv",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:openai-b274e00978",
@@ -24536,9 +24606,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 45,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1j9rrg3",
+    "corroboration": 2,
+    "confidence": 92,
+    "surge": false
   },
   {
     "id": "rss:wired-ai-c073b33319",
@@ -26084,7 +26159,7 @@
   {
     "id": "rss:anthropic-4362291dbc",
     "title": "Effective context engineering for AI agents",
-    "summary": "Effective context engineering for AI agents anthropic.com",
+    "summary": "Effective context engineering for AI agents Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3E2Wkd3Z3J4OUdmRG4zVjlTR2l3T3NTSEx2NFJFN0JLZWtQTzROZkNOT0Q5M1pIY25JT0x4Z0VEb1oxWHVLcnlNbDlJNHF3QmZDM3gwcGV6ZXZoU3ZEQVhYWXplUDdoblE4Vy1kVmc4YUV0ZlJJcDhQb3VxX1hLNTA4UlpHQVlV?oc=5",
     "category": "ai-models",
@@ -26377,7 +26452,7 @@
   {
     "id": "rss:anthropic-757665d426",
     "title": "How well do job retraining programs work?",
-    "summary": "How well do job retraining programs work? anthropic.com",
+    "summary": "How well do job retraining programs work? Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTI2azlxSHB1X1BGbWhCV3M4RDludDVVaUJwVTM1dXdlVjVkMGpud0p4UlM1VGlyeEFIQmM4REZDY01SODRfcXY4RmNwVzJ1YUh3YU50ZzM5NVM4dWUxR29TVnplT3FyZTQtMnY1Ym41eURsRVpULWR2ODg1UjNHcXhablA0eHJNdlVUTTFETW0?oc=5",
     "category": "ai-models",
@@ -27628,9 +27703,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 46,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ez74v5",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:marktechpost-5e2247b143",
@@ -27816,9 +27896,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 46,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-njtwvi",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:tldr-ai-adf83073c2",
@@ -28950,7 +29035,7 @@
   {
     "id": "rss:anthropic-a99a45c8f8",
     "title": "Claude for Business Development Representatives",
-    "summary": "Claude for Business Development Representatives anthropic.com",
+    "summary": "Claude for Business Development Representatives Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGFnbkpyTnFXeWhuMGl1SVJ4N2RnVEZLS2ZoZHpkVVd3Y3RmbW9Ha1QxLTJyU0llRlBjUnBjNnZzWllnOXRpQmtuX2k0aFBMNUVfNjE2cjZtZHJreFRvOG1oTzdBRG8yYTJURDRqVUxpMmwzNnp3M2lVODN0azZfSUNKdkx2TlFHNnc?oc=5",
     "category": "ai-models",
@@ -29462,8 +29547,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1ffsyhk",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -30456,9 +30541,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 48,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-eyfmb3",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:thedecoder-0ae43134c8",
@@ -30558,9 +30648,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 48,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ffsyhk",
+    "corroboration": 2,
+    "confidence": 92,
+    "surge": false
   },
   {
     "id": "rss:infoq-cbb7024e06",
@@ -30595,7 +30690,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 33,
+    "heat": 34,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2,
@@ -30618,9 +30713,14 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 48,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-vtolo3",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:techreview-ai-5ee3fd3c5d",
@@ -30699,7 +30799,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 34,
+    "heat": 35,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2,
@@ -30786,15 +30886,15 @@
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
-    "eventId": "event-q5a6pw",
-    "corroboration": 2,
-    "confidence": 78,
+    "eventId": "event-tj98s0",
+    "corroboration": 1,
+    "confidence": 74,
     "surge": false
   },
   {
     "id": "rss:anthropic-d88fafa7b2",
     "title": "Patterns and problems in multiagent systems",
-    "summary": "Patterns and problems in multiagent systems anthropic.com",
+    "summary": "Patterns and problems in multiagent systems Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFQ4NnRrVGF2dXBQMmhjNzhmQUVZQVF6ckVvWlpkMVdHMnpFOVpodWhoUEw4bWdacG1JRE9kUUZpUWN2WnJiZ3NHaFY0LWJHMF9zOGFGR0tlZmhta180N2Nkaw?oc=5",
     "category": "ai-models",
@@ -32403,7 +32503,7 @@
   {
     "id": "rss:anthropic-da34e565cc",
     "title": "How Claude's text watermarking works",
-    "summary": "How Claude's text watermarking works anthropic.com",
+    "summary": "How Claude's text watermarking works Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
     "category": "ai-models",
@@ -33253,8 +33353,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-v0rzm9",
-    "corroboration": 2,
-    "confidence": 78,
+    "corroboration": 1,
+    "confidence": 74,
     "surge": false
   },
   {
@@ -33606,7 +33706,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 1147,
+    "engagement": 1148,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -33868,9 +33968,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-agt2gd",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13554v1",
@@ -33889,9 +33994,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ru3vbr",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13549v1",
@@ -33910,9 +34020,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1bhax0h",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13547v1",
@@ -33931,9 +34046,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-sivxdk",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13545v1",
@@ -33952,9 +34072,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-15fwfhw",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13538v1",
@@ -33973,9 +34098,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1m054ae",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:marktechpost-23bba7fd39",
@@ -34016,9 +34146,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-iu7zp7",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13522v1",
@@ -34037,9 +34172,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-k3fkgj",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13521v1",
@@ -34058,9 +34198,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-wh2hy2",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13520v1",
@@ -34079,9 +34224,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1xg6cog",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13518v1",
@@ -34100,9 +34250,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-k4n9fp",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13517v1",
@@ -34121,9 +34276,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-to3617",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13515v1",
@@ -34142,9 +34302,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-13aqy22",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13514v1",
@@ -34163,9 +34328,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1pa2aax",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13513v1",
@@ -34184,9 +34354,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-evlio3",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13510v1",
@@ -34205,9 +34380,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-ro97yw",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2608.13506v1",
@@ -34226,9 +34406,14 @@
     "aiNote": null,
     "image": null,
     "heat": 49,
-    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "firstSeen": "2026-08-16T16:20:10.070Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-cgg80h",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:marktechpost-e7fbbf8b1d",
@@ -35287,7 +35472,7 @@
   {
     "id": "rss:anthropic-d75708935d",
     "title": "Demystifying evals for AI agents",
-    "summary": "Demystifying evals for AI agents anthropic.com",
+    "summary": "Demystifying evals for AI agents Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAybGFCXzd0OWozRTRDSnhXNWcxbGdyYmF4VTY1TV9DUHJ5SUJzSVhxdGltNTZYYk1TRUoxZm12ck9TaTB0dV9tWUs5S3dGcHVjLU9SVm91SDF2OG53MTRaMEFlOHppSEY4WTVUTWtvaUlBNjVZMmNBN01B?oc=5",
     "category": "ai-models",
@@ -35432,7 +35617,7 @@
     "origin": "hackernews",
     "aiNote": "从实验室到临床，AI制药的落地瓶颈与突破路径值得深读。",
     "image": null,
-    "heat": 42,
+    "heat": 41,
     "firstSeen": "2026-08-15T22:38:48.662Z",
     "fetchedAt": null,
     "tier": 2,
@@ -35726,7 +35911,7 @@
     "origin": "hackernews",
     "aiNote": "网络巨头自曝AI失控，警示行业安全底线。",
     "image": null,
-    "heat": 37,
+    "heat": 38,
     "firstSeen": "2026-08-15T22:38:48.662Z",
     "fetchedAt": null,
     "tier": 2,
@@ -35887,7 +36072,7 @@
     "origin": "hackernews",
     "aiNote": "开源社区首次投票定夺AI代码贡献规则，或成Linux生态AI治理风向标。",
     "image": null,
-    "heat": 31,
+    "heat": 32,
     "firstSeen": "2026-08-15T22:38:48.662Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36209,7 +36394,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 35,
+    "heat": 36,
     "firstSeen": "2026-08-15T22:38:48.662Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36459,7 +36644,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 22,
+    "heat": 23,
     "firstSeen": "2026-08-15T22:38:48.662Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36568,12 +36753,12 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 67,
+    "engagement": 69,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 34,
+    "heat": 35,
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36643,7 +36828,7 @@
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 3,
-    "radarChannel": "people",
+    "radarChannel": "ai-tech",
     "eventId": "event-xmz6b7",
     "corroboration": 1,
     "confidence": 58,
@@ -36660,12 +36845,12 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 216,
+    "engagement": 221,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 45,
+    "heat": 46,
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36713,7 +36898,7 @@
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 3,
-    "radarChannel": "people",
+    "radarChannel": "ai-tech",
     "eventId": "event-1r1u7j7",
     "corroboration": 1,
     "confidence": 58,
@@ -36937,7 +37122,7 @@
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 3,
-    "radarChannel": "people",
+    "radarChannel": "ai-tech",
     "eventId": "event-1k5ej13",
     "corroboration": 1,
     "confidence": 58,
@@ -37098,7 +37283,7 @@
       "dsh",
       "JavaScript"
     ],
-    "engagement": 514,
+    "engagement": 516,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -38160,7 +38345,7 @@
   {
     "id": "rss:anthropic-3597e22c54",
     "title": "Building Effective AI Agents",
-    "summary": "Building Effective AI Agents anthropic.com",
+    "summary": "Building Effective AI Agents Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZzZPR2hsTzU0ZWFacGZleW41WUhON3VORlljaEo3cnprdXZYaG5QcGxZSHBkYVRWNERpQi1vRF9jS1kwZldzMTdsVHVRU25kQlNmVTNwZkFVNGJubXJ2WGVOSGU2bFBNSDVwVm84NS0?oc=5",
     "category": "ai-models",
@@ -38577,7 +38762,7 @@
   {
     "id": "rss:entertainment-watch-04e8572c30",
     "title": "明星扎堆暴瘦背后，谁在逼他们玩命减肥？",
-    "summary": "明星扎堆暴瘦背后，谁在逼他们玩命减肥？ k.sina.com.cn",
+    "summary": "明星扎堆暴瘦背后，谁在逼他们玩命减肥？ 新浪网",
     "source": "Google News · 娱乐",
     "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE90Y0l4bkx2VFZ4RG9aNmdYenRFN1FwZG8tWTVJa2xBN3kyUDZSYUM3eU1zVUNNQWh1aHotQzh5dXVHM095ZTdORldVRzZUUXU2Y01sOGg3WlVacU50WGZ6UTVZazhxQndTNWNJekI4cjRzdw?oc=5",
     "category": "industry",
@@ -38775,7 +38960,7 @@
   {
     "id": "rss:entertainment-watch-efb97636b9",
     "title": "劣迹艺人那艺娜活动被当场叫停 未经审批遭制止",
-    "summary": "劣迹艺人那艺娜活动被当场叫停 未经审批遭制止 news.china.com",
+    "summary": "劣迹艺人那艺娜活动被当场叫停 未经审批遭制止 中华网",
     "source": "Google News · 娱乐",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ONDdtYVJIYTJHZEpsWF9ySGVpT1N5dFB1bHVjSmlRY04zbm1Yd2pLOGhkWHloWHhnUGhWQ3dicFNLa0ZINVZBWHFIRFg0TTlWcU1JMURIMDNMUnY3RFBVM3hUbUh0RE5HTTBkb3J0OWk?oc=5",
     "category": "industry",
@@ -38797,7 +38982,7 @@
   {
     "id": "rss:china-society-404d7fb52a",
     "title": "丁程鑫走红后为家人做过哪些事？",
-    "summary": "丁程鑫走红后为家人做过哪些事？ k.sina.com.cn",
+    "summary": "丁程鑫走红后为家人做过哪些事？ 新浪网",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56SEVHWmwxWnpYTE1OT0g4LXF1X0hCNk1TOU5FTWcybGxsYTRKMmxTUVl0WE1PeHlQbnNfcWcxTXVuWkVTdFZrdE5tNTltY2ZEcThwVGZFWEZ1cVZSMHFBSnFUa2RxSHlIanY1SnYwZm8?oc=5",
     "category": "industry",
@@ -38819,7 +39004,7 @@
   {
     "id": "rss:entertainment-watch-65275fa322",
     "title": "雅安这个老旧小区蜕变后，竟成了“网红”打卡地｜C视频",
-    "summary": "雅安这个老旧小区蜕变后，竟成了“网红”打卡地｜C视频 四川在线",
+    "summary": "雅安这个老旧小区蜕变后，竟成了“网红”打卡地｜C视频 yaan.scol.com.cn",
     "source": "Google News · 娱乐",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Db2FNdzdWYXVBTnRleW5vYjc4anNpa2d4MGZxWkxrTVhqYTBkVlM4NVFCdzFYQVBmYkVXbnFsY3VSdV9qVmJvcjlZVHRkS3gzcUhSMUE2ODdKc1hMQXdv?oc=5",
     "category": "industry",
@@ -38863,7 +39048,7 @@
   {
     "id": "rss:china-society-e1e6f6bebe",
     "title": "宋亚轩给刘耀文出片的热搜和自驾游传闻有关吗？",
-    "summary": "宋亚轩给刘耀文出片的热搜和自驾游传闻有关吗？ k.sina.com.cn",
+    "summary": "宋亚轩给刘耀文出片的热搜和自驾游传闻有关吗？ 新浪网",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RS1JhMTczdzJ3Q3g3RWUyZVFCQzJ3TlpBWEp2MXFQV29FZkMySTNVV0pzOXd4anBhelpsM0hrLW1hVnZQMXBwQkNXRlNUQXlBTjFtd2RXOUpGWHZkVHdWSjZ5c185cHR5clViWEdPMXNKZw?oc=5",
     "category": "industry",
@@ -39061,7 +39246,7 @@
   {
     "id": "rss:china-society-6f79cbdfe4",
     "title": "周深穿未完成作品走红毯，谈造型设计寓意人生在路上",
-    "summary": "周深穿未完成作品走红毯，谈造型设计寓意人生在路上 k.sina.com.cn",
+    "summary": "周深穿未完成作品走红毯，谈造型设计寓意人生在路上 新浪网",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHBYSDJ6emt5WEJpRGx5a2tFZTFidkR6YXRQbjJmN2ttZ3lLbEJuTHNINzJ1Vm11QmtOQi1JM19yc19ueEYwaW5CQkRGT2xlSU5aMnBkcTlaeDhmRTlMSFNmakRpeWNWWkk0aHhIY0c1cmd3aHFPRzl4QncxTTlhdUVNYlZqSGliRmdWR1BfczdzNGtXYVliTkNzME1McXpiVlhkY3pULWljQWZNWklKME93SGNTQnB4MWhocEt2STdnaV8tTFN3S2EzRzEtYzB0VW91RWQ0N2lDZw?oc=5",
     "category": "industry",
@@ -39083,7 +39268,7 @@
   {
     "id": "rss:china-society-2693eee0df",
     "title": "周深穿未完成作品走红毯，聊家乡满眼温柔",
-    "summary": "周深穿未完成作品走红毯，聊家乡满眼温柔 k.sina.com.cn",
+    "summary": "周深穿未完成作品走红毯，聊家乡满眼温柔 新浪网",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVnZzUTIzdFBLX20xbGY5SUdXbFdhV2t5T1JONFgySnFBYS15ZGF1X1VCc0hZajM1VHk5QjBzTVB5N0xnTXRJQmZCemFueXctME9FaTNjNV9jSEJ2MU1vLUM4cHJseFJ3bjFzdUZzQWEwX1RhWmZ0TW5NRWhJTXFEanFtVDQ2TE42REVseWtKWkFaaU5hNk5HOExIVUFkTVU2UlhYc1FFOUFxSVprOUNPN3lMb1RualZXaVBrRHJyRzdWeGQ3MjF5LVBYMHAxUjdsYUZpMUJzMFdFQQ?oc=5",
     "category": "industry",
@@ -39127,7 +39312,7 @@
   {
     "id": "rss:china-society-6ad7fca9f2",
     "title": "艾热直白喊话想要爆热搜，坦率发言圈粉",
-    "summary": "艾热直白喊话想要爆热搜，坦率发言圈粉 k.sina.com.cn",
+    "summary": "艾热直白喊话想要爆热搜，坦率发言圈粉 新浪网",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YYlBWNWx4a3FCY01zd3U2NVpZdU03Z29TaXM5alJLRmdkOUFUeWxRVEhGNEVtQ1NFajRzc2dxVjMzQU1WLWw3NWVvS0lMNllORTJEMXI1SG40dE41ZHd0LVJhTkdCSHpUSW5GNlhCMGxudw?oc=5",
     "category": "industry",
@@ -39171,7 +39356,7 @@
   {
     "id": "rss:entertainment-watch-57bdfebf4c",
     "title": "明星暴瘦真相：角色、镜头与体重红线的代价",
-    "summary": "明星暴瘦真相：角色、镜头与体重红线的代价 k.sina.com.cn",
+    "summary": "明星暴瘦真相：角色、镜头与体重红线的代价 新浪网",
     "source": "Google News · 娱乐",
     "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WeVNGeHIwWjdGdUNnbkFIX0E1eHZiX2pXVm8zRGtXbG92OUdtS182UEJOZ3JFRFY3T0liYW90dFg2c0tTWnowT0UyQnp6aWlWUVF5R1VWVW1wNHlCa2h1Y3RDbWxVWHZVQ25Wb2JlNjZvUQ?oc=5",
     "category": "industry",
@@ -39457,7 +39642,7 @@
   {
     "id": "rss:china-society-9ab91d6f79",
     "title": "关晓彤走红毯都要带着妈妈亲手做的彩椒碗，真的好自律",
-    "summary": "关晓彤走红毯都要带着妈妈亲手做的彩椒碗，真的好自律 k.sina.com.cn",
+    "summary": "关晓彤走红毯都要带着妈妈亲手做的彩椒碗，真的好自律 新浪网",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0Yk1WWC1tU0xfdENjOEZPLV9xRGx5Szcxc292U0VvRnlxd0JiNlRrVXpZUW1PNW0ta08yN3RMM1FQaUlPaE1odXliSlBrRDF1MkFzUU1fVnBaMDJoRnJBZDVqRl9TM081NVZGMmVpUVA5YnM?oc=5",
     "category": "industry",
@@ -39545,7 +39730,7 @@
   {
     "id": "rss:entertainment-watch-430fb358ee",
     "title": "明星暴瘦真相：镜头逼迫还是健康透支？",
-    "summary": "明星暴瘦真相：镜头逼迫还是健康透支？ k.sina.com.cn",
+    "summary": "明星暴瘦真相：镜头逼迫还是健康透支？ 新浪网",
     "source": "Google News · 娱乐",
     "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE43WTJfQXlnVXBPWVZidFItZ3paV0tXcWRuclFXYktxM0dfZXFDQWFvSzduZDdremhOS3pDSVh0V1A1akluSURLVm8yUGFDbFNxZFdMNU9nMEowU25LQ0tQU3hNZHhRclRBTkQ2MmhZclVfUQ?oc=5",
     "category": "industry",
@@ -39796,7 +39981,7 @@
     "aiSelected": true,
     "origin": "rss:china-society",
     "aiNote": null,
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-08-16T16:16:54.519Z",
     "fetchedAt": null,
     "tier": 2,
@@ -39853,7 +40038,7 @@
   {
     "id": "rss:people-watch-7de301e841",
     "title": "朱之文回应被黑，称自己不看黑粉留言，以静制动，静观其变",
-    "summary": "朱之文回应被黑，称自己不看黑粉留言，以静制动，静观其变 k.sina.com.cn",
+    "summary": "朱之文回应被黑，称自己不看黑粉留言，以静制动，静观其变 新浪网",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPc1kzWDFxNVpLcldaS0FiVlRmckcyVmd3bzlsclpBYVI4dE50UzlITVR3c1lkdTZ3Y0otMWpHd1lmcGl4WTlOT3NXU0oxRmFCbFdZT0duVDJTSThYYUt0WU55VTBxQmlhNlNGam9obw?oc=5",
     "category": "industry",
@@ -39875,7 +40060,7 @@
   {
     "id": "rss:people-watch-1558c8c7d1",
     "title": "如何平衡观众的追星热情和演出秩序？",
-    "summary": "如何平衡观众的追星热情和演出秩序？ k.sina.com.cn",
+    "summary": "如何平衡观众的追星热情和演出秩序？ 新浪网",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95dEVETGc0T01sOWRqNjBTT0ppWENyeU03UTlBTGNoNHpHZmszZWptZTlWSmc5dVFqMVo1RjBDbE1jRkpOUTVPTkFsc21MM3RqdlI5VzZucDhEQUhWUTVjZThsdkFramJsWjV0c0p4Qmk?oc=5",
     "category": "industry",
@@ -39897,7 +40082,7 @@
   {
     "id": "rss:china-society-7e2edb4067",
     "title": "李思潼因写真走红后接下来有哪些新作品或活动？",
-    "summary": "李思潼因写真走红后接下来有哪些新作品或活动？ k.sina.com.cn",
+    "summary": "李思潼因写真走红后接下来有哪些新作品或活动？ 新浪网",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JSmtvU2JjSVBRSmtUeXJxNjBWYXVabnR6ZjViWDZmQkk2dWYwLUdnS1NUQl9UOU5tR0liUVNpbk1RcXZQejREcUJqVmdRbzVIVXdaX0Zsc1R2Y1Bfbkc1aWhoT0VxcWFsc01JYlZJaGo?oc=5",
     "category": "industry",
@@ -39941,7 +40126,7 @@
   {
     "id": "rss:china-society-edda0bf51a",
     "title": "既然上热搜了就来安利一下阿拉魏若来",
-    "summary": "既然上热搜了就来安利一下阿拉魏若来 k.sina.com.cn",
+    "summary": "既然上热搜了就来安利一下阿拉魏若来 新浪网",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50c1ZiUHl5LTBmb1AyemNnV0NhcXRWLWpVcGpDeVNaV3owcmRycEJwMWcxbFRiY0piZ2dfa2VkWlRYcklXYzZBMmJtWkJKSnFQWnQ2NHJXYzBQVTJvVllRTFpCYkNYanlPdGZVV2ViTWZmems?oc=5",
     "category": "industry",
@@ -39985,7 +40170,7 @@
   {
     "id": "rss:china-society-a90b8402f6",
     "title": "三位95后男艺人同框热搜是同一场演唱会吗？",
-    "summary": "三位95后男艺人同框热搜是同一场演唱会吗？ k.sina.com.cn",
+    "summary": "三位95后男艺人同框热搜是同一场演唱会吗？ 新浪网",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wZmJyNXJ0U3JWeHVWUlBWNXFOS0tWbWtxS3pPbVNRTi1SOFlKY2NVay1ia3VQMWNRRGhLeVZyTDI3eExJY2RuVXVidUhaaEZnY3VKUHpjdEJ1cGlDM0hBUndCdDN1eGkteDlvUjVTUTE?oc=5",
     "category": "industry",
@@ -39998,7 +40183,7 @@
     "firstSeen": "2026-08-16T16:16:54.519Z",
     "fetchedAt": null,
     "tier": 2,
-    "radarChannel": "people",
+    "radarChannel": "society",
     "eventId": "event-aqti6l",
     "corroboration": 1,
     "confidence": 74,
@@ -40051,7 +40236,7 @@
   {
     "id": "rss:people-watch-d009738b99",
     "title": "大衣哥再次COS大将军，开拖拉机念诗反差感拉满，音乐节一开口震翻全场",
-    "summary": "大衣哥再次COS大将军，开拖拉机念诗反差感拉满，音乐节一开口震翻全场 k.sina.com.cn",
+    "summary": "大衣哥再次COS大将军，开拖拉机念诗反差感拉满，音乐节一开口震翻全场 新浪网",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XQUFVZlNJdWhYdTFiNFRab2hraVlwbUE5MEw5Nkp4OHJ6ZGFOeWhUMjJvOHhxbzBndHlyaUVMZlRwa2NlQXMxMUhpbVlMMmZsM3VhNXBHRXVxemdzMWZ6VHVPSEx3dm9aZGVDYkQ3eGxjd00?oc=5",
     "category": "industry",
@@ -40183,7 +40368,7 @@
   {
     "id": "rss:china-society-bab3f98fb2",
     "title": "“旺旺最大对手竟是糖”，热搜背后是危机也是转机 |新京报快评",
-    "summary": "“旺旺最大对手竟是糖”，热搜背后是危机也是转机 |新京报快评 bjnews.com.cn",
+    "summary": "“旺旺最大对手竟是糖”，热搜背后是危机也是转机 |新京报快评 新京报",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwcHV5bjZWVjJOd2lZcXNuWmRBZ0ZraWRDQTJKTVp6OE1KbWhUYXliWGxGcDV1UlBleWtjYTRXUDYzOEVGX2FMSl9Sc0RSdUVZV1lsckg5VVA5TG1US1VWeDJYVFE?oc=5",
     "category": "industry",
@@ -40601,7 +40786,7 @@
   {
     "id": "rss:people-watch-00b6475602",
     "title": "大衣哥2026年为什么突然翻红？",
-    "summary": "大衣哥2026年为什么突然翻红？ k.sina.com.cn",
+    "summary": "大衣哥2026年为什么突然翻红？ 新浪网",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55Y1RrMGNrcFdpcmxvR2RuNG5kSXZNcFFNdkFReG1wNGJ0SS10dVEzS182ci15c0p4N3JWajh4TVFkdnIwMWpzdV9YSC1aRVl5aDNDQVZYdFlZVDBaME9kRlpuWGFaSTRHWWN0ZnhzWks?oc=5",
     "category": "tip",
@@ -40725,7 +40910,7 @@
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "people",
-    "eventId": "event-6yrhtv",
+    "eventId": "event-1od4du8",
     "corroboration": 1,
     "confidence": 74,
     "surge": false
@@ -40843,7 +41028,7 @@
   {
     "id": "rss:people-watch-eaa2afcc0e",
     "title": "56岁大衣哥朱之文坦言做节目必须与时俱进，不能一味吃老本",
-    "summary": "56岁大衣哥朱之文坦言做节目必须与时俱进，不能一味吃老本 k.sina.com.cn",
+    "summary": "56岁大衣哥朱之文坦言做节目必须与时俱进，不能一味吃老本 新浪网",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JRmFlekk2bjJkMzZWeDBoMjFFcndqVlRnZk00UmNmNU9rMUY0MXZONVFTWDJKUFVYOURLS0duVmpMMGdRMWVwZDVNM0RGTU9WdGxMdUdhTVoyNk5aT0lRaE5TOGpEb3BnVmUwSWljdw?oc=5",
     "category": "industry",
@@ -41393,7 +41578,7 @@
   {
     "id": "rss:anthropic-82946cf37a",
     "title": "A global workspace in language models",
-    "summary": "A global workspace in language models anthropic.com",
+    "summary": "A global workspace in language models Anthropic",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
     "category": "ai-models",
@@ -41408,6 +41593,204 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-1c2g279",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
+  },
+  {
+    "id": "rss:world-breaking-6d7234bf8a",
+    "title": "Breaking News, World News and Video from Al Jazeera",
+    "summary": "Breaking News, World News and Video from Al Jazeera Al Jazeera",
+    "source": "Google News · Breaking",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjdGX2NQVFhNbGZQZUpWZUVSdmdpZFhRQnotaGtsSGlvSGNVTTlEdXpLaW5xSVJtRHRvYXowcTdPcWhwRUtLX0gxUE55ZkFmdk9iNWJzbGpjajljSnFuMzBGRnNrNHRrODBzeHE0VURjSXk1SXRyOEZoUF9BQWZRWFlYVTZoUTYtVWNBclB2Z2pua0hlVmY4WFdvYk55NFZmYXFRTks3bkV4dUFG?oc=5",
+    "category": "industry",
+    "publishedAt": "2026-08-16T14:46:07.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:world-breaking",
+    "aiNote": null,
+    "heat": 40,
+    "firstSeen": "2026-08-16T16:20:10.070Z",
+    "fetchedAt": null,
+    "tier": 2,
+    "radarChannel": "breaking",
+    "eventId": "event-1mvybjx",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
+  },
+  {
+    "id": "rss:china-society-00de0163a3",
+    "title": "时代少年团能力排名上热搜，官方从未认证？",
+    "summary": "时代少年团能力排名上热搜，官方从未认证？ 新浪网",
+    "source": "Google News · 社会",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwOUVXLTNDNUtzMEIycWRSZmxaQWdMb2Q1dDk5ckpoRXk5REFXcTE0YndKSUE0aU1wdVJ4OVd2dXVDVmpsQlF4WXJjT2E5ejNjODN5WTd5MldRNW8wejZuNmhxaURjSEZsNTdZTDJzXzI?oc=5",
+    "category": "industry",
+    "publishedAt": "2026-08-16T14:45:58.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:china-society",
+    "aiNote": null,
+    "heat": 40,
+    "firstSeen": "2026-08-16T16:20:10.070Z",
+    "fetchedAt": null,
+    "tier": 2,
+    "radarChannel": "society",
+    "eventId": "event-tgam4",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
+  },
+  {
+    "id": "rss:bbc-top-4afd30fac7",
+    "title": "'Number of fatalities' and four injured after car drives on wrong side of motorway",
+    "summary": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+    "source": "BBC News",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+    "category": "industry",
+    "publishedAt": "2026-08-16T12:27:13.000Z",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4a2/live/a26fec30-7865-11f1-ab53-3dbca6ef5ee1.jpg",
+    "aiSelected": true,
+    "origin": "rss:bbc-top",
+    "aiNote": null,
+    "heat": 55,
+    "firstSeen": "2026-08-16T16:20:10.070Z",
+    "fetchedAt": null,
+    "tier": 1,
+    "radarChannel": "breaking",
+    "eventId": "event-mk2r6w",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
+  },
+  {
+    "id": "rss:entertainment-watch-2e7a9e13cb",
+    "title": "“暴富”梦碎！百万粉丝“网红”和“经纪人”双双被批捕",
+    "summary": "“暴富”梦碎！百万粉丝“网红”和“经纪人”双双被批捕 凤凰网",
+    "source": "Google News · 娱乐",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtMWdlVWsyYlNVUXZxQTZ0VlNHa1BXWG9NRTRXV1NoVWxzc0tpWFNsYWhMWEFqTmIzTXR3YXlCQmFWV2N6U3Z3amxTcG4?oc=5",
+    "category": "industry",
+    "publishedAt": "2026-08-16T07:30:34.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:entertainment-watch",
+    "aiNote": null,
+    "heat": 39,
+    "firstSeen": "2026-08-16T16:20:10.070Z",
+    "fetchedAt": null,
+    "tier": 2,
+    "radarChannel": "people",
+    "eventId": "event-1je8rv1",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
+  },
+  {
+    "id": "rss:entertainment-watch-b910d60023",
+    "title": "融媒主播说全会⑧ 农村闲置资产资源盘活利用行动",
+    "summary": "融媒主播说全会⑧ 农村闲置资产资源盘活利用行动 川观新闻",
+    "source": "Google News · 娱乐",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BVWpxNUs2S0Q3dk9VYnkzYUg1b09QcmlnT3pUNWI3NVVhOUE0TXBsRHg5TE9LU215WUJuald5UzZMODZPRTU5dzZWQlpMdw?oc=5",
+    "category": "industry",
+    "publishedAt": "2026-08-16T02:20:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:entertainment-watch",
+    "aiNote": null,
+    "heat": 39,
+    "firstSeen": "2026-08-16T16:20:10.070Z",
+    "fetchedAt": null,
+    "tier": 2,
+    "radarChannel": "people",
+    "eventId": "event-1kcvgpl",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
+  },
+  {
+    "id": "rss:china-society-4b500df906",
+    "title": "“黑神话新宝登录门户”登热搜！《新宝登录门户》镜头疑似致敬黑神话",
+    "summary": "“黑神话新宝登录门户”登热搜！《新宝登录门户》镜头疑似致敬黑神话 womenofchina.com",
+    "source": "Google News · 社会",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHM0oycmhoalRvXzBkbkotRXczT2dRUzJXS25UeUZzSzNLUEk0RmtrdnRNcG5hSHp4blNMNFhLV2ZXYUxjcjFWcjlJNEF3eW9mNWhrZXVn?oc=5",
+    "category": "industry",
+    "publishedAt": "2026-08-16T02:15:25.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:china-society",
+    "aiNote": null,
+    "heat": 39,
+    "firstSeen": "2026-08-16T16:20:10.070Z",
+    "fetchedAt": null,
+    "tier": 2,
+    "radarChannel": "society",
+    "eventId": "event-vxswrr",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
+  },
+  {
+    "id": "rss:people-watch-50e1a0f7ea",
+    "title": "农民歌手大衣哥朱之文夕阳红演出视频怎么回事？穿旧衣用诺基亚，票价1000元也不开演唱会",
+    "summary": "农民歌手大衣哥朱之文夕阳红演出视频怎么回事？穿旧衣用诺基亚，票价1000元也不开演唱会 新浪财经",
+    "source": "Google News · 人物",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkJEWXVBY2FXZFl6YkdjWG9CbXF0SThFbHVWTUtqcjdwUzhvaktUTEdFVkJBRUNoSjJBM2EzSGx1Q05keTI1ZVZtMXdST3ZCOElacG9WdmpHZENWN1laSi1GTlJGR2ZiMnB1NDdEX0YyQkJaZjJ3ZktXZTVwWnJ2RmtUZ0M?oc=5",
+    "category": "industry",
+    "publishedAt": "2026-08-15T17:22:29.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:people-watch",
+    "aiNote": null,
+    "heat": 38,
+    "firstSeen": "2026-08-16T16:20:10.070Z",
+    "fetchedAt": null,
+    "tier": 2,
+    "radarChannel": "people",
+    "eventId": "event-1w246lj",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
+  },
+  {
+    "id": "rss:people-watch-afb467ab7e",
+    "title": "卫生巾赛道又来了新人，这次是董宇辉",
+    "summary": "卫生巾赛道又来了新人，这次是董宇辉 Jiemian.com",
+    "source": "Google News · 人物",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52ejE1eXA4bjg0ZGdhNUVoZEJEdWxCNjhCcFVVeU9YVTRiYXFuR283em9yMDBIRDhhUXFBR0tDcEVVRDdwV1F5ckRqY3RsYWpVQ0lIdFd3?oc=5",
+    "category": "industry",
+    "publishedAt": "2026-08-10T18:13:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:people-watch",
+    "aiNote": null,
+    "heat": 32,
+    "firstSeen": "2026-08-16T16:20:10.070Z",
+    "fetchedAt": null,
+    "tier": 2,
+    "radarChannel": "people",
+    "eventId": "event-6pg502",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
+  },
+  {
+    "id": "rss:figma-3b39b3845b",
+    "title": "Digital Tools, Human Expression: The Visual Identity Behind Config 2026 | Figma Blog",
+    "summary": "Digital Tools, Human Expression: The Visual Identity Behind Config 2026 | Figma Blog Figma",
+    "source": "Figma",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xM3o0YURxUlNtczdrYy1HYW9oVlh1Zk9pajZ0RmtES2x6X1lmMkRmdXlFa2E5c0tiNzJhb1hlSW0yU3M2Y1Y4bHBoNmt6ckhQVE9PQ29jb3QxelR3Y2dxek1LTTdIR0pPamRCS2NXbzFHNUdy?oc=5",
+    "category": "ai-products",
+    "publishedAt": "2026-07-27T07:00:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:figma",
+    "aiNote": null,
+    "heat": 34,
+    "firstSeen": "2026-08-16T16:20:10.070Z",
+    "fetchedAt": null,
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1cmgyd4",
     "corroboration": 1,
     "confidence": 88,
     "surge": false
