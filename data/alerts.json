@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-08-16T16:26:32.896Z",
+  "generatedAt": "2026-08-16T16:27:59.393Z",
   "alerts": [
     {
-      "eventId": "event-xcpzmd",
-      "title": "DeepSeek V4 Pro now runs updated weights on AI Gateway",
+      "eventId": "event-113znl4",
+      "title": "Gemini 3.7 Flash now available on AI Gateway for 50% off",
       "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway",
+      "sourceUrl": "https://vercel.com/changelog/gemini-3-7-flash-now-available-on-ai-gateway-for-50-off",
       "channel": "ai-tech",
-      "heat": 46,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-08-16T16:26:32.896Z"
+      "heat": 47,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-08-16T16:27:59.393Z"
     },
     {
-      "eventId": "event-1d6bvos",
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "eventId": "event-rrn0q8",
+      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
+      "channel": "ai-tech",
+      "heat": 35,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-08-16T16:27:59.393Z"
+    },
+    {
+      "eventId": "event-1ffsyhk",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/previewing-ultrafast",
+      "channel": "ai-tech",
+      "heat": 48,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-08-16T16:27:59.393Z"
+    },
+    {
+      "eventId": "event-1wl9izy",
+      "title": "Two dead and evacuation under way as fires break out on Greek island",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-16T16:27:59.393Z"
+    },
+    {
+      "eventId": "event-6la5b7",
+      "title": "Murder inquiry after man bitten by dog dies",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-16T16:26:32.896Z"
+      "detectedAt": "2026-08-16T16:27:59.393Z"
     },
     {
-      "eventId": "event-rq8475",
-      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-16T16:26:32.896Z"
-    },
-    {
-      "eventId": "event-1rpnz4o",
-      "title": "Teenager arrested in Virginia State University shooting that injured five",
+      "eventId": "event-1eyl9rv",
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-16T16:26:32.896Z"
-    },
-    {
-      "eventId": "event-t8705a",
-      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-16T16:26:32.896Z"
-    },
-    {
-      "eventId": "event-18y475x",
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-16T16:26:32.896Z"
+      "detectedAt": "2026-08-16T16:27:59.393Z"
     }
   ]
 }

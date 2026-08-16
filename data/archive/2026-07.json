@@ -38120,8 +38120,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1mhez2u",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -49015,7 +49015,7 @@
     "eventId": "event-tb6wam",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:sspai-fd29efc2fb",
@@ -49426,9 +49426,9 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-dwqeiv",
-    "corroboration": 2,
-    "confidence": 92,
-    "surge": false
+    "corroboration": 3,
+    "confidence": 96,
+    "surge": true
   },
   {
     "id": "rss:thedecoder-ba833fbfad",
@@ -49482,9 +49482,9 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-dwqeiv",
-    "corroboration": 2,
-    "confidence": 78,
-    "surge": false
+    "corroboration": 3,
+    "confidence": 82,
+    "surge": true
   },
   {
     "id": "rss:latentspace-1651e28012",
@@ -49854,7 +49854,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 2,
@@ -57174,7 +57174,7 @@
     "eventId": "event-tb6wam",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "hf-2607.22091",
@@ -59413,7 +59413,7 @@
     "eventId": "event-tb6wam",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "hn-6ceb9e4c5d",
@@ -64532,8 +64532,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1n11n6w",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {

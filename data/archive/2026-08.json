@@ -3613,7 +3613,7 @@
       "markdown",
       "Go"
     ],
-    "engagement": 1137,
+    "engagement": 1138,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -3643,7 +3643,7 @@
       "deep-learning",
       "C"
     ],
-    "engagement": 5809,
+    "engagement": 5811,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -10899,8 +10899,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1538zak",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -11175,7 +11175,7 @@
       "ai-agents",
       "Python"
     ],
-    "engagement": 731,
+    "engagement": 732,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -12190,7 +12190,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-08-07T01:33:58.898Z",
     "fetchedAt": null,
     "tier": 2,
@@ -12521,8 +12521,8 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-1l6bnnn",
-    "corroboration": 1,
-    "confidence": 88,
+    "corroboration": 2,
+    "confidence": 92,
     "surge": false
   },
   {
@@ -19778,8 +19778,8 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-1ehui4l",
-    "corroboration": 1,
-    "confidence": 88,
+    "corroboration": 2,
+    "confidence": 92,
     "surge": false
   },
   {
@@ -20178,8 +20178,8 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-1tqoxiy",
-    "corroboration": 1,
-    "confidence": 88,
+    "corroboration": 2,
+    "confidence": 92,
     "surge": false
   },
   {
@@ -21000,8 +21000,8 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-1lbbq92",
-    "corroboration": 1,
-    "confidence": 88,
+    "corroboration": 2,
+    "confidence": 92,
     "surge": false
   },
   {
@@ -24293,9 +24293,9 @@
     "fetchedAt": null,
     "tier": 1,
     "radarChannel": "ai-tech",
-    "eventId": "event-z1tiyf",
-    "corroboration": 1,
-    "confidence": 88,
+    "eventId": "event-g7v4os",
+    "corroboration": 2,
+    "confidence": 92,
     "surge": false
   },
   {
@@ -24461,8 +24461,8 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-1lgz5dg",
-    "corroboration": 1,
-    "confidence": 88,
+    "corroboration": 2,
+    "confidence": 92,
     "surge": false
   },
   {
@@ -25627,7 +25627,7 @@
       "llm",
       "TypeScript"
     ],
-    "engagement": 1022,
+    "engagement": 1023,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -26196,8 +26196,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-kmu2q3",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -26264,7 +26264,7 @@
     "eventId": "event-10w1eau",
     "corroboration": 4,
     "confidence": 85,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:wired-ai-99584ee20d",
@@ -26308,7 +26308,7 @@
     "eventId": "event-10w1eau",
     "corroboration": 4,
     "confidence": 85,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:wired-ai-54da5181bd",
@@ -26440,7 +26440,7 @@
     "origin": "rss:marktechpost",
     "aiNote": null,
     "heat": 34,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
@@ -26657,7 +26657,7 @@
     "eventId": "event-xcpzmd",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:thedecoder-a7f0b3ab85",
@@ -26756,7 +26756,7 @@
     "eventId": "event-xcpzmd",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:techcrunch-ai-1880293b64",
@@ -27681,7 +27681,7 @@
     "origin": "rss:marktechpost",
     "aiNote": null,
     "heat": 34,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
@@ -29222,7 +29222,7 @@
       "ai-coding",
       "HTML"
     ],
-    "engagement": 713,
+    "engagement": 715,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -29418,7 +29418,7 @@
     "eventId": "event-1bx8vv9",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:techcrunch-ai-952a2dd22c",
@@ -29547,9 +29547,9 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1ffsyhk",
-    "corroboration": 2,
-    "confidence": 78,
-    "surge": false
+    "corroboration": 4,
+    "confidence": 85,
+    "surge": true
   },
   {
     "id": "rss:techcrunch-ai-79aa75fcb7",
@@ -29672,9 +29672,9 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-8ypeuf",
-    "corroboration": 2,
-    "confidence": 78,
-    "surge": false
+    "corroboration": 4,
+    "confidence": 85,
+    "surge": true
   },
   {
     "id": "rss:infoq-84f2fd8a0c",
@@ -29737,9 +29737,9 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-2tzmsv",
-    "corroboration": 3,
-    "confidence": 82,
-    "surge": false
+    "corroboration": 7,
+    "confidence": 85,
+    "surge": true
   },
   {
     "id": "rss:hf-blog-c1c9885561",
@@ -29824,9 +29824,9 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-2tzmsv",
-    "corroboration": 3,
-    "confidence": 96,
-    "surge": false
+    "corroboration": 7,
+    "confidence": 99,
+    "surge": true
   },
   {
     "id": "rss:arstechnica-ai-cf3951101d",
@@ -29846,9 +29846,9 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1wxtpae",
-    "corroboration": 1,
-    "confidence": 74,
-    "surge": false
+    "corroboration": 7,
+    "confidence": 85,
+    "surge": true
   },
   {
     "id": "rss:google-ai-4cbb438f4f",
@@ -30391,9 +30391,9 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-m21ma5",
-    "corroboration": 2,
-    "confidence": 78,
-    "surge": false
+    "corroboration": 5,
+    "confidence": 85,
+    "surge": true
   },
   {
     "id": "hn-8722f56c8f",
@@ -30546,8 +30546,8 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-eyfmb3",
-    "corroboration": 1,
-    "confidence": 88,
+    "corroboration": 2,
+    "confidence": 92,
     "surge": false
   },
   {
@@ -30653,9 +30653,9 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-1ffsyhk",
-    "corroboration": 2,
-    "confidence": 92,
-    "surge": false
+    "corroboration": 4,
+    "confidence": 99,
+    "surge": true
   },
   {
     "id": "rss:infoq-cbb7024e06",
@@ -30698,7 +30698,7 @@
     "eventId": "event-10w1eau",
     "corroboration": 4,
     "confidence": 85,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:openai-9e022b7caa",
@@ -30886,9 +30886,9 @@
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
-    "eventId": "event-tj98s0",
-    "corroboration": 1,
-    "confidence": 74,
+    "eventId": "event-q5a6pw",
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -30986,7 +30986,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2,
@@ -31008,7 +31008,7 @@
     "aiSelected": true,
     "origin": "rss:simonwillison",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2,
@@ -31016,7 +31016,7 @@
     "eventId": "event-xcpzmd",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "gh-sparklingcoffee777-comfyui-anima-2-9b-lorapatch",
@@ -32365,9 +32365,9 @@
     "tier": 3,
     "radarChannel": "ai-tech",
     "eventId": "event-2tzmsv",
-    "corroboration": 3,
-    "confidence": 66,
-    "surge": false
+    "corroboration": 7,
+    "confidence": 69,
+    "surge": true
   },
   {
     "id": "rss:infoq-db23468d47",
@@ -32387,8 +32387,8 @@
     "tier": 3,
     "radarChannel": "ai-tech",
     "eventId": "event-126ozoq",
-    "corroboration": 1,
-    "confidence": 58,
+    "corroboration": 2,
+    "confidence": 62,
     "surge": false
   },
   {
@@ -32518,8 +32518,8 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-1u21vzu",
-    "corroboration": 1,
-    "confidence": 88,
+    "corroboration": 2,
+    "confidence": 92,
     "surge": false
   },
   {
@@ -32540,8 +32540,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1n28gat",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -32603,7 +32603,7 @@
     "eventId": "event-1bx8vv9",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:thedecoder-49a20bd41c",
@@ -32666,8 +32666,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-4nnv2u",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -32799,7 +32799,7 @@
     "eventId": "event-1bx8vv9",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "hn-f435e325f6",
@@ -33047,8 +33047,8 @@
     "tier": 3,
     "radarChannel": "ai-tech",
     "eventId": "event-126ozoq",
-    "corroboration": 1,
-    "confidence": 58,
+    "corroboration": 2,
+    "confidence": 62,
     "surge": false
   },
   {
@@ -33069,9 +33069,9 @@
     "tier": 3,
     "radarChannel": "ai-tech",
     "eventId": "event-1rjm0uh",
-    "corroboration": 1,
-    "confidence": 58,
-    "surge": false
+    "corroboration": 5,
+    "confidence": 69,
+    "surge": true
   },
   {
     "id": "rss:infoq-642ab0a4ba",
@@ -33353,8 +33353,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-v0rzm9",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -33608,7 +33608,7 @@
     "origin": "rss:marktechpost",
     "aiNote": null,
     "heat": 36,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
@@ -33664,7 +33664,7 @@
     "origin": "rss:marktechpost",
     "aiNote": null,
     "heat": 36,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
@@ -33691,9 +33691,9 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1tmm6i2",
-    "corroboration": 1,
-    "confidence": 74,
-    "surge": false
+    "corroboration": 7,
+    "confidence": 85,
+    "surge": true
   },
   {
     "id": "hn-aa3148e482",
@@ -33706,7 +33706,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 1148,
+    "engagement": 1147,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -33734,7 +33734,7 @@
     "origin": "rss:marktechpost",
     "aiNote": null,
     "heat": 36,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
@@ -33804,9 +33804,9 @@
     "tier": 3,
     "radarChannel": "ai-tech",
     "eventId": "event-imekp3",
-    "corroboration": 1,
-    "confidence": 58,
-    "surge": false
+    "corroboration": 5,
+    "confidence": 69,
+    "surge": true
   },
   {
     "id": "hn-f86273c0dc",
@@ -33874,9 +33874,9 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-8ypeuf",
-    "corroboration": 2,
-    "confidence": 78,
-    "surge": false
+    "corroboration": 4,
+    "confidence": 85,
+    "surge": true
   },
   {
     "id": "rss:simonwillison-6d7f7c3a03",
@@ -33936,7 +33936,7 @@
       "multimodal",
       "JavaScript"
     ],
-    "engagement": 402,
+    "engagement": 404,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -34120,14 +34120,14 @@
     "origin": "rss:marktechpost",
     "aiNote": null,
     "heat": 35,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-rrn0q8",
-    "corroboration": 1,
-    "confidence": 74,
-    "surge": false
+    "corroboration": 7,
+    "confidence": 85,
+    "surge": true
   },
   {
     "id": "arxiv-2608.13524v1",
@@ -34428,7 +34428,7 @@
     "origin": "rss:marktechpost",
     "aiNote": null,
     "heat": 35,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
@@ -34450,7 +34450,7 @@
     "origin": "rss:marktechpost",
     "aiNote": null,
     "heat": 35,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
@@ -34472,7 +34472,7 @@
     "origin": "rss:marktechpost",
     "aiNote": null,
     "heat": 35,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
@@ -34769,8 +34769,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1qvcgb9",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -34877,8 +34877,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1cw5wse",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -34904,8 +34904,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1y5ks0y",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -35407,7 +35407,7 @@
       "harness",
       "TypeScript"
     ],
-    "engagement": 440,
+    "engagement": 444,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -35660,7 +35660,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 543,
+    "engagement": 545,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": "工作记忆突破人脑极限，AI复杂推理能力将迎来质变。",
@@ -36102,7 +36102,7 @@
     "eventId": "event-10w1eau",
     "corroboration": 4,
     "confidence": 85,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:thedecoder-77077191b3",
@@ -36249,9 +36249,9 @@
     "tier": 3,
     "radarChannel": "ai-tech",
     "eventId": "event-m21ma5",
-    "corroboration": 2,
-    "confidence": 62,
-    "surge": false
+    "corroboration": 5,
+    "confidence": 69,
+    "surge": true
   },
   {
     "id": "rss:thedecoder-bdda3d47d6",
@@ -36753,12 +36753,12 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 69,
+    "engagement": 75,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 35,
+    "heat": 36,
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 2,
@@ -36845,7 +36845,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 221,
+    "engagement": 235,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
@@ -37259,7 +37259,7 @@
     "origin": "rss:marktechpost",
     "aiNote": null,
     "heat": 38,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "ai-tech",
@@ -37283,7 +37283,7 @@
       "dsh",
       "JavaScript"
     ],
-    "engagement": 516,
+    "engagement": 517,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -37426,9 +37426,9 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-113znl4",
-    "corroboration": 1,
-    "confidence": 88,
-    "surge": false
+    "corroboration": 7,
+    "confidence": 99,
+    "surge": true
   },
   {
     "id": "rss:vercel-d074e76def",
@@ -37538,7 +37538,7 @@
     "eventId": "event-xcpzmd",
     "corroboration": 3,
     "confidence": 96,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:vercel-53427c0161",
@@ -37624,9 +37624,9 @@
     "tier": 1,
     "radarChannel": "ai-tech",
     "eventId": "event-113znl4",
-    "corroboration": 1,
-    "confidence": 88,
-    "surge": false
+    "corroboration": 7,
+    "confidence": 99,
+    "surge": true
   },
   {
     "id": "rss:figma-59d51a261a",
@@ -38134,7 +38134,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 2,
@@ -38245,7 +38245,7 @@
     "origin": "rss:figma",
     "aiNote": null,
     "heat": 31,
-    "firstSeen": "2026-08-16T15:58:19.595Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 1,
     "radarChannel": "ai-tech",
@@ -38711,9 +38711,9 @@
     "tier": 1,
     "radarChannel": "breaking",
     "eventId": "event-1d6bvos",
-    "corroboration": 1,
-    "confidence": 88,
-    "surge": false
+    "corroboration": 2,
+    "confidence": 92,
+    "surge": true
   },
   {
     "id": "rss:world-breaking-ebc1616f72",
@@ -38762,7 +38762,7 @@
   {
     "id": "rss:entertainment-watch-04e8572c30",
     "title": "明星扎堆暴瘦背后，谁在逼他们玩命减肥？",
-    "summary": "明星扎堆暴瘦背后，谁在逼他们玩命减肥？ 新浪网",
+    "summary": "明星扎堆暴瘦背后，谁在逼他们玩命减肥？ k.sina.com.cn",
     "source": "Google News · 娱乐",
     "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE90Y0l4bkx2VFZ4RG9aNmdYenRFN1FwZG8tWTVJa2xBN3kyUDZSYUM3eU1zVUNNQWh1aHotQzh5dXVHM095ZTdORldVRzZUUXU2Y01sOGg3WlVacU50WGZ6UTVZazhxQndTNWNJekI4cjRzdw?oc=5",
     "category": "industry",
@@ -38867,7 +38867,7 @@
     "eventId": "event-1rpnz4o",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:world-breaking-93d550bbee",
@@ -38960,7 +38960,7 @@
   {
     "id": "rss:entertainment-watch-efb97636b9",
     "title": "劣迹艺人那艺娜活动被当场叫停 未经审批遭制止",
-    "summary": "劣迹艺人那艺娜活动被当场叫停 未经审批遭制止 中华网",
+    "summary": "劣迹艺人那艺娜活动被当场叫停 未经审批遭制止 news.china.com",
     "source": "Google News · 娱乐",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ONDdtYVJIYTJHZEpsWF9ySGVpT1N5dFB1bHVjSmlRY04zbm1Yd2pLOGhkWHloWHhnUGhWQ3dicFNLa0ZINVZBWHFIRFg0TTlWcU1JMURIMDNMUnY3RFBVM3hUbUh0RE5HTTBkb3J0OWk?oc=5",
     "category": "industry",
@@ -39004,7 +39004,7 @@
   {
     "id": "rss:entertainment-watch-65275fa322",
     "title": "雅安这个老旧小区蜕变后，竟成了“网红”打卡地｜C视频",
-    "summary": "雅安这个老旧小区蜕变后，竟成了“网红”打卡地｜C视频 yaan.scol.com.cn",
+    "summary": "雅安这个老旧小区蜕变后，竟成了“网红”打卡地｜C视频 四川在线",
     "source": "Google News · 娱乐",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Db2FNdzdWYXVBTnRleW5vYjc4anNpa2d4MGZxWkxrTVhqYTBkVlM4NVFCdzFYQVBmYkVXbnFsY3VSdV9qVmJvcjlZVHRkS3gzcUhSMUE2ODdKc1hMQXdv?oc=5",
     "category": "industry",
@@ -39048,7 +39048,7 @@
   {
     "id": "rss:china-society-e1e6f6bebe",
     "title": "宋亚轩给刘耀文出片的热搜和自驾游传闻有关吗？",
-    "summary": "宋亚轩给刘耀文出片的热搜和自驾游传闻有关吗？ 新浪网",
+    "summary": "宋亚轩给刘耀文出片的热搜和自驾游传闻有关吗？ k.sina.com.cn",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RS1JhMTczdzJ3Q3g3RWUyZVFCQzJ3TlpBWEp2MXFQV29FZkMySTNVV0pzOXd4anBhelpsM0hrLW1hVnZQMXBwQkNXRlNUQXlBTjFtd2RXOUpGWHZkVHdWSjZ5c185cHR5clViWEdPMXNKZw?oc=5",
     "category": "industry",
@@ -39217,8 +39217,8 @@
     "tier": 1,
     "radarChannel": "breaking",
     "eventId": "event-1by1gct",
-    "corroboration": 1,
-    "confidence": 88,
+    "corroboration": 2,
+    "confidence": 92,
     "surge": false
   },
   {
@@ -39246,7 +39246,7 @@
   {
     "id": "rss:china-society-6f79cbdfe4",
     "title": "周深穿未完成作品走红毯，谈造型设计寓意人生在路上",
-    "summary": "周深穿未完成作品走红毯，谈造型设计寓意人生在路上 新浪网",
+    "summary": "周深穿未完成作品走红毯，谈造型设计寓意人生在路上 k.sina.com.cn",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHBYSDJ6emt5WEJpRGx5a2tFZTFidkR6YXRQbjJmN2ttZ3lLbEJuTHNINzJ1Vm11QmtOQi1JM19yc19ueEYwaW5CQkRGT2xlSU5aMnBkcTlaeDhmRTlMSFNmakRpeWNWWkk0aHhIY0c1cmd3aHFPRzl4QncxTTlhdUVNYlZqSGliRmdWR1BfczdzNGtXYVliTkNzME1McXpiVlhkY3pULWljQWZNWklKME93SGNTQnB4MWhocEt2STdnaV8tTFN3S2EzRzEtYzB0VW91RWQ0N2lDZw?oc=5",
     "category": "industry",
@@ -39268,7 +39268,7 @@
   {
     "id": "rss:china-society-2693eee0df",
     "title": "周深穿未完成作品走红毯，聊家乡满眼温柔",
-    "summary": "周深穿未完成作品走红毯，聊家乡满眼温柔 新浪网",
+    "summary": "周深穿未完成作品走红毯，聊家乡满眼温柔 k.sina.com.cn",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVnZzUTIzdFBLX20xbGY5SUdXbFdhV2t5T1JONFgySnFBYS15ZGF1X1VCc0hZajM1VHk5QjBzTVB5N0xnTXRJQmZCemFueXctME9FaTNjNV9jSEJ2MU1vLUM4cHJseFJ3bjFzdUZzQWEwX1RhWmZ0TW5NRWhJTXFEanFtVDQ2TE42REVseWtKWkFaaU5hNk5HOExIVUFkTVU2UlhYc1FFOUFxSVprOUNPN3lMb1RualZXaVBrRHJyRzdWeGQ3MjF5LVBYMHAxUjdsYUZpMUJzMFdFQQ?oc=5",
     "category": "industry",
@@ -39312,7 +39312,7 @@
   {
     "id": "rss:china-society-6ad7fca9f2",
     "title": "艾热直白喊话想要爆热搜，坦率发言圈粉",
-    "summary": "艾热直白喊话想要爆热搜，坦率发言圈粉 新浪网",
+    "summary": "艾热直白喊话想要爆热搜，坦率发言圈粉 k.sina.com.cn",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YYlBWNWx4a3FCY01zd3U2NVpZdU03Z29TaXM5alJLRmdkOUFUeWxRVEhGNEVtQ1NFajRzc2dxVjMzQU1WLWw3NWVvS0lMNllORTJEMXI1SG40dE41ZHd0LVJhTkdCSHpUSW5GNlhCMGxudw?oc=5",
     "category": "industry",
@@ -39356,7 +39356,7 @@
   {
     "id": "rss:entertainment-watch-57bdfebf4c",
     "title": "明星暴瘦真相：角色、镜头与体重红线的代价",
-    "summary": "明星暴瘦真相：角色、镜头与体重红线的代价 新浪网",
+    "summary": "明星暴瘦真相：角色、镜头与体重红线的代价 k.sina.com.cn",
     "source": "Google News · 娱乐",
     "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WeVNGeHIwWjdGdUNnbkFIX0E1eHZiX2pXVm8zRGtXbG92OUdtS182UEJOZ3JFRFY3T0liYW90dFg2c0tTWnowT0UyQnp6aWlWUVF5R1VWVW1wNHlCa2h1Y3RDbWxVWHZVQ25Wb2JlNjZvUQ?oc=5",
     "category": "industry",
@@ -39417,7 +39417,7 @@
     "eventId": "event-t8705a",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:china-society-4899bf859c",
@@ -39525,9 +39525,9 @@
     "tier": 1,
     "radarChannel": "breaking",
     "eventId": "event-18y475x",
-    "corroboration": 1,
-    "confidence": 88,
-    "surge": false
+    "corroboration": 2,
+    "confidence": 92,
+    "surge": true
   },
   {
     "id": "rss:bbc-top-946276509a",
@@ -39549,7 +39549,7 @@
     "eventId": "event-6la5b7",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:world-breaking-16c301b144",
@@ -39642,7 +39642,7 @@
   {
     "id": "rss:china-society-9ab91d6f79",
     "title": "关晓彤走红毯都要带着妈妈亲手做的彩椒碗，真的好自律",
-    "summary": "关晓彤走红毯都要带着妈妈亲手做的彩椒碗，真的好自律 新浪网",
+    "summary": "关晓彤走红毯都要带着妈妈亲手做的彩椒碗，真的好自律 k.sina.com.cn",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0Yk1WWC1tU0xfdENjOEZPLV9xRGx5Szcxc292U0VvRnlxd0JiNlRrVXpZUW1PNW0ta08yN3RMM1FQaUlPaE1odXliSlBrRDF1MkFzUU1fVnBaMDJoRnJBZDVqRl9TM081NVZGMmVpUVA5YnM?oc=5",
     "category": "industry",
@@ -39730,7 +39730,7 @@
   {
     "id": "rss:entertainment-watch-430fb358ee",
     "title": "明星暴瘦真相：镜头逼迫还是健康透支？",
-    "summary": "明星暴瘦真相：镜头逼迫还是健康透支？ 新浪网",
+    "summary": "明星暴瘦真相：镜头逼迫还是健康透支？ k.sina.com.cn",
     "source": "Google News · 娱乐",
     "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE43WTJfQXlnVXBPWVZidFItZ3paV0tXcWRuclFXYktxM0dfZXFDQWFvSzduZDdremhOS3pDSVh0V1A1akluSURLVm8yUGFDbFNxZFdMNU9nMEowU25LQ0tQU3hNZHhRclRBTkQ2MmhZclVfUQ?oc=5",
     "category": "industry",
@@ -39806,7 +39806,7 @@
     "origin": "rss:entertainment-watch",
     "aiNote": null,
     "heat": 40,
-    "firstSeen": "2026-08-16T16:16:54.519Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "people",
@@ -39835,7 +39835,7 @@
     "eventId": "event-1eyl9rv",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:entertainment-watch-620e27f985",
@@ -39923,7 +39923,7 @@
     "eventId": "event-1ugl1h7",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:entertainment-watch-bbf0aeb229",
@@ -39959,8 +39959,8 @@
     "aiSelected": true,
     "origin": "rss:china-society",
     "aiNote": null,
-    "heat": 40,
-    "firstSeen": "2026-08-16T16:16:54.519Z",
+    "heat": 39,
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "society",
@@ -40038,7 +40038,7 @@
   {
     "id": "rss:people-watch-7de301e841",
     "title": "朱之文回应被黑，称自己不看黑粉留言，以静制动，静观其变",
-    "summary": "朱之文回应被黑，称自己不看黑粉留言，以静制动，静观其变 新浪网",
+    "summary": "朱之文回应被黑，称自己不看黑粉留言，以静制动，静观其变 k.sina.com.cn",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPc1kzWDFxNVpLcldaS0FiVlRmckcyVmd3bzlsclpBYVI4dE50UzlITVR3c1lkdTZ3Y0otMWpHd1lmcGl4WTlOT3NXU0oxRmFCbFdZT0duVDJTSThYYUt0WU55VTBxQmlhNlNGam9obw?oc=5",
     "category": "industry",
@@ -40060,7 +40060,7 @@
   {
     "id": "rss:people-watch-1558c8c7d1",
     "title": "如何平衡观众的追星热情和演出秩序？",
-    "summary": "如何平衡观众的追星热情和演出秩序？ 新浪网",
+    "summary": "如何平衡观众的追星热情和演出秩序？ k.sina.com.cn",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95dEVETGc0T01sOWRqNjBTT0ppWENyeU03UTlBTGNoNHpHZmszZWptZTlWSmc5dVFqMVo1RjBDbE1jRkpOUTVPTkFsc21MM3RqdlI5VzZucDhEQUhWUTVjZThsdkFramJsWjV0c0p4Qmk?oc=5",
     "category": "industry",
@@ -40082,7 +40082,7 @@
   {
     "id": "rss:china-society-7e2edb4067",
     "title": "李思潼因写真走红后接下来有哪些新作品或活动？",
-    "summary": "李思潼因写真走红后接下来有哪些新作品或活动？ 新浪网",
+    "summary": "李思潼因写真走红后接下来有哪些新作品或活动？ k.sina.com.cn",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JSmtvU2JjSVBRSmtUeXJxNjBWYXVabnR6ZjViWDZmQkk2dWYwLUdnS1NUQl9UOU5tR0liUVNpbk1RcXZQejREcUJqVmdRbzVIVXdaX0Zsc1R2Y1Bfbkc1aWhoT0VxcWFsc01JYlZJaGo?oc=5",
     "category": "industry",
@@ -40114,7 +40114,7 @@
     "origin": "rss:world-breaking",
     "aiNote": null,
     "heat": 39,
-    "firstSeen": "2026-08-16T16:16:54.519Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "breaking",
@@ -40126,7 +40126,7 @@
   {
     "id": "rss:china-society-edda0bf51a",
     "title": "既然上热搜了就来安利一下阿拉魏若来",
-    "summary": "既然上热搜了就来安利一下阿拉魏若来 新浪网",
+    "summary": "既然上热搜了就来安利一下阿拉魏若来 k.sina.com.cn",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50c1ZiUHl5LTBmb1AyemNnV0NhcXRWLWpVcGpDeVNaV3owcmRycEJwMWcxbFRiY0piZ2dfa2VkWlRYcklXYzZBMmJtWkJKSnFQWnQ2NHJXYzBQVTJvVllRTFpCYkNYanlPdGZVV2ViTWZmems?oc=5",
     "category": "industry",
@@ -40170,7 +40170,7 @@
   {
     "id": "rss:china-society-a90b8402f6",
     "title": "三位95后男艺人同框热搜是同一场演唱会吗？",
-    "summary": "三位95后男艺人同框热搜是同一场演唱会吗？ 新浪网",
+    "summary": "三位95后男艺人同框热搜是同一场演唱会吗？ k.sina.com.cn",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wZmJyNXJ0U3JWeHVWUlBWNXFOS0tWbWtxS3pPbVNRTi1SOFlKY2NVay1ia3VQMWNRRGhLeVZyTDI3eExJY2RuVXVidUhaaEZnY3VKUHpjdEJ1cGlDM0hBUndCdDN1eGkteDlvUjVTUTE?oc=5",
     "category": "industry",
@@ -40236,7 +40236,7 @@
   {
     "id": "rss:people-watch-d009738b99",
     "title": "大衣哥再次COS大将军，开拖拉机念诗反差感拉满，音乐节一开口震翻全场",
-    "summary": "大衣哥再次COS大将军，开拖拉机念诗反差感拉满，音乐节一开口震翻全场 新浪网",
+    "summary": "大衣哥再次COS大将军，开拖拉机念诗反差感拉满，音乐节一开口震翻全场 k.sina.com.cn",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XQUFVZlNJdWhYdTFiNFRab2hraVlwbUE5MEw5Nkp4OHJ6ZGFOeWhUMjJvOHhxbzBndHlyaUVMZlRwa2NlQXMxMUhpbVlMMmZsM3VhNXBHRXVxemdzMWZ6VHVPSEx3dm9aZGVDYkQ3eGxjd00?oc=5",
     "category": "industry",
@@ -40268,7 +40268,7 @@
     "origin": "rss:entertainment-watch",
     "aiNote": null,
     "heat": 39,
-    "firstSeen": "2026-08-16T16:16:54.519Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "people",
@@ -40368,7 +40368,7 @@
   {
     "id": "rss:china-society-bab3f98fb2",
     "title": "“旺旺最大对手竟是糖”，热搜背后是危机也是转机 |新京报快评",
-    "summary": "“旺旺最大对手竟是糖”，热搜背后是危机也是转机 |新京报快评 新京报",
+    "summary": "“旺旺最大对手竟是糖”，热搜背后是危机也是转机 |新京报快评 bjnews.com.cn",
     "source": "Google News · 社会",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwcHV5bjZWVjJOd2lZcXNuWmRBZ0ZraWRDQTJKTVp6OE1KbWhUYXliWGxGcDV1UlBleWtjYTRXUDYzOEVGX2FMSl9Sc0RSdUVZV1lsckg5VVA5TG1US1VWeDJYVFE?oc=5",
     "category": "industry",
@@ -40422,7 +40422,7 @@
     "origin": "rss:china-society",
     "aiNote": null,
     "heat": 39,
-    "firstSeen": "2026-08-16T16:16:54.519Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "society",
@@ -40642,7 +40642,7 @@
     "origin": "rss:people-watch",
     "aiNote": null,
     "heat": 39,
-    "firstSeen": "2026-08-16T16:16:54.519Z",
+    "firstSeen": "2026-08-16T16:27:59.367Z",
     "fetchedAt": null,
     "tier": 2,
     "radarChannel": "people",
@@ -40715,7 +40715,7 @@
     "eventId": "event-fs56r8",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:people-watch-1ac12c2f5c",
@@ -40786,7 +40786,7 @@
   {
     "id": "rss:people-watch-00b6475602",
     "title": "大衣哥2026年为什么突然翻红？",
-    "summary": "大衣哥2026年为什么突然翻红？ 新浪网",
+    "summary": "大衣哥2026年为什么突然翻红？ k.sina.com.cn",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55Y1RrMGNrcFdpcmxvR2RuNG5kSXZNcFFNdkFReG1wNGJ0SS10dVEzS182ci15c0p4N3JWajh4TVFkdnIwMWpzdV9YSC1aRVl5aDNDQVZYdFlZVDBaME9kRlpuWGFaSTRHWWN0ZnhzWks?oc=5",
     "category": "tip",
@@ -40847,7 +40847,7 @@
     "eventId": "event-1u55s4d",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:bbc-world-719d8a5d9f",
@@ -41028,7 +41028,7 @@
   {
     "id": "rss:people-watch-eaa2afcc0e",
     "title": "56岁大衣哥朱之文坦言做节目必须与时俱进，不能一味吃老本",
-    "summary": "56岁大衣哥朱之文坦言做节目必须与时俱进，不能一味吃老本 新浪网",
+    "summary": "56岁大衣哥朱之文坦言做节目必须与时俱进，不能一味吃老本 k.sina.com.cn",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JRmFlekk2bjJkMzZWeDBoMjFFcndqVlRnZk00UmNmNU9rMUY0MXZONVFTWDJKUFVYOURLS0duVmpMMGdRMWVwZDVNM0RGTU9WdGxMdUdhTVoyNk5aT0lRaE5TOGpEb3BnVmUwSWljdw?oc=5",
     "category": "industry",
@@ -41182,10 +41182,10 @@
   {
     "id": "rss:people-watch-9b69a8f6e4",
     "title": "董宇辉1000万在京成立禾与春时科技",
-    "summary": "董宇辉1000万在京成立禾与春时科技 观点网",
+    "summary": "董宇辉1000万在京成立禾与春时科技 guandian.cn",
     "source": "Google News · 人物",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jamg4djhBSGdqNXJzbzBOakZ6V0NuS2EzZmFtazgxRm9pbnlVcnVzNXdmY1l2QnFEM2lqYTRQMUZ0NnR2VzB2NlhkeXdVQQ?oc=5",
-    "category": "tip",
+    "category": "industry",
     "publishedAt": "2026-08-11T04:01:32.000Z",
     "image": null,
     "aiSelected": true,
@@ -41648,8 +41648,8 @@
     "source": "BBC News",
     "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
     "category": "industry",
-    "publishedAt": "2026-08-16T12:27:13.000Z",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4a2/live/a26fec30-7865-11f1-ab53-3dbca6ef5ee1.jpg",
+    "publishedAt": "2026-08-16T16:21:47.000Z",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/079c/live/fd7ea550-998d-11f1-a4eb-59b79ff5ff4f.jpg",
     "aiSelected": true,
     "origin": "rss:bbc-top",
     "aiNote": null,
@@ -41794,5 +41794,115 @@
     "corroboration": 1,
     "confidence": 88,
     "surge": false
+  },
+  {
+    "id": "rss:bbc-top-5282a4741c",
+    "title": "Two dead and evacuation under way as fires break out on Greek island",
+    "summary": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
+    "source": "BBC News",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+    "category": "industry",
+    "publishedAt": "2026-08-16T16:14:26.000Z",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bdc/live/0a2927a0-9987-11f1-a4eb-59b79ff5ff4f.jpg",
+    "aiSelected": true,
+    "origin": "rss:bbc-top",
+    "aiNote": null,
+    "heat": 55,
+    "firstSeen": "2026-08-16T16:27:59.367Z",
+    "fetchedAt": null,
+    "radarChannel": "breaking",
+    "eventId": "event-1wl9izy",
+    "corroboration": 2,
+    "confidence": 92,
+    "surge": true,
+    "tier": 1
+  },
+  {
+    "id": "rss:bbc-world-5af5a4c30c",
+    "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+    "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+    "source": "BBC World",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+    "category": "industry",
+    "publishedAt": "2026-08-16T15:25:38.000Z",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690e/live/238fb440-9980-11f1-a4eb-59b79ff5ff4f.jpg",
+    "aiSelected": true,
+    "origin": "rss:bbc-world",
+    "aiNote": null,
+    "heat": 55,
+    "firstSeen": "2026-08-16T16:27:59.367Z",
+    "fetchedAt": null,
+    "radarChannel": "breaking",
+    "eventId": "event-rq8475",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": true,
+    "tier": 1
+  },
+  {
+    "id": "rss:china-society-ee9f8937df",
+    "title": "艾热披荆斩棘初舞台获赞，喊话想要爆热搜",
+    "summary": "艾热披荆斩棘初舞台获赞，喊话想要爆热搜 k.sina.com.cn",
+    "source": "Google News · 社会",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wb2tBV1dsbVpEZVJCTTRjVUNYWHh2Y2NwbzJ3RmxGTjBMeDhBZUlJSDhaN0lsNnh3d3RERnc1ck9WdGR4UllUeW9XdExtMmxfTVpvbUFtUlpxemlvVDNmUklQRmUxVjc2RTJXOXd5U1A?oc=5",
+    "category": "industry",
+    "publishedAt": "2026-08-16T14:41:29.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:china-society",
+    "aiNote": null,
+    "heat": 40,
+    "firstSeen": "2026-08-16T16:27:59.367Z",
+    "fetchedAt": null,
+    "radarChannel": "society",
+    "eventId": "event-dcomsg",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false,
+    "tier": 2
+  },
+  {
+    "id": "rss:world-breaking-aa6fe8e2ee",
+    "title": "Weekly Recap: Millie Moon Diapers Launch in CVS, Steve Winchell Joins Dude Wipes & More",
+    "summary": "Weekly Recap: Millie Moon Diapers Launch in CVS, Steve Winchell Joins Dude Wipes & More Nonwovens Industry",
+    "source": "Google News · Breaking",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOckhXUWNtbVVtc3VON09WUVFpUFdLdXF5ZDlTaEVhMVhtcl9MRnZnZDNDcWZwdEpIRURIdXBLdGRad0RzOWplLTVLN3V4dTFyM01LZzFwd0hBSnR6OWdZanNVeEpqa2t4dFR2R2VxUndXOVRGVjRjRU1ZS3FXbGNNNlpEenFyV3NZV0tDUk42WklHcHFkdVJaRWhka3NVNVViWE9iYlVFUVNWUi13TUw5T2loSVJsdjBYYWpPazdPQkx4VEV2RUF0dE9nM3Q0Zw?oc=5",
+    "category": "industry",
+    "publishedAt": "2026-08-16T11:15:00.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:world-breaking",
+    "aiNote": null,
+    "heat": 40,
+    "firstSeen": "2026-08-16T16:27:59.367Z",
+    "fetchedAt": null,
+    "radarChannel": "breaking",
+    "eventId": "event-z5xos1",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false,
+    "tier": 2
+  },
+  {
+    "id": "rss:people-watch-62bd33ada5",
+    "title": "大衣哥朱之文空降济南，乘张雪机车进入演出现场，有市民提前两小时到场等候，见到大衣哥不停喊“比心”",
+    "summary": "大衣哥朱之文空降济南，乘张雪机车进入演出现场，有市民提前两小时到场等候，见到大衣哥不停喊“比心” 凤凰网",
+    "source": "Google News · 人物",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNzB2dnZMU1dhMXl4Z2Nob1dGaDVuYWpYeU91bl9EWndGd2FOSi1vRGpnUXZYS3Jwc0tJUDFUUmpQb1ZvamNnTVVldUs?oc=5",
+    "category": "industry",
+    "publishedAt": "2026-08-13T12:20:21.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:people-watch",
+    "aiNote": null,
+    "heat": 35,
+    "firstSeen": "2026-08-16T16:27:59.367Z",
+    "fetchedAt": null,
+    "radarChannel": "people",
+    "eventId": "event-1aavacq",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false,
+    "tier": 2
   }
 ]

@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-16T16:20:10.098Z",
-  "count": 962,
+  "fetchedAt": "2026-08-16T16:27:59.394Z",
+  "count": 972,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 120,
+    "hackernews": 119,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
@@ -40,7 +40,7 @@
     "rss:techreview-ai": 10,
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
-    "rss:marktechpost": 0,
+    "rss:marktechpost": 10,
     "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
@@ -63,5 +63,7 @@
     "rss:ithome": 4,
     "arxiv": 20
   },
-  "errors": {}
+  "errors": {
+    "rss:36kr": "fetch failed"
+  }
 }
