@@ -11,15 +11,17 @@ export function personalize(items: AIItem[], user: UserState): AIItem[] {
   const muted = new Set(user.mutedSources);
   const followedSrc = new Set(user.followedSources);
   const followedTopic = new Set(user.followedTopics);
+  const watchedPeople = user.watchedPeople.map((name) => name.toLowerCase());
 
   const visible = muted.size ? items.filter((i) => !muted.has(i.source)) : items;
 
-  if (followedSrc.size === 0 && followedTopic.size === 0) return visible;
+  if (followedSrc.size === 0 && followedTopic.size === 0 && watchedPeople.length === 0) return visible;
 
   const preferred: AIItem[] = [];
   const rest: AIItem[] = [];
   for (const it of visible) {
-    if (followedSrc.has(it.source) || (it.category && followedTopic.has(it.category))) {
+    const hay = `${it.title} ${it.summary ?? ""}`.toLowerCase();
+    if (followedSrc.has(it.source) || (it.category && followedTopic.has(it.category)) || watchedPeople.some((name) => hay.includes(name))) {
       preferred.push(it);
     } else {
       rest.push(it);

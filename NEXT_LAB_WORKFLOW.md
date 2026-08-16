@@ -26,3 +26,5 @@ GitHub Actions 每天自动更新 4 次：北京时间 08:17、12:17、16:17、2
 ## 技术底座
 
 本项目基于 MIT 许可的 [Jackychen-12/AI-Search](https://github.com/Jackychen-12/AI-Search) 二次开发，保留原项目许可证与引用。
+
+数据源分级、人物监测边界和高风险新闻核验见 `DATA_SOURCE_POLICY.md`。

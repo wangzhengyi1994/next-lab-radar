@@ -9,7 +9,7 @@ import { buildHref } from "@/lib/href";
 import { personalize, sourcesFromItems } from "@/lib/personalize";
 import { hasPersonalization, useUserStore } from "@/lib/userStore";
 import { useLocale } from "./LocaleProvider";
-import type { AIItem, CategoryKey, Mode } from "@/lib/types";
+import type { AIItem, CategoryKey, Mode, RadarChannel } from "@/lib/types";
 
 const PAGE_SIZE = 12;
 const TODAY_WINDOW_MS = 24 * 60 * 60 * 1000;
@@ -21,6 +21,7 @@ export interface FeedQuery {
   since: string;
   keyword: string;
   source: string;
+  radarChannel: RadarChannel | "all";
 }
 
 export default memo(function FeedSection({
@@ -33,7 +34,7 @@ export default memo(function FeedSection({
   now: number;
 }) {
   const { t } = useLocale();
-  const { state, hydrated, toggleBookmark, markRead, toggleFollowSource, toggleMuteSource, toggleTopic, clearAll } =
+  const { state, hydrated, toggleBookmark, markRead, toggleFollowSource, toggleMuteSource, toggleTopic, addWatchedPerson, removeWatchedPerson, clearAll } =
     useUserStore();
   const deferredQuery = useDeferredValue(query);
   const isStale = deferredQuery !== query;
@@ -57,7 +58,7 @@ export default memo(function FeedSection({
 
   useEffect(() => {
     setPage(1);
-  }, [deferredQuery.mode, deferredQuery.category, deferredQuery.since, deferredQuery.keyword, deferredQuery.source, view, sort]);
+  }, [deferredQuery.mode, deferredQuery.category, deferredQuery.since, deferredQuery.keyword, deferredQuery.source, deferredQuery.radarChannel, view, sort]);
 
   const base = useMemo(
     () => filterItems(items, { ...deferredQuery, sort }),
@@ -206,6 +207,8 @@ export default memo(function FeedSection({
         onToggleFollowSource={toggleFollowSource}
         onToggleMuteSource={toggleMuteSource}
         onToggleTopic={toggleTopic}
+        onAddWatchedPerson={addWatchedPerson}
+        onRemoveWatchedPerson={removeWatchedPerson}
         onClear={clearAll}
         onClose={() => setSettingsOpen(false)}
       />

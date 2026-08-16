@@ -200,7 +200,12 @@
     "firstSeen": "2026-07-01T23:45:11.271Z",
     "aiNote": "谷歌六月AI更新密集，涵盖多领域突破，体现其技术布局深度。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-feyyho",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:aws-ml-ddedc50b7d",
@@ -448,7 +453,12 @@
     "firstSeen": "2026-07-01T23:45:11.271Z",
     "aiNote": "政企校三方联手制定AI教育标准，预示课堂技术应用将获政策与资源双重保障。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1gbz2ep",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hn-20bee199cd",
@@ -821,7 +831,12 @@
     "firstSeen": "2026-07-01T23:45:11.271Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1bv69kd",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hn-9b74c7eb83",
@@ -1880,7 +1895,12 @@
     "engagement": 54,
     "image": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-10bkwmx",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2606.30573",
@@ -2099,7 +2119,12 @@
     "engagement": 118,
     "image": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-zbjf4c",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2606.29315",
@@ -5207,7 +5232,12 @@
     "firstSeen": "2026-07-03T23:19:36.286Z",
     "aiNote": "谷歌DeepMind与A24跨界合作，探索AI在创意领域的应用潜力。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-9ic1y4",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:ithome-9d7ff67aa2",
@@ -8553,7 +8583,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 106,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1htcd3x",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:nvidia-0c57e47a6d",
@@ -10583,7 +10618,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 219,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-b6xg9",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:simonwillison-92f516348c",
@@ -11018,7 +11058,12 @@
     "firstSeen": "2026-07-07T23:15:19.724Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-cyyq47",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-7e1c285b51",
@@ -11050,7 +11095,12 @@
     "firstSeen": "2026-07-07T23:15:19.724Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-f5cyw2",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hn-33e1d074f6",
@@ -12226,7 +12276,12 @@
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-15oq6yq",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.03751",
@@ -13215,7 +13270,12 @@
     "firstSeen": "2026-07-08T23:30:49.458Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-162en47",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:aws-ml-f77c771b8b",
@@ -18055,7 +18115,12 @@
     "engagement": 135,
     "image": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-15x7xqy",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-c6175885a6",
@@ -19351,7 +19416,12 @@
     "engagement": 74,
     "image": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-12h3k0o",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:theverge-ai-7882027942",
@@ -24208,7 +24278,12 @@
     "firstSeen": "2026-07-14T23:20:05.544Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-ec880k",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:theverge-ai-ec43065966",
@@ -25622,7 +25697,12 @@
     "firstSeen": "2026-07-14T23:20:05.544Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ut2n1",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hf-2607.11736",
@@ -25776,7 +25856,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 280,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1w0msdu",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.10623",
@@ -26477,7 +26562,12 @@
     "firstSeen": "2026-07-15T23:21:18.486Z",
     "aiNote": "模型路由看似基础，实则暗藏玄机，决定AI应用成本与质量。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-17pmt00",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:techreview-ai-10c6f2bd0d",
@@ -27284,7 +27374,12 @@
     "firstSeen": "2026-07-15T23:21:18.486Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-jbxbdx",
+    "corroboration": 2,
+    "confidence": 92,
+    "surge": false
   },
   {
     "id": "rss:hf-blog-5d7569c2af",
@@ -27301,7 +27396,12 @@
     "firstSeen": "2026-07-15T23:21:18.486Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1am40k8",
+    "corroboration": 2,
+    "confidence": 92,
+    "surge": false
   },
   {
     "id": "hn-ec6dd7adc3",
@@ -28776,7 +28876,12 @@
     "engagement": 371,
     "image": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-waco75",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:ithome-00b6fb0676",
@@ -28840,7 +28945,12 @@
     "firstSeen": "2026-07-16T23:19:44.738Z",
     "aiNote": "AI模式直接集成常用服务，简化操作流程，提升搜索效率。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-4hpgrt",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:google-ai-0199c9587e",
@@ -28857,7 +28967,12 @@
     "firstSeen": "2026-07-16T23:19:44.738Z",
     "aiNote": "谷歌Vids引入Gemini Omni与个人头像，视频创作门槛大幅降低，AI融合创意工具趋势明显。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-zr0ury",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:theverge-ai-79ed56faed",
@@ -29232,7 +29347,12 @@
     "firstSeen": "2026-07-16T23:19:44.738Z",
     "aiNote": "大模型持续迭代，新模型仍保持核心优势，值得关注技术演进方向。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ii3c7n",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:theverge-ai-3090d72b68",
@@ -29339,7 +29459,12 @@
     "firstSeen": "2026-07-16T23:19:44.738Z",
     "aiNote": "用AI预判生物威胁，谷歌跨界防御体系引发全球安全格局新思考。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-14s5vsr",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qbitai-8209173591",
@@ -29657,7 +29782,12 @@
     "firstSeen": "2026-07-16T23:19:44.738Z",
     "aiNote": "安全事件披露透明化，体现企业责任与合规趋势，值得行业关注。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1sjg2kk",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-3f3b62ad2c",
@@ -30102,7 +30232,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 44,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-15fmqrb",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.13921",
@@ -33951,7 +34086,12 @@
     "firstSeen": "2026-07-18T23:20:07.350Z",
     "aiNote": "揭示大模型思考深度可调控的机制，为提升推理效率与成本控制提供新视角。",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-2533jl",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "gh-ozgursntrk-ddpm-ddrm-fmri-superres",
@@ -33976,7 +34116,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 8,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-sugihj",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hn-c7bb7c5489",
@@ -35057,7 +35202,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 119,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1eawkxt",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:simonwillison-165d33e669",
@@ -37408,7 +37558,12 @@
     "engagement": 249,
     "image": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-w8b9f8",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-fda08a4eab",
@@ -37962,7 +38117,12 @@
     "engagement": 760,
     "image": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1mhez2u",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:deepmind-8985407e5e",
@@ -38477,7 +38637,12 @@
     "firstSeen": "2026-07-21T23:21:25.434Z",
     "aiNote": "开源机器人操控数据记录系统，降低研发门槛，加速行业标准化进程。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-5vv4b5",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hn-a36fd51753",
@@ -39153,7 +39318,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 10,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-k7off5",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.17146",
@@ -39335,7 +39505,12 @@
     "firstSeen": "2026-07-21T23:21:25.434Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-qban0z",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "gh-eval-core-evalcore",
@@ -40401,7 +40576,12 @@
     "firstSeen": "2026-07-22T23:24:49.618Z",
     "aiNote": "谷歌投入四千万美元AI资源，加速前沿科学探索，彰显科技巨头推动基础研究的新模式。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-38zxjv",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:arstechnica-ai-d1a137b6b1",
@@ -40501,7 +40681,12 @@
     "firstSeen": "2026-07-22T23:24:49.618Z",
     "aiNote": "三星新设备集成谷歌AI，提升生产力的同时强调时间效率，展示硬件与生态协同新趋势。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-4ef18s",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-858b2ce5d7",
@@ -40999,7 +41184,12 @@
     "engagement": 136,
     "image": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-l9i270",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-8eac583819",
@@ -41723,7 +41913,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 68,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-18lxsr6",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "gh-powerycy-goutoujunshi",
@@ -41747,8 +41942,13 @@
     "aiNote": null,
     "image": null,
     "fetchedAt": null,
-    "engagement": 2257,
-    "tier": 2
+    "engagement": 2258,
+    "tier": 2,
+    "radarChannel": "society",
+    "eventId": "event-ym6h2o",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.18367",
@@ -42716,7 +42916,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 110,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-11c5vvo",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:infoq-eee56b9951",
@@ -42787,7 +42992,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 191,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1i7ptry",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:infoq-fd2545e924",
@@ -43648,7 +43858,12 @@
     "firstSeen": "2026-07-23T23:20:32.498Z",
     "aiNote": "开源加速4位扩散模型推理，降低算力门槛，推动AI普及。",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-okoml8",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-ac40ec794b",
@@ -43685,7 +43900,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 191,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-95nakn",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "arxiv-2607.20411v1",
@@ -44589,7 +44809,12 @@
     "firstSeen": "2026-07-23T23:20:32.498Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-vhf2un",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:venturebeat-ai-26adfe0141",
@@ -44606,7 +44831,12 @@
     "firstSeen": "2026-07-23T23:20:32.498Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1g8952u",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:venturebeat-ai-4143ec6f5c",
@@ -44623,7 +44853,12 @@
     "firstSeen": "2026-07-23T23:20:32.498Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1u73nop",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:venturebeat-ai-8aadbbf980",
@@ -44640,7 +44875,12 @@
     "firstSeen": "2026-07-23T23:20:32.498Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-79dy91",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:venturebeat-ai-fed46196ed",
@@ -44657,7 +44897,12 @@
     "firstSeen": "2026-07-23T23:20:32.498Z",
     "aiNote": null,
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1b8hr5r",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:infoq-ea0407e47c",
@@ -45478,7 +45723,12 @@
     "image": null,
     "fetchedAt": null,
     "engagement": 93,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-vimxz8",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "gh-royzhao1991-lingshu",
@@ -46098,7 +46348,12 @@
     "firstSeen": "2026-07-24T08:50:41.565Z",
     "fetchedAt": null,
     "engagement": 49,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-143ucrt",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.20734",
@@ -48175,7 +48430,12 @@
     "firstSeen": "2026-07-26T23:13:31.551Z",
     "fetchedAt": null,
     "engagement": 255,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-z3agx8",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hn-9487e2ab6d",
@@ -48750,7 +49010,12 @@
     "heat": 21,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-tb6wam",
+    "corroboration": 3,
+    "confidence": 82,
+    "surge": false
   },
   {
     "id": "rss:sspai-fd29efc2fb",
@@ -49158,7 +49423,12 @@
     "heat": 33,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-dwqeiv",
+    "corroboration": 2,
+    "confidence": 92,
+    "surge": false
   },
   {
     "id": "rss:thedecoder-ba833fbfad",
@@ -49209,7 +49479,12 @@
     "heat": 24,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-dwqeiv",
+    "corroboration": 2,
+    "confidence": 78,
+    "surge": false
   },
   {
     "id": "rss:latentspace-1651e28012",
@@ -49260,7 +49535,12 @@
     "heat": 24,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-16evjrw",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.22375",
@@ -49404,7 +49684,12 @@
     "heat": 24,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-188nx22",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:smol-ainews-3744a4c0f7",
@@ -49472,7 +49757,12 @@
     "heat": 24,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-gwqzfn",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:google-research-38b9984539",
@@ -49489,7 +49779,12 @@
     "heat": 32,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-19j5x4n",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hf-2607.21848",
@@ -49562,7 +49857,12 @@
     "heat": 24,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1vjh2id",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:anthropic-9b6a920055",
@@ -49613,7 +49913,12 @@
     "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-5zg4k2",
+    "corroboration": 2,
+    "confidence": 78,
+    "surge": false
   },
   {
     "id": "hf-2607.21653",
@@ -49686,7 +49991,12 @@
     "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-yifw34",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:latentspace-9c0be6c676",
@@ -49754,7 +50064,12 @@
     "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-13ck9tn",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:anthropic-c7ef103ad8",
@@ -49788,7 +50103,12 @@
     "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1vjh2id",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:importai-b8b304bb8e",
@@ -49805,7 +50125,12 @@
     "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-yt8t7u",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:apple-ml-4241bbcf64",
@@ -49873,7 +50198,12 @@
     "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ve90p8",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:latentspace-08f77354dd",
@@ -49975,7 +50305,12 @@
     "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-jbxbdx",
+    "corroboration": 2,
+    "confidence": 78,
+    "surge": false
   },
   {
     "id": "rss:latentspace-7b9538ff9d",
@@ -50060,7 +50395,12 @@
     "heat": 31,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1m4civw",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:tldr-ai-46481323e6",
@@ -50128,7 +50468,12 @@
     "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-11hotd6",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:anthropic-0d3a82fa23",
@@ -50235,7 +50580,12 @@
     "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1tmi4p8",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:latentspace-f7ffe7c764",
@@ -50286,7 +50636,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ksdbyg",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:mistral-4521215ef9",
@@ -50303,7 +50658,12 @@
     "heat": 31,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1mq4jfa",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:google-research-85c9881870",
@@ -50320,7 +50680,12 @@
     "heat": 31,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1sntt0",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:meta-ai-b627648c1d",
@@ -50439,7 +50804,12 @@
     "heat": 31,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1v648ma",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "gh-rainsunme-cc-vision-hook",
@@ -50532,7 +50902,12 @@
     "heat": 31,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-prwx4d",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:bensbites-ac800a5563",
@@ -50549,7 +50924,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-p5fjoe",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:meta-ai-64c2af5add",
@@ -50642,7 +51022,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-180kbhi",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:anthropic-82946cf37a",
@@ -50727,7 +51112,12 @@
     "heat": 31,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-dv48um",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:bensbites-f98e6c07ad",
@@ -50744,7 +51134,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1wclgga",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:tldr-ai-c58f697e65",
@@ -50795,7 +51190,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-melfym",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "gh-eximius-labs-fusion-embedding",
@@ -50837,7 +51237,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1az1llt",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:anthropic-da2e0b7d31",
@@ -50905,7 +51310,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-iei8pw",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:meta-ai-d66341a96d",
@@ -50956,7 +51366,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-14ibazw",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:google-research-2cd2c89817",
@@ -50973,7 +51388,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-yn9dix",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:bensbites-50a9c18a4e",
@@ -50990,7 +51410,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-ypdyp7",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:google-research-3d0ddc045c",
@@ -51007,7 +51432,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1peeyub",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-4df3260584",
@@ -51024,7 +51454,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-16sqsgi",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:bensbites-d600134534",
@@ -51041,7 +51476,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1papuge",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:mistral-9732faa627",
@@ -51058,7 +51498,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1gyfee1",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:interconnects-b291141d2b",
@@ -51075,7 +51520,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-8gotol",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:importai-c74d98a66c",
@@ -51092,7 +51542,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1o9tfj2",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:interconnects-0239485435",
@@ -51109,7 +51564,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-hyr3lu",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:bensbites-6af2f9667a",
@@ -51126,7 +51586,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-39rtwn",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:interconnects-393057dfcc",
@@ -51143,7 +51608,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-19a4xez",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:google-research-52d1ff0483",
@@ -51160,7 +51630,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1c5q0oy",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:interconnects-e158e347b6",
@@ -51177,7 +51652,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-apywsr",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:bensbites-4cc97dd08b",
@@ -51194,7 +51674,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-mqrqop",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:importai-5e92efc2af",
@@ -51211,7 +51696,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-15gcwfc",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:interconnects-116d0b188a",
@@ -51228,7 +51718,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1jc8xxh",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:google-research-9922ce4ab8",
@@ -51245,7 +51740,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1kzld6y",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:bensbites-cea234aa07",
@@ -51279,7 +51779,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1wviv3s",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-a4aa2e5dc2",
@@ -51296,7 +51801,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-us6opa",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:bensbites-4b08b98ae6",
@@ -51347,7 +51857,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-knn8pq",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:google-research-bc21abe28d",
@@ -51364,7 +51879,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1pn7g1i",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-8f2641506f",
@@ -51381,7 +51901,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-7wuvnw",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:bensbites-fbf1f7e181",
@@ -51415,7 +51940,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-508exd",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:bensbites-9e1122f45b",
@@ -51449,7 +51979,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-hkc77d",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:interconnects-ed746df0fe",
@@ -51466,7 +52001,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1c58zkc",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:bensbites-97621a02fd",
@@ -51500,7 +52040,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1pwk01g",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-b46d95d99f",
@@ -51517,7 +52062,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1snsvae",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-1083858ec3",
@@ -51534,7 +52084,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-u3lkw5",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-d0cd6e4412",
@@ -51551,7 +52106,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-tkbtbr",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-4d37f51053",
@@ -51568,7 +52128,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1aaqdpz",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-575c7b4c2c",
@@ -51585,7 +52150,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-l9x748",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:interconnects-4bb8052776",
@@ -51602,7 +52172,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-lk922f",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:bensbites-cffcd03092",
@@ -51653,7 +52228,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1vijw3n",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-e3beeb02a5",
@@ -51670,7 +52250,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1n6wydq",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-5d7aeb29c6",
@@ -51687,7 +52272,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-bhbiwy",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:bensbites-c2069eea92",
@@ -51755,7 +52345,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1v84dsi",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:interconnects-c0b858f1ca",
@@ -51840,7 +52435,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-6v7x5x",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-8082e0b1b5",
@@ -51857,7 +52457,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-133an4b",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:interconnects-597fab2eb8",
@@ -51942,7 +52547,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1klahlf",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:mistral-7d14e01def",
@@ -51959,7 +52569,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-oq9n7y",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-c7db7b52a3",
@@ -51976,7 +52591,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-132lb82",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-263adbdbe5",
@@ -51993,7 +52613,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-132lb82",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-68ae63e7c5",
@@ -52010,7 +52635,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1mr7pm0",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:mistral-7745bf55b6",
@@ -52044,7 +52674,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-hwaj49",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:mistral-9cb1cdc81b",
@@ -52095,7 +52730,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1m5k1lf",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:meta-ai-bf02e6d78d",
@@ -52129,7 +52769,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-c6c2v8",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:anthropic-d75708935d",
@@ -52163,7 +52808,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1pnn1ax",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-167e91d490",
@@ -52180,7 +52830,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-nc1yzx",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-8f994faf80",
@@ -52197,7 +52852,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-3sec4n",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-e705e4b811",
@@ -52214,7 +52874,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-t6epdb",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-0c505ad590",
@@ -52231,7 +52896,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-6fps57",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-1fc059ddcf",
@@ -52248,7 +52918,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-e2ufct",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:anthropic-4362291dbc",
@@ -52282,7 +52957,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-105thtq",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-de3d23c61c",
@@ -52299,7 +52979,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-of8aw1",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:semianalysis-9e3492a275",
@@ -52316,7 +53001,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-6c8ifp",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:semianalysis-c7ee60b4ed",
@@ -52333,7 +53023,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1kvpmru",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:semianalysis-02f5c55655",
@@ -52350,7 +53045,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-k30je5",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-9b0ded7eaa",
@@ -52367,7 +53067,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1hn32ps",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:semianalysis-17862cd5a6",
@@ -52384,7 +53089,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-jrofin",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:meta-ai-cb10c48bd7",
@@ -52418,7 +53128,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-f7ix3c",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:semianalysis-a961c629c0",
@@ -52435,7 +53150,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1scce6d",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-929bfb33f5",
@@ -52452,7 +53172,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-179yn2q",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:semianalysis-e97f535218",
@@ -52469,7 +53194,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-7r0zny",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:oneusefulthing-ded9dc9984",
@@ -52486,7 +53216,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-14gd0tu",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:semianalysis-2c9fd4ff2b",
@@ -52503,7 +53238,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-xivc55",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:semianalysis-3b1db88f18",
@@ -52520,7 +53260,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-a2qhmz",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:anthropic-a0024e2ad4",
@@ -52537,7 +53282,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1gd8wrk",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:meta-ai-c7f23c9e60",
@@ -52605,7 +53355,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1c1qgpa",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:meta-ai-54c941bdeb",
@@ -52622,7 +53377,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1db8i9j",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:meta-ai-d48aed4a51",
@@ -52673,7 +53433,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ibfd3v",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:meta-ai-21d2f59bb6",
@@ -52690,7 +53455,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1pyxzua",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:meta-ai-24238a278d",
@@ -52724,7 +53494,12 @@
     "heat": 30,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1916zek",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:anthropic-c8653a64cb",
@@ -52741,7 +53516,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-x1ccha",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:36kr-a6bf7c5594",
@@ -52851,7 +53631,7 @@
       "android",
       "TypeScript"
     ],
-    "engagement": 2085,
+    "engagement": 2086,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -52859,7 +53639,12 @@
     "heat": 32,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-i5kq42",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hn-063934040f",
@@ -52901,7 +53686,12 @@
     "heat": 21,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-5zg4k2",
+    "corroboration": 2,
+    "confidence": 78,
+    "surge": false
   },
   {
     "id": "hn-4ead7b3c68",
@@ -52981,7 +53771,12 @@
     "heat": 17,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-2l3330",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hn-3a08c7797a",
@@ -53019,7 +53814,12 @@
     "heat": 31,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1xh3y5b",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hn-69fdbd99fb",
@@ -53040,7 +53840,12 @@
     "heat": 18,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-khkgpw",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hn-353c64ead7",
@@ -53061,7 +53866,12 @@
     "heat": 28,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-14hx77y",
+    "corroboration": 2,
+    "confidence": 78,
+    "surge": false
   },
   {
     "id": "rss:google-research-c1ef366401",
@@ -53078,7 +53888,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-n1debf",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hn-a30f29feff",
@@ -53099,7 +53914,12 @@
     "heat": 24,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-e2klso",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hn-2bb4134c09",
@@ -53592,7 +54412,12 @@
     "heat": 33,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-vcuvhm",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "arxiv-2607.22534v1",
@@ -54097,7 +54922,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1r0h91i",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:qwen-4c09547806",
@@ -54114,7 +54944,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1m4drvb",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-7b79b60be1",
@@ -54131,7 +54966,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1x1rgf4",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-c17812a761",
@@ -54148,7 +54988,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1h5s1j8",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-89c7c35e1d",
@@ -54165,7 +55010,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ga1vk7",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-256f072809",
@@ -54182,7 +55032,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-ujf51o",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-e943dab9e0",
@@ -54199,7 +55054,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-28sbg0",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-5c81a1cf61",
@@ -54216,7 +55076,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-10e0ppi",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-537d4b3038",
@@ -54233,7 +55098,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1l7sg35",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-51f656fae8",
@@ -54250,7 +55120,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1nkk8n1",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-87ed01723e",
@@ -54267,7 +55142,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-2ivhqf",
+    "corroboration": 2,
+    "confidence": 78,
+    "surge": false
   },
   {
     "id": "rss:qwen-32b8158ff2",
@@ -54284,7 +55164,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-2ivhqf",
+    "corroboration": 2,
+    "confidence": 92,
+    "surge": false
   },
   {
     "id": "rss:anthropic-9fdb584812",
@@ -54318,7 +55203,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1c4sw3l",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-0b6a722768",
@@ -54335,7 +55225,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1r69v8c",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-83f5c6b22e",
@@ -54352,7 +55247,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1x34emc",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-409b9f2b10",
@@ -54369,7 +55269,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1g6tmdg",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-4c78ffa8fe",
@@ -54386,7 +55291,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-m98jfb",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-5b17deac31",
@@ -54403,7 +55313,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-r8sigd",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-b6cdf93198",
@@ -54420,7 +55335,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ycql9y",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-b9416ccc36",
@@ -54437,7 +55357,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-t8rnww",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-cdc881a958",
@@ -54454,7 +55379,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-p8d8bh",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qwen-059fbe15eb",
@@ -54471,7 +55401,12 @@
     "heat": 30,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-qopsi1",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-af1a476c6d",
@@ -54488,7 +55423,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1rffnll",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-f341118d22",
@@ -54505,7 +55445,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-182sc29",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-38eb95b0e9",
@@ -54522,7 +55467,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1qcmgd8",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-e01d339bfb",
@@ -54539,7 +55489,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-iyq97j",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-ce68292451",
@@ -54556,7 +55511,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-135d77j",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-97b2c5f447",
@@ -54573,7 +55533,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-46r7da",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-1d65254430",
@@ -54590,7 +55555,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1k1vt2c",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-bd2a1c6149",
@@ -54607,7 +55577,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1b5qce9",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-4dab64a7e3",
@@ -54624,7 +55599,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-p7atbq",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-189b698067",
@@ -54641,7 +55621,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-461ho8",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-57cf4a2ec0",
@@ -54658,7 +55643,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-115dxhv",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-1cc4df7eb2",
@@ -54675,7 +55665,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-5m5qkg",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-028a8389cd",
@@ -54692,7 +55687,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-veahnb",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-76583c4985",
@@ -54709,7 +55709,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1t40mtz",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-c811c8fa03",
@@ -54726,7 +55731,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1tcjdbu",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-93e53a97f2",
@@ -54743,7 +55753,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-qsxphd",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:lilianweng-c8f3f2a59b",
@@ -54760,7 +55775,12 @@
     "heat": 22,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1wtyle2",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:ithome-19667c51f8",
@@ -55629,7 +56649,12 @@
     "heat": 24,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-f7ks32",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-1c48d2633e",
@@ -55875,7 +56900,12 @@
     "heat": 34,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-y406bv",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qbitai-6b55497302",
@@ -55909,7 +56939,12 @@
     "heat": 34,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-ijxeuj",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:qbitai-0cf0b858f6",
@@ -56134,7 +57169,12 @@
     "heat": 24,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-tb6wam",
+    "corroboration": 3,
+    "confidence": 82,
+    "surge": false
   },
   {
     "id": "hf-2607.22091",
@@ -56225,7 +57265,12 @@
     "heat": 30,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-rn1io0",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.18142",
@@ -56294,7 +57339,12 @@
     "heat": 16,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1lri64m",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.18314",
@@ -58139,7 +59189,12 @@
     "heat": 34,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1u5eeka",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-fa0f2469b5",
@@ -58190,7 +59245,12 @@
     "heat": 25,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-nx9kti",
+    "corroboration": 2,
+    "confidence": 78,
+    "surge": false
   },
   {
     "id": "rss:ithome-54cefb7902",
@@ -58241,7 +59301,12 @@
     "heat": 34,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-i9y8eo",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:ithome-d48ce45955",
@@ -58343,7 +59408,12 @@
     "heat": 25,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-tb6wam",
+    "corroboration": 3,
+    "confidence": 82,
+    "surge": false
   },
   {
     "id": "hn-6ceb9e4c5d",
@@ -58419,7 +59489,12 @@
     "heat": 34,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1sulwx5",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:google-ai-61b149676f",
@@ -58436,7 +59511,12 @@
     "heat": 34,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1n6t4pk",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:theverge-ai-37db1a04f0",
@@ -58788,7 +59868,12 @@
     "heat": 25,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ur89zd",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:qbitai-705e913db7",
@@ -58962,7 +60047,12 @@
     "heat": 25,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-7n36eb",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hn-562b025a4c",
@@ -59958,7 +61048,12 @@
     "heat": 28,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-rra88g",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:thedecoder-ca49fb5608",
@@ -60013,7 +61108,12 @@
     "heat": 26,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-mm1hui",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:deepmind-705bd6c095",
@@ -60030,7 +61130,12 @@
     "heat": 34,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-105x3d",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:infoq-0ae3622f8c",
@@ -60068,7 +61173,12 @@
     "heat": 22,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-11ruitn",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:arstechnica-ai-8095150695",
@@ -60861,7 +61971,12 @@
     "heat": 25,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-2chw1e",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:36kr-a9f8663f1e",
@@ -61162,7 +62277,12 @@
     "heat": 25,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-ynrbch",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:sspai-029858b809",
@@ -61285,7 +62405,12 @@
     "heat": 25,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1dryp0r",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:36kr-814ea6ea0a",
@@ -61340,7 +62465,12 @@
     "heat": 19,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1n8pqhp",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:anthropic-0b6380834b",
@@ -62348,7 +63478,12 @@
     "heat": 29,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ktgki1",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.22117",
@@ -62438,7 +63573,12 @@
     "heat": 23,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1w4v8xb",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "gh-drumih-turbo-fieldfare",
@@ -62964,7 +64104,12 @@
     "heat": 27,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-nq2zg1",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:thedecoder-625efd0057",
@@ -63384,7 +64529,12 @@
     "heat": 33,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1n11n6w",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:ithome-1eab6f841b",
@@ -63418,7 +64568,12 @@
     "heat": 35,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1t8taj2",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:wired-ai-c69240deff",
@@ -63452,7 +64607,12 @@
     "heat": 35,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1wx2m5d",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-0d0a337bbf",
@@ -63647,7 +64807,12 @@
     "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-nx9kti",
+    "corroboration": 2,
+    "confidence": 78,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-a1b11e2b2b",
@@ -63799,7 +64964,12 @@
     "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1ic7jny",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:infoq-b804f70d29",
@@ -63884,7 +65054,12 @@
     "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-ugt0h6",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:wired-ai-223a8182a2",
@@ -64372,7 +65547,12 @@
     "heat": 35,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-j54vg5",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "rss:tldr-ai-51f19d99ee",
@@ -64389,7 +65569,12 @@
     "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-14k3j9h",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:36kr-df81aff625",
@@ -64423,7 +65608,12 @@
     "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-7ng8wa",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hn-29878cc568",
@@ -64465,7 +65655,12 @@
     "heat": 16,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1sx0ov1",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "arxiv-2607.27203v1",
@@ -64826,7 +66021,12 @@
     "heat": 19,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1fqg5c2",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:marktechpost-e466c8b190",
@@ -64860,7 +66060,12 @@
     "heat": 34,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1xvey45",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hf-2607.27167",
@@ -65347,7 +66552,12 @@
     "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1b43edx",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "gh-bestdeejay-design-awesome-ai-handbook",
@@ -66585,7 +67795,12 @@
     "heat": 33,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-b0qat9",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:qbitai-a2dab74156",
@@ -66691,7 +67906,12 @@
     "heat": 34,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1jxrsd8",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:36kr-e7ab9d177e",
@@ -66784,7 +68004,12 @@
     "heat": 26,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-1h7t6x7",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hn-2f433a11fa",
@@ -66941,7 +68166,12 @@
     "heat": 25,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-hqiadh",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "rss:techcrunch-ai-fb1a03f293",
@@ -67514,7 +68744,12 @@
     "heat": 35,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
-    "tier": 1
+    "tier": 1,
+    "radarChannel": "ai-tech",
+    "eventId": "event-19tgtsp",
+    "corroboration": 1,
+    "confidence": 88,
+    "surge": false
   },
   {
     "id": "hf-2607.28582",
@@ -68089,7 +69324,12 @@
     "heat": 24,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
-    "tier": 2
+    "tier": 2,
+    "radarChannel": "ai-tech",
+    "eventId": "event-8rbgoo",
+    "corroboration": 1,
+    "confidence": 74,
+    "surge": false
   },
   {
     "id": "hf-2607.26769",

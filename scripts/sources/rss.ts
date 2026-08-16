@@ -28,6 +28,15 @@ interface FeedDef {
 // instances are blocked, so X signal comes in via AI News (news.smol.ai),
 // which recaps high-signal X/Reddit/Discord discussions daily.
 const FEEDS: FeedDef[] = [
+  // ══ 多频道雷达：重大新闻 / 社会热点 / 人物动态 ══
+  // 只保存标题、摘要和原文链接；Google News 用于聚合不同媒体的公开报道。
+  { id: "rss:bbc-top", label: "BBC Top Stories", url: "https://feeds.bbci.co.uk/news/rss.xml", source: "BBC News", category: "industry", tier: 1 },
+  { id: "rss:bbc-world", label: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml", source: "BBC World", category: "industry", tier: 1 },
+  { id: "rss:world-breaking", label: "Global breaking news", url: "https://news.google.com/rss/search?q=%22breaking+news%22+when%3A1d&hl=en-US&gl=US&ceid=US:en", source: "Google News · Breaking", category: "industry", tier: 2, stripTitleSource: true },
+  { id: "rss:china-society", label: "中国社会热点", url: "https://news.google.com/rss/search?q=%E7%A4%BE%E4%BC%9A%E7%83%AD%E7%82%B9+OR+%E7%83%AD%E6%90%9C+OR+%E8%B5%B0%E7%BA%A2+when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", source: "Google News · 社会", category: "industry", tier: 2, stripTitleSource: true },
+  { id: "rss:people-watch", label: "人物热度监测", url: "https://news.google.com/rss/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0+OR+%E5%A4%A7%E8%A1%A3%E5%93%A5+OR+%E6%9C%B1%E4%B9%8B%E6%96%87+OR+%E8%91%A3%E5%AE%87%E8%BE%89+OR+%E9%83%AD%E6%9C%89%E6%89%8D+when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", source: "Google News · 人物", category: "industry", tier: 2, stripTitleSource: true },
+  { id: "rss:entertainment-watch", label: "明星与网红", url: "https://news.google.com/rss/search?q=%E6%98%8E%E6%98%9F+OR+%E7%BD%91%E7%BA%A2+OR+%E4%B8%BB%E6%92%AD+OR+%E8%89%BA%E4%BA%BA+when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", source: "Google News · 娱乐", category: "industry", tier: 2, stripTitleSource: true },
+
   // ══ Tier 1 — 一手官方 / 模型实验室 / 研究机构 ══
   { id: "rss:openai", label: "OpenAI News", url: "https://openai.com/news/rss.xml", source: "OpenAI", category: "ai-models", tier: 1 },
   // Anthropic/Meta AI killed their RSS endpoints — Google News site-scoped

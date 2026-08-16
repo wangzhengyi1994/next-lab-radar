@@ -9,6 +9,7 @@ export interface UserState {
   followedSources: string[];
   mutedSources: string[];
   followedTopics: CategoryKey[];
+  watchedPeople: string[];
 }
 
 const KEY = "ai-search:user:v1";
@@ -20,6 +21,7 @@ export const EMPTY_USER: UserState = {
   followedSources: [],
   mutedSources: [],
   followedTopics: [],
+  watchedPeople: [],
 };
 
 function readState(): UserState {
@@ -34,6 +36,7 @@ function readState(): UserState {
       followedSources: Array.isArray(p.followedSources) ? p.followedSources : [],
       mutedSources: Array.isArray(p.mutedSources) ? p.mutedSources : [],
       followedTopics: Array.isArray(p.followedTopics) ? p.followedTopics : [],
+      watchedPeople: Array.isArray(p.watchedPeople) ? p.watchedPeople : [],
     };
   } catch {
     return EMPTY_USER;
@@ -55,7 +58,7 @@ function toggle<T>(arr: T[], v: T): T[] {
 }
 
 export function hasPersonalization(s: UserState): boolean {
-  return s.followedSources.length > 0 || s.mutedSources.length > 0 || s.followedTopics.length > 0;
+  return s.followedSources.length > 0 || s.mutedSources.length > 0 || s.followedTopics.length > 0 || s.watchedPeople.length > 0;
 }
 
 /**
@@ -106,6 +109,16 @@ export function useUserStore() {
     (c: CategoryKey) => update({ followedTopics: toggle(readState().followedTopics, c) }),
     [update],
   );
+  const addWatchedPerson = useCallback((name: string) => {
+    const clean = name.trim().slice(0, 30);
+    if (!clean) return;
+    const current = readState().watchedPeople;
+    if (!current.includes(clean)) update({ watchedPeople: [...current, clean] });
+  }, [update]);
+  const removeWatchedPerson = useCallback(
+    (name: string) => update({ watchedPeople: readState().watchedPeople.filter((item) => item !== name) }),
+    [update],
+  );
   const clearAll = useCallback(() => update(EMPTY_USER), [update]);
 
   return {
@@ -116,6 +129,8 @@ export function useUserStore() {
     toggleFollowSource,
     toggleMuteSource,
     toggleTopic,
+    addWatchedPerson,
+    removeWatchedPerson,
     clearAll,
   };
 }

@@ -89,6 +89,7 @@ export default function ItemCard({
           {isNew && (
             <span className="px-1.5 py-0.5 rounded bg-red-500 text-white font-medium shrink-0">NEW</span>
           )}
+          {item.surge && <span className="px-1.5 py-0.5 bg-[#ff1f1f] text-white font-bold shrink-0">升温</span>}
         </div>
         <div className="flex items-center gap-2 shrink-0">
           {read && <span className="text-gray-400">{t("card.read")}</span>}
@@ -130,6 +131,13 @@ export default function ItemCard({
           <span className="font-medium">{t("card.ai")} · </span>
           {item.aiNote}
         </p>
+      )}
+
+      {(item.confidence || item.corroboration) && (
+        <div className="flex items-center gap-3 text-[11px] text-black/45 dark:text-white/45">
+          <span>可信度 <b className="text-black dark:text-white">{item.confidence ?? "—"}</b></span>
+          <span>交叉信源 <b className="text-black dark:text-white">{item.corroboration ?? 1}</b></span>
+        </div>
       )}
 
       <div className="pt-3 mt-auto border-t border-black/10 dark:border-white/10 text-xs text-gray-500 dark:text-gray-400 flex items-center justify-between gap-3">

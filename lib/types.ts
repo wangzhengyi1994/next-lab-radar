@@ -7,6 +7,8 @@ export type CategoryKey =
 
 export type Mode = "selected" | "all";
 
+export type RadarChannel = "ai-tech" | "breaking" | "society" | "people";
+
 export type DataSourceMode = "auto" | "local" | "aihot" | "mock";
 
 export type DataOrigin = "local" | "aihot" | "mock";
@@ -44,6 +46,16 @@ export interface AIItem {
   aiNote?: string | null;
   /** Cover image URL (extracted from the feed item, if any). */
   image?: string | null;
+  /** Editorial radar lane, independent from the original AI taxonomy. */
+  radarChannel?: RadarChannel;
+  /** Cross-source event cluster id generated during each crawl. */
+  eventId?: string;
+  /** Number of distinct sources reporting the same clustered event. */
+  corroboration?: number;
+  /** 0-100 confidence based on source tier and cross-source corroboration. */
+  confidence?: number;
+  /** Fast-rising signal, used for editorial alerts. */
+  surge?: boolean;
 }
 
 export interface ItemsQuery {
@@ -55,6 +67,7 @@ export interface ItemsQuery {
   keyword?: string;
   since?: string;
   sort?: "heat" | "latest";
+  radarChannel?: RadarChannel | "all";
 }
 
 export interface PaginatedResult<T> {

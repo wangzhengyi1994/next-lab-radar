@@ -1,5 +1,7 @@
 "use client";
 
+import { useState } from "react";
+
 import { CATEGORIES } from "@/lib/categories";
 import type { CategoryKey } from "@/lib/types";
 import type { UserState } from "@/lib/userStore";
@@ -11,6 +13,8 @@ export default function PersonalizeModal({
   onToggleFollowSource,
   onToggleMuteSource,
   onToggleTopic,
+  onAddWatchedPerson,
+  onRemoveWatchedPerson,
   onClear,
   onClose,
 }: {
@@ -20,9 +24,12 @@ export default function PersonalizeModal({
   onToggleFollowSource: (s: string) => void;
   onToggleMuteSource: (s: string) => void;
   onToggleTopic: (c: CategoryKey) => void;
+  onAddWatchedPerson: (name: string) => void;
+  onRemoveWatchedPerson: (name: string) => void;
   onClear: () => void;
   onClose: () => void;
 }) {
+  const [person, setPerson] = useState("");
   if (!open) return null;
 
   const followed = new Set(state.followedSources);
@@ -69,6 +76,17 @@ export default function PersonalizeModal({
                 {c.label}
               </button>
             ))}
+          </div>
+        </div>
+
+        <div>
+          <div className="text-sm font-medium mb-2">人物订阅</div>
+          <div className="flex gap-2 mb-2">
+            <input value={person} onChange={(event) => setPerson(event.target.value)} onKeyDown={(event) => { if (event.key === "Enter") { onAddWatchedPerson(person); setPerson(""); } }} placeholder="例如：张雪峰、大衣哥" className="flex-1 h-9 border border-gray-200 px-3 text-sm outline-none focus:border-brand-500" />
+            <button onClick={() => { onAddWatchedPerson(person); setPerson(""); }} className="h-9 px-4 bg-black text-white text-sm">添加</button>
+          </div>
+          <div className="flex flex-wrap gap-2 mb-5">
+            {state.watchedPeople.map((name) => <button key={name} onClick={() => onRemoveWatchedPerson(name)} className="px-2 py-1 border border-black/20 text-xs">{name} ×</button>)}
           </div>
         </div>
 

@@ -11,6 +11,7 @@ import Hero from "./Hero";
 import NewSince from "./NewSince";
 import CommandPalette from "./CommandPalette";
 import AskAI from "./AskAI";
+import RadarChannelNav from "./RadarChannelNav";
 import { useLocale } from "./LocaleProvider";
 import { filterItems } from "@/lib/filter";
 import { sourceCounts } from "@/lib/personalize";
@@ -35,11 +36,11 @@ function HomeLayout({
   state: ViewState;
 }) {
   const { t } = useLocale();
-  const { category, keyword, mode, since, source } = state;
+  const { category, keyword, mode, since, source, radarChannel } = state;
 
   const query = useMemo(
-    () => ({ mode, category, since, keyword, source }),
-    [mode, category, since, keyword, source],
+    () => ({ mode, category, since, keyword, source, radarChannel }),
+    [mode, category, since, keyword, source, radarChannel],
   );
 
   const trending = useMemo(
@@ -87,6 +88,7 @@ function HomeLayout({
         </div>
         <p className="radar-intro">从海外官方发布、GitHub、Hacker News、论文和设计社区里挑出真正适合 NEXT LAB 的信号。不追求全，只找能实测、能做图、能讲清楚的题。</p>
       </div>
+      <RadarChannelNav />
 
       <main id="main-content" className="max-w-[1440px] mx-auto px-5 md:px-8 py-8 grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-8">
         <section className="min-w-0">

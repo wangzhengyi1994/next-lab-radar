@@ -1,7 +1,7 @@
 "use client";
 
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, startTransition } from "react";
-import type { CategoryKey, Mode } from "./types";
+import type { CategoryKey, Mode, RadarChannel } from "./types";
 import { isCategoryKey } from "./categories";
 
 export interface ViewState {
@@ -10,6 +10,7 @@ export interface ViewState {
   mode: Mode;
   since: string;
   source: string;
+  radarChannel: RadarChannel | "all";
 }
 
 const ALLOWED_SINCE = ["24h", "3d", "7d", "30d"];
@@ -20,6 +21,7 @@ const DEFAULT: ViewState = {
   mode: "selected",
   since: "7d",
   source: "",
+  radarChannel: "all",
 };
 
 function parseSearch(qs: string): ViewState {
@@ -31,6 +33,7 @@ function parseSearch(qs: string): ViewState {
     mode: sp.get("mode") === "all" ? "all" : "selected",
     since: ALLOWED_SINCE.includes(sp.get("since") || "") ? sp.get("since")! : "7d",
     source: (sp.get("source") || "").trim(),
+    radarChannel: (["ai-tech", "breaking", "society", "people"] as const).includes(sp.get("radar") as RadarChannel) ? (sp.get("radar") as RadarChannel) : "all",
   };
 }
 
@@ -41,6 +44,7 @@ function toQueryString(s: ViewState): string {
   if (s.since !== "7d") sp.set("since", s.since);
   if (s.keyword) sp.set("keyword", s.keyword);
   if (s.source) sp.set("source", s.source);
+  if (s.radarChannel !== "all") sp.set("radar", s.radarChannel);
   return sp.toString();
 }
 
