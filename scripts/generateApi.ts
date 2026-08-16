@@ -49,6 +49,7 @@ function main() {
   const items = (readJson(path.join(DATA_DIR, "items.json")) ?? []) as Item[];
   const meta = readJson(path.join(DATA_DIR, "meta.json"));
   const digest = readJson(path.join(DATA_DIR, "digest.json"));
+  const alerts = readJson(path.join(DATA_DIR, "alerts.json"));
 
   // 1. All items (latest 500)
   writeApi("items.json", items.slice(0, 500));
@@ -58,6 +59,7 @@ function main() {
 
   // 3. Digest
   if (digest) writeApi("digest.json", digest);
+  if (alerts) writeApi("alerts.json", alerts);
 
   // 4. Daily reports — group by firstSeen date
   const byDate = new Map<string, Item[]>();

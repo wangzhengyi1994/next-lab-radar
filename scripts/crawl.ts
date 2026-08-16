@@ -29,6 +29,7 @@ import { rssAdapters } from "./sources/rss";
 import type { SourceAdapter } from "./sources/types";
 import { computeHeat } from "./lib/heat";
 import { enrichRadarItems } from "../lib/radar";
+import { buildRadarAlerts } from "./lib/alerts";
 
 export interface CrawlResult {
   total: number;
@@ -103,13 +104,16 @@ export async function runCrawl(only: string[] = []): Promise<CrawlResult> {
   // snapshot, the append-only archive or the open API.
   const { items: safe, dropped } = sanitizeItems(all);
   if (dropped > 0) errors["validator"] = `dropped ${dropped} malformed item(s)`;
-  let merged = normalizeItems(dedupeAndSort(safe));
+  // Cluster before duplicate collapse so the surviving report retains proof
+  // that multiple independent sources covered the same event.
+  let merged = normalizeItems(dedupeAndSort(enrichRadarItems(safe)));
   merged = applyHistory(merged, prev, new Date().toISOString());
   // Unified 0-100 heat: tier base + in-source engagement percentile × freshness.
   const tiers = Object.fromEntries(adapters.map((a) => [a.id, a.tier]));
   merged = computeHeat(merged, tiers);
   merged = enrichRadarItems(merged);
   merged = await addAiNotes(merged); // new items only; no-op without DEEPSEEK_API_KEY
+  buildRadarAlerts(merged);
   const { count, path: outPath } = writeSnapshot(merged, sources, errors);
   const arch = updateArchive(merged); // append-only history (monthly shards)
   console.log(`[archive] ${arch.total} items across ${Object.keys(arch.months).length} month(s)`);

@@ -13,7 +13,7 @@ import type { AIItem, CategoryKey, Mode, RadarChannel } from "@/lib/types";
 
 const PAGE_SIZE = 12;
 const TODAY_WINDOW_MS = 24 * 60 * 60 * 1000;
-type ViewKey = "all" | "today" | "bookmarks" | "unread";
+type ViewKey = "all" | "surge" | "today" | "bookmarks" | "unread";
 
 export interface FeedQuery {
   mode: Mode;
@@ -77,6 +77,7 @@ export default memo(function FeedSection({
   );
 
   const viewed = useMemo(() => {
+    if (view === "surge") return personalized.filter((i) => i.surge);
     if (view === "today")
       return personalized.filter((i) => i.firstSeen && now - new Date(i.firstSeen).getTime() < TODAY_WINDOW_MS);
     if (view === "bookmarks") return personalized.filter((i) => bookmarks.has(i.id));
@@ -92,6 +93,7 @@ export default memo(function FeedSection({
 
   const views: { key: ViewKey; label: string }[] = [
     { key: "all", label: t("feed.all") },
+    { key: "surge", label: `升温 ${base.filter((item) => item.surge).length}` },
     { key: "today", label: todayCount ? `${t("feed.today")} ${todayCount}` : t("feed.today") },
     { key: "bookmarks", label: hydrated && state.bookmarks.length ? `${t("feed.bookmarks")} ${state.bookmarks.length}` : t("feed.bookmarks") },
     { key: "unread", label: t("feed.unread") },

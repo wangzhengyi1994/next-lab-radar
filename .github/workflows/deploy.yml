@@ -25,6 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # commit the refreshed snapshot back to the repo
+      issues: write # deliver high-confidence surge alerts to the owner
     steps:
       - uses: actions/checkout@v6
 
@@ -45,11 +46,32 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }} # one-line AI notes (optional; skipped if unset)
         run: npm run crawl || echo "crawl reported issues; building with the last good snapshot"
 
+      - name: Notify newly rising events
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          count=$(jq '.alerts | length' data/alerts.json 2>/dev/null || echo 0)
+          if [ "$count" -gt 0 ]; then
+            node - <<'NODE' > /tmp/radar-alert.md
+          const fs = require('fs');
+          const payload = JSON.parse(fs.readFileSync('data/alerts.json', 'utf8'));
+          console.log('NEXT LAB RADAR 发现新的异常升温事件：\n');
+          for (const item of payload.alerts) {
+            console.log(`- [${item.title.replace(/[\\[\\]]/g, '')}](${item.sourceUrl})`);
+            console.log(`  - 频道：${item.channel} · 可信度 ${item.confidence} · 交叉信源 ${item.corroboration} · 热度 ${item.heat}`);
+          }
+          console.log('\n> 请先核验原始来源，不要根据告警标题直接发稿。');
+          NODE
+            gh issue create --title "[Radar Alert] $(date -u '+%Y-%m-%d %H:%M UTC') · ${count} 条升温" --body-file /tmp/radar-alert.md
+          else
+            echo "No new surge alerts."
+          fi
+
       - name: Commit refreshed snapshot (best-effort)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/items.json data/meta.json data/digest.json data/archive data/weekly-insight.json data/weekly-insights || true
+          git add data/items.json data/meta.json data/digest.json data/alerts.json data/alerted-events.json data/archive data/weekly-insight.json data/weekly-insights || true
           if git diff --staged --quiet; then
             echo "No snapshot changes."
           else

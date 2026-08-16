@@ -13,6 +13,7 @@ const PEOPLE_ORIGINS = new Set([
 const BREAKING_WORDS = /(breaking|突发|去世|逝世|死亡|地震|坠机|爆炸|袭击|战争|停火|选举|总统|首相|重大事故|遇难|紧急状态|breaking news)/i;
 const SOCIETY_WORDS = /(社会|热搜|热议|网友|走红|爆火|摊主|烧烤|外卖|游客|学校|医院|警方|通报|回应|争议|奇葩|反转|民生|普通人)/i;
 const PEOPLE_WORDS = /(明星|演员|歌手|网红|主播|博主|艺人|导演|主持人|张雪峰|大衣哥|朱之文|郭有才|董宇辉|李佳琦|雷军|马斯克|周杰伦|刘德华)/i;
+const MAJOR_EVENT_WORDS = /(killed|dies|dead|death|earthquake|explosion|plane crash|shooting|war|hurricane|wildfire|去世|逝世|死亡|遇难|地震|爆炸|坠机|枪击|台风|洪水|火灾)/i;
 
 export const RADAR_CHANNELS: { key: RadarChannel; label: string; desc: string }[] = [
   { key: "ai-tech", label: "AI / 科技", desc: "模型、设计工具、Skill 与 GitHub 资源" },
@@ -79,7 +80,8 @@ export function enrichRadarItems(items: AIItem[]): AIItem[] {
   });
 
   for (const cluster of clusters) {
-    const sourceCount = cluster.sources.size;
+    const inheritedCount = Math.max(...cluster.indexes.map((index) => enriched[index].corroboration ?? 1));
+    const sourceCount = Math.max(cluster.sources.size, inheritedCount);
     for (const index of cluster.indexes) {
       const item = enriched[index];
       const tierBase = item.tier === 1 ? 88 : item.tier === 2 ? 74 : 58;
@@ -89,7 +91,11 @@ export function enrichRadarItems(items: AIItem[]): AIItem[] {
         eventId: cluster.id,
         corroboration: sourceCount,
         confidence,
-        surge: (item.heat ?? 0) >= 78 || (sourceCount >= 3 && (item.heat ?? 0) >= 55),
+        surge:
+          (item.radarChannel === "ai-tech" && (item.heat ?? 0) >= 78) ||
+          (item.radarChannel === "breaking" && item.tier === 1 && MAJOR_EVENT_WORDS.test(item.title)) ||
+          ((item.radarChannel === "society" || item.radarChannel === "people") && sourceCount >= 2) ||
+          sourceCount >= 3,
       };
     }
   }

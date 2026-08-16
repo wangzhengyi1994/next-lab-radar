@@ -41,7 +41,7 @@
     "eventId": "event-1d6bvos",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:world-breaking-ebc1616f72",
@@ -173,7 +173,7 @@
     "eventId": "event-rq8475",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:bbc-top-2e2b97e6a6",
@@ -217,7 +217,7 @@
     "eventId": "event-1rpnz4o",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:ithome-200050e1df",
@@ -969,7 +969,7 @@
     "eventId": "event-t8705a",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:china-society-4899bf859c",
@@ -1105,7 +1105,7 @@
     "eventId": "event-18y475x",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:bbc-top-946276509a",
@@ -1127,7 +1127,7 @@
     "eventId": "event-6la5b7",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:bbc-top-4afd30fac7",
@@ -1479,7 +1479,7 @@
     "eventId": "event-1eyl9rv",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:qbitai-c93f9e9287",
@@ -1611,7 +1611,7 @@
     "eventId": "event-1ugl1h7",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:infoq-1a1638df76",
@@ -2631,7 +2631,7 @@
     "eventId": "event-fs56r8",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:bbc-world-3084e99565",
@@ -2951,7 +2951,7 @@
     "eventId": "event-1u55s4d",
     "corroboration": 1,
     "confidence": 88,
-    "surge": false
+    "surge": true
   },
   {
     "id": "hn-190f5a469f",
@@ -3217,7 +3217,7 @@
     "eventId": "event-10w1eau",
     "corroboration": 4,
     "confidence": 85,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:thedecoder-77077191b3",
@@ -3467,7 +3467,7 @@
     "eventId": "event-2tzmsv",
     "corroboration": 3,
     "confidence": 66,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:infoq-db23468d47",
@@ -3875,7 +3875,7 @@
     "eventId": "event-1bx8vv9",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:theverge-ai-d469d19d5d",
@@ -4089,7 +4089,7 @@
     "eventId": "event-1bx8vv9",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "hn-f435e325f6",
@@ -4939,7 +4939,7 @@
     "eventId": "event-1bx8vv9",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:techcrunch-ai-952a2dd22c",
@@ -5665,7 +5665,7 @@
     "eventId": "event-2tzmsv",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:hf-blog-c1c9885561",
@@ -5731,7 +5731,7 @@
     "eventId": "event-2tzmsv",
     "corroboration": 3,
     "confidence": 96,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:arstechnica-ai-cf3951101d",
@@ -6301,7 +6301,7 @@
     "eventId": "event-10w1eau",
     "corroboration": 4,
     "confidence": 85,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:openai-9e022b7caa",
@@ -6683,7 +6683,7 @@
     "eventId": "event-xcpzmd",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "gh-sparklingcoffee777-comfyui-anima-2-9b-lorapatch",
@@ -6801,7 +6801,7 @@
     "eventId": "event-10w1eau",
     "corroboration": 4,
     "confidence": 85,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:wired-ai-99584ee20d",
@@ -6845,7 +6845,7 @@
     "eventId": "event-10w1eau",
     "corroboration": 4,
     "confidence": 85,
-    "surge": false
+    "surge": true
   },
   {
     "id": "hf-2608.13391",
@@ -7457,7 +7457,7 @@
     "eventId": "event-xcpzmd",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:hf-blog-e43158037a",
@@ -7505,7 +7505,7 @@
     "eventId": "event-xcpzmd",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:msr-0377a19f73",
@@ -7921,7 +7921,7 @@
     "eventId": "event-xcpzmd",
     "corroboration": 3,
     "confidence": 96,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:openai-fb21820d80",
@@ -14487,7 +14487,7 @@
     "eventId": "event-tb6wam",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "rss:google-ai-7c8ae2784e",
@@ -14773,7 +14773,7 @@
     "eventId": "event-tb6wam",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "hn-be50ceae7a",
@@ -14799,7 +14799,7 @@
     "eventId": "event-tb6wam",
     "corroboration": 3,
     "confidence": 82,
-    "surge": false
+    "surge": true
   },
   {
     "id": "gh-200lz-llm-engineering-platform",
