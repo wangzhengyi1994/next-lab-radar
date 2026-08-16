@@ -56,6 +56,10 @@ export interface AIItem {
   confidence?: number;
   /** Fast-rising signal, used for editorial alerts. */
   surge?: boolean;
+  /** Mass-audience editorial potential, independent from source engagement. */
+  massAppeal?: number;
+  /** Overall suitability for turning this signal into a publishable story. */
+  editorialScore?: number;
 }
 
 export interface ItemsQuery {

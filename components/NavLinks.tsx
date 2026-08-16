@@ -14,6 +14,7 @@ export default function NavLinks() {
       <Link href="/stories" className="hover:text-brand-600">{t("nav.stories")}</Link>
       <Link href="/weekly" className="hover:text-brand-600">{t("nav.weekly")}</Link>
       <Link href="/trends" className="hover:text-brand-600">{t("nav.trends")}</Link>
+      <Link href="/workspace" className="px-3 py-1.5 bg-black text-white hover:bg-[#1548ff]">选题工作台</Link>
       <Link href="/about" className="hover:text-brand-600">工作流</Link>
       <LocaleSwitch />
     </nav>

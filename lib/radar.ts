@@ -4,14 +4,14 @@ const BREAKING_ORIGINS = new Set([
   "rss:bbc-top", "rss:bbc-world", "rss:world-breaking", "rss:ap-world",
 ]);
 const SOCIETY_ORIGINS = new Set([
-  "rss:china-society", "rss:thepaper", "rss:weibo-news", "rss:douyin-news",
+  "rss:china-society", "rss:viral-watch", "rss:film-watch", "rss:consumer-watch", "rss:thepaper", "rss:weibo-news", "rss:douyin-news",
 ]);
 const PEOPLE_ORIGINS = new Set([
   "rss:people-watch", "rss:entertainment-watch", "rss:grassroots-watch",
 ]);
 
 const BREAKING_WORDS = /(breaking|突发|去世|逝世|死亡|地震|坠机|爆炸|袭击|战争|停火|选举|总统|首相|重大事故|遇难|紧急状态|breaking news)/i;
-const SOCIETY_WORDS = /(社会|热搜|热议|网友|走红|爆火|摊主|烧烤|外卖|游客|学校|医院|警方|通报|回应|争议|奇葩|反转|民生|普通人)/i;
+const SOCIETY_WORDS = /(社会|热搜|热议|网友|走红|爆火|摊主|烧烤|外卖|游客|学校|医院|警方|通报|回应|争议|奇葩|反转|民生|普通人|电影|票房|牛来|猎奇|吐槽)/i;
 const PEOPLE_WORDS = /(明星|演员|歌手|网红|主播|博主|艺人|导演|主持人|张雪峰|大衣哥|朱之文|郭有才|董宇辉|李佳琦|雷军|马斯克|周杰伦|刘德华)/i;
 const MAJOR_EVENT_WORDS = /(killed|dies|dead|death|earthquake|explosion|plane crash|shooting|war|hurricane|wildfire|去世|逝世|死亡|遇难|地震|爆炸|坠机|枪击|台风|洪水|火灾)/i;
 
