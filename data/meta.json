@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-16T16:46:39.585Z",
-  "count": 979,
+  "fetchedAt": "2026-08-16T16:47:21.555Z",
+  "count": 1013,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -14,7 +14,7 @@
     "rss:viral-watch": 20,
     "rss:film-watch": 20,
     "rss:consumer-watch": 7,
-    "rss:openai": 0,
+    "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
     "rss:google-ai": 20,
@@ -63,9 +63,8 @@
     "rss:36kr": 0,
     "rss:infoq": 16,
     "rss:sspai": 1,
-    "rss:ithome": 4
+    "rss:ithome": 4,
+    "arxiv": 20
   },
-  "errors": {
-    "rss:openai": "fetch failed"
-  }
+  "errors": {}
 }

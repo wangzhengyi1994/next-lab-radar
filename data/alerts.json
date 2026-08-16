@@ -1,71 +1,16 @@
 {
-  "generatedAt": "2026-08-16T16:46:39.583Z",
+  "generatedAt": "2026-08-16T16:47:21.554Z",
   "alerts": [
     {
-      "eventId": "event-11surkv",
-      "title": "电影《牛来》实时票房破500万",
-      "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2cm5oaFNnTlpDaTRaeG5FZVpJWnJaM1U0cUlhNE5tTFhqNk9SSnFrb3p2bWtMTXZuQWtnOGxYOFNIRGF4SkVGQXBtdU5sRlV3V1l4TXdJQnM1bFdESmdzbg?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-16T16:46:39.583Z"
-    },
-    {
-      "eventId": "event-4mgl62",
-      "title": "票房超550万元，《牛来》成今年国产动画票房第10名",
-      "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92Y1FrM0ZLRU5VRnFyVC1CNEVQU29KTWtoLWFjc0x3RTc2SG5rR0JYa0V2dzF4ZDlITWExYm1OQklDRlIwTXZNNlVldkZ6aWFt?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-16T16:46:39.583Z"
-    },
-    {
-      "eventId": "event-180lzch",
-      "title": "暑期档最“魔幻”一幕？《牛来》票房超200万元",
-      "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ3M1MHBDQmQ1QWpWN1VNdXJXU3R3eFd0MExCZVpmT0dGWF9aZ3dwY2hlZE5mUnc1VUZWWE9FN09Ec1JMY2VHSW1rRmptQU9LQnh2TXlNcldiS0Q5MV9Zbm9EM1RlY3lxQ3Z2OWp1T3VaNk1zNGFYbmVjQXNDMWFLUnBkWmZGUUdSZ3R2aVUyZFE?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-16T16:46:39.583Z"
-    },
-    {
-      "eventId": "event-qfj7gj",
-      "title": "烂到极致票房暴涨千倍，《牛来》反向爆火影院懵了",
+      "eventId": "event-yywb3m",
+      "title": "《牛来》反向爆火，票房激增，发行方：看到成片曾劝导演别上了，观众可能是猎奇心理",
       "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01VVpCSXZzNWhqU05nM3FaaEdlQllPeHhjeEhObmIzRWhGYUhtQ0NHWnE0eWJ5NFN0aXEtX1FNNkFFVFdic0dhaG5ZWndNdjU1TnlZTXVqUjltaU1QaWVuSFBVcGdxdjdCZ01QUlI2TFFxOXBOTS1OV3ZoR2VBUQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUzdHM092SFRtaVE0Rk9mRXNJSklWZEFVMGtJNEhYamhVcFY3eFpobERpYXpKN3hCaVBVdHp3bTNMMVFpSGZaUTl3Ul83UQ?oc=5",
       "channel": "society",
-      "heat": 39,
+      "heat": 38,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-08-16T16:46:39.583Z"
-    },
-    {
-      "eventId": "event-d0stfn",
-      "title": "电影《牛来》反向爆火：重庆有影院排片激增，电商平台周边悄然上线",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmlmaFJaQ0RYZEk1UGJvWkw4Q1gxbmhVdDV1Rnc0QnFrb3hKYmJ0a0Jham1KMS1URzdtQzV1MXhzQVBJTm5LS1podkJPc3h1WkYxVHA2Umd0ZkdjaC1mV01sLW5pY19iUF9lWE5uZUVmbnA5RFVrSVNESXhhdDBTcV9XOURfWTdaaGVoaQ?oc=5",
-      "channel": "society",
-      "heat": 39,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-16T16:46:39.583Z"
-    },
-    {
-      "eventId": "event-cpr6ks",
-      "title": "九派时评：《牛来》反向爆火，电影市场可不是“人傻钱多”",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnlPWHBLdm5Ra01haUFYOWo2dkhPemtrRXNaZXAyVC1JSjFxZ3dDWG45bnRYdmdaQkZCMld5QTNmMF94UFNkQzl4V3BuU0JiT19hVDgyTVpiUEhBbDl4aWZxbHNLdGVqbEg5ZFVnVUFySW1nc0JjTU8xYW1SOFFDUzJGamFhOHBlVWVMdw?oc=5",
-      "channel": "society",
-      "heat": 39,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-16T16:46:39.583Z"
+      "detectedAt": "2026-08-16T16:47:21.554Z"
     }
   ]
 }
