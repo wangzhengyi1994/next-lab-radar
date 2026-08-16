@@ -48,6 +48,14 @@ const FEEDS: FeedDef[] = [
   { id: "rss:msr", label: "Microsoft Research", url: "https://www.microsoft.com/en-us/research/feed/", source: "Microsoft Research", category: "paper", aiOnly: true, tier: 1 },
   { id: "rss:aws-ml", label: "AWS ML Blog", url: "https://aws.amazon.com/blogs/machine-learning/feed/", source: "AWS ML", category: "tip", tier: 2 },
 
+  // ══ NEXT LAB 编辑关注：设计工具 / 前端 / 创意开发 ══
+  { id: "rss:figma", label: "Figma updates (via Google News)", url: "https://news.google.com/rss/search?q=site:figma.com%2Fblog+OR+site:figma.com%2Frelease-notes&hl=en-US&gl=US&ceid=US:en", source: "Figma", category: "ai-products", tier: 1, stripTitleSource: true },
+  { id: "rss:vercel", label: "Vercel Changelog", url: "https://vercel.com/atom", source: "Vercel", category: "tip", aiOnly: true, tier: 1 },
+  { id: "rss:github-blog", label: "GitHub Blog", url: "https://github.blog/feed/", source: "GitHub", category: "tip", aiOnly: true, tier: 1 },
+  { id: "rss:webflow", label: "Webflow Blog", url: "https://webflow.com/blog/rss.xml", source: "Webflow", category: "ai-products", aiOnly: true, tier: 2 },
+  { id: "rss:codrops", label: "Codrops", url: "https://tympanus.net/codrops/feed/", source: "Codrops", category: "ai-products", aiOnly: true, tier: 2 },
+  { id: "rss:smashing", label: "Smashing Magazine", url: "https://www.smashingmagazine.com/feed/", source: "Smashing Magazine", category: "tip", aiOnly: true, tier: 2 },
+
   // ══ Tier 2 — 权威科技媒体 ══
   { id: "rss:theverge-ai", label: "The Verge AI", url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", source: "The Verge", category: "industry", tier: 2 },
   { id: "rss:techcrunch-ai", label: "TechCrunch AI", url: "https://techcrunch.com/category/artificial-intelligence/feed/", source: "TechCrunch", category: "industry", tier: 2 },

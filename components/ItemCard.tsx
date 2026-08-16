@@ -1,5 +1,7 @@
 "use client";
 
+import { useState } from "react";
+
 import type { AIItem } from "@/lib/types";
 import { CATEGORY_MAP } from "@/lib/categories";
 import { formatItemTime } from "@/lib/timeFormat";
@@ -27,11 +29,30 @@ export default function ItemCard({
   onToggleBookmark?: (id: string) => void;
   onOpen?: (id: string) => void;
 }) {
+  const [briefCopied, setBriefCopied] = useState(false);
   const { t } = useLocale();
   const cat = item.category ? CATEGORY_MAP[item.category] : null;
   const timeText = formatItemTime(item.publishedAt);
   const isNew =
     !!item.firstSeen && !!now && now - new Date(item.firstSeen).getTime() < NEW_WINDOW_MS;
+
+  async function copyTopicBrief() {
+    const brief = [
+      `选题：${item.title}`,
+      `来源：${item.source}`,
+      `原文：${item.sourceUrl}`,
+      item.summary ? `信息：${cleanText(item.summary)}` : "",
+      "",
+      "NEXT LAB 转化要求：",
+      "1. 先核验原始发布时间、官方说明与 GitHub 状态。",
+      "2. 亲自试用或复现，保留截图、输入和输出。",
+      "3. 以第一人称写：它解决什么、哪里好用、哪里还不行。",
+      "4. 配图优先使用真实 UI / GitHub / 实测结果，不用空洞概念图。",
+    ].filter(Boolean).join("\n");
+    await navigator.clipboard.writeText(brief);
+    setBriefCopied(true);
+    window.setTimeout(() => setBriefCopied(false), 1600);
+  }
 
   return (
     <article className={"card p-4 flex flex-col gap-3" + (read ? " opacity-60" : "")}>
@@ -111,18 +132,21 @@ export default function ItemCard({
         </p>
       )}
 
-      <div className="pt-2 mt-auto border-t border-gray-100 dark:border-gray-700 text-xs text-gray-500 dark:text-gray-400">
+      <div className="pt-3 mt-auto border-t border-black/10 dark:border-white/10 text-xs text-gray-500 dark:text-gray-400 flex items-center justify-between gap-3">
         <a
           href={item.sourceUrl}
           target="_blank"
           rel="noreferrer"
           onClick={() => onOpen?.(item.id)}
-          className="flex items-center gap-1.5 truncate hover:text-brand-600"
+          className="flex items-center gap-1.5 truncate hover:text-brand-600 min-w-0"
           title={item.source}
         >
           <SourceIcon url={item.sourceUrl} source={item.source} size={14} />
           <span className="truncate">{item.source}</span>
         </a>
+        <button type="button" onClick={copyTopicBrief} className="topic-brief-button shrink-0">
+          {briefCopied ? "已复制" : "转为选题"}
+        </button>
       </div>
     </article>
   );

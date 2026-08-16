@@ -10,16 +10,16 @@ const config: Config = {
     extend: {
       colors: {
         brand: {
-          50: "#eef4ff",
-          100: "#d9e6ff",
-          500: "#3b6cff",
-          600: "#2453ee",
-          700: "#1a3fc7",
+          50: "#edf2ff",
+          100: "#d9e3ff",
+          500: "#1548ff",
+          600: "#123edb",
+          700: "#0d2ea6",
         },
       },
       fontFamily: {
         sans: [
-          "ui-sans-serif",
+          "Avenir Next",
           "system-ui",
           "-apple-system",
           "Segoe UI",

@@ -3,16 +3,16 @@
 @tailwind utilities;
 
 :root {
-  --bg: #f6f7fb;
-  --panel: #ffffff;
-  --text: #1c2434;
-  --muted: #6b7280;
-  --border: #e5e7eb;
-  --radius: 16px;
-  --radius-sm: 12px;
-  --radius-xs: 8px;
-  --shadow: 0 2px 12px -2px rgba(36, 83, 238, 0.04), 0 1px 2px rgba(0, 0, 0, 0.03);
-  --shadow-hover: 0 8px 28px -4px rgba(36, 83, 238, 0.10), 0 4px 10px rgba(0, 0, 0, 0.04);
+  --bg: #f4f1e9;
+  --panel: #faf8f2;
+  --text: #0b0b0b;
+  --muted: #66645f;
+  --border: rgba(11, 11, 11, 0.16);
+  --radius: 0px;
+  --radius-sm: 0px;
+  --radius-xs: 0px;
+  --shadow: none;
+  --shadow-hover: 8px 8px 0 rgba(21, 72, 255, 0.16);
   --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.10), 0 6px 16px rgba(36, 83, 238, 0.06);
 }
 
@@ -31,7 +31,7 @@ html,
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: ui-sans-serif, system-ui, -apple-system, "PingFang SC",
+  font-family: "Avenir Next", "Helvetica Neue", system-ui, -apple-system, "PingFang SC",
     "Microsoft YaHei", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -59,8 +59,8 @@ body {
 
 .card:hover {
   box-shadow: var(--shadow-hover);
-  transform: translateY(-2px);
-  border-color: rgba(36, 83, 238, 0.12);
+  transform: translate(-2px, -2px);
+  border-color: #1548ff;
 }
 
 .dark .card:hover {
@@ -163,6 +163,38 @@ h1, h2, h3, h4, h5, h6 { letter-spacing: -0.01em; }
 
 /* Selection */
 ::selection {
-  background: rgba(36, 83, 238, 0.12);
-  color: inherit;
+  background: #ff1f1f;
+  color: #fff;
+}
+
+.radar-masthead {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 58px 32px 44px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(280px, .65fr);
+  align-items: end;
+  gap: 48px;
+  border-bottom: 8px solid #1548ff;
+  position: relative;
+}
+.radar-masthead::before {
+  content: "";
+  width: 116px;
+  height: 8px;
+  background: #ff1f1f;
+  position: absolute;
+  left: 32px;
+  bottom: -8px;
+  z-index: 1;
+}
+.radar-kicker { margin: 0 0 18px; font-size: 11px; font-weight: 800; letter-spacing: .18em; }
+.radar-masthead h1 { margin: 0; max-width: 820px; font-size: clamp(46px, 6vw, 92px); line-height: .96; font-weight: 900; letter-spacing: -.065em; }
+.radar-intro { margin: 0; max-width: 520px; font-size: 15px; line-height: 1.9; color: var(--muted); }
+.topic-brief-button { border: 1px solid #0b0b0b; background: #0b0b0b; color: #fff; padding: 7px 10px; font-size: 11px; font-weight: 700; letter-spacing: .04em; }
+.topic-brief-button:hover { background: #1548ff; border-color: #1548ff; }
+@media (max-width: 767px) {
+  .radar-masthead { padding: 38px 20px 30px; grid-template-columns: 1fr; gap: 24px; }
+  .radar-masthead::before { left: 20px; width: 84px; }
+  .radar-masthead h1 { font-size: 49px; }
 }

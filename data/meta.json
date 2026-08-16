@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-15T22:38:55.866Z",
-  "count": 797,
+  "fetchedAt": "2026-08-16T15:58:19.597Z",
+  "count": 822,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 122,
-    "rss:openai": 20,
+    "hackernews": 119,
+    "rss:openai": 0,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
     "rss:google-ai": 20,
@@ -21,6 +21,12 @@
     "rss:mit-news-ai": 20,
     "rss:msr": 8,
     "rss:aws-ml": 20,
+    "rss:figma": 20,
+    "rss:vercel": 10,
+    "rss:github-blog": 5,
+    "rss:webflow": 7,
+    "rss:codrops": 0,
+    "rss:smashing": 7,
     "rss:theverge-ai": 10,
     "rss:techcrunch-ai": 20,
     "rss:venturebeat-ai": 7,
@@ -28,11 +34,11 @@
     "rss:techreview-ai": 10,
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
-    "rss:marktechpost": 0,
+    "rss:marktechpost": 10,
     "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
-    "rss:simonwillison": 10,
+    "rss:simonwillison": 11,
     "rss:lilianweng": 20,
     "rss:raschka": 20,
     "rss:thegradient": 12,
@@ -46,10 +52,11 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 14,
     "rss:36kr": 0,
-    "rss:infoq": 17,
+    "rss:infoq": 16,
     "rss:sspai": 1,
-    "rss:ithome": 7,
-    "arxiv": 20
+    "rss:ithome": 4
   },
-  "errors": {}
+  "errors": {
+    "rss:openai": "fetch failed"
+  }
 }

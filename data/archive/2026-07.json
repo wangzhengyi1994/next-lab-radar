@@ -10575,7 +10575,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 25,
+    "heat": 26,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-09T23:38:05.213Z",
@@ -40991,7 +40991,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 25,
+    "heat": 24,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -41740,14 +41740,14 @@
       "codex-skill",
       "Python"
     ],
-    "heat": 31,
+    "heat": 32,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-07-22T23:24:49.618Z",
     "aiNote": null,
     "image": null,
     "fetchedAt": null,
-    "engagement": 2221,
+    "engagement": 2257,
     "tier": 2
   },
   {
@@ -42708,7 +42708,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 24,
+    "heat": 23,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-23T23:20:32.498Z",
@@ -43644,7 +43644,7 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:hf-blog",
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-07-23T23:20:32.498Z",
     "aiNote": "开源加速4位扩散模型推理，降低算力门槛，推动AI普及。",
     "fetchedAt": null,
@@ -49146,7 +49146,7 @@
   {
     "id": "rss:anthropic-d7445f77d2",
     "title": "Introducing Claude Opus 5",
-    "summary": "Introducing Claude Opus 5 Anthropic",
+    "summary": "Introducing Claude Opus 5 anthropic.com",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
     "category": "ai-models",
@@ -49486,7 +49486,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 1
@@ -49610,7 +49610,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 2
@@ -52525,7 +52525,7 @@
   {
     "id": "rss:anthropic-a0024e2ad4",
     "title": "Guidance on Candidates' AI Usage",
-    "summary": "Guidance on Candidates' AI Usage Anthropic",
+    "summary": "Guidance on Candidates' AI Usage anthropic.com",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6Y2pLZlFmVkRWeFlqV1Z0ZG8wcTBuMkdHU3dYM2g1LW1adm4wbDl6R2dEUUFKbmdXUlZMQ19DMmlEU293VDZYQ0UxMVhNejFCUllaYVNtQndzZk0?oc=5",
     "category": "ai-models",
@@ -52729,7 +52729,7 @@
   {
     "id": "rss:anthropic-c8653a64cb",
     "title": "Home \\ Anthropic",
-    "summary": "Home \\ Anthropic Anthropic",
+    "summary": "Home \\ Anthropic anthropic.com",
     "source": "Anthropic",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5RZk9pdlNWV1NMRG9YSzh2VjNsX05pdkZYcU9PcV81dEprUC1NbS0wMUVLYTBqY0lheGxQRHhqcw?oc=5",
     "category": "ai-models",
@@ -52851,7 +52851,7 @@
       "android",
       "TypeScript"
     ],
-    "engagement": 2079,
+    "engagement": 2085,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55626,7 +55626,7 @@
     "aiSelected": true,
     "origin": "rss:importai",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
     "tier": 2
@@ -56217,7 +56217,7 @@
       "llm",
       "TypeScript"
     ],
-    "engagement": 1047,
+    "engagement": 1052,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -60010,7 +60010,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2
@@ -60027,7 +60027,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 1
@@ -60319,7 +60319,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 1
@@ -62340,7 +62340,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 592,
+    "engagement": 595,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -62430,7 +62430,7 @@
       "robotics",
       "Python"
     ],
-    "engagement": 115,
+    "engagement": 117,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -62961,7 +62961,7 @@
     "origin": "hackernews",
     "aiNote": "将顶尖模型知识蒸馏到开源模型，突破审查限制，为金融领域提供低成本高效方案。",
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2
@@ -63644,7 +63644,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2
@@ -63796,7 +63796,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2
@@ -63881,7 +63881,7 @@
     "aiSelected": true,
     "origin": "rss:techreview-ai",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2
@@ -64857,7 +64857,7 @@
     "aiSelected": true,
     "origin": "rss:bair",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 1
@@ -66938,7 +66938,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
     "tier": 2
@@ -68081,12 +68081,12 @@
       "knowledge-base",
       "Python"
     ],
-    "engagement": 101,
+    "engagement": 102,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 24,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
     "tier": 2

@@ -9,15 +9,15 @@ import MobileNav from "@/components/MobileNav";
 import ScrollToTop from "@/components/ScrollToTop";
 import { SITE_DESC, SITE_NAME, SITE_URL } from "@/lib/seo";
 
-const TITLE = "AI Search · AI 行业资讯聚合";
+const TITLE = "NEXT LAB RADAR · 海外 AI 选题雷达";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: { default: TITLE, template: "%s · AI Search" },
+  title: { default: TITLE, template: "%s · NEXT LAB RADAR" },
   description: SITE_DESC,
   applicationName: SITE_NAME,
   keywords: ["AI 资讯", "人工智能", "大模型", "LLM", "AI 新闻", "AI 日报", "AI Agent", "机器学习", "AI 工具"],
-  authors: [{ name: "Jackychen-12", url: "https://github.com/Jackychen-12" }],
+  authors: [{ name: "NEXT LAB" }],
   alternates: { canonical: SITE_URL },
   openGraph: {
     type: "website",
@@ -26,13 +26,13 @@ export const metadata: Metadata = {
     description: SITE_DESC,
     url: SITE_URL,
     locale: "zh_CN",
-    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "AI Search" }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "NEXT LAB RADAR" }],
   },
   twitter: { card: "summary_large_image", title: TITLE, description: SITE_DESC, images: ["/og-image.png"] },
 };
 
 export const viewport: Viewport = {
-  themeColor: "#2453ee",
+  themeColor: "#0b0b0b",
 };
 
 const DARK_MODE_SCRIPT = `(function(){try{if(window.matchMedia('(prefers-color-scheme:dark)').matches)document.documentElement.classList.add('dark')}catch(e){}})()`;

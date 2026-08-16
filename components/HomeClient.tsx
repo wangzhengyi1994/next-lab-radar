@@ -80,7 +80,15 @@ function HomeLayout({
       <Header />
       <CategoryNav />
 
-      <main id="main-content" className="max-w-7xl mx-auto px-4 py-6 grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-6">
+      <div className="radar-masthead">
+        <div>
+          <p className="radar-kicker">EDITORIAL INTELLIGENCE / UPDATED DAILY</p>
+          <h1>今天有什么值得写</h1>
+        </div>
+        <p className="radar-intro">从海外官方发布、GitHub、Hacker News、论文和设计社区里挑出真正适合 NEXT LAB 的信号。不追求全，只找能实测、能做图、能讲清楚的题。</p>
+      </div>
+
+      <main id="main-content" className="max-w-[1440px] mx-auto px-5 md:px-8 py-8 grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-8">
         <section className="min-w-0">
           {showDigest && <NewSince items={items} />}
           {heroItem && <Hero item={heroItem} />}
@@ -107,7 +115,7 @@ function HomeLayout({
       <footer className="border-t border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900 mt-10">
         <div className="max-w-7xl mx-auto px-4 py-6 text-xs text-gray-500 dark:text-gray-400 flex flex-wrap items-center justify-between gap-2">
           <span>
-            © {new Date().getFullYear()} AI Search · {t("footer.total")} {items.length} {t("footer.totalSuffix")}
+            © {new Date().getFullYear()} NEXT LAB RADAR · {t("footer.total")} {items.length} {t("footer.totalSuffix")}
             {meta?.fetchedAt && <> · {t("footer.updated")} {formatBJDate(meta.fetchedAt)}</>}
           </span>
           <div className="flex items-center gap-3">
@@ -119,20 +127,11 @@ function HomeLayout({
               rel="noreferrer"
               className="hover:text-brand-600"
             >
-              GitHub
+              开源底座
             </a>
           </div>
         </div>
-        <div className="max-w-7xl mx-auto px-4 pb-5 text-center text-[11px] text-gray-400 dark:text-gray-500">
-          <a
-            href="https://github.com/Jackychen-12"
-            target="_blank"
-            rel="noreferrer"
-            className="hover:text-brand-600 transition"
-          >
-            Follow me on GitHub @Jackychen-12 for all project updates
-          </a>
-        </div>
+        <div className="max-w-7xl mx-auto px-4 pb-5 text-center text-[11px] text-gray-400 dark:text-gray-500">Built for NEXT LAB editorial workflow · Powered by the open-source AI-Search engine</div>
       </footer>
     </>
   );

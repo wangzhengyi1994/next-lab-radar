@@ -1,11 +1,11 @@
 import type { Category, CategoryKey } from "./types";
 
 export const CATEGORIES: Category[] = [
-  { key: "ai-models", label: "模型发布/更新", desc: "大模型与基础模型的发布与更新" },
-  { key: "ai-products", label: "产品发布/更新", desc: "新产品、新功能、新版本" },
-  { key: "industry", label: "行业动态", desc: "AI 行业趋势与重大事件" },
-  { key: "paper", label: "论文研究", desc: "论文、技术报告与研究进展" },
-  { key: "tip", label: "技巧与观点", desc: "实用技巧与深度观点" },
+  { key: "ai-models", label: "模型 / Agent", desc: "模型、Agent 与编程能力的一手发布" },
+  { key: "ai-products", label: "设计 / 产品", desc: "AI 设计工具、界面产品与新功能" },
+  { key: "industry", label: "行业信号", desc: "值得持续追踪的 AI 行业变化" },
+  { key: "paper", label: "论文 / 方法", desc: "能转化为设计与开发实验的研究" },
+  { key: "tip", label: "Skill / 资源", desc: "Codex Skill、GitHub 资源与真实工作流" },
 ];
 
 export const CATEGORY_MAP: Record<CategoryKey, Category> = Object.fromEntries(
