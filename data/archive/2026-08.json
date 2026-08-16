@@ -12175,8 +12175,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 40,
-    "firstSeen": "2026-08-07T01:33:58.898Z",
+    "heat": 39,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -12294,8 +12294,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 40,
-    "firstSeen": "2026-08-07T01:33:58.898Z",
+    "heat": 39,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -12486,7 +12486,7 @@
     "origin": "rss:openai",
     "aiNote": null,
     "heat": 39,
-    "firstSeen": "2026-08-07T01:33:58.898Z",
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -14558,7 +14558,7 @@
     "origin": "hackernews",
     "aiNote": "推理速度与成本再突破，模型迭代加速，AI应用门槛持续降低。",
     "image": null,
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-08-07T22:56:01.343Z",
     "fetchedAt": null,
     "tier": 2
@@ -14816,9 +14816,9 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:openai",
-    "aiNote": "AI安全新战场，OpenAI提前为智能体实战防御定标，值得跟进。",
-    "heat": 41,
-    "firstSeen": "2026-08-07T22:56:01.343Z",
+    "aiNote": null,
+    "heat": 40,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -15229,8 +15229,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 41,
-    "firstSeen": "2026-08-07T22:56:01.343Z",
+    "heat": 40,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -18681,7 +18681,7 @@
       "aider",
       "Python"
     ],
-    "engagement": 827,
+    "engagement": 828,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -18984,7 +18984,7 @@
     "origin": "hackernews",
     "aiNote": "AI巨头主动公开水印技术，行业透明化迈出关键一步。",
     "image": null,
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-08-10T22:57:01.923Z",
     "fetchedAt": null,
     "tier": 2
@@ -19191,9 +19191,9 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:openai",
-    "aiNote": "AI财务转型实战指南，OpenAI高管亲述五条核心经验，直击自动化预测与投资回报率痛点。",
-    "heat": 45,
-    "firstSeen": "2026-08-10T22:57:01.923Z",
+    "aiNote": null,
+    "heat": 44,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -19459,7 +19459,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-08-10T22:57:01.923Z",
     "fetchedAt": null,
     "tier": 2
@@ -19497,8 +19497,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 45,
-    "firstSeen": "2026-08-10T22:57:01.923Z",
+    "heat": 44,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -19675,8 +19675,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 45,
-    "firstSeen": "2026-08-10T22:57:01.923Z",
+    "heat": 44,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -19832,8 +19832,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 45,
-    "firstSeen": "2026-08-10T22:57:01.923Z",
+    "heat": 44,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -19849,8 +19849,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 45,
-    "firstSeen": "2026-08-10T22:57:01.923Z",
+    "heat": 44,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -20103,7 +20103,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-08-10T22:57:01.923Z",
     "fetchedAt": null,
     "tier": 2
@@ -20188,8 +20188,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 44,
-    "firstSeen": "2026-08-10T22:57:01.923Z",
+    "heat": 43,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -20205,8 +20205,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 44,
-    "firstSeen": "2026-08-10T22:57:01.923Z",
+    "heat": 43,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -20222,8 +20222,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 44,
-    "firstSeen": "2026-08-10T22:57:01.923Z",
+    "heat": 43,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -23693,8 +23693,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 46,
-    "firstSeen": "2026-08-11T23:04:36.948Z",
+    "heat": 45,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -23710,8 +23710,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 46,
-    "firstSeen": "2026-08-11T23:04:36.948Z",
+    "heat": 45,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -26070,7 +26070,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 41,
+    "heat": 40,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
     "tier": 2
@@ -26622,8 +26622,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 47,
-    "firstSeen": "2026-08-12T23:02:39.648Z",
+    "heat": 46,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -26800,8 +26800,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 47,
-    "firstSeen": "2026-08-12T23:02:39.648Z",
+    "heat": 46,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -26855,7 +26855,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
     "tier": 2
@@ -28072,7 +28072,7 @@
       "ai-coding",
       "HTML"
     ],
-    "engagement": 710,
+    "engagement": 712,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -28456,7 +28456,7 @@
     "origin": "hackernews",
     "aiNote": "超高速迭代或预示模型架构新突破，值得追踪性能跃升与算力需求。",
     "image": null,
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2
@@ -29070,7 +29070,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 47,
+    "heat": 46,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2
@@ -29210,8 +29210,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 50,
-    "firstSeen": "2026-08-13T23:04:07.240Z",
+    "heat": 48,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -29312,8 +29312,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 50,
-    "firstSeen": "2026-08-13T23:04:07.240Z",
+    "heat": 48,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -29350,7 +29350,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 33,
+    "heat": 34,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2
@@ -29367,8 +29367,8 @@
     "aiSelected": true,
     "origin": "rss:openai",
     "aiNote": null,
-    "heat": 49,
-    "firstSeen": "2026-08-13T23:04:07.240Z",
+    "heat": 48,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -29439,7 +29439,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 34,
+    "heat": 35,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2
@@ -31070,7 +31070,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 310,
+    "engagement": 311,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": "把会话数据变资产，AI开发效率的新杠杆。",
@@ -31147,7 +31147,7 @@
     "origin": "hackernews",
     "aiNote": "手写AI教学新范式，回归本质，值得开发者与教育者关注。",
     "image": null,
-    "heat": 45,
+    "heat": 44,
     "firstSeen": "2026-08-14T22:41:58.336Z",
     "fetchedAt": null,
     "tier": 2
@@ -32151,7 +32151,7 @@
       "multimodal",
       "JavaScript"
     ],
-    "engagement": 395,
+    "engagement": 397,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -32177,8 +32177,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32198,8 +32198,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32219,8 +32219,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32240,8 +32240,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32261,8 +32261,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32282,8 +32282,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32320,8 +32320,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32341,8 +32341,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32362,8 +32362,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32383,8 +32383,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32404,8 +32404,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32425,8 +32425,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32446,8 +32446,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32467,8 +32467,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32488,8 +32488,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32509,8 +32509,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -32530,8 +32530,8 @@
     "origin": "arxiv",
     "aiNote": null,
     "image": null,
-    "heat": 50,
-    "firstSeen": "2026-08-14T22:41:58.336Z",
+    "heat": 49,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
     "fetchedAt": null,
     "tier": 1
   },
@@ -33342,7 +33342,7 @@
       "harness",
       "TypeScript"
     ],
-    "engagement": 439,
+    "engagement": 440,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -33507,7 +33507,7 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 168,
+    "engagement": 169,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": "从实验室到临床，AI制药的落地瓶颈与突破路径值得深读。",
@@ -33550,7 +33550,7 @@
     "origin": "hackernews",
     "aiNote": "工作记忆突破人脑极限，AI复杂推理能力将迎来质变。",
     "image": null,
-    "heat": 50,
+    "heat": 49,
     "firstSeen": "2026-08-15T22:38:48.662Z",
     "fetchedAt": null,
     "tier": 2
@@ -33766,7 +33766,7 @@
     "origin": "hackernews",
     "aiNote": "网络巨头自曝AI失控，警示行业安全底线。",
     "image": null,
-    "heat": 37,
+    "heat": 38,
     "firstSeen": "2026-08-15T22:38:48.662Z",
     "fetchedAt": null,
     "tier": 2
@@ -34164,7 +34164,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 35,
+    "heat": 36,
     "firstSeen": "2026-08-15T22:38:48.662Z",
     "fetchedAt": null,
     "tier": 2
@@ -34463,12 +34463,12 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 53,
+    "engagement": 57,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 28,
+    "heat": 30,
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 2
@@ -34492,13 +34492,13 @@
   },
   {
     "id": "rss:ithome-70828309d0",
-    "title": "人形机器人运动会赛前冲刺备战“家政赛”：30 分钟内完成收纳叠衣，大模型助力持续学习",
+    "title": "人形机器人运动会赛前冲刺备战“家政赛”：30 分钟内完成收纳叠衣等多项任务，AI 大模型助力持续学习",
     "summary": "IT之家 8 月 16 日消息，第二届世界人形机器人运动会将于 8 月 22 日晚在北京国家速滑馆“冰丝带”拉开帷幕。随着赛期临近，各参赛队伍已进入最后的冲刺训练阶段。 今天（16 日）开始，部分场景赛已经开启预赛。因此，央视新闻今日就探访了部分队伍的赛前训练情况。 本届运动会由北京市人民政府、中央广播电视总台等联合主办，正赛时间为 8 月 22 日至 26…",
     "source": "IT之家",
     "sourceUrl": "https://www.ithome.com/0/990/389.htm",
     "category": "industry",
     "publishedAt": "2026-08-16T13:52:16.000Z",
-    "image": "https://img.ithome.com/newsuploadfiles/2026/8/afcc7452-e0a0-460b-ab73-fa5cf1d44021.jpg?x-bce-process=image/format,f_auto",
+    "image": "https://img.ithome.com/newsuploadfiles/2026/8/afcc7452-e0a0-460b-ab73-fa5cf1d44021.jpg",
     "aiSelected": true,
     "origin": "rss:ithome",
     "aiNote": null,
@@ -34535,12 +34535,12 @@
     "tags": [
       "Hacker News"
     ],
-    "engagement": 198,
+    "engagement": 202,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 45,
+    "heat": 44,
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 2
@@ -35429,7 +35429,7 @@
       "mlops",
       "HTML"
     ],
-    "engagement": 683,
+    "engagement": 685,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -35544,7 +35544,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 2
@@ -35922,5 +35922,43 @@
     "firstSeen": "2026-08-16T15:58:19.595Z",
     "fetchedAt": null,
     "tier": 1
+  },
+  {
+    "id": "rss:theverge-ai-a1c7d35e07",
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "category": "industry",
+    "publishedAt": "2026-08-16T14:56:40.000Z",
+    "image": null,
+    "aiSelected": true,
+    "origin": "rss:theverge-ai",
+    "aiNote": null,
+    "heat": 40,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "fetchedAt": null,
+    "tier": 2
+  },
+  {
+    "id": "hn-2bb4134c09",
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "summary": null,
+    "source": "Hacker News",
+    "sourceUrl": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "category": "industry",
+    "publishedAt": "2026-06-27T09:18:52Z",
+    "tags": [
+      "Hacker News"
+    ],
+    "engagement": 797,
+    "aiSelected": true,
+    "origin": "hackernews",
+    "aiNote": null,
+    "image": null,
+    "heat": 30,
+    "firstSeen": "2026-08-16T16:03:26.248Z",
+    "fetchedAt": null,
+    "tier": 2
   }
 ]
