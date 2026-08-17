@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-08-17T01:55:00.487Z",
+  "generatedAt": "2026-08-17T04:57:44.642Z",
   "alerts": [
     {
-      "eventId": "event-ld4qrl",
-      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "eventId": "event-7onkul",
+      "title": "Heroes actress Hayden Panettiere dies aged 36",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 96,
       "corroboration": 3,
-      "detectedAt": "2026-08-17T01:55:00.487Z"
+      "detectedAt": "2026-08-17T04:57:44.642Z"
     },
     {
-      "eventId": "event-w2hapa",
-      "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-08-17T01:55:00.487Z"
+      "eventId": "event-8xumnd",
+      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-17T04:57:44.642Z"
     },
     {
-      "eventId": "event-1548ni5",
-      "title": "全网群嘲的《牛来》反向爆火，热搜第一，股民追捧|电影票房|暑期档|电影评分|熊出没·年年有熊|导演_手机新浪网",
+      "eventId": "event-1kc7olb",
+      "title": "票房逼近1000万，《牛来》反向爆火！ 反向爆火！国产动画《牛来》票房接近1000万，冲进2026国产动画票房榜前十。据九派新闻，该片出品方来自大连，大连有影院表示，接到通知下架《牛来》，不再上映。#牛来票房破1000万 #大连有影院下架牛来 #影院工作人员问牛来",
       "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3ZLcjZjVW5oWTFvUFdWMmF0Zk9mZlZUaEQzdnBpWjJEclRGN2NuUlFvenlNN2IxblNhemJvVHFLb0IzYng3MUxEck82enl4QTE4eTN3S3gtRURLOUpZMGpfTDRMeTBJb3diLUdmLWdYVTE4ejRwSmNseFVCejR4NnBxU3JhdGcySElKV2pFLUM1UnU3VHpsN0EtbkZrMDg?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHY3a2xMR1dSaEFvZUx0c0s3VkVYbGMwcm1rVHJCLW1zR29pYkFPbFppR1BIZFNOZjNMcUsycFdjNW5xUC1NYmtEYktYYUgzcWpoSGlKVEdjYXByQlAybFFQMUZ4a1NsOUNscGhpX1VGZjZielpuOTRzV2hSamxyYVNQQUtaNlpL?oc=5",
       "channel": "society",
       "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-08-17T01:55:00.487Z"
+      "detectedAt": "2026-08-17T04:57:44.642Z"
     },
     {
-      "eventId": "event-1j9ezv8",
-      "title": "电影《牛来》进入2026年国产动画票房榜前10",
-      "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02WG04TVdMUDhFc3RoRW16NGNlTGVWZG5oS2xuYlBpRjdjaG1qcGxTTDY4QUlyZEVXSzRPM2lLM05TNEFyb0xEWkJoSXJXUFRaNGVhQ0JpOGhSaDc1ZkpObw?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-17T01:55:00.487Z"
+      "eventId": "event-zcis8",
+      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-17T04:57:44.642Z"
     }
   ]
 }
