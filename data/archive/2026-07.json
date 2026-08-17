@@ -1887,7 +1887,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 16,
+    "heat": 15,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -19408,7 +19408,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 19,
+    "heat": 20,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -41942,7 +41942,7 @@
     "aiNote": null,
     "image": null,
     "fetchedAt": null,
-    "engagement": 2269,
+    "engagement": 2271,
     "tier": 2,
     "radarChannel": "society",
     "eventId": "event-ym6h2o",
@@ -50890,7 +50890,7 @@
   {
     "id": "rss:meta-ai-92a8bb99c9",
     "title": "Your personal AI assistant & chatbot | Ask, chat & more",
-    "summary": "Your personal AI assistant & chatbot | Ask, chat & more AI at Meta",
+    "summary": "Your personal AI assistant & chatbot | Ask, chat & more ai.meta.com",
     "source": "Meta AI",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xN1RIbER2TUxocmZ4a0QyNUlNMFRxbFhNeVZNYm80c1lRbUI5ZDN3Qlg0cHZyMVAzRDh3Y1B2T2twVndKd1pFRkc4QTkxOHM?oc=5",
     "category": "ai-models",
@@ -53343,7 +53343,7 @@
   {
     "id": "rss:meta-ai-52bce32c44",
     "title": "Meta Movie Gen",
-    "summary": "Meta Movie Gen AI at Meta",
+    "summary": "Meta Movie Gen ai.meta.com",
     "source": "Meta AI",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XTmp6Tm00a2V2Yk9tenBnVVBkbGJRQnhvV1JWZjhGTlhzb19sdDN6bTY2bU9GdjhTUUZLOUFVeFNUSnBXMWsyX3VOQ295TTY4?oc=5",
     "category": "ai-models",
@@ -53365,7 +53365,7 @@
   {
     "id": "rss:meta-ai-54c941bdeb",
     "title": "Connect 2024: The responsible approach we’re taking to generative AI",
-    "summary": "Connect 2024: The responsible approach we’re taking to generative AI AI at Meta",
+    "summary": "Connect 2024: The responsible approach we’re taking to generative AI ai.meta.com",
     "source": "Meta AI",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
     "category": "ai-models",
@@ -53421,7 +53421,7 @@
   {
     "id": "rss:meta-ai-b50d23ed74",
     "title": "System Cards",
-    "summary": "System Cards AI at Meta",
+    "summary": "System Cards ai.meta.com",
     "source": "Meta AI",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DN0pMamtjb1Vvd0tnSVJWQmZkUy1nWDRJOTk3eWtGRFc4cDZIX1ZIOEhEMVVDa2J1N1VMV3hCNGtrOTNuQ19JdFFLZm02Tkc5?oc=5",
     "category": "ai-models",
@@ -53443,7 +53443,7 @@
   {
     "id": "rss:meta-ai-21d2f59bb6",
     "title": "Resources and tools for advancing AI, together",
-    "summary": "Resources and tools for advancing AI, together AI at Meta",
+    "summary": "Resources and tools for advancing AI, together ai.meta.com",
     "source": "Meta AI",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WRTlFZUVrT2Mwb2xLckdEOXRubmhlRkF0R1FZUXhDSkNzSEhvcHM5WVFvZEZrX1oyWDVNXzJkbWctX1Ut?oc=5",
     "category": "ai-models",
@@ -53482,7 +53482,7 @@
   {
     "id": "rss:meta-ai-fb6454a3b7",
     "title": "Meta’s progress and learnings in AI fairness and transparency",
-    "summary": "Meta’s progress and learnings in AI fairness and transparency AI at Meta",
+    "summary": "Meta’s progress and learnings in AI fairness and transparency ai.meta.com",
     "source": "Meta AI",
     "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
     "category": "ai-models",
@@ -53631,7 +53631,7 @@
       "android",
       "TypeScript"
     ],
-    "engagement": 2097,
+    "engagement": 2099,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -53683,7 +53683,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 21,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2,
@@ -53911,7 +53911,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 24,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2,
@@ -57257,7 +57257,7 @@
       "llm",
       "TypeScript"
     ],
-    "engagement": 1053,
+    "engagement": 1055,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -61045,7 +61045,7 @@
     "origin": "hackernews",
     "aiNote": "Anthropic破解AI黑箱，揭示模型内部机制，安全性研究迎来关键突破。",
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2,
@@ -62462,7 +62462,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 19,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2,
@@ -63470,7 +63470,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 597,
+    "engagement": 600,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -69316,7 +69316,7 @@
       "knowledge-base",
       "Python"
     ],
-    "engagement": 103,
+    "engagement": 105,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
