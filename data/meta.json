@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-16T16:47:21.555Z",
-  "count": 1013,
+  "fetchedAt": "2026-08-17T01:55:00.488Z",
+  "count": 1003,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 119,
+    "hackernews": 122,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
@@ -13,7 +13,7 @@
     "rss:entertainment-watch": 20,
     "rss:viral-watch": 20,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 7,
+    "rss:consumer-watch": 13,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -62,9 +62,11 @@
     "rss:geekpark": 14,
     "rss:36kr": 0,
     "rss:infoq": 16,
-    "rss:sspai": 1,
-    "rss:ithome": 4,
-    "arxiv": 20
+    "rss:sspai": 2,
+    "rss:ithome": 3,
+    "arxiv": 0
   },
-  "errors": {}
+  "errors": {
+    "arxiv": "This operation was aborted"
+  }
 }

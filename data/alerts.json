@@ -1,16 +1,49 @@
 {
-  "generatedAt": "2026-08-16T16:47:21.554Z",
+  "generatedAt": "2026-08-17T01:55:00.487Z",
   "alerts": [
     {
-      "eventId": "event-yywb3m",
-      "title": "《牛来》反向爆火，票房激增，发行方：看到成片曾劝导演别上了，观众可能是猎奇心理",
+      "eventId": "event-ld4qrl",
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-08-17T01:55:00.487Z"
+    },
+    {
+      "eventId": "event-w2hapa",
+      "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-08-17T01:55:00.487Z"
+    },
+    {
+      "eventId": "event-1548ni5",
+      "title": "全网群嘲的《牛来》反向爆火，热搜第一，股民追捧|电影票房|暑期档|电影评分|熊出没·年年有熊|导演_手机新浪网",
       "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUzdHM092SFRtaVE0Rk9mRXNJSklWZEFVMGtJNEhYamhVcFY3eFpobERpYXpKN3hCaVBVdHp3bTNMMVFpSGZaUTl3Ul83UQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3ZLcjZjVW5oWTFvUFdWMmF0Zk9mZlZUaEQzdnBpWjJEclRGN2NuUlFvenlNN2IxblNhemJvVHFLb0IzYng3MUxEck82enl4QTE4eTN3S3gtRURLOUpZMGpfTDRMeTBJb3diLUdmLWdYVTE4ejRwSmNseFVCejR4NnBxU3JhdGcySElKV2pFLUM1UnU3VHpsN0EtbkZrMDg?oc=5",
       "channel": "society",
-      "heat": 38,
+      "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-08-16T16:47:21.554Z"
+      "detectedAt": "2026-08-17T01:55:00.487Z"
+    },
+    {
+      "eventId": "event-1j9ezv8",
+      "title": "电影《牛来》进入2026年国产动画票房榜前10",
+      "source": "Google News · 电影",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02WG04TVdMUDhFc3RoRW16NGNlTGVWZG5oS2xuYlBpRjdjaG1qcGxTTDY4QUlyZEVXSzRPM2lLM05TNEFyb0xEWkJoSXJXUFRaNGVhQ0JpOGhSaDc1ZkpObw?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-08-17T01:55:00.487Z"
     }
   ]
 }
