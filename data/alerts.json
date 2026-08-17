@@ -1,71 +1,38 @@
 {
-  "generatedAt": "2026-08-17T09:00:19.067Z",
+  "generatedAt": "2026-08-17T13:04:48.625Z",
   "alerts": [
     {
-      "eventId": "event-kv3tag",
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-08-17T09:00:19.067Z"
-    },
-    {
-      "eventId": "event-txiq98",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-17T09:00:19.067Z"
-    },
-    {
-      "eventId": "event-1u01fvc",
-      "title": "《牛来》反向爆火，魔幻票房反差戳中国产电影的痛点",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0FXMzZsMWVlTnlsMlF0d0lwTVNXZkdWY214bnJWR1lMYlQxZVc4WlRVTnZ4dk5GMjdwZlRWcUpsVzVDRU5udGR4VTE1a2pOUkpvTEZ0UUdCOW9Gcl93OEdzaGM1OFg3Q3dSWHI0TWxJRWtQT0N4VjM2UHVXRmNVWFNTbURwWnBMWE1SSg?oc=5",
-      "channel": "society",
+      "eventId": "event-1wdtgu0",
+      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "channel": "ai-tech",
       "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-08-17T13:04:48.625Z"
+    },
+    {
+      "eventId": "event-bv880z",
+      "title": "反向爆火、二创出圈！《牛来》票房破300万元，预测总票房超1800万元！大家都想看看到底什么样",
+      "source": "Google News · 爆点",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vdy1QVGRNTnJDZ2Z1YVAwT3NHSk1MZEZKYXNQQWV5VTBjUzgxT3QwVW91VFF4N0N1Z1BJYWdMX25vNnJaMGd4QkljZEtMZw?oc=5",
+      "channel": "society",
+      "heat": 38,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-08-17T09:00:19.067Z"
+      "detectedAt": "2026-08-17T13:04:48.625Z"
     },
     {
-      "eventId": "event-17337ii",
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-17T09:00:19.067Z"
-    },
-    {
-      "eventId": "event-1ygaxhq",
-      "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
+      "eventId": "event-1kzpnuw",
+      "title": "Virgin takes step towards running Channel Tunnel rail services",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-17T09:00:19.067Z"
-    },
-    {
-      "eventId": "event-sif9oh",
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-17T09:00:19.067Z"
+      "detectedAt": "2026-08-17T13:04:48.625Z"
     }
   ]
 }
