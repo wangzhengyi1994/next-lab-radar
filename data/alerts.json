@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-08-18T08:52:53.446Z",
+  "generatedAt": "2026-08-18T13:06:46.496Z",
   "alerts": [
     {
-      "eventId": "event-tns91r",
-      "title": "Release Notes",
-      "source": "Figma",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uMjNFN04wMm1lTXVKUFloZTVGNll2TE85VXkzVF82UWxNQ0FUS0FZZW1IUk5WakxTZlg4d01MWW9WeGhQRGNZLXJTams?oc=5",
+      "eventId": "event-zqting",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/chatgpt-for-teens",
       "channel": "ai-tech",
-      "heat": 47,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-08-18T08:52:53.446Z"
-    },
-    {
-      "eventId": "event-6kr7xv",
-      "title": "What it's like to be on a warship like the USS Abraham Lincoln",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-18T08:52:53.446Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-08-18T13:06:46.496Z"
     },
     {
-      "eventId": "event-vb1a27",
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-18T08:52:53.446Z"
-    },
-    {
-      "eventId": "event-145ywej",
-      "title": "电影《牛来》票房还在涨",
+      "eventId": "event-1hemkhj",
+      "title": "《牛来》被网友“发行”了",
       "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ONFJ2WWVSLTZzcWt3TXYyWTFWQnV1N0JLaWMtU2doQzJJdFVjenB0RkNlWGR5Z242UGpqMGRVeE9wbGthUFlVMlhXV01kdEl3M21PUXBfcEZLN0lG?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjWnB2UG1EZlhFVVc0WVJXV2ZxZ295MHJtbE8yMlNRUV9sSmhrcGhaT3BETXB4NDRxMzZGRkV3Z2tiQnM4U0U1eXdNVjc4QkZjZi1ZX0dpQkdmTF9ZV3c?oc=5",
       "channel": "society",
-      "heat": 40,
+      "heat": 39,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-08-18T08:52:53.446Z"
+      "detectedAt": "2026-08-18T13:06:46.496Z"
     },
     {
-      "eventId": "event-16v41mp",
-      "title": "《牛来》反向爆火，雷霆画风让人笑到停不下来，网友：太魔性",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lRkNZU05VNU8ybGY5dG02YVlfS2V3ZGR4LUF5eXhNbzJJZHVFcmFWck1ZODhPd1hTLWNQWGdJbUF1QXNINzRoemQ2THc0eFJNLWN4REd3?oc=5",
-      "channel": "society",
-      "heat": 38,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-18T08:52:53.446Z"
-    },
-    {
-      "eventId": "event-sbc604",
-      "title": "Man charged with manslaughter after man bitten by dog dies",
+      "eventId": "event-1ij41ad",
+      "title": "British couple on honeymoon killed in helicopter crash on Greek island",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g6m388pl2o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-18T08:52:53.446Z"
+      "detectedAt": "2026-08-18T13:06:46.496Z"
+    },
+    {
+      "eventId": "event-1fpdrte",
+      "title": "One dead and hundreds ill in UK salmonella outbreak",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-18T13:06:46.496Z"
+    },
+    {
+      "eventId": "event-17ahvmx",
+      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-18T13:06:46.496Z"
+    },
+    {
+      "eventId": "event-yfhqyx",
+      "title": "National Television Awards pick first all-female shortlist for drama acting award",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crk53pr44kjo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-18T13:06:46.496Z"
     }
   ]
 }
