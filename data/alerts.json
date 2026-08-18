@@ -1,38 +1,71 @@
 {
-  "generatedAt": "2026-08-17T13:04:48.625Z",
+  "generatedAt": "2026-08-18T01:50:38.794Z",
   "alerts": [
     {
-      "eventId": "event-1wdtgu0",
-      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "eventId": "event-1gt23jm",
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-08-18T01:50:38.794Z"
+    },
+    {
+      "eventId": "event-nsfdg7",
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "source": "Hacker News",
+      "sourceUrl": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "channel": "ai-tech",
+      "heat": 47,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-08-18T01:50:38.794Z"
+    },
+    {
+      "eventId": "event-dhmx6v",
+      "title": "[AINews] Stripe buys OpenRouter for $7B",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
       "channel": "ai-tech",
       "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-08-17T13:04:48.625Z"
+      "detectedAt": "2026-08-18T01:50:38.794Z"
     },
     {
-      "eventId": "event-bv880z",
-      "title": "反向爆火、二创出圈！《牛来》票房破300万元，预测总票房超1800万元！大家都想看看到底什么样",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vdy1QVGRNTnJDZ2Z1YVAwT3NHSk1MZEZKYXNQQWV5VTBjUzgxT3QwVW91VFF4N0N1Z1BJYWdMX25vNnJaMGd4QkljZEtMZw?oc=5",
-      "channel": "society",
-      "heat": 38,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-17T13:04:48.625Z"
-    },
-    {
-      "eventId": "event-1kzpnuw",
-      "title": "Virgin takes step towards running Channel Tunnel rail services",
+      "eventId": "event-1k3e0w3",
+      "title": "Russia warns UK over supplying drones to Ukraine",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-17T13:04:48.625Z"
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-18T01:50:38.794Z"
+    },
+    {
+      "eventId": "event-ru7dnu",
+      "title": "动画《牛来》反向爆火 手绘海报响应猎奇观影",
+      "source": "Google News · 爆点",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdzFXOGc5QWRtME1iMk9ydjdHLUlFMjlxeVBGUXJla0x1VThKcUNiYW5Pd0puS2RLc19Kb0VOb1NNUlo3OWtLNkJuTmVWQjZXQ0lUQUhia2tvRjRRMTJqMEE2eVhvNGFvWEQ1S3g5V19UWUVLeVJKLVFXWHZ2Vk9PWmJXRmg4cnJ4ZDg1TUZEWGh2LU8xcGhmX042M3FJR09GdzRBdGJXaU82WlpvQUZRVi1DWmJNVjFOcWFyX1pqeTlwTk1YUmNTMUxjVTBIOXpsMFk2LUhrQjh2bEQ4a1lGd1pHaXlxQlFiRnFjVEp2Y3U3LU5xSEVHcDFJTWk0YlQ4cXlZTFFUdWZreVBSYi1kNGlraHBLbUdoZkIxbDdhNzg3Wm14OEt0VGJvWmEzMmdEREsxS0tXUUtnMFhDeElqVVNGTQ?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-08-18T01:50:38.794Z"
+    },
+    {
+      "eventId": "event-1qzmara",
+      "title": "花钱为陌生人爱情随份子？瑞幸七夕联名被骂上热搜",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVSVFLUjV6S0c4RVRuaDhCLVBadDZOaWZZaVIxQmVSbHdWQmhPdTBXNnF3OVB2M1hGaG1SYnJPTUlVdzgyclRrNTFyTUd3MTFIdjBrZmYtOHA1djJJZVhwcTRkNHM?oc=5",
+      "channel": "society",
+      "heat": 39,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-08-18T01:50:38.794Z"
     }
   ]
 }
