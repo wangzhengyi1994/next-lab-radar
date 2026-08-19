@@ -1,71 +1,60 @@
 {
-  "generatedAt": "2026-08-19T01:52:41.662Z",
+  "generatedAt": "2026-08-19T04:50:43.699Z",
   "alerts": [
     {
-      "eventId": "event-1g7qfh2",
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
+      "eventId": "event-zkylbj",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
       "corroboration": 3,
-      "detectedAt": "2026-08-19T01:52:41.662Z"
+      "detectedAt": "2026-08-19T04:50:43.699Z"
     },
     {
-      "eventId": "event-1x9gqcx",
-      "title": "Cursor Origin 👨‍💻, Anthropic $65B revenue 💰, deadline dividend scaling 📈",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-08-18",
-      "channel": "ai-tech",
-      "heat": 38,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-08-19T01:52:41.662Z"
-    },
-    {
-      "eventId": "event-1ne6oze",
-      "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "source": "Hacker News",
-      "sourceUrl": "https://artificialanalysis.ai/models/glm-5-3",
-      "channel": "ai-tech",
-      "heat": 34,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-08-19T01:52:41.662Z"
-    },
-    {
-      "eventId": "event-11buaui",
+      "eventId": "event-w4uop9",
       "title": "ZZ Top drummer Frank Beard dies aged 77",
       "source": "BBC World",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-19T01:52:41.662Z"
+      "detectedAt": "2026-08-19T04:50:43.699Z"
     },
     {
-      "eventId": "event-1i15nfv",
-      "title": "人民锐评：“龙餐馆”走红，谁又“破防”了？",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYUhmRnJPSGk0SFE3cmV4Vl8xZVZYcTNzSnpEOS12MmxVV1FEYjlSdFQyQ1R2TXJiOFBEbVJFcHV6NkdVYnl5SDB1ZXVBeDg0bFByRTZ1VWJYSzdSalUtMkZvM1hzSkRXbGxyamR3NFN6d0ZlS1ZLRzJFaWVwLS1oS0xIRVNLcjItYUJn?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-19T01:52:41.662Z"
-    },
-    {
-      "eventId": "event-1vprfl4",
-      "title": "Three dead after family get into difficulty in sea",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1c4rgaa",
+      "title": "South Korea shortens war games with US, citing Washington request",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-19T01:52:41.662Z"
+      "detectedAt": "2026-08-19T04:50:43.699Z"
+    },
+    {
+      "eventId": "event-xvoq48",
+      "title": "Husband and mother-in-law charged over Indian bride's death",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-19T04:50:43.699Z"
+    },
+    {
+      "eventId": "event-1psgnh0",
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-19T04:50:43.699Z"
     }
   ]
 }
