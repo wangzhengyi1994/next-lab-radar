@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-08-18T13:06:46.496Z",
+  "generatedAt": "2026-08-19T01:52:41.662Z",
   "alerts": [
     {
-      "eventId": "event-zqting",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/chatgpt-for-teens",
+      "eventId": "event-1g7qfh2",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
       "channel": "ai-tech",
-      "heat": 55,
-      "confidence": 96,
+      "heat": 39,
+      "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-08-18T13:06:46.496Z"
+      "detectedAt": "2026-08-19T01:52:41.662Z"
     },
     {
-      "eventId": "event-1hemkhj",
-      "title": "《牛来》被网友“发行”了",
-      "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjWnB2UG1EZlhFVVc0WVJXV2ZxZ295MHJtbE8yMlNRUV9sSmhrcGhaT3BETXB4NDRxMzZGRkV3Z2tiQnM4U0U1eXdNVjc4QkZjZi1ZX0dpQkdmTF9ZV3c?oc=5",
+      "eventId": "event-1x9gqcx",
+      "title": "Cursor Origin 👨‍💻, Anthropic $65B revenue 💰, deadline dividend scaling 📈",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-08-18",
+      "channel": "ai-tech",
+      "heat": 38,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-08-19T01:52:41.662Z"
+    },
+    {
+      "eventId": "event-1ne6oze",
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "source": "Hacker News",
+      "sourceUrl": "https://artificialanalysis.ai/models/glm-5-3",
+      "channel": "ai-tech",
+      "heat": 34,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-08-19T01:52:41.662Z"
+    },
+    {
+      "eventId": "event-11buaui",
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-19T01:52:41.662Z"
+    },
+    {
+      "eventId": "event-1i15nfv",
+      "title": "人民锐评：“龙餐馆”走红，谁又“破防”了？",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYUhmRnJPSGk0SFE3cmV4Vl8xZVZYcTNzSnpEOS12MmxVV1FEYjlSdFQyQ1R2TXJiOFBEbVJFcHV6NkdVYnl5SDB1ZXVBeDg0bFByRTZ1VWJYSzdSalUtMkZvM1hzSkRXbGxyamR3NFN6d0ZlS1ZLRzJFaWVwLS1oS0xIRVNLcjItYUJn?oc=5",
       "channel": "society",
-      "heat": 39,
+      "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-08-18T13:06:46.496Z"
+      "detectedAt": "2026-08-19T01:52:41.662Z"
     },
     {
-      "eventId": "event-1ij41ad",
-      "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+      "eventId": "event-1vprfl4",
+      "title": "Three dead after family get into difficulty in sea",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-18T13:06:46.496Z"
-    },
-    {
-      "eventId": "event-1fpdrte",
-      "title": "One dead and hundreds ill in UK salmonella outbreak",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-18T13:06:46.496Z"
-    },
-    {
-      "eventId": "event-17ahvmx",
-      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-18T13:06:46.496Z"
-    },
-    {
-      "eventId": "event-yfhqyx",
-      "title": "National Television Awards pick first all-female shortlist for drama acting award",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crk53pr44kjo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-18T13:06:46.496Z"
+      "detectedAt": "2026-08-19T01:52:41.662Z"
     }
   ]
 }
