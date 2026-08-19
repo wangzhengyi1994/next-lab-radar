@@ -10610,7 +10610,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 24,
+    "heat": 25,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-09T23:38:05.213Z",
@@ -53631,7 +53631,7 @@
       "android",
       "TypeScript"
     ],
-    "engagement": 2173,
+    "engagement": 2187,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -63470,7 +63470,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 609,
+    "engagement": 612,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
