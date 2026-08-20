@@ -1,27 +1,38 @@
 {
-  "generatedAt": "2026-08-20T04:52:13.910Z",
+  "generatedAt": "2026-08-20T08:55:47.782Z",
   "alerts": [
     {
-      "eventId": "event-1mz1uyh",
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-iys32l",
+      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-20T04:52:13.910Z"
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-20T08:55:47.782Z"
     },
     {
-      "eventId": "event-1nsyd1s",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "eventId": "event-8d87ke",
+      "title": "Four workers dead after being hit by train in Japan",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-20T04:52:13.910Z"
+      "detectedAt": "2026-08-20T08:55:47.782Z"
+    },
+    {
+      "eventId": "event-atnbwo",
+      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-20T08:55:47.782Z"
     }
   ]
 }
