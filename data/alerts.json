@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-08-20T01:50:59.386Z",
+  "generatedAt": "2026-08-20T04:52:13.910Z",
   "alerts": [
     {
-      "eventId": "event-1j6is01",
-      "title": "Vapes could lead to health harms in children, doctors warn",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1mz1uyh",
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-20T01:50:59.386Z"
+      "detectedAt": "2026-08-20T04:52:13.910Z"
     },
     {
-      "eventId": "event-1enn4pf",
-      "title": "Spared execution eight times, oldest inmate in US dies at 101",
+      "eventId": "event-1nsyd1s",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-20T01:50:59.386Z"
+      "detectedAt": "2026-08-20T04:52:13.910Z"
     }
   ]
 }
