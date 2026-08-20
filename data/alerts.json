@@ -1,38 +1,49 @@
 {
-  "generatedAt": "2026-08-20T08:55:47.782Z",
+  "generatedAt": "2026-08-20T13:10:31.635Z",
   "alerts": [
     {
-      "eventId": "event-iys32l",
-      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-20T08:55:47.782Z"
+      "eventId": "event-3ppbrb",
+      "title": "Simple agents",
+      "source": "Ben's Bites",
+      "sourceUrl": "https://www.bensbites.com/p/simple-agents",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-08-20T13:10:31.635Z"
     },
     {
-      "eventId": "event-8d87ke",
-      "title": "Four workers dead after being hit by train in Japan",
+      "eventId": "event-916cxy",
+      "title": "Meta AI&#8217;s new Mac app wants you to talk to your apps",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-08-20T13:10:31.635Z"
+    },
+    {
+      "eventId": "event-14l4agh",
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-20T08:55:47.782Z"
+      "detectedAt": "2026-08-20T13:10:31.635Z"
     },
     {
-      "eventId": "event-atnbwo",
-      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-b1pgdb",
+      "title": "Ex-Zambian minister killed in security raid on opposition",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-20T08:55:47.782Z"
+      "detectedAt": "2026-08-20T13:10:31.635Z"
     }
   ]
 }
