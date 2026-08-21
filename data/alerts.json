@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-08-21T04:53:42.948Z",
+  "generatedAt": "2026-08-21T08:57:36.749Z",
   "alerts": [
     {
-      "eventId": "event-1dj0xzv",
-      "title": "El Niño weather system set to be 'strongest in living memory', warns Met Office",
+      "eventId": "event-mqs40f",
+      "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
       "source": "BBC News",
       "sourceUrl": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-21T04:53:42.948Z"
-    },
-    {
-      "eventId": "event-9o3mkt",
-      "title": "Japan executes man who killed five in Pachinko parlour fire",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-21T04:53:42.948Z"
+      "detectedAt": "2026-08-21T08:57:36.749Z"
     }
   ]
 }
