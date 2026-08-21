@@ -1,49 +1,27 @@
 {
-  "generatedAt": "2026-08-21T01:57:29.386Z",
+  "generatedAt": "2026-08-21T04:53:42.948Z",
   "alerts": [
     {
-      "eventId": "event-3zler",
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-08-21T01:57:29.386Z"
-    },
-    {
-      "eventId": "event-1m87lq",
-      "title": "My family have fished this river for 300 years - now pollution has killed all the fish",
+      "eventId": "event-1dj0xzv",
+      "title": "El Niño weather system set to be 'strongest in living memory', warns Met Office",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-21T01:57:29.386Z"
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-21T04:53:42.948Z"
     },
     {
-      "eventId": "event-1kk4wta",
-      "title": "Dozens dead after boat capsizes in north-western Nigeria",
+      "eventId": "event-9o3mkt",
+      "title": "Japan executes man who killed five in Pachinko parlour fire",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-21T01:57:29.386Z"
-    },
-    {
-      "eventId": "event-1wnm2re",
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-21T01:57:29.386Z"
+      "detectedAt": "2026-08-21T04:53:42.948Z"
     }
   ]
 }
