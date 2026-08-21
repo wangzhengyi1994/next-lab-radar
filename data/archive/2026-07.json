@@ -1887,7 +1887,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 16,
+    "heat": 15,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -8575,7 +8575,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 21,
+    "heat": 20,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-09T23:38:05.213Z",
@@ -19408,7 +19408,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 19,
+    "heat": 18,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -38109,7 +38109,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 31,
+    "heat": 30,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -42908,7 +42908,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 22,
+    "heat": 21,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-23T23:20:32.498Z",
@@ -43892,7 +43892,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 25,
+    "heat": 24,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-23T23:20:32.498Z",
@@ -46340,7 +46340,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 16,
+    "heat": 15,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": "颠覆传统事件存储，直接存答案，大幅降低数据成本和查询延迟。",
@@ -48422,7 +48422,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 27,
+    "heat": 26,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": "泄露的会议记录显示DeepSeek暂缓融资，揭示中美算力差距的真实影响。",
@@ -49007,7 +49007,7 @@
     "origin": "hackernews",
     "aiNote": "开源工具将前沿模型成本减半，专为智能体优化，持续提升性能。",
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 2,
@@ -53683,7 +53683,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2,
@@ -53911,7 +53911,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2,
@@ -56897,7 +56897,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
     "tier": 1,
@@ -61105,7 +61105,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2,
@@ -61170,7 +61170,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2,
@@ -63475,7 +63475,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 28,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2,
@@ -64101,7 +64101,7 @@
     "origin": "hackernews",
     "aiNote": "将顶尖模型知识蒸馏到开源模型，突破审查限制，为金融领域提供低成本高效方案。",
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2,

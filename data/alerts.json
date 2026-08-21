@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-08-20T13:10:31.635Z",
+  "generatedAt": "2026-08-21T01:57:29.386Z",
   "alerts": [
     {
-      "eventId": "event-3ppbrb",
-      "title": "Simple agents",
-      "source": "Ben's Bites",
-      "sourceUrl": "https://www.bensbites.com/p/simple-agents",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-08-20T13:10:31.635Z"
-    },
-    {
-      "eventId": "event-916cxy",
-      "title": "Meta AI&#8217;s new Mac app wants you to talk to your apps",
+      "eventId": "event-3zler",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
       "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-08-20T13:10:31.635Z"
+      "detectedAt": "2026-08-21T01:57:29.386Z"
     },
     {
-      "eventId": "event-14l4agh",
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1m87lq",
+      "title": "My family have fished this river for 300 years - now pollution has killed all the fish",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-20T13:10:31.635Z"
+      "detectedAt": "2026-08-21T01:57:29.386Z"
     },
     {
-      "eventId": "event-b1pgdb",
-      "title": "Ex-Zambian minister killed in security raid on opposition",
+      "eventId": "event-1kk4wta",
+      "title": "Dozens dead after boat capsizes in north-western Nigeria",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-20T13:10:31.635Z"
+      "detectedAt": "2026-08-21T01:57:29.386Z"
+    },
+    {
+      "eventId": "event-1wnm2re",
+      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-21T01:57:29.386Z"
     }
   ]
 }
