@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-08-22T04:48:42.069Z",
-  "count": 986,
+  "fetchedAt": "2026-08-22T08:47:02.687Z",
+  "count": 980,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 108,
+    "hackernews": 107,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
     "rss:china-society": 20,
     "rss:people-watch": 20,
     "rss:entertainment-watch": 20,
-    "rss:viral-watch": 16,
+    "rss:viral-watch": 18,
     "rss:film-watch": 20,
     "rss:consumer-watch": 8,
     "rss:openai": 20,
@@ -26,7 +26,7 @@
     "rss:cohere": 0,
     "rss:qwen": 20,
     "rss:apple-ml": 10,
-    "rss:bair": 0,
+    "rss:bair": 10,
     "rss:mit-news-ai": 20,
     "rss:msr": 7,
     "rss:aws-ml": 20,
@@ -43,7 +43,7 @@
     "rss:techreview-ai": 10,
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
-    "rss:marktechpost": 10,
+    "rss:marktechpost": 0,
     "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
@@ -59,14 +59,12 @@
     "rss:qbitai": 10,
     "rss:jiqizhixin": 20,
     "rss:xinzhiyuan": 20,
-    "rss:geekpark": 16,
+    "rss:geekpark": 17,
     "rss:36kr": 0,
     "rss:infoq": 13,
     "rss:sspai": 1,
-    "rss:ithome": 4,
+    "rss:ithome": 3,
     "arxiv": 20
   },
-  "errors": {
-    "rss:bair": "fetch failed"
-  }
+  "errors": {}
 }
