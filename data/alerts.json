@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-08-22T08:47:02.686Z",
+  "generatedAt": "2026-08-22T12:59:54.905Z",
   "alerts": [
     {
-      "eventId": "event-79sp77",
-      "title": "Multiple deaths after collision between police vehicle and car",
+      "eventId": "event-1daqjez",
+      "title": "Two-time world boxing champion Tete shot dead outside home",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c98v78n72v5o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-22T08:47:02.686Z"
-    },
-    {
-      "eventId": "event-asng8u",
-      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-22T08:47:02.686Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-22T12:59:54.905Z"
     }
   ]
 }
