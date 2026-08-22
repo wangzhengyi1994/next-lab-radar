@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-08-21T13:10:18.218Z",
+  "generatedAt": "2026-08-22T01:49:21.707Z",
   "alerts": [
     {
-      "eventId": "event-bx67hx",
-      "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "eventId": "event-coz1qa",
+      "title": "llm 0.32.1",
+      "source": "Simon Willison",
+      "sourceUrl": "https://simonwillison.net/2026/Aug/21/llm/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-08-22T01:49:21.707Z"
+    },
+    {
+      "eventId": "event-1u8iv5",
+      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-21T13:10:18.218Z"
+      "detectedAt": "2026-08-22T01:49:21.707Z"
     },
     {
-      "eventId": "event-9e2ogx",
-      "title": "“烂到极致，反而成了神作”：被誉为“纯手搓”的中国动画《牛来》意外走红",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNd2J5dFNVanlGeFNXWWNxUVVibk9OOVM5T1FibzZRTEpSNGwtV2txbmRBU3BfbmNVRjItcFpCRS1YLUtlM1pTckNpeTk5OTZ0RGROa09ZNnRTWl9VemtrTGtGcHlOckRqaUIxQjZSV2cyNG5MS0ktR001UVgzTzJrN2VuUGpCRC1qbENnejltTkJwVV8waEdCMldtei1ZVGNXS1lMU2ZUSHBRRXU5RURwRDJJNUhpNVpLYkVsMkZhWlVWRWZmcEpEelRDcWppMWdqZjd0anUzbE56UC1pVGZZaG55YU5KNElybTM1c3hIOW02Z2RDSFNWUl8zYS0xN2hCU2J2UzhkWW5wei0tRGd4MlZoWEVzZFpjZmQ2eTJSZE5YZThKUml6dVRqRlljcmpJQ0xNSzdaN1FVT1lMcUw1bk1VVkxEcy0tNzVERGdLNmpPNmFOWnFFZUp3QUJ5UFhaMFVBbzc5Qm82MWZxemxIamFkT2x2bjlTRXYzb2RWdnZubVhYdUhVVmcxUGcxcTdOdlFIb3RtZko5MEFsT0VsRW9TN0pUUGxETklTS0RobzJuVGdBQnc?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-21T13:10:18.218Z"
-    },
-    {
-      "eventId": "event-1jmi1kh",
-      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-21T13:10:18.218Z"
-    },
-    {
-      "eventId": "event-tug3pi",
-      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-21T13:10:18.218Z"
-    },
-    {
-      "eventId": "event-rvtwm8",
-      "title": "Dave Bautista confirmed as new God of War star",
+      "eventId": "event-1et830z",
+      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dxpgp1ego?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-21T13:10:18.218Z"
+      "detectedAt": "2026-08-22T01:49:21.707Z"
+    },
+    {
+      "eventId": "event-ugq8k6",
+      "title": "One killed in sword attack at Swedish school",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-22T01:49:21.707Z"
+    },
+    {
+      "eventId": "event-1s8vh1m",
+      "title": "Murder investigation after wildfire uncovers body in park",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0rdk9ddepvo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-22T01:49:21.707Z"
+    },
+    {
+      "eventId": "event-b41c3c",
+      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-22T01:49:21.707Z"
     }
   ]
 }
