@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-22T01:49:21.708Z",
-  "count": 996,
+  "fetchedAt": "2026-08-22T04:48:42.069Z",
+  "count": 986,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -11,9 +11,9 @@
     "rss:china-society": 20,
     "rss:people-watch": 20,
     "rss:entertainment-watch": 20,
-    "rss:viral-watch": 17,
+    "rss:viral-watch": 16,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 9,
+    "rss:consumer-watch": 8,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -26,7 +26,7 @@
     "rss:cohere": 0,
     "rss:qwen": 20,
     "rss:apple-ml": 10,
-    "rss:bair": 10,
+    "rss:bair": 0,
     "rss:mit-news-ai": 20,
     "rss:msr": 7,
     "rss:aws-ml": 20,
@@ -61,10 +61,12 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 16,
     "rss:36kr": 0,
-    "rss:infoq": 14,
+    "rss:infoq": 13,
     "rss:sspai": 1,
     "rss:ithome": 4,
     "arxiv": 20
   },
-  "errors": {}
+  "errors": {
+    "rss:bair": "fetch failed"
+  }
 }

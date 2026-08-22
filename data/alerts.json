@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-08-22T01:49:21.707Z",
+  "generatedAt": "2026-08-22T04:48:42.067Z",
   "alerts": [
     {
-      "eventId": "event-coz1qa",
-      "title": "llm 0.32.1",
-      "source": "Simon Willison",
-      "sourceUrl": "https://simonwillison.net/2026/Aug/21/llm/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-08-22T01:49:21.707Z"
-    },
-    {
-      "eventId": "event-1u8iv5",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "eventId": "event-1wp2fuh",
+      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-22T01:49:21.707Z"
+      "detectedAt": "2026-08-22T04:48:42.067Z"
     },
     {
-      "eventId": "event-1et830z",
-      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+      "eventId": "event-1exckj",
+      "title": "暑期档票房破110亿！《空枪》朱一龙檀健次上演正邪对峙，《大唐妖探》10张电影票免费送",
+      "source": "Google News · 电影",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LNTlUZEJoQjZtWDRSQ0JKVXRBOUhBMWRmRkdLN3dOcTRyUmh5c0dONjhqX3l1R1FDSnBPaUdmd2pyR2xsZzdWTGNOeVZpVWxSZ25sb25NdHI2UjJhbngwdmZvMnNNN1dzR3VEUlhPT0VrclRRNHE1RA?oc=5",
+      "channel": "society",
+      "heat": 39,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-08-22T04:48:42.067Z"
+    },
+    {
+      "eventId": "event-dbhhnj",
+      "title": "反向爆火的动画电影《牛来》票房即将破3000万！",
+      "source": "Google News · 爆点",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wZ2dIUGl2MkhKcjJkVHBpdGRLNEl6UmJadGVZeHo5OEpWZVZMS3k3TFRMcXVaVW15Ung0V1VNVFo5bTNWN0xtSFYtYlFLTXZEa25mRGdKUWFUdDN2TnZHbVd3?oc=5",
+      "channel": "society",
+      "heat": 37,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-08-22T04:48:42.067Z"
+    },
+    {
+      "eventId": "event-10pzln0",
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-22T01:49:21.707Z"
+      "detectedAt": "2026-08-22T04:48:42.067Z"
     },
     {
-      "eventId": "event-ugq8k6",
-      "title": "One killed in sword attack at Swedish school",
+      "eventId": "event-1x7pq2",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 53,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-22T01:49:21.707Z"
+      "detectedAt": "2026-08-22T04:48:42.067Z"
     },
     {
-      "eventId": "event-1s8vh1m",
-      "title": "Murder investigation after wildfire uncovers body in park",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0rdk9ddepvo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-22T01:49:21.707Z"
-    },
-    {
-      "eventId": "event-b41c3c",
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "eventId": "event-1oj1yb4",
+      "title": "Peru earthquake damages buildings and causes power cuts",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 53,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-22T01:49:21.707Z"
+      "detectedAt": "2026-08-22T04:48:42.067Z"
     }
   ]
 }

@@ -43854,7 +43854,7 @@
     "image": null,
     "aiSelected": true,
     "origin": "rss:hf-blog",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-07-23T23:20:32.498Z",
     "aiNote": "开源加速4位扩散模型推理，降低算力门槛，推动AI普及。",
     "fetchedAt": null,
@@ -51137,8 +51137,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1wclgga",
-    "corroboration": 2,
-    "confidence": 78,
+    "corroboration": 1,
+    "confidence": 74,
     "surge": false
   },
   {
@@ -60044,7 +60044,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
     "tier": 2,
@@ -63470,7 +63470,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 618,
+    "engagement": 620,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
