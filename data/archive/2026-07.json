@@ -30224,7 +30224,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 15,
+    "heat": 14,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-16T23:19:44.738Z",
@@ -50899,7 +50899,7 @@
     "aiSelected": true,
     "origin": "rss:meta-ai",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 1,
