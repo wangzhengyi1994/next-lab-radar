@@ -1,27 +1,4 @@
 {
-  "generatedAt": "2026-08-23T08:47:26.402Z",
-  "alerts": [
-    {
-      "eventId": "event-1elrdr2",
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-23T08:47:26.402Z"
-    },
-    {
-      "eventId": "event-ze3eun",
-      "title": "净利润暴涨86倍！董宇辉及四大主播相继离职后，东方甄选更赚钱了？",
-      "source": "Google News · 人物",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VdXowTFhVZ0JXSUFVdVotWkNDT2FrblNhajRid2lGMlpWYUtudk1LeVdFNGxFcXo2N21iM3VxeVF5a21BSnpLdC1TNjdLdFhn?oc=5",
-      "channel": "people",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-23T08:47:26.402Z"
-    }
-  ]
+  "generatedAt": "2026-08-23T13:01:04.388Z",
+  "alerts": []
 }
