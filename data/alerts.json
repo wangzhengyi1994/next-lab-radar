@@ -1,16 +1,27 @@
 {
-  "generatedAt": "2026-08-22T12:59:54.905Z",
+  "generatedAt": "2026-08-23T01:59:46.584Z",
   "alerts": [
     {
-      "eventId": "event-1daqjez",
-      "title": "Two-time world boxing champion Tete shot dead outside home",
+      "eventId": "event-16ziq0x",
+      "title": "Fourteen killed in strike on Myanmar monastery",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c98v78n72v5o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-23T01:59:46.584Z"
+    },
+    {
+      "eventId": "event-89masf",
+      "title": "Two police officers among seven killed in wrong-way car crash",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-22T12:59:54.905Z"
+      "detectedAt": "2026-08-23T01:59:46.584Z"
     }
   ]
 }

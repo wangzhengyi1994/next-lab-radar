@@ -8575,7 +8575,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 20,
+    "heat": 21,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-09T23:38:05.213Z",
@@ -11091,7 +11091,7 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
     "aiSelected": true,
     "origin": "rss:google-ai",
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-07-07T23:15:19.724Z",
     "aiNote": null,
     "fetchedAt": null,
@@ -19408,7 +19408,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 18,
+    "heat": 19,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -25848,7 +25848,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 25,
+    "heat": 26,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-19T23:20:40.563Z",
@@ -30224,7 +30224,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 14,
+    "heat": 15,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-16T23:19:44.738Z",
@@ -37550,7 +37550,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 25,
+    "heat": 26,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -42908,7 +42908,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 21,
+    "heat": 22,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-23T23:20:32.498Z",
@@ -48422,7 +48422,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 26,
+    "heat": 27,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": "泄露的会议记录显示DeepSeek暂缓融资，揭示中美算力差距的真实影响。",
@@ -49007,7 +49007,7 @@
     "origin": "hackernews",
     "aiNote": "开源工具将前沿模型成本减半，专为智能体优化，持续提升性能。",
     "image": null,
-    "heat": 18,
+    "heat": 19,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 2,
@@ -51782,8 +51782,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-1wviv3s",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -53683,7 +53683,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 19,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2,
@@ -53768,7 +53768,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 15,
+    "heat": 16,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2,
@@ -53837,7 +53837,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 16,
+    "heat": 17,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2,
@@ -59405,7 +59405,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
     "tier": 2,
@@ -61127,7 +61127,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 1,
@@ -64101,7 +64101,7 @@
     "origin": "hackernews",
     "aiNote": "将顶尖模型知识蒸馏到开源模型，突破审查限制，为金融领域提供低成本高效方案。",
     "image": null,
-    "heat": 25,
+    "heat": 26,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2,
@@ -67792,7 +67792,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
     "tier": 2,
@@ -69316,12 +69316,12 @@
       "knowledge-base",
       "Python"
     ],
-    "engagement": 107,
+    "engagement": 108,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 22,
+    "heat": 23,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
     "tier": 2,
