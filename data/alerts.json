@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-08-23T01:59:46.584Z",
+  "generatedAt": "2026-08-23T04:51:27.127Z",
   "alerts": [
     {
-      "eventId": "event-16ziq0x",
-      "title": "Fourteen killed in strike on Myanmar monastery",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
+      "eventId": "event-17xjh2c",
+      "title": "《牛来》有情绪 - finance.sina.com.cn",
+      "source": "Google News · 电影",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcHJuY1h0dUpLa0VDbG5PbWM1VkptczM0eTNXX3BzSjBmcU1fUV9reERIZnF4TGdaMmptMEwydmZpaGFza1RxcF9yc25za1B4dGxQNlp4UktGRU0xcnFUbEJmV3VsWG5nZlZISEd5S3BpbjRaUXJUVnl4eUVpNE0xMkQwYw?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-08-23T01:59:46.584Z"
-    },
-    {
-      "eventId": "event-89masf",
-      "title": "Two police officers among seven killed in wrong-way car crash",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-23T01:59:46.584Z"
+      "detectedAt": "2026-08-23T04:51:27.127Z"
     }
   ]
 }

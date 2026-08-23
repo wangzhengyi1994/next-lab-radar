@@ -8575,7 +8575,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 21,
+    "heat": 20,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-09T23:38:05.213Z",
@@ -19408,7 +19408,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 19,
+    "heat": 18,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -42908,7 +42908,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 22,
+    "heat": 21,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-23T23:20:32.498Z",
@@ -48422,7 +48422,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 27,
+    "heat": 26,
     "aiSelected": true,
     "origin": "hackernews",
     "aiNote": "泄露的会议记录显示DeepSeek暂缓融资，揭示中美算力差距的真实影响。",
@@ -62402,7 +62402,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2,
@@ -64101,7 +64101,7 @@
     "origin": "hackernews",
     "aiNote": "将顶尖模型知识蒸馏到开源模型，突破审查限制，为金融领域提供低成本高效方案。",
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2,
