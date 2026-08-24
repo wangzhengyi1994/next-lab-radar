@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-24T05:00:31.018Z",
+  "generatedAt": "2026-08-24T09:03:37.945Z",
   "alerts": [
     {
-      "eventId": "event-uvjqdv",
-      "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2608.21156",
-      "channel": "ai-tech",
-      "heat": 31,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-08-24T05:00:31.018Z"
+      "eventId": "event-1sekama",
+      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-24T09:03:37.945Z"
     }
   ]
 }
