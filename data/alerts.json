@@ -1,16 +1,49 @@
 {
-  "generatedAt": "2026-08-24T09:03:37.945Z",
+  "generatedAt": "2026-08-24T13:12:28.270Z",
   "alerts": [
     {
-      "eventId": "event-1sekama",
-      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "eventId": "event-2p9khs",
+      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-24T09:03:37.945Z"
+      "detectedAt": "2026-08-24T13:12:28.270Z"
+    },
+    {
+      "eventId": "event-vi39zq",
+      "title": "东方甄选这一财年：四大核心主播离职，一年薪酬少发4个亿，但多雇了400多名员工",
+      "source": "Google News · 娱乐",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GQm54cFJXYmdXOUxhaWJTUXdjV3BsTDQ1UUw4SVVkRkxMelF6d25ONkZETjF3dGgyaHlwaFBBQXRfb3J1VGZzeTRSaWtTRmdSTWxpSmktdWZYUC0xcTVFckFfeExQZw?oc=5",
+      "channel": "people",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-08-24T13:12:28.270Z"
+    },
+    {
+      "eventId": "event-1wj85sm",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-24T13:12:28.270Z"
+    },
+    {
+      "eventId": "event-locwa1",
+      "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-24T13:12:28.270Z"
     }
   ]
 }
