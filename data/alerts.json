@@ -1,4 +1,38 @@
 {
-  "generatedAt": "2026-08-23T13:01:04.388Z",
-  "alerts": []
+  "generatedAt": "2026-08-24T01:56:50.769Z",
+  "alerts": [
+    {
+      "eventId": "event-1pp61fu",
+      "title": "董宇辉的离开对东方甄选是利是弊？",
+      "source": "Google News · 人物",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHU0REU0MWJwUU1URFdhZHdURWZOcW1uS0U5SW9jRTUwN3p2V0loY0VQZ0tKVlI0MVVUeG9CQ1luYzMzalprMEZyMHFMQU9BMXlzLUdQS3ZLWl9pQ1JlZ180bC1NSHdfQlpveUhlaHE5U3g1UDRWZW8yMDBnY1NMZmQ1WQ?oc=5",
+      "channel": "people",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-08-24T01:56:50.769Z"
+    },
+    {
+      "eventId": "event-1p6mtnu",
+      "title": "Families of two police officers killed in crash say they were heroes",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-24T01:56:50.769Z"
+    },
+    {
+      "eventId": "event-1pqm21",
+      "title": "Man arrested travelling to France after London fire left one dead and eight injured",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-24T01:56:50.769Z"
+    }
+  ]
 }
