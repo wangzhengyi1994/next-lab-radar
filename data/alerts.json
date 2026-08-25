@@ -1,71 +1,49 @@
 {
-  "generatedAt": "2026-08-25T01:51:44.611Z",
+  "generatedAt": "2026-08-25T04:53:14.701Z",
   "alerts": [
     {
-      "eventId": "event-1cnhusq",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "source": "Hacker News",
-      "sourceUrl": "https://github.com/thiagotigaz/ocr-it",
+      "eventId": "event-k1d743",
+      "title": "Prime Agent: A Self-Improving RLM Harness",
+      "source": "HuggingFace Papers",
+      "sourceUrl": "https://huggingface.co/papers/2608.23552",
       "channel": "ai-tech",
-      "heat": 37,
+      "heat": 42,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-08-25T01:51:44.611Z"
+      "detectedAt": "2026-08-25T04:53:14.701Z"
     },
     {
-      "eventId": "event-1k2wqpo",
-      "title": "Briton fighting for Russia killed in Ukraine",
+      "eventId": "event-1iq5gh8",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zry1zk9go?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-25T01:51:44.611Z"
+      "detectedAt": "2026-08-25T04:53:14.701Z"
     },
     {
-      "eventId": "event-ff8y84",
-      "title": "Asbestos killed my mum in her 40s – was her school to blame?",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymz2lnx48o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-w8qs8h",
+      "title": "NZ religious sect leader jailed over death of Chinese follower",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-25T01:51:44.611Z"
+      "detectedAt": "2026-08-25T04:53:14.701Z"
     },
     {
-      "eventId": "event-10rs7ad",
-      "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-25T01:51:44.611Z"
-    },
-    {
-      "eventId": "event-1h3a3z5",
-      "title": "How the deadly A66 crash unfolded leaving seven dead",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-25T01:51:44.611Z"
-    },
-    {
-      "eventId": "event-o5n3fk",
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "eventId": "event-1kgde3t",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 53,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-25T01:51:44.611Z"
+      "detectedAt": "2026-08-25T04:53:14.701Z"
     }
   ]
 }

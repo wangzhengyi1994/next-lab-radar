@@ -1,19 +1,19 @@
 {
-  "fetchedAt": "2026-08-25T01:51:44.612Z",
-  "count": 976,
+  "fetchedAt": "2026-08-25T04:53:14.718Z",
+  "count": 1003,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 106,
+    "hackernews": 107,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
     "rss:china-society": 20,
     "rss:people-watch": 20,
     "rss:entertainment-watch": 20,
-    "rss:viral-watch": 17,
+    "rss:viral-watch": 15,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 7,
+    "rss:consumer-watch": 12,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -43,7 +43,7 @@
     "rss:techreview-ai": 10,
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
-    "rss:marktechpost": 0,
+    "rss:marktechpost": 10,
     "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
@@ -61,12 +61,10 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 17,
     "rss:36kr": 0,
-    "rss:infoq": 10,
+    "rss:infoq": 8,
     "rss:sspai": 4,
     "rss:ithome": 5,
-    "arxiv": 0
+    "arxiv": 20
   },
-  "errors": {
-    "arxiv": "HTTP 429 Unknown Error <- https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=20"
-  }
+  "errors": {}
 }
