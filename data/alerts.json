@@ -1,38 +1,71 @@
 {
-  "generatedAt": "2026-08-25T08:59:26.491Z",
+  "generatedAt": "2026-08-25T13:10:51.769Z",
   "alerts": [
     {
-      "eventId": "event-945e0s",
-      "title": "冲上热搜，又一部“牛来”定档",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRndySzEtTHJIVF9MVks1UGd6UE5GSEVaRUpSbG9sVnZ6OUpNbWZROWtEUEtSMU94am83VjRsWUJYUEEwak91ZDYtVXVqVkE0dEVDYjRwbExoZjNhSUt2RHhpRS1SQTJyS3lza0RqUHYtSlVxUVp2NnN3Nm5VQ1V0aVlNR1pjWXd1ZXZF?oc=5",
+      "eventId": "event-1n2p429",
+      "title": "China warns it will protect its interests after US widens sanctions against Iran",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-25T13:10:51.769Z"
+    },
+    {
+      "eventId": "event-7nsdtk",
+      "title": "瑞声科技上半年营收145亿元，管理层：预计全年实现双位数增长- 21世纪经济报道",
+      "source": "Google News · 消费",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11a2phZGJZQVFFOGZnX29MZHZRNkIzbDNzZjUxTURZWmhiWHRGSGhybnVwaHllZHg1ajk5LVFBM1hsY0FObnh6dVNyazFfUksyZGZ6dXRRVFJQcGRXYmdJTzRDQVY0cDNMM18zNUJDYXd0RVFrM2lV?oc=5",
       "channel": "society",
       "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-08-25T08:59:26.491Z"
+      "detectedAt": "2026-08-25T13:10:51.769Z"
     },
     {
-      "eventId": "event-scxeql",
-      "title": "中国电影：上半年营收15.12亿元",
-      "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pVkRvdTdVSVNZekI2c1EyTTVhMHE4VHNnZDk1UDNWcDR4aXFXVlZNeFUxUG9QN00tMGgyS2VZVV9pNUU5blNxWVVnMnROLWowRGRJWDhaNV9iOXVOYTJUUA?oc=5",
-      "channel": "society",
-      "heat": 39,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-25T08:59:26.491Z"
-    },
-    {
-      "eventId": "event-1swda3q",
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1sv16ow",
+      "title": "Man dies in crash after police pursuit",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-25T08:59:26.491Z"
+      "detectedAt": "2026-08-25T13:10:51.769Z"
+    },
+    {
+      "eventId": "event-19sdjyg",
+      "title": "Young people leaving care have death rate four times higher than national average",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-25T13:10:51.769Z"
+    },
+    {
+      "eventId": "event-2sangc",
+      "title": "OnlyFans owner was paid over $700m before his death",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-25T13:10:51.769Z"
+    },
+    {
+      "eventId": "event-14zot9",
+      "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-25T13:10:51.769Z"
     }
   ]
 }

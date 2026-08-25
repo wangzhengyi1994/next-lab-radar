@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-25T08:59:26.492Z",
-  "count": 1003,
+  "fetchedAt": "2026-08-25T13:10:51.771Z",
+  "count": 1010,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 110,
+    "hackernews": 108,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
@@ -63,7 +63,7 @@
     "rss:36kr": 0,
     "rss:infoq": 7,
     "rss:sspai": 4,
-    "rss:ithome": 1,
+    "rss:ithome": 5,
     "arxiv": 20
   },
   "errors": {}

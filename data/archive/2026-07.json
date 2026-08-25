@@ -2111,7 +2111,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 22,
+    "heat": 21,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -19408,7 +19408,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 19,
+    "heat": 18,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -37550,7 +37550,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 26,
+    "heat": 25,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -53917,8 +53917,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-e2klso",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
