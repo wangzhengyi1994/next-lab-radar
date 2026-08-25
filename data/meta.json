@@ -1,26 +1,26 @@
 {
-  "fetchedAt": "2026-08-24T13:12:28.271Z",
-  "count": 988,
+  "fetchedAt": "2026-08-25T01:51:44.612Z",
+  "count": 976,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 107,
+    "hackernews": 106,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
     "rss:china-society": 20,
     "rss:people-watch": 20,
     "rss:entertainment-watch": 20,
-    "rss:viral-watch": 19,
+    "rss:viral-watch": 17,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 3,
+    "rss:consumer-watch": 7,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
     "rss:google-ai": 20,
     "rss:deepmind": 20,
     "rss:google-research": 10,
-    "rss:nvidia": 11,
+    "rss:nvidia": 12,
     "rss:hf-blog": 20,
     "rss:mistral": 20,
     "rss:cohere": 0,
@@ -31,10 +31,10 @@
     "rss:msr": 7,
     "rss:aws-ml": 20,
     "rss:figma": 20,
-    "rss:vercel": 5,
+    "rss:vercel": 4,
     "rss:github-blog": 4,
-    "rss:webflow": 9,
-    "rss:codrops": 0,
+    "rss:webflow": 10,
+    "rss:codrops": 1,
     "rss:smashing": 6,
     "rss:theverge-ai": 10,
     "rss:techcrunch-ai": 20,
@@ -62,9 +62,11 @@
     "rss:geekpark": 17,
     "rss:36kr": 0,
     "rss:infoq": 10,
-    "rss:sspai": 3,
+    "rss:sspai": 4,
     "rss:ithome": 5,
-    "arxiv": 20
+    "arxiv": 0
   },
-  "errors": {}
+  "errors": {
+    "arxiv": "HTTP 429 Unknown Error <- https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=20"
+  }
 }

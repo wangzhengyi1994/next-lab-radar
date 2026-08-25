@@ -1,49 +1,71 @@
 {
-  "generatedAt": "2026-08-24T13:12:28.270Z",
+  "generatedAt": "2026-08-25T01:51:44.611Z",
   "alerts": [
     {
-      "eventId": "event-2p9khs",
-      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "eventId": "event-1cnhusq",
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/thiagotigaz/ocr-it",
+      "channel": "ai-tech",
+      "heat": 37,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-08-25T01:51:44.611Z"
+    },
+    {
+      "eventId": "event-1k2wqpo",
+      "title": "Briton fighting for Russia killed in Ukraine",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zry1zk9go?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-24T13:12:28.270Z"
+      "detectedAt": "2026-08-25T01:51:44.611Z"
     },
     {
-      "eventId": "event-vi39zq",
-      "title": "东方甄选这一财年：四大核心主播离职，一年薪酬少发4个亿，但多雇了400多名员工",
-      "source": "Google News · 娱乐",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GQm54cFJXYmdXOUxhaWJTUXdjV3BsTDQ1UUw4SVVkRkxMelF6d25ONkZETjF3dGgyaHlwaFBBQXRfb3J1VGZzeTRSaWtTRmdSTWxpSmktdWZYUC0xcTVFckFfeExQZw?oc=5",
-      "channel": "people",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-24T13:12:28.270Z"
-    },
-    {
-      "eventId": "event-1wj85sm",
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-24T13:12:28.270Z"
-    },
-    {
-      "eventId": "event-locwa1",
-      "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
+      "eventId": "event-ff8y84",
+      "title": "Asbestos killed my mum in her 40s – was her school to blame?",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymz2lnx48o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-24T13:12:28.270Z"
+      "detectedAt": "2026-08-25T01:51:44.611Z"
+    },
+    {
+      "eventId": "event-10rs7ad",
+      "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-25T01:51:44.611Z"
+    },
+    {
+      "eventId": "event-1h3a3z5",
+      "title": "How the deadly A66 crash unfolded leaving seven dead",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-25T01:51:44.611Z"
+    },
+    {
+      "eventId": "event-o5n3fk",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-25T01:51:44.611Z"
     }
   ]
 }
