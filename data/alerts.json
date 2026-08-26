@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-08-25T13:10:51.769Z",
+  "generatedAt": "2026-08-26T01:57:52.150Z",
   "alerts": [
     {
-      "eventId": "event-1n2p429",
-      "title": "China warns it will protect its interests after US widens sanctions against Iran",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-25T13:10:51.769Z"
+      "eventId": "event-1tldb66",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 8,
+      "detectedAt": "2026-08-26T01:57:52.150Z"
     },
     {
-      "eventId": "event-7nsdtk",
-      "title": "瑞声科技上半年营收145亿元，管理层：预计全年实现双位数增长- 21世纪经济报道",
-      "source": "Google News · 消费",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11a2phZGJZQVFFOGZnX29MZHZRNkIzbDNzZjUxTURZWmhiWHRGSGhybnVwaHllZHg1ajk5LVFBM1hsY0FObnh6dVNyazFfUksyZGZ6dXRRVFJQcGRXYmdJTzRDQVY0cDNMM18zNUJDYXd0RVFrM2lV?oc=5",
+      "eventId": "event-x5lp7p",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-admin-plugin",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-08-26T01:57:52.150Z"
+    },
+    {
+      "eventId": "event-pg65vd",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "source": "Hacker News",
+      "sourceUrl": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "channel": "ai-tech",
+      "heat": 46,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-08-26T01:57:52.150Z"
+    },
+    {
+      "eventId": "event-3iietf",
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-08-26T01:57:52.150Z"
+    },
+    {
+      "eventId": "event-1bbpmwt",
+      "title": "冲上热搜！又一热门演唱会落地青岛，将打造梦幻宇宙狂欢氛围，预计掀起抢票热潮",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hTldZbmowdFZqUDVvNVoxbElhR2ZzR3NHa3NKNUlxLTBsS0JzMl8zTzJicVlXNjYwMEw2ckw3eGhFd0tNakNTV2VuQ2ppSUZRMXk0Ui1oLVMyeDVjdTc3cUJYWHVSSXNzeHVsM2IwUEk?oc=5",
       "channel": "society",
       "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-08-25T13:10:51.769Z"
+      "detectedAt": "2026-08-26T01:57:52.150Z"
     },
     {
-      "eventId": "event-1sv16ow",
-      "title": "Man dies in crash after police pursuit",
+      "eventId": "event-op601l",
+      "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-25T13:10:51.769Z"
-    },
-    {
-      "eventId": "event-19sdjyg",
-      "title": "Young people leaving care have death rate four times higher than national average",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-25T13:10:51.769Z"
-    },
-    {
-      "eventId": "event-2sangc",
-      "title": "OnlyFans owner was paid over $700m before his death",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-25T13:10:51.769Z"
-    },
-    {
-      "eventId": "event-14zot9",
-      "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-25T13:10:51.769Z"
+      "detectedAt": "2026-08-26T01:57:52.150Z"
     }
   ]
 }
