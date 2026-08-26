@@ -1,71 +1,16 @@
 {
-  "generatedAt": "2026-08-26T01:57:52.150Z",
+  "generatedAt": "2026-08-26T04:55:00.321Z",
   "alerts": [
     {
-      "eventId": "event-1tldb66",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 8,
-      "detectedAt": "2026-08-26T01:57:52.150Z"
-    },
-    {
-      "eventId": "event-x5lp7p",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-admin-plugin",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-08-26T01:57:52.150Z"
-    },
-    {
-      "eventId": "event-pg65vd",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "source": "Hacker News",
-      "sourceUrl": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "channel": "ai-tech",
-      "heat": 46,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-08-26T01:57:52.150Z"
-    },
-    {
-      "eventId": "event-3iietf",
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-08-26T01:57:52.150Z"
-    },
-    {
-      "eventId": "event-1bbpmwt",
-      "title": "冲上热搜！又一热门演唱会落地青岛，将打造梦幻宇宙狂欢氛围，预计掀起抢票热潮",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hTldZbmowdFZqUDVvNVoxbElhR2ZzR3NHa3NKNUlxLTBsS0JzMl8zTzJicVlXNjYwMEw2ckw3eGhFd0tNakNTV2VuQ2ppSUZRMXk0Ui1oLVMyeDVjdTc3cUJYWHVSSXNzeHVsM2IwUEk?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-08-26T01:57:52.150Z"
-    },
-    {
-      "eventId": "event-op601l",
-      "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-115vbah",
+      "title": "Brain disease in dead NFL players 'higher than previously shown'",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 53,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-26T01:57:52.150Z"
+      "detectedAt": "2026-08-26T04:55:00.321Z"
     }
   ]
 }
