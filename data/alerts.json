@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-26T04:55:00.321Z",
+  "generatedAt": "2026-08-26T09:01:49.291Z",
   "alerts": [
     {
-      "eventId": "event-115vbah",
-      "title": "Brain disease in dead NFL players 'higher than previously shown'",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-16klmpi",
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 53,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-26T04:55:00.321Z"
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-26T09:01:49.291Z"
     }
   ]
 }
