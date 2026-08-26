@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-26T09:01:49.292Z",
-  "count": 991,
+  "fetchedAt": "2026-08-26T13:16:19.751Z",
+  "count": 985,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 107,
+    "hackernews": 104,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
@@ -31,7 +31,7 @@
     "rss:msr": 7,
     "rss:aws-ml": 20,
     "rss:figma": 20,
-    "rss:vercel": 6,
+    "rss:vercel": 5,
     "rss:github-blog": 3,
     "rss:webflow": 10,
     "rss:codrops": 1,
