@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-08-26T13:16:19.749Z",
+  "generatedAt": "2026-08-27T09:45:33.262Z",
   "alerts": [
     {
-      "eventId": "event-18nc24q",
-      "title": "Murder probe as two people dead in house fire in Middlesbrough",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-26T13:16:19.749Z"
+      "eventId": "event-u2bf2i",
+      "title": "Qwen3.8-Flash-Next",
+      "source": "Hacker News",
+      "sourceUrl": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "channel": "ai-tech",
+      "heat": 50,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-08-27T09:45:33.262Z"
     },
     {
-      "eventId": "event-1xaantz",
-      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-08-26T13:16:19.749Z"
+      "eventId": "event-1og1scq",
+      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-08-27T09:45:33.262Z"
     },
     {
-      "eventId": "event-xcy115",
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-26T13:16:19.749Z"
-    },
-    {
-      "eventId": "event-57vxkj",
-      "title": "Taylor Swift and Beyoncé lead tributes after death of 'bold and brilliant' Dolly Parton",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-26T13:16:19.749Z"
-    },
-    {
-      "eventId": "event-rfhuno",
-      "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
+      "eventId": "event-1n349sm",
+      "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+      "source": "Google Research",
+      "sourceUrl": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+      "channel": "ai-tech",
       "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-26T13:16:19.749Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-08-27T09:45:33.262Z"
     },
     {
-      "eventId": "event-1lbarya",
-      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
+      "eventId": "event-60ptn2",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "channel": "ai-tech",
       "heat": 53,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-08-27T09:45:33.262Z"
+    },
+    {
+      "eventId": "event-e3dja8",
+      "title": "Two dead and 10 hurt after car rams into crowd in northern France",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-27T09:45:33.262Z"
+    },
+    {
+      "eventId": "event-15uj46g",
+      "title": "Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-26T13:16:19.749Z"
+      "detectedAt": "2026-08-27T09:45:33.262Z"
     }
   ]
 }
