@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-27T09:45:33.263Z",
-  "count": 1001,
+  "fetchedAt": "2026-08-27T22:15:20.749Z",
+  "count": 987,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -13,7 +13,7 @@
     "rss:entertainment-watch": 20,
     "rss:viral-watch": 20,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 14,
+    "rss:consumer-watch": 9,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -31,7 +31,7 @@
     "rss:msr": 7,
     "rss:aws-ml": 20,
     "rss:figma": 20,
-    "rss:vercel": 7,
+    "rss:vercel": 10,
     "rss:github-blog": 3,
     "rss:webflow": 10,
     "rss:codrops": 1,
@@ -43,7 +43,7 @@
     "rss:techreview-ai": 10,
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
-    "rss:marktechpost": 10,
+    "rss:marktechpost": 0,
     "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
@@ -61,9 +61,9 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 16,
     "rss:36kr": 0,
-    "rss:infoq": 14,
+    "rss:infoq": 15,
     "rss:sspai": 1,
-    "rss:ithome": 5,
+    "rss:ithome": 4,
     "arxiv": 20
   },
   "errors": {
