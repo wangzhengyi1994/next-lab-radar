@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-08-27T22:15:20.748Z",
+  "generatedAt": "2026-08-28T11:21:48.886Z",
   "alerts": [
     {
-      "eventId": "event-1ar21dd",
-      "title": "Google&#039;s Gemini 3.5 Transcribe turns speech to text in 85 languages while auto-correcting your verbal stumbles",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/",
+      "eventId": "event-1jlng6q",
+      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-08-28T11:21:48.886Z"
+    },
+    {
+      "eventId": "event-1e3wuao",
+      "title": "Anthropic&#039;s new hardware standard lets AI agents control the physical world",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
       "corroboration": 4,
-      "detectedAt": "2026-08-27T22:15:20.748Z"
+      "detectedAt": "2026-08-28T11:21:48.886Z"
     },
     {
-      "eventId": "event-zaa1i8",
-      "title": "Trump signs order to rename Lake Ontario as Lake America",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-08-27T22:15:20.748Z"
-    },
-    {
-      "eventId": "event-1ci5toj",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "source": "Google DeepMind",
-      "sourceUrl": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "eventId": "event-fxcey8",
+      "title": "Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report",
+      "source": "HuggingFace Papers",
+      "sourceUrl": "https://huggingface.co/papers/2608.15763",
       "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-08-27T22:15:20.748Z"
-    },
-    {
-      "eventId": "event-ujym7",
-      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-      "channel": "ai-tech",
-      "heat": 40,
+      "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-08-27T22:15:20.748Z"
+      "detectedAt": "2026-08-28T11:21:48.886Z"
     },
     {
-      "eventId": "event-ss9t4o",
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "eventId": "event-s0kqj0",
+      "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+      "source": "HuggingFace Papers",
+      "sourceUrl": "https://huggingface.co/papers/2608.27454",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 26,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-08-27T22:15:20.748Z"
+      "detectedAt": "2026-08-28T11:21:48.886Z"
     },
     {
-      "eventId": "event-yot72o",
-      "title": "King 'heartbroken' by deadly Nepal flash floods",
+      "eventId": "event-146jdvq",
+      "title": "'High risk' of lake breaching and causing second flood, warns China",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gvx54ppn5o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-27T22:15:20.748Z"
+      "detectedAt": "2026-08-28T11:21:48.886Z"
+    },
+    {
+      "eventId": "event-f0ein4",
+      "title": "Norway's King Harald dies aged 89: A beloved monarch buffeted by family crises",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-28T11:21:48.886Z"
     }
   ]
 }
