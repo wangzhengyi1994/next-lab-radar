@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-08-28T11:21:48.886Z",
+  "generatedAt": "2026-08-28T22:18:21.598Z",
   "alerts": [
     {
-      "eventId": "event-1jlng6q",
-      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
+      "eventId": "event-al3s7p",
+      "title": "Gemini Omni 1.1 🎬, Cohere Parse 📄, Codex persistent mode 👨‍💻",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-08-28",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-08-28T11:21:48.886Z"
-    },
-    {
-      "eventId": "event-1e3wuao",
-      "title": "Anthropic&#039;s new hardware standard lets AI agents control the physical world",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "channel": "ai-tech",
-      "heat": 39,
+      "heat": 38,
       "confidence": 85,
       "corroboration": 4,
-      "detectedAt": "2026-08-28T11:21:48.886Z"
+      "detectedAt": "2026-08-28T22:18:21.598Z"
     },
     {
-      "eventId": "event-fxcey8",
-      "title": "Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2608.15763",
+      "eventId": "event-3wkkin",
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-08-28T22:18:21.598Z"
+    },
+    {
+      "eventId": "event-104xkpq",
+      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-08-28T22:18:21.598Z"
+    },
+    {
+      "eventId": "event-jkh5lu",
+      "title": "How I built this",
+      "source": "Ben's Bites",
+      "sourceUrl": "https://www.bensbites.com/p/how-i-built-this-21f",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-08-28T11:21:48.886Z"
+      "detectedAt": "2026-08-28T22:18:21.598Z"
     },
     {
-      "eventId": "event-s0kqj0",
-      "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2608.27454",
-      "channel": "ai-tech",
-      "heat": 26,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-08-28T11:21:48.886Z"
-    },
-    {
-      "eventId": "event-146jdvq",
-      "title": "'High risk' of lake breaching and causing second flood, warns China",
+      "eventId": "event-ujde2p",
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-28T11:21:48.886Z"
+      "detectedAt": "2026-08-28T22:18:21.598Z"
     },
     {
-      "eventId": "event-f0ein4",
-      "title": "Norway's King Harald dies aged 89: A beloved monarch buffeted by family crises",
+      "eventId": "event-1xvwh9v",
+      "title": "Man dies and at least six injured after sign falls at Christian festival",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-28T11:21:48.886Z"
+      "detectedAt": "2026-08-28T22:18:21.598Z"
     }
   ]
 }
