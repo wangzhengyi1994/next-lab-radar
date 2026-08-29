@@ -1,71 +1,38 @@
 {
-  "generatedAt": "2026-08-28T22:18:21.598Z",
+  "generatedAt": "2026-08-29T07:03:23.812Z",
   "alerts": [
     {
-      "eventId": "event-al3s7p",
-      "title": "Gemini Omni 1.1 🎬, Cohere Parse 📄, Codex persistent mode 👨‍💻",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-08-28",
-      "channel": "ai-tech",
-      "heat": 38,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-08-28T22:18:21.598Z"
-    },
-    {
-      "eventId": "event-3wkkin",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "eventId": "event-sx0ohm",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 96,
       "corroboration": 3,
-      "detectedAt": "2026-08-28T22:18:21.598Z"
+      "detectedAt": "2026-08-29T07:03:23.812Z"
     },
     {
-      "eventId": "event-104xkpq",
-      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-08-28T22:18:21.598Z"
-    },
-    {
-      "eventId": "event-jkh5lu",
-      "title": "How I built this",
-      "source": "Ben's Bites",
-      "sourceUrl": "https://www.bensbites.com/p/how-i-built-this-21f",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-08-28T22:18:21.598Z"
-    },
-    {
-      "eventId": "event-ujde2p",
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "eventId": "event-qrmqqf",
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-28T22:18:21.598Z"
+      "detectedAt": "2026-08-29T07:03:23.812Z"
     },
     {
-      "eventId": "event-1xvwh9v",
-      "title": "Man dies and at least six injured after sign falls at Christian festival",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-28T22:18:21.598Z"
+      "eventId": "event-p2ida3",
+      "title": "频上热搜遭网友吐槽和赵长鹏等大佬批后！孙宇晨：事情到我为止",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jNWhGTVlfOElJOHI3YkpJWFoyX2cwNXlyODdfV01Jam9XeEIyREoteThORDFnZnQ4WTc3R3B6U3lzWjdBRWhPMWdJbE9wR0xtTndDNUtfZHQ?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-08-29T07:03:23.812Z"
     }
   ]
 }
