@@ -1,27 +1,60 @@
 {
-  "generatedAt": "2026-08-30T05:22:51.841Z",
+  "generatedAt": "2026-08-30T13:48:25.007Z",
   "alerts": [
     {
-      "eventId": "event-w76yz9",
-      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-08-30T05:22:51.841Z"
-    },
-    {
-      "eventId": "event-7m074o",
-      "title": "Introducing Hy4 Preview",
-      "source": "Simon Willison",
-      "sourceUrl": "https://simonwillison.net/2026/Aug/29/hy4/",
-      "channel": "ai-tech",
+      "eventId": "event-vdtwd6",
+      "title": "Breaking news. - Iceland votes 'No' to reopening EU accession talks, officials confirm",
+      "source": "Google News · Breaking",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2VGNmdEUUNYdFVUcTBWcVdxQXYxdUxxRERSWlR4SUdPMTNfM0t3ei1PLVZTSDZCaGRpZEFZRkdXZ0tDMHZ6UkRQcHFINzRCWHpGRDJNQ3NzdTdvUmQ1OHk1T3lLanFsZzNLeUZrQjhFd1FXRHA2bTFYaDdZVUtRWkRXa20tRXdIeDNadWpUclc1cThtM0V1aXRuSEY5eFhMdWZnSXU1YjJOemlJ?oc=5",
+      "channel": "breaking",
       "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-08-30T05:22:51.841Z"
+      "detectedAt": "2026-08-30T13:48:25.007Z"
+    },
+    {
+      "eventId": "event-1nbaoxz",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-30T13:48:25.007Z"
+    },
+    {
+      "eventId": "event-16xt50d",
+      "title": "Church names pastor killed by falling sign at Christian festival",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-30T13:48:25.007Z"
+    },
+    {
+      "eventId": "event-1qsd2li",
+      "title": "British woman killed in stabbing at German railway station",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-30T13:48:25.007Z"
+    },
+    {
+      "eventId": "event-e318c1",
+      "title": "China censors videos showing deadly flash floods on the Nepal-Tibet border",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 53,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-08-30T13:48:25.007Z"
     }
   ]
 }
