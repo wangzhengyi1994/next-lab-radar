@@ -18107,7 +18107,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 23,
+    "heat": 22,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -24274,7 +24274,7 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
     "aiSelected": true,
     "origin": "rss:google-ai",
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-07-14T23:20:05.544Z",
     "aiNote": null,
     "fetchedAt": null,
@@ -25848,7 +25848,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 26,
+    "heat": 25,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-19T23:20:40.563Z",
@@ -37550,7 +37550,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 26,
+    "heat": 25,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -38109,7 +38109,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 30,
+    "heat": 29,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -64101,7 +64101,7 @@
     "origin": "hackernews",
     "aiNote": "将顶尖模型知识蒸馏到开源模型，突破审查限制，为金融领域提供低成本高效方案。",
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2,
@@ -64526,7 +64526,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2,
@@ -64604,7 +64604,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 1,
