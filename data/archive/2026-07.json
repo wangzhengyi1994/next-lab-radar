@@ -18107,7 +18107,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 23,
+    "heat": 22,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -28868,7 +28868,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 27,
+    "heat": 26,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -50392,7 +50392,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-07-27T02:48:24.929Z",
     "fetchedAt": null,
     "tier": 1,
@@ -53420,8 +53420,8 @@
   },
   {
     "id": "rss:meta-ai-b50d23ed74",
-    "title": "System Cards",
-    "summary": "System Cards AI at Meta",
+    "title": "System cards",
+    "summary": "System cards AI at Meta",
     "source": "Meta AI",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DN0pMamtjb1Vvd0tnSVJWQmZkUy1nWDRJOTk3eWtGRFc4cDZIX1ZIOEhEMVVDa2J1N1VMV3hCNGtrOTNuQ19JdFFLZm02Tkc5?oc=5",
     "category": "ai-models",
@@ -53435,7 +53435,7 @@
     "fetchedAt": null,
     "tier": 1,
     "radarChannel": "ai-tech",
-    "eventId": "event-1ibfd3v",
+    "eventId": "event-7n7xiz",
     "corroboration": 1,
     "confidence": 88,
     "surge": false

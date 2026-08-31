@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-08-30T13:48:25.007Z",
+  "generatedAt": "2026-08-31T05:32:01.020Z",
   "alerts": [
     {
-      "eventId": "event-vdtwd6",
-      "title": "Breaking news. - Iceland votes 'No' to reopening EU accession talks, officials confirm",
-      "source": "Google News · Breaking",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2VGNmdEUUNYdFVUcTBWcVdxQXYxdUxxRERSWlR4SUdPMTNfM0t3ei1PLVZTSDZCaGRpZEFZRkdXZ0tDMHZ6UkRQcHFINzRCWHpGRDJNQ3NzdTdvUmQ1OHk1T3lLanFsZzNLeUZrQjhFd1FXRHA2bTFYaDdZVUtRWkRXa20tRXdIeDNadWpUclc1cThtM0V1aXRuSEY5eFhMdWZnSXU1YjJOemlJ?oc=5",
-      "channel": "breaking",
+      "eventId": "event-kvx58o",
+      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
+      "channel": "ai-tech",
+      "heat": 38,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-08-31T05:32:01.020Z"
+    },
+    {
+      "eventId": "event-1di78jb",
+      "title": "Agency and Agents",
+      "source": "Ethan Mollick",
+      "sourceUrl": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "channel": "ai-tech",
       "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-08-30T13:48:25.007Z"
+      "detectedAt": "2026-08-31T05:32:01.020Z"
     },
     {
-      "eventId": "event-1nbaoxz",
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "eventId": "event-1uv2viy",
+      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-08-30T13:48:25.007Z"
+      "detectedAt": "2026-08-31T05:32:01.020Z"
     },
     {
-      "eventId": "event-16xt50d",
-      "title": "Church names pastor killed by falling sign at Christian festival",
+      "eventId": "event-1v1tvai",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-08-30T13:48:25.007Z"
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-08-31T05:32:01.020Z"
     },
     {
-      "eventId": "event-1qsd2li",
-      "title": "British woman killed in stabbing at German railway station",
+      "eventId": "event-wfcjf",
+      "title": "How the US-Canada trade war is being felt on both sides of the border",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-30T13:48:25.007Z"
+      "detectedAt": "2026-08-31T05:32:01.020Z"
     },
     {
-      "eventId": "event-e318c1",
-      "title": "China censors videos showing deadly flash floods on the Nepal-Tibet border",
+      "eventId": "event-tfey0c",
+      "title": "Seven arrested after death of newborn baby girl",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cde0k172eddo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 53,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-08-30T13:48:25.007Z"
+      "detectedAt": "2026-08-31T05:32:01.020Z"
     }
   ]
 }
