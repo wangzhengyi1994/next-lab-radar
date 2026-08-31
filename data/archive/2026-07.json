@@ -8575,7 +8575,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 21,
+    "heat": 22,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-09T23:38:05.213Z",
@@ -18107,7 +18107,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 22,
+    "heat": 23,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -25848,7 +25848,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 25,
+    "heat": 26,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-19T23:20:40.563Z",
@@ -28868,7 +28868,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 26,
+    "heat": 27,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -53420,8 +53420,8 @@
   },
   {
     "id": "rss:meta-ai-b50d23ed74",
-    "title": "System cards",
-    "summary": "System cards AI at Meta",
+    "title": "System Cards",
+    "summary": "System Cards AI at Meta",
     "source": "Meta AI",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DN0pMamtjb1Vvd0tnSVJWQmZkUy1nWDRJOTk3eWtGRFc4cDZIX1ZIOEhEMVVDa2J1N1VMV3hCNGtrOTNuQ19JdFFLZm02Tkc5?oc=5",
     "category": "ai-models",
@@ -53435,7 +53435,7 @@
     "fetchedAt": null,
     "tier": 1,
     "radarChannel": "ai-tech",
-    "eventId": "event-7n7xiz",
+    "eventId": "event-1ibfd3v",
     "corroboration": 1,
     "confidence": 88,
     "surge": false
@@ -53683,7 +53683,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 19,
+    "heat": 20,
     "firstSeen": "2026-07-27T03:14:21.883Z",
     "fetchedAt": null,
     "tier": 2,
@@ -61170,7 +61170,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 19,
+    "heat": 20,
     "firstSeen": "2026-07-29T23:14:55.024Z",
     "fetchedAt": null,
     "tier": 2,
@@ -64101,7 +64101,7 @@
     "origin": "hackernews",
     "aiNote": "将顶尖模型知识蒸馏到开源模型，突破审查限制，为金融领域提供低成本高效方案。",
     "image": null,
-    "heat": 24,
+    "heat": 25,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2,
