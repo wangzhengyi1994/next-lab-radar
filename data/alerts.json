@@ -1,49 +1,60 @@
 {
-  "generatedAt": "2026-09-01T05:05:47.955Z",
+  "generatedAt": "2026-09-01T13:29:45.961Z",
   "alerts": [
     {
-      "eventId": "event-1uwwylb",
-      "title": "Instagram admits users often can&#039;t tell AI profiles from real people",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-09-01T05:05:47.955Z"
-    },
-    {
-      "eventId": "event-i423zd",
-      "title": "2026暑期档票房124.98亿，《功夫女足》居首位，《欢迎来龙餐馆》《八仙！》分列二三名",
-      "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGFOUTFKM2VPYWhHOExhUVV1UXh2d2pRVmRzaXVoX053QUk1Ry1CRmdVTVZZRjJDTlRRSC1ycUNWRlh6TnMwelE5UmhtUnZCLVBtR09WWUFwSmZFNjFEbzBDZGRFc2VuYWs3dDFIS29DVUUyM2FDY0sxb0FPRlY5bEJrSVVSWnRkMEdZ?oc=5",
+      "eventId": "event-1kf51qr",
+      "title": "牛来明是谁？《牛来》走红背后2人5年制作揭秘",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCalFtdTNqQTVVUVdOcTAxNER2NEI5bERsZy1DN0I4ZGxiR3VnWWNSeTBCUl9nUEFaeEJ3Rm40dDItME9sWndMUVlycXktOUw0X2VrUldYZlA3XzREY25ab3R1U29jZkJkbk1jYUdqRDNQUTZvbjl3Y0YzUGt6QQ?oc=5",
       "channel": "society",
       "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-09-01T05:05:47.955Z"
+      "detectedAt": "2026-09-01T13:29:45.961Z"
     },
     {
-      "eventId": "event-5nogdy",
-      "title": "Orangutans in danger as wildfires blaze through Borneo",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-01T05:05:47.955Z"
+      "eventId": "event-rzmgy2",
+      "title": "冲上热搜！2小时演唱会“休息”80分钟？观众吐槽：体验感太差…票价最高888元，主办方回应→",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Kc2FfX3lEWkRwUlVkNlFWOWZvX1dvallpbkRRSHhHWDRGMWRUVExUZGREXzdRUHFpSFlWajM0NEE1RTVaTVBzci1maVZwV3pmWEZha0RTcG9KZGhRR3NlcHdDUmREVEZpOVhrTzdSSkdfZ042dTRndQ?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-09-01T13:29:45.961Z"
     },
     {
-      "eventId": "event-165l05y",
-      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "eventId": "event-40s12q",
+      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-01T05:05:47.955Z"
+      "detectedAt": "2026-09-01T13:29:45.961Z"
+    },
+    {
+      "eventId": "event-2utbb6",
+      "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-01T13:29:45.961Z"
+    },
+    {
+      "eventId": "event-1313g2e",
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-01T13:29:45.961Z"
     }
   ]
 }

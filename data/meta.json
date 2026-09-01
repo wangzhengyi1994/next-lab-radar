@@ -1,19 +1,19 @@
 {
-  "fetchedAt": "2026-09-01T05:05:47.956Z",
-  "count": 965,
+  "fetchedAt": "2026-09-01T13:29:45.962Z",
+  "count": 945,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 109,
+    "hackernews": 107,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
     "rss:china-society": 20,
     "rss:people-watch": 20,
     "rss:entertainment-watch": 20,
-    "rss:viral-watch": 11,
+    "rss:viral-watch": 16,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 3,
+    "rss:consumer-watch": 6,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -43,7 +43,7 @@
     "rss:techreview-ai": 10,
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
-    "rss:marktechpost": 10,
+    "rss:marktechpost": 0,
     "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
@@ -56,18 +56,20 @@
     "rss:latentspace": 20,
     "rss:oneusefulthing": 20,
     "rss:bensbites": 20,
-    "rss:qbitai": 10,
+    "rss:qbitai": 0,
     "rss:jiqizhixin": 20,
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 16,
     "rss:36kr": 0,
-    "rss:infoq": 13,
+    "rss:infoq": 10,
     "rss:sspai": 2,
-    "rss:ithome": 3,
+    "rss:ithome": 0,
     "arxiv": 20
   },
   "errors": {
     "rss:bair": "fetch failed",
-    "rss:webflow": "fetch failed"
+    "rss:webflow": "fetch failed",
+    "rss:qbitai": "fetch failed",
+    "rss:ithome": "fetch failed"
   }
 }
