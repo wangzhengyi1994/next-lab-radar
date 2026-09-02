@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-09-01T13:29:45.961Z",
+  "generatedAt": "2026-09-02T04:31:02.981Z",
   "alerts": [
     {
-      "eventId": "event-1kf51qr",
-      "title": "牛来明是谁？《牛来》走红背后2人5年制作揭秘",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCalFtdTNqQTVVUVdOcTAxNER2NEI5bERsZy1DN0I4ZGxiR3VnWWNSeTBCUl9nUEFaeEJ3Rm40dDItME9sWndMUVlycXktOUw0X2VrUldYZlA3XzREY25ab3R1U29jZkJkbk1jYUdqRDNQUTZvbjl3Y0YzUGt6QQ?oc=5",
-      "channel": "society",
+      "eventId": "event-kj7tei",
+      "title": "Claude Fable 5.1 & Claude Mythos 5.1 System Card",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVThfM0tLb2w5WWUySzFvSzllMnNIeTFZSU01bXVHejVHeEc4dGZuV0pDZEtpNENSRHh2X1FXU3gzWEEwU0hHNjZtTG5TNmJqaGtpcnRTcVFLSWE1S1d0d1gzYmdrN1J0ekRlWGd1OVFyMjBIRWVMWWR1S0JMc3d6a2EtQjkyNGtXaGs1bER5NE04ZzRiUy1fSUdvME1EMnR0OVpwRFRWU0xEeFF0ZURHU1ZDZlM4SmdQRUtnamZfbWVtNV9GNUF1UFJSWjBXaXVXLVBOYmlR?oc=5",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 9,
+      "detectedAt": "2026-09-02T04:31:02.981Z"
+    },
+    {
+      "eventId": "event-ip3hqo",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "source": "Simon Willison",
+      "sourceUrl": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "channel": "ai-tech",
       "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-09-01T13:29:45.961Z"
+      "confidence": 85,
+      "corroboration": 9,
+      "detectedAt": "2026-09-02T04:31:02.981Z"
     },
     {
-      "eventId": "event-rzmgy2",
-      "title": "冲上热搜！2小时演唱会“休息”80分钟？观众吐槽：体验感太差…票价最高888元，主办方回应→",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Kc2FfX3lEWkRwUlVkNlFWOWZvX1dvallpbkRRSHhHWDRGMWRUVExUZGREXzdRUHFpSFlWajM0NEE1RTVaTVBzci1maVZwV3pmWEZha0RTcG9KZGhRR3NlcHdDUmREVEZpOVhrTzdSSkdfZ042dTRndQ?oc=5",
-      "channel": "society",
+      "eventId": "event-1jwu6k",
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "channel": "ai-tech",
       "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-09-01T13:29:45.961Z"
+      "confidence": 85,
+      "corroboration": 9,
+      "detectedAt": "2026-09-02T04:31:02.981Z"
     },
     {
-      "eventId": "event-40s12q",
-      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-01T13:29:45.961Z"
+      "eventId": "event-1yzcjw6",
+      "title": "Mechanism Design for Alignment and Control",
+      "source": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2609.01595v1",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-02T04:31:02.981Z"
     },
     {
-      "eventId": "event-2utbb6",
-      "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
+      "eventId": "event-1qlxdcp",
+      "title": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
+      "source": "AWS ML",
+      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-02T04:31:02.981Z"
+    },
+    {
+      "eventId": "event-1tn72f6",
+      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-01T13:29:45.961Z"
-    },
-    {
-      "eventId": "event-1313g2e",
-      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-01T13:29:45.961Z"
+      "detectedAt": "2026-09-02T04:31:02.981Z"
     }
   ]
 }
