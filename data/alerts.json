@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-02T12:46:26.550Z",
+  "generatedAt": "2026-09-03T04:21:53.223Z",
   "alerts": [
     {
-      "eventId": "event-9rz6n2",
-      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "eventId": "event-n2d26a",
+      "title": "Fable 5.1 World Modeling",
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/PhiloLabs/fable51-worlds",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 41,
       "confidence": 85,
-      "corroboration": 12,
-      "detectedAt": "2026-09-02T12:46:26.550Z"
+      "corroboration": 13,
+      "detectedAt": "2026-09-03T04:21:53.223Z"
     },
     {
-      "eventId": "event-m8lijb",
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+      "eventId": "event-dk24s2",
+      "title": "Gemini 3.8 Flash now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/gemini-3-8-flash-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-09-03T04:21:53.223Z"
+    },
+    {
+      "eventId": "event-10v1lde",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-09-03T04:21:53.223Z"
+    },
+    {
+      "eventId": "event-1jjjf7l",
+      "title": "Gemini 3.8 Flash is Google&#039;s third budget model in six weeks while frontier models remain MIA",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-09-03T04:21:53.223Z"
+    },
+    {
+      "eventId": "event-ncwc",
+      "title": "The Papers: 'City warns Burnham' and 'One in the eye'",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-02T12:46:26.550Z"
-    },
-    {
-      "eventId": "event-38ric0",
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-02T12:46:26.550Z"
-    },
-    {
-      "eventId": "event-ljcjkv",
-      "title": "“两小时的演唱会休息80分钟”上热搜！票价最高888元，主办方回应",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xMUhBeGxRelJwRmY4N1picXFycjk0cHl5a2JWNHhWUGtOeEszcmlfYUhzcDBycS05MTA2aGtoVTBDOWpfbkRnM1V5M25mS2pTclltQTFYNGhSWXZaMUtYNHhwd1lYT3JiMHBFN3lHWTE?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-09-02T12:46:26.550Z"
-    },
-    {
-      "eventId": "event-1p1wqpp",
-      "title": "Four in court over murder of baby stabbed to death",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gj0y82jwwo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-02T12:46:26.550Z"
+      "detectedAt": "2026-09-03T04:21:53.223Z"
     },
     {
-      "eventId": "event-9ljknq",
-      "title": "Madagascar ex-Senate chief sentenced  to hard labour over deadly Gen Z protest crackdown",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-14k0zdu",
+      "title": "Rocky Horror star Tim Curry's cause of death revealed",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-02T12:46:26.550Z"
+      "detectedAt": "2026-09-03T04:21:53.223Z"
     }
   ]
 }
