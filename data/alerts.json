@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-04T04:31:02.012Z",
+  "generatedAt": "2026-09-04T12:43:22.218Z",
   "alerts": [
     {
-      "eventId": "event-1drvp3v",
-      "title": "Claude Fable 5.1 & Claude Mythos 5.1 System Card",
-      "source": "Anthropic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVThfM0tLb2w5WWUySzFvSzllMnNIeTFZSU01bXVHejVHeEc4dGZuV0pDZEtpNENSRHh2X1FXU3gzWEEwU0hHNjZtTG5TNmJqaGtpcnRTcVFLSWE1S1d0d1gzYmdrN1J0ekRlWGd1OVFyMjBIRWVMWWR1S0JMc3d6a2EtQjkyNGtXaGs1bER5NE04ZzRiUy1fSUdvME1EMnR0OVpwRFRWU0xEeFF0ZURHU1ZDZlM4SmdQRUtnamZfbWVtNV9GNUF1UFJSWjBXaXVXLVBOYmlR?oc=5",
-      "channel": "ai-tech",
-      "heat": 50,
-      "confidence": 99,
-      "corroboration": 9,
-      "detectedAt": "2026-09-04T04:31:02.012Z"
-    },
-    {
-      "eventId": "event-15oinx4",
-      "title": "Nvidia to acquire Hugging Face",
-      "source": "Hacker News",
-      "sourceUrl": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "channel": "ai-tech",
-      "heat": 45,
-      "confidence": 85,
-      "corroboration": 8,
-      "detectedAt": "2026-09-04T04:31:02.012Z"
-    },
-    {
-      "eventId": "event-1j2a209",
-      "title": "Google says its AI weather model is getting better",
+      "eventId": "event-xwnr56",
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
       "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 10,
+      "detectedAt": "2026-09-04T12:43:22.218Z"
+    },
+    {
+      "eventId": "event-12u3zw1",
+      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 8,
-      "detectedAt": "2026-09-04T04:31:02.012Z"
+      "corroboration": 10,
+      "detectedAt": "2026-09-04T12:43:22.218Z"
     },
     {
-      "eventId": "event-1v2c4qu",
-      "title": "Safety overview: GPT-6 Astra",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-09-04T04:31:02.012Z"
+      "eventId": "event-171ca1x",
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-04T12:43:22.218Z"
     },
     {
-      "eventId": "event-bs18h0",
-      "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a &#8216;Critical&#8217; Cyber Threshold",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-09-04T04:31:02.012Z"
+      "eventId": "event-1q4pmnc",
+      "title": "现实版“爷爷和7个葫芦娃”，突然爆火！",
+      "source": "Google News · 爆点",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdm5hZUw2Z09ONHl6ckU1Ukx5dzRLc1JNenJGZEdwc21wMjlGN09jc3g2OGp1WXQ3ZXRpRnpsNGV0c1BiQ1VMZ0RuaDNKemo2dFhvZ3g5Wm1jMURaSzNrZUgxeU5OdnNpUDJ6cnlhTl9DNlRnOHFmdTFuWmJmRWJtRzItTEFZN0VW?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-09-04T12:43:22.218Z"
     },
     {
-      "eventId": "event-mf00sg",
-      "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-09-04T04:31:02.012Z"
+      "eventId": "event-1nhjfyf",
+      "title": "Russell Howard 'devastated' after his baby son died shortly after birth",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-04T12:43:22.218Z"
+    },
+    {
+      "eventId": "event-98hvqq",
+      "title": "Woman whose XL bully dog killed her cousin given suspended prison sentence",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn45jvgk97xo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-04T12:43:22.218Z"
     }
   ]
 }
