@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-04T12:43:22.218Z",
+  "generatedAt": "2026-09-05T04:25:13.969Z",
   "alerts": [
     {
-      "eventId": "event-xwnr56",
-      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "eventId": "event-si88mt",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "source": "Simon Willison",
+      "sourceUrl": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
       "channel": "ai-tech",
       "heat": 40,
       "confidence": 85,
-      "corroboration": 10,
-      "detectedAt": "2026-09-04T12:43:22.218Z"
+      "corroboration": 11,
+      "detectedAt": "2026-09-05T04:25:13.969Z"
     },
     {
-      "eventId": "event-12u3zw1",
-      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "eventId": "event-sf29le",
+      "title": "OpenAI&#039;s GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 10,
-      "detectedAt": "2026-09-04T12:43:22.218Z"
+      "corroboration": 11,
+      "detectedAt": "2026-09-05T04:25:13.969Z"
     },
     {
-      "eventId": "event-171ca1x",
-      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "eventId": "event-1uea1k6",
+      "title": "Ling 3.0 Flash Sante is now available on AI Gateway for free",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 9,
+      "detectedAt": "2026-09-05T04:25:13.969Z"
+    },
+    {
+      "eventId": "event-nc4rp7",
+      "title": "At least two dead in blast at Bolivia military barracks",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-04T12:43:22.218Z"
+      "detectedAt": "2026-09-05T04:25:13.969Z"
     },
     {
-      "eventId": "event-1q4pmnc",
-      "title": "现实版“爷爷和7个葫芦娃”，突然爆火！",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdm5hZUw2Z09ONHl6ckU1Ukx5dzRLc1JNenJGZEdwc21wMjlGN09jc3g2OGp1WXQ3ZXRpRnpsNGV0c1BiQ1VMZ0RuaDNKemo2dFhvZ3g5Wm1jMURaSzNrZUgxeU5OdnNpUDJ6cnlhTl9DNlRnOHFmdTFuWmJmRWJtRzItTEFZN0VW?oc=5",
+      "eventId": "event-1d7xd3d",
+      "title": "现实版“爷爷和7个葫芦娃”走红",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ReGw3bllyenJLWDVYY2ctZVhGZXkydW5sMzBNT251SnhZNlJWNjZYaVpFRXV4RXRubVk0V0ttaWNRNm91U0pDMGZTNlpmVjVFcktDMngweXVVNVZ0NC1Tb2RyTUZuT2tOcWNIUzNBVWUzdlhwckRTeg?oc=5",
       "channel": "society",
-      "heat": 40,
+      "heat": 39,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-09-04T12:43:22.218Z"
+      "detectedAt": "2026-09-05T04:25:13.969Z"
     },
     {
-      "eventId": "event-1nhjfyf",
-      "title": "Russell Howard 'devastated' after his baby son died shortly after birth",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-nfxvbm",
+      "title": "How much can Canada fight back in its trade war with the US?",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-04T12:43:22.218Z"
-    },
-    {
-      "eventId": "event-98hvqq",
-      "title": "Woman whose XL bully dog killed her cousin given suspended prison sentence",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn45jvgk97xo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-04T12:43:22.218Z"
+      "detectedAt": "2026-09-05T04:25:13.969Z"
     }
   ]
 }
