@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-05T04:25:13.969Z",
+  "generatedAt": "2026-09-05T11:50:20.851Z",
   "alerts": [
     {
-      "eventId": "event-si88mt",
-      "title": "The Pelican comparison grid for Astra is pretty interesting",
-      "source": "Simon Willison",
-      "sourceUrl": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "eventId": "event-bxpm0t",
+      "title": "GPT-6 Astra on OpenRouter",
+      "source": "Hacker News",
+      "sourceUrl": "https://openrouter.ai/openai/gpt-6-astra",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 42,
       "confidence": 85,
-      "corroboration": 11,
-      "detectedAt": "2026-09-05T04:25:13.969Z"
+      "corroboration": 8,
+      "detectedAt": "2026-09-05T11:50:20.851Z"
     },
     {
-      "eventId": "event-sf29le",
+      "eventId": "event-66ngo7",
+      "title": "Architecting memory and storage in the AI era",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 8,
+      "detectedAt": "2026-09-05T11:50:20.851Z"
+    },
+    {
+      "eventId": "event-1hdbflc",
       "title": "OpenAI&#039;s GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
       "source": "The Decoder",
       "sourceUrl": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 11,
-      "detectedAt": "2026-09-05T04:25:13.969Z"
+      "corroboration": 8,
+      "detectedAt": "2026-09-05T11:50:20.851Z"
     },
     {
-      "eventId": "event-1uea1k6",
-      "title": "Ling 3.0 Flash Sante is now available on AI Gateway for free",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 9,
-      "detectedAt": "2026-09-05T04:25:13.969Z"
-    },
-    {
-      "eventId": "event-nc4rp7",
-      "title": "At least two dead in blast at Bolivia military barracks",
+      "eventId": "event-1mljog9",
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-05T04:25:13.969Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-05T11:50:20.851Z"
     },
     {
-      "eventId": "event-1d7xd3d",
-      "title": "现实版“爷爷和7个葫芦娃”走红",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ReGw3bllyenJLWDVYY2ctZVhGZXkydW5sMzBNT251SnhZNlJWNjZYaVpFRXV4RXRubVk0V0ttaWNRNm91U0pDMGZTNlpmVjVFcktDMngweXVVNVZ0NC1Tb2RyTUZuT2tOcWNIUzNBVWUzdlhwckRTeg?oc=5",
-      "channel": "society",
-      "heat": 39,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-09-05T04:25:13.969Z"
+      "eventId": "event-1u918ln",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-05T11:50:20.851Z"
     },
     {
-      "eventId": "event-nfxvbm",
-      "title": "How much can Canada fight back in its trade war with the US?",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-05T04:25:13.969Z"
+      "eventId": "event-ezbowf",
+      "title": "OpenAI Agents Hacked Another Website",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-05T11:50:20.851Z"
     }
   ]
 }
