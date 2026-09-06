@@ -1,71 +1,60 @@
 {
-  "generatedAt": "2026-09-05T15:12:12.154Z",
+  "generatedAt": "2026-09-06T04:36:39.958Z",
   "alerts": [
     {
-      "eventId": "event-jxokco",
-      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
+      "eventId": "event-5jjdjc",
+      "title": "Introducing GPT-6 Astra for developers",
+      "source": "Simon Willison",
+      "sourceUrl": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
       "channel": "ai-tech",
       "heat": 40,
       "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-09-05T15:12:12.154Z"
+      "corroboration": 11,
+      "detectedAt": "2026-09-06T04:36:39.958Z"
     },
     {
-      "eventId": "event-w5hcvj",
-      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/grok-bot",
+      "eventId": "event-90wy1r",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-05T15:12:12.154Z"
+      "detectedAt": "2026-09-06T04:36:39.958Z"
     },
     {
-      "eventId": "event-121exmk",
-      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-05T15:12:12.154Z"
-    },
-    {
-      "eventId": "event-12lyuhq",
-      "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
-      "channel": "ai-tech",
-      "heat": 37,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-05T15:12:12.154Z"
-    },
-    {
-      "eventId": "event-1iuwdrw",
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "source": "Hacker News",
-      "sourceUrl": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-      "channel": "ai-tech",
-      "heat": 30,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-05T15:12:12.154Z"
-    },
-    {
-      "eventId": "event-1hjqd7c",
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "eventId": "event-1gn3cc2",
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-05T15:12:12.154Z"
+      "detectedAt": "2026-09-06T04:36:39.958Z"
+    },
+    {
+      "eventId": "event-1w1u96h",
+      "title": "Temperatures could climb to 28C in late burst of warmth",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-06T04:36:39.958Z"
+    },
+    {
+      "eventId": "event-j82460",
+      "title": "Britain 'taxing itself to death' and 'Some Might Stray'",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7v4781d9mmo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-06T04:36:39.958Z"
     }
   ]
 }
