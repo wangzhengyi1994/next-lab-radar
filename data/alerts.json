@@ -1,38 +1,16 @@
 {
-  "generatedAt": "2026-09-06T12:08:29.819Z",
+  "generatedAt": "2026-09-06T15:27:18.069Z",
   "alerts": [
     {
-      "eventId": "event-cdpdu",
-      "title": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/",
-      "channel": "ai-tech",
+      "eventId": "event-outu8",
+      "title": "US envoys Witkoff and Kushner set for talks in Kyiv after meeting with Putin in Moscow",
+      "source": "Google News · Breaking",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRWUVaTkV1Mk9xckp0MWxsTkx5RWlILVZ3cTdwSE1RRzh4enZ6ejdrbnUxMS1GbHN1ZVhHZkpxWXhENGNWcldmb2Q1cDhjejV6WDgzdEFxcE9ER2NnbTB2S2ZWRWNrZU5CTE1YT1RxZ0o5eFlq?oc=5",
+      "channel": "breaking",
       "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-06T12:08:29.819Z"
-    },
-    {
-      "eventId": "event-7sswbp",
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-06T12:08:29.819Z"
-    },
-    {
-      "eventId": "event-1rq4gfi",
-      "title": "夜校，重新走红 - 新浪军事",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mZU5nMlEtT2hrMDMwekZMLUZyOFYyVXZ3MDI0Yk5NN3pYVHlmSDhhSjlNRkhiWW9McVBCX3ZmcXRRNWpyZHRVY2tVUklaX1ppeUk4cUxuM01tWUQwRzNISTlsVUJoUHE1SzlucHRfYjJ6Mmc?oc=5",
-      "channel": "society",
-      "heat": 39,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-09-06T12:08:29.819Z"
+      "detectedAt": "2026-09-06T15:27:18.069Z"
     }
   ]
 }
