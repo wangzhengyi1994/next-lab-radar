@@ -1,60 +1,38 @@
 {
-  "generatedAt": "2026-09-06T04:36:39.958Z",
+  "generatedAt": "2026-09-06T12:08:29.819Z",
   "alerts": [
     {
-      "eventId": "event-5jjdjc",
-      "title": "Introducing GPT-6 Astra for developers",
-      "source": "Simon Willison",
-      "sourceUrl": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "eventId": "event-cdpdu",
+      "title": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/",
       "channel": "ai-tech",
       "heat": 40,
-      "confidence": 85,
-      "corroboration": 11,
-      "detectedAt": "2026-09-06T04:36:39.958Z"
-    },
-    {
-      "eventId": "event-90wy1r",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "channel": "ai-tech",
-      "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-06T04:36:39.958Z"
+      "detectedAt": "2026-09-06T12:08:29.819Z"
     },
     {
-      "eventId": "event-1gn3cc2",
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "eventId": "event-7sswbp",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
       "source": "BBC News",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-06T04:36:39.958Z"
+      "detectedAt": "2026-09-06T12:08:29.819Z"
     },
     {
-      "eventId": "event-1w1u96h",
-      "title": "Temperatures could climb to 28C in late burst of warmth",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-06T04:36:39.958Z"
-    },
-    {
-      "eventId": "event-j82460",
-      "title": "Britain 'taxing itself to death' and 'Some Might Stray'",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7v4781d9mmo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-06T04:36:39.958Z"
+      "eventId": "event-1rq4gfi",
+      "title": "夜校，重新走红 - 新浪军事",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mZU5nMlEtT2hrMDMwekZMLUZyOFYyVXZ3MDI0Yk5NN3pYVHlmSDhhSjlNRkhiWW9McVBCX3ZmcXRRNWpyZHRVY2tVUklaX1ppeUk4cUxuM01tWUQwRzNISTlsVUJoUHE1SzlucHRfYjJ6Mmc?oc=5",
+      "channel": "society",
+      "heat": 39,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-09-06T12:08:29.819Z"
     }
   ]
 }
