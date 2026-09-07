@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-07T04:38:22.551Z",
+  "generatedAt": "2026-09-07T14:14:58.123Z",
   "alerts": [
     {
-      "eventId": "event-1sn2zqw",
-      "title": "Research acceleration: The view inside OpenAI",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "eventId": "event-e2v9ql",
+      "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/",
       "channel": "ai-tech",
-      "heat": 53,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-09-07T04:38:22.551Z"
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-09-07T14:14:58.123Z"
     },
     {
-      "eventId": "event-ocdk3k",
-      "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
-      "source": "arXiv",
-      "sourceUrl": "http://arxiv.org/abs/2609.05374v1",
-      "channel": "ai-tech",
-      "heat": 50,
-      "confidence": 96,
+      "eventId": "event-1b9jqa3",
+      "title": "Breaking News: A cargo plane overran a runway after landing at Miami International Airport and struck multiple vehicles, officials said.",
+      "source": "Google News · Breaking",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLXh1VWVtVk9wUTEzR0FhM1lxaG40dzljQkx1WkpjUThvLVRLTGdmanFwUHVucTJuS0kwcFo4bWhNRjFDRGRsUUkyaGNKVWNkcWFhNlhsREJuUE5fTGNCZGhuaFZ5WnYzMWR4LUxINGNhZFZzd3ZkTWNnUUVCR1ZsZVNqVWdHeUFaRTlGTkFiMk5OV3FEbDZtdHR6MlBlV3ZGbVlTdGhOZHlTNkg3YjlZb0pJdzBnSnFnWUZFWkVEaXlPT3E5TWJjTmo5YkxQVlB2WmJr?oc=5",
+      "channel": "breaking",
+      "heat": 39,
+      "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-07T04:38:22.551Z"
+      "detectedAt": "2026-09-07T14:14:58.123Z"
     },
     {
-      "eventId": "event-1grphi1",
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "eventId": "event-rd8bzh",
+      "title": "Murder arrests over baby girl's death in woodland",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-07T04:38:22.551Z"
+      "detectedAt": "2026-09-07T14:14:58.123Z"
     },
     {
-      "eventId": "event-19ga2km",
-      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "eventId": "event-1ckumd7",
+      "title": "Man arrested on suspicion of murder after two people found dead at house",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-07T04:38:22.551Z"
-    },
-    {
-      "eventId": "event-993ybz",
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-07T04:38:22.551Z"
-    },
-    {
-      "eventId": "event-ax65to",
-      "title": "The Papers: 'Losing battle to halt Russia's 'hybrid' war' and 'Oh chute!'",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdr73jpmpn1o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd019n2pejo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-07T04:38:22.551Z"
+      "detectedAt": "2026-09-07T14:14:58.123Z"
+    },
+    {
+      "eventId": "event-5w8mec",
+      "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-07T14:14:58.123Z"
+    },
+    {
+      "eventId": "event-1ltdgwx",
+      "title": "OpenAI chief scientist warns no one is prepared for consequences of AI",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-07T14:14:58.123Z"
     }
   ]
 }
