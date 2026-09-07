@@ -1,16 +1,71 @@
 {
-  "generatedAt": "2026-09-06T15:27:18.069Z",
+  "generatedAt": "2026-09-07T04:38:22.551Z",
   "alerts": [
     {
-      "eventId": "event-outu8",
-      "title": "US envoys Witkoff and Kushner set for talks in Kyiv after meeting with Putin in Moscow",
-      "source": "Google News · Breaking",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRWUVaTkV1Mk9xckp0MWxsTkx5RWlILVZ3cTdwSE1RRzh4enZ6ejdrbnUxMS1GbHN1ZVhHZkpxWXhENGNWcldmb2Q1cDhjejV6WDgzdEFxcE9ER2NnbTB2S2ZWRWNrZU5CTE1YT1RxZ0o5eFlq?oc=5",
-      "channel": "breaking",
-      "heat": 40,
-      "confidence": 82,
+      "eventId": "event-1sn2zqw",
+      "title": "Research acceleration: The view inside OpenAI",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "channel": "ai-tech",
+      "heat": 53,
+      "confidence": 96,
       "corroboration": 3,
-      "detectedAt": "2026-09-06T15:27:18.069Z"
+      "detectedAt": "2026-09-07T04:38:22.551Z"
+    },
+    {
+      "eventId": "event-ocdk3k",
+      "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
+      "source": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2609.05374v1",
+      "channel": "ai-tech",
+      "heat": 50,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-07T04:38:22.551Z"
+    },
+    {
+      "eventId": "event-1grphi1",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-07T04:38:22.551Z"
+    },
+    {
+      "eventId": "event-19ga2km",
+      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-07T04:38:22.551Z"
+    },
+    {
+      "eventId": "event-993ybz",
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-07T04:38:22.551Z"
+    },
+    {
+      "eventId": "event-ax65to",
+      "title": "The Papers: 'Losing battle to halt Russia's 'hybrid' war' and 'Oh chute!'",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdr73jpmpn1o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-07T04:38:22.551Z"
     }
   ]
 }
