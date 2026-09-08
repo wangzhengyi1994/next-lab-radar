@@ -1,49 +1,71 @@
 {
-  "generatedAt": "2026-09-08T04:33:02.477Z",
+  "generatedAt": "2026-09-08T12:52:30.516Z",
   "alerts": [
     {
-      "eventId": "event-9ra3p3",
-      "title": "Claude Fable 5.1 made me a nice animated pelican",
-      "source": "Hacker News",
-      "sourceUrl": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "eventId": "event-1lpapuj",
+      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "source": "Mistral AI",
+      "sourceUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
       "channel": "ai-tech",
-      "heat": 24,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-09-08T04:33:02.477Z"
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-08T12:52:30.516Z"
     },
     {
-      "eventId": "event-jxmwuc",
-      "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
+      "eventId": "event-8nxobu",
+      "title": "Mistral AI raises 3 billion euros in Europe&#039;s largest-ever tech funding round despite lagging behind rivals",
       "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
+      "sourceUrl": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/",
       "channel": "ai-tech",
-      "heat": 39,
+      "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-08T04:33:02.477Z"
+      "detectedAt": "2026-09-08T12:52:30.516Z"
     },
     {
-      "eventId": "event-4u1427",
-      "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
+      "eventId": "event-174j1w4",
+      "title": "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
+      "source": "HuggingFace Papers",
+      "sourceUrl": "https://huggingface.co/papers/2609.01281",
       "channel": "ai-tech",
-      "heat": 37,
+      "heat": 27,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-08T04:33:02.477Z"
+      "detectedAt": "2026-09-08T12:52:30.516Z"
     },
     {
-      "eventId": "event-1ahu6p4",
-      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "eventId": "event-1d9wn0w",
+      "title": "At least two people dead after Russian strikes on Kyiv",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-08T04:33:02.477Z"
+      "detectedAt": "2026-09-08T12:52:30.516Z"
+    },
+    {
+      "eventId": "event-v85huq",
+      "title": "Nottingham attacks victim's death 'potentially preventable'",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-08T12:52:30.516Z"
+    },
+    {
+      "eventId": "event-vvwuw3",
+      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-08T12:52:30.516Z"
     }
   ]
 }
