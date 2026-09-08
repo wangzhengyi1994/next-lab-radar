@@ -1,71 +1,49 @@
 {
-  "generatedAt": "2026-09-07T14:14:58.123Z",
+  "generatedAt": "2026-09-08T04:33:02.477Z",
   "alerts": [
     {
-      "eventId": "event-e2v9ql",
-      "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/",
+      "eventId": "event-9ra3p3",
+      "title": "Claude Fable 5.1 made me a nice animated pelican",
+      "source": "Hacker News",
+      "sourceUrl": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 24,
       "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-09-07T14:14:58.123Z"
+      "corroboration": 6,
+      "detectedAt": "2026-09-08T04:33:02.477Z"
     },
     {
-      "eventId": "event-1b9jqa3",
-      "title": "Breaking News: A cargo plane overran a runway after landing at Miami International Airport and struck multiple vehicles, officials said.",
-      "source": "Google News · Breaking",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLXh1VWVtVk9wUTEzR0FhM1lxaG40dzljQkx1WkpjUThvLVRLTGdmanFwUHVucTJuS0kwcFo4bWhNRjFDRGRsUUkyaGNKVWNkcWFhNlhsREJuUE5fTGNCZGhuaFZ5WnYzMWR4LUxINGNhZFZzd3ZkTWNnUUVCR1ZsZVNqVWdHeUFaRTlGTkFiMk5OV3FEbDZtdHR6MlBlV3ZGbVlTdGhOZHlTNkg3YjlZb0pJdzBnSnFnWUZFWkVEaXlPT3E5TWJjTmo5YkxQVlB2WmJr?oc=5",
-      "channel": "breaking",
+      "eventId": "event-jxmwuc",
+      "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
+      "channel": "ai-tech",
       "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-07T14:14:58.123Z"
+      "detectedAt": "2026-09-08T04:33:02.477Z"
     },
     {
-      "eventId": "event-rd8bzh",
-      "title": "Murder arrests over baby girl's death in woodland",
+      "eventId": "event-4u1427",
+      "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
+      "channel": "ai-tech",
+      "heat": 37,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-08T04:33:02.477Z"
+    },
+    {
+      "eventId": "event-1ahu6p4",
+      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-07T14:14:58.123Z"
-    },
-    {
-      "eventId": "event-1ckumd7",
-      "title": "Man arrested on suspicion of murder after two people found dead at house",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd019n2pejo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-07T14:14:58.123Z"
-    },
-    {
-      "eventId": "event-5w8mec",
-      "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-07T14:14:58.123Z"
-    },
-    {
-      "eventId": "event-1ltdgwx",
-      "title": "OpenAI chief scientist warns no one is prepared for consequences of AI",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-07T14:14:58.123Z"
+      "detectedAt": "2026-09-08T04:33:02.477Z"
     }
   ]
 }
