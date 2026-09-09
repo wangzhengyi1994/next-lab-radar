@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-09T04:40:00.592Z",
+  "generatedAt": "2026-09-09T12:57:59.361Z",
   "alerts": [
     {
-      "eventId": "event-135pzox",
-      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
-      "source": "AWS ML",
-      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
+      "eventId": "event-6qgbcz",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/gpt-6-astra",
+      "channel": "ai-tech",
+      "heat": 44,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-09-09T12:57:59.361Z"
+    },
+    {
+      "eventId": "event-17t9ht8",
+      "title": "GPT‑6 Astra",
+      "source": "Simon Willison",
+      "sourceUrl": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "channel": "ai-tech",
+      "heat": 32,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-09-09T12:57:59.361Z"
+    },
+    {
+      "eventId": "event-1m04ww1",
+      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-09-09T12:57:59.361Z"
+    },
+    {
+      "eventId": "event-yt3wed",
+      "title": "ChatGPT Images 2.5: Faster, more precise, but not the same for everyone",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/",
       "channel": "ai-tech",
       "heat": 40,
       "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-09-09T04:40:00.592Z"
-    },
-    {
-      "eventId": "event-1pc3dyk",
-      "title": "Muse: Meta's personal AI agent, features & capabilities",
-      "source": "Meta AI",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5fLV8wMFJYVllGcUE4UkFJVGZQS3NDR1hCN21Fd2RmUTVOSXFibS0zRGdxV1A3dldXekZxbmd3?oc=5",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-09-09T04:40:00.592Z"
-    },
-    {
-      "eventId": "event-zotsvb",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-09-09T04:40:00.592Z"
-    },
-    {
-      "eventId": "event-5qjkc6",
-      "title": "I resigned from Anthropic today",
-      "source": "Hacker News",
-      "sourceUrl": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-      "channel": "ai-tech",
-      "heat": 41,
-      "confidence": 85,
       "corroboration": 5,
-      "detectedAt": "2026-09-09T04:40:00.592Z"
+      "detectedAt": "2026-09-09T12:57:59.361Z"
     },
     {
-      "eventId": "event-1q8mu8o",
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "eventId": "event-8ejxt5",
+      "title": "OpenAI&#039;s millennium proof dispute raises the question of whether researchers can trust AI labs",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/",
       "channel": "ai-tech",
-      "heat": 39,
+      "heat": 40,
       "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-09-09T04:40:00.592Z"
+      "corroboration": 4,
+      "detectedAt": "2026-09-09T12:57:59.361Z"
     },
     {
-      "eventId": "event-1j8fimu",
-      "title": "OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-09-08",
-      "channel": "ai-tech",
-      "heat": 38,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-09-09T04:40:00.592Z"
+      "eventId": "event-1g394mi",
+      "title": "BREAKING OVERNIGHT: Oil prices have climbed above $100 a barrel for the first time since July following new attacks on oil facilities and ships in the Middle East.",
+      "source": "Google News · Breaking",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY1ZDZVRhVWpQek8xUE9nZVU0N0I1YnNRUXFtbTV3NlhTMWJOUnJ3Vk50NmdkTjZDQWFYa1RWVmRTb3BOZW9TZWw2Z2dsOF9iVzNMMTNkYU9BSm96WmxtTThHRktmOEd3UXpldENuZGNyREI2dDIxcWU4QS1vc3dFNkloZ1JTSkc4Z1RiRWtTZW5ua2pId1lOVk9iX0V0d3psWDFwYzBlSDZsdThtVVhaZXRDX3hRUVJfQkNmUkFMeWxlVVpma2IxR3Ywcm1NTkN0MVYtcmYzUi1idw?oc=5",
+      "channel": "breaking",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-09T12:57:59.361Z"
     }
   ]
 }
