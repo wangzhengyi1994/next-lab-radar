@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-08T12:52:30.516Z",
+  "generatedAt": "2026-09-09T04:40:00.592Z",
   "alerts": [
     {
-      "eventId": "event-1lpapuj",
-      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-      "source": "Mistral AI",
-      "sourceUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "channel": "ai-tech",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-09-08T12:52:30.516Z"
-    },
-    {
-      "eventId": "event-8nxobu",
-      "title": "Mistral AI raises 3 billion euros in Europe&#039;s largest-ever tech funding round despite lagging behind rivals",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/",
+      "eventId": "event-135pzox",
+      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
+      "source": "AWS ML",
+      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
       "channel": "ai-tech",
       "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-08T12:52:30.516Z"
+      "confidence": 85,
+      "corroboration": 9,
+      "detectedAt": "2026-09-09T04:40:00.592Z"
     },
     {
-      "eventId": "event-174j1w4",
-      "title": "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2609.01281",
+      "eventId": "event-1pc3dyk",
+      "title": "Muse: Meta's personal AI agent, features & capabilities",
+      "source": "Meta AI",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5fLV8wMFJYVllGcUE4UkFJVGZQS3NDR1hCN21Fd2RmUTVOSXFibS0zRGdxV1A3dldXekZxbmd3?oc=5",
       "channel": "ai-tech",
-      "heat": 27,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-08T12:52:30.516Z"
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 6,
+      "detectedAt": "2026-09-09T04:40:00.592Z"
     },
     {
-      "eventId": "event-1d9wn0w",
-      "title": "At least two people dead after Russian strikes on Kyiv",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-08T12:52:30.516Z"
+      "eventId": "event-zotsvb",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-09-09T04:40:00.592Z"
     },
     {
-      "eventId": "event-v85huq",
-      "title": "Nottingham attacks victim's death 'potentially preventable'",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-08T12:52:30.516Z"
+      "eventId": "event-5qjkc6",
+      "title": "I resigned from Anthropic today",
+      "source": "Hacker News",
+      "sourceUrl": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+      "channel": "ai-tech",
+      "heat": 41,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-09-09T04:40:00.592Z"
     },
     {
-      "eventId": "event-vvwuw3",
-      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-08T12:52:30.516Z"
+      "eventId": "event-1q8mu8o",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-09-09T04:40:00.592Z"
+    },
+    {
+      "eventId": "event-1j8fimu",
+      "title": "OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-09-08",
+      "channel": "ai-tech",
+      "heat": 38,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-09-09T04:40:00.592Z"
     }
   ]
 }
