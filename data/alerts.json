@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-10T04:40:24.861Z",
+  "generatedAt": "2026-09-10T12:55:03.442Z",
   "alerts": [
     {
-      "eventId": "event-1s2j4fd",
-      "title": "Images 2.5 🎨, OpenAI solves Navier-Stokes 🧮, AlphaGenome Atlas 🧬",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-09-09",
+      "eventId": "event-1oou781",
+      "title": "AI safety panic goes mainstream after Anthropic researcher&#039;s warnings land on CNN and Fox News",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/",
       "channel": "ai-tech",
-      "heat": 38,
+      "heat": 40,
       "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-09-10T04:40:24.861Z"
+      "corroboration": 5,
+      "detectedAt": "2026-09-10T12:55:03.442Z"
     },
     {
-      "eventId": "event-7sp38q",
-      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "eventId": "event-m0tt9",
+      "title": "DeepSeek V4.1 Flash now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway",
       "channel": "ai-tech",
-      "heat": 39,
+      "heat": 52,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-10T12:55:03.442Z"
+    },
+    {
+      "eventId": "event-1y0wv3i",
+      "title": "Muse: Meta's personal AI agent, features & capabilities",
+      "source": "Meta AI",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5fLV8wMFJYVllGcUE4UkFJVGZQS3NDR1hCN21Fd2RmUTVOSXFibS0zRGdxV1A3dldXekZxbmd3?oc=5",
+      "channel": "ai-tech",
+      "heat": 51,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-10T12:55:03.442Z"
+    },
+    {
+      "eventId": "event-dr4193",
+      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/item?id=49624603",
+      "channel": "ai-tech",
+      "heat": 47,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-10T04:40:24.861Z"
+      "detectedAt": "2026-09-10T12:55:03.442Z"
     },
     {
-      "eventId": "event-16h609d",
-      "title": "Iran war will not end until after November US elections, says Trump",
-      "source": "BBC News",
+      "eventId": "event-ju59c2",
+      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-10T12:55:03.442Z"
+    },
+    {
+      "eventId": "event-10onm6s",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "source": "BBC World",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-10T04:40:24.861Z"
-    },
-    {
-      "eventId": "event-1cn01pd",
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-10T04:40:24.861Z"
-    },
-    {
-      "eventId": "event-1s3j039",
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-10T04:40:24.861Z"
-    },
-    {
-      "eventId": "event-1fl6tow",
-      "title": "Failures 'contributed to' death of Sir Richard Branson's wife",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y7k9n7exyo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-10T04:40:24.861Z"
+      "detectedAt": "2026-09-10T12:55:03.442Z"
     }
   ]
 }
