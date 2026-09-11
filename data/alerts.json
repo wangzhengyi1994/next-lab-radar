@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-10T12:55:03.442Z",
+  "generatedAt": "2026-09-11T04:38:02.394Z",
   "alerts": [
     {
-      "eventId": "event-1oou781",
-      "title": "AI safety panic goes mainstream after Anthropic researcher&#039;s warnings land on CNN and Fox News",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-09-10T12:55:03.442Z"
-    },
-    {
-      "eventId": "event-m0tt9",
-      "title": "DeepSeek V4.1 Flash now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/deepseek-v4-1-flash-now-available-on-ai-gateway",
+      "eventId": "event-1hkfju6",
+      "title": "Introducing the Agents API",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-the-agents-api",
       "channel": "ai-tech",
       "heat": 52,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-09-10T12:55:03.442Z"
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-09-11T04:38:02.394Z"
     },
     {
-      "eventId": "event-1y0wv3i",
-      "title": "Muse: Meta's personal AI agent, features & capabilities",
-      "source": "Meta AI",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5fLV8wMFJYVllGcUE4UkFJVGZQS3NDR1hCN21Fd2RmUTVOSXFibS0zRGdxV1A3dldXekZxbmd3?oc=5",
+      "eventId": "event-1pd60ep",
+      "title": "OpenAI&#039;s GPT-Live-1 API lets developers build apps that talk and listen at the same time",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/",
       "channel": "ai-tech",
-      "heat": 51,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-09-10T12:55:03.442Z"
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-09-11T04:38:02.394Z"
     },
     {
-      "eventId": "event-dr4193",
-      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
-      "source": "Hacker News",
-      "sourceUrl": "https://news.ycombinator.com/item?id=49624603",
+      "eventId": "event-wk1p2t",
+      "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
       "channel": "ai-tech",
-      "heat": 47,
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-09-11T04:38:02.394Z"
+    },
+    {
+      "eventId": "event-1awfenc",
+      "title": "Everyone needs a Muse",
+      "source": "Ben's Bites",
+      "sourceUrl": "https://www.bensbites.com/p/everyone-needs-a-muse",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-09-11T04:38:02.394Z"
+    },
+    {
+      "eventId": "event-1spbjdn",
+      "title": "Is AI Actually Going to Kill Us All?",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+      "channel": "ai-tech",
+      "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-10T12:55:03.442Z"
+      "detectedAt": "2026-09-11T04:38:02.394Z"
     },
     {
-      "eventId": "event-ju59c2",
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-10T12:55:03.442Z"
-    },
-    {
-      "eventId": "event-10onm6s",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-10T12:55:03.442Z"
+      "eventId": "event-v8udd0",
+      "title": "DeepSeek Flash v4.1 🤖, Siri AI 📱, Anthropic AI economics 📈",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-09-10",
+      "channel": "ai-tech",
+      "heat": 38,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-11T04:38:02.394Z"
     }
   ]
 }
