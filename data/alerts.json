@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-11T04:38:02.394Z",
+  "generatedAt": "2026-09-11T12:49:19.867Z",
   "alerts": [
     {
-      "eventId": "event-1hkfju6",
-      "title": "Introducing the Agents API",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-the-agents-api",
+      "eventId": "event-7nyaog",
+      "title": "Threat Intelligence",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GbEg2TERzdW9CeXV1Z0NqOENweW84YXRud2JJMG11NEQycGM4azhISnIxMnZNOWllXy1NVjF4dkl0WlJqbHVzbnIwaWt1VzZyeWYtRTB5Q0c?oc=5",
       "channel": "ai-tech",
-      "heat": 52,
+      "heat": 53,
       "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-09-11T04:38:02.394Z"
+      "corroboration": 4,
+      "detectedAt": "2026-09-11T12:49:19.867Z"
     },
     {
-      "eventId": "event-1pd60ep",
-      "title": "OpenAI&#039;s GPT-Live-1 API lets developers build apps that talk and listen at the same time",
+      "eventId": "event-1w1ospw",
+      "title": "OpenAI&#039;s new Agents API gives developers the infrastructure behind Codex and ChatGPT",
       "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/",
+      "sourceUrl": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-09-11T04:38:02.394Z"
-    },
-    {
-      "eventId": "event-wk1p2t",
-      "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "channel": "ai-tech",
-      "heat": 39,
+      "heat": 40,
       "confidence": 85,
       "corroboration": 4,
-      "detectedAt": "2026-09-11T04:38:02.394Z"
+      "detectedAt": "2026-09-11T12:49:19.867Z"
     },
     {
-      "eventId": "event-1awfenc",
-      "title": "Everyone needs a Muse",
-      "source": "Ben's Bites",
-      "sourceUrl": "https://www.bensbites.com/p/everyone-needs-a-muse",
+      "eventId": "event-m44bqw",
+      "title": "DeepSeek v4.1 Flash Uncensored",
+      "source": "Hacker News",
+      "sourceUrl": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-09-11T04:38:02.394Z"
-    },
-    {
-      "eventId": "event-1spbjdn",
-      "title": "Is AI Actually Going to Kill Us All?",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-      "channel": "ai-tech",
-      "heat": 39,
+      "heat": 28,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-11T04:38:02.394Z"
+      "detectedAt": "2026-09-11T12:49:19.867Z"
     },
     {
-      "eventId": "event-v8udd0",
-      "title": "DeepSeek Flash v4.1 🤖, Siri AI 📱, Anthropic AI economics 📈",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-09-10",
-      "channel": "ai-tech",
-      "heat": 38,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-11T04:38:02.394Z"
+      "eventId": "event-ec549c",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-11T12:49:19.867Z"
+    },
+    {
+      "eventId": "event-yhdg8a",
+      "title": "“吃作业”突然走红，被称为“解压神器”？紧急提醒！",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVVzMkViemZSU1BlMUN0WjZSeEhWcnEyOXdYUG1HaFQxQzhKTzQ5Wm5MdXFTd1IwR2NkWkxwNWlrY3ZxRVNlMWUtZ1hnVG5YeTUtOVJtdHQtOTZ3Mzh5RzBINzZWRXdYeEpwNlNTRHB3MUNZa3NkWTdtNV9qQ3dQaFhPQzljWjh0VkNBZjVrQmJLQnRvdEZscQ?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-09-11T12:49:19.867Z"
+    },
+    {
+      "eventId": "event-12npy1p",
+      "title": "网友吐槽Siri 功能表现|siri|苹果|cook_新浪新闻",
+      "source": "Google News · 爆点",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RUmluMkZUNDE1QmNkaFlldWU0RWJYOGZ2d2tKZlAwMldUdG9KRjVSSnFrVVVXZnhiXzB6QWUycFFzVkIwS3NpU0QxanlNZ01TbkF2cnh0Sm1uTm1wa0FfMG5KNA?oc=5",
+      "channel": "society",
+      "heat": 39,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-09-11T12:49:19.867Z"
     }
   ]
 }
