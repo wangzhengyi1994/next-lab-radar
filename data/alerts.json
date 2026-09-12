@@ -1,71 +1,49 @@
 {
-  "generatedAt": "2026-09-12T04:32:25.503Z",
+  "generatedAt": "2026-09-12T12:10:00.216Z",
   "alerts": [
     {
-      "eventId": "event-twxx2s",
-      "title": "DeepSeek 4.1 Flash",
-      "source": "Hacker News",
-      "sourceUrl": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+      "eventId": "event-6shcsj",
+      "title": "OpenAI just wants to win",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
       "channel": "ai-tech",
-      "heat": 25,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-09-12T04:32:25.503Z"
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-12T12:10:00.216Z"
     },
     {
-      "eventId": "event-17p54r3",
-      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
+      "eventId": "event-qpq1dx",
+      "title": "Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-09-11",
+      "channel": "ai-tech",
+      "heat": 38,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-12T12:10:00.216Z"
+    },
+    {
+      "eventId": "event-1ms3rd2",
+      "title": "还没干啥，又上热搜了 - 新浪网",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSEZmNG9OTzNBb3RMRTcyazdqRl9Ybkk4SzlEVmEyRDVJR3kwQk5KVEFwbUU3dkhaOGhuTUpFTFR1WU1xUGoxN0tMa3BIYW04TTB5b21MMHZvQ1FWVFE3NlJFMktHZElEeFYydl83NUM0QTBvdHBpT1k4ZEROUUZ4Zw?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-09-12T04:32:25.503Z"
+      "detectedAt": "2026-09-12T12:10:00.216Z"
     },
     {
-      "eventId": "event-1k6p8em",
-      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-12T04:32:25.503Z"
-    },
-    {
-      "eventId": "event-15hwr99",
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-12T04:32:25.503Z"
-    },
-    {
-      "eventId": "event-1p7h00l",
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "eventId": "event-85qc39",
+      "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-12T04:32:25.503Z"
-    },
-    {
-      "eventId": "event-td64mh",
-      "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-12T04:32:25.503Z"
+      "detectedAt": "2026-09-12T12:10:00.216Z"
     }
   ]
 }
