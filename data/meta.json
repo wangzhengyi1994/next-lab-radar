@@ -1,19 +1,19 @@
 {
-  "fetchedAt": "2026-09-12T15:30:53.495Z",
-  "count": 966,
+  "fetchedAt": "2026-09-13T04:45:08.465Z",
+  "count": 949,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 130,
+    "hackernews": 127,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
     "rss:china-society": 20,
     "rss:people-watch": 20,
     "rss:entertainment-watch": 20,
-    "rss:viral-watch": 20,
+    "rss:viral-watch": 16,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 6,
+    "rss:consumer-watch": 2,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -43,11 +43,11 @@
     "rss:techreview-ai": 10,
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
-    "rss:marktechpost": 0,
+    "rss:marktechpost": 10,
     "rss:semianalysis": 10,
-    "rss:smol-ainews": 0,
+    "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
-    "rss:simonwillison": 8,
+    "rss:simonwillison": 6,
     "rss:lilianweng": 20,
     "rss:raschka": 20,
     "rss:thegradient": 12,
@@ -61,15 +61,15 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 16,
     "rss:36kr": 0,
-    "rss:infoq": 13,
+    "rss:infoq": 14,
     "rss:sspai": 2,
-    "rss:ithome": 6,
-    "arxiv": 20
+    "rss:ithome": 2,
+    "arxiv": 0
   },
   "errors": {
     "rss:bair": "fetch failed",
     "rss:webflow": "fetch failed",
     "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/",
-    "rss:smol-ainews": "HTTP 402 Payment Required <- https://news.smol.ai/rss.xml"
+    "arxiv": "HTTP 429 Unknown Error <- https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=20"
   }
 }
