@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-13T04:45:08.465Z",
-  "count": 949,
+  "fetchedAt": "2026-09-13T13:18:45.359Z",
+  "count": 936,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -11,9 +11,9 @@
     "rss:china-society": 20,
     "rss:people-watch": 20,
     "rss:entertainment-watch": 20,
-    "rss:viral-watch": 16,
+    "rss:viral-watch": 8,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 2,
+    "rss:consumer-watch": 4,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -61,15 +61,15 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 16,
     "rss:36kr": 0,
-    "rss:infoq": 14,
+    "rss:infoq": 13,
     "rss:sspai": 2,
-    "rss:ithome": 2,
+    "rss:ithome": 5,
     "arxiv": 0
   },
   "errors": {
     "rss:bair": "fetch failed",
     "rss:webflow": "fetch failed",
     "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/",
-    "arxiv": "HTTP 429 Unknown Error <- https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=20"
+    "arxiv": "This operation was aborted"
   }
 }
