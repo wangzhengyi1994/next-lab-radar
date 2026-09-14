@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-14T04:53:33.959Z",
-  "count": 953,
+  "fetchedAt": "2026-09-14T15:00:38.071Z",
+  "count": 942,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -11,9 +11,9 @@
     "rss:china-society": 20,
     "rss:people-watch": 20,
     "rss:entertainment-watch": 20,
-    "rss:viral-watch": 13,
+    "rss:viral-watch": 17,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 4,
+    "rss:consumer-watch": 5,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -34,10 +34,10 @@
     "rss:vercel": 7,
     "rss:github-blog": 5,
     "rss:webflow": 0,
-    "rss:codrops": 2,
+    "rss:codrops": 1,
     "rss:smashing": 5,
     "rss:theverge-ai": 10,
-    "rss:techcrunch-ai": 19,
+    "rss:techcrunch-ai": 20,
     "rss:venturebeat-ai": 0,
     "rss:arstechnica-ai": 20,
     "rss:techreview-ai": 10,
@@ -63,12 +63,14 @@
     "rss:36kr": 0,
     "rss:infoq": 12,
     "rss:sspai": 3,
-    "rss:ithome": 2,
-    "arxiv": 20
+    "rss:ithome": 5,
+    "arxiv": 0
   },
   "errors": {
     "rss:bair": "fetch failed",
     "rss:webflow": "fetch failed",
-    "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/"
+    "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/",
+    "rss:marktechpost": "HTTP 403 Forbidden <- https://www.marktechpost.com/feed/",
+    "arxiv": "HTTP 429 Unknown Error <- https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=20"
   }
 }

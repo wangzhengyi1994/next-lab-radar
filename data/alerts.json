@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-09-14T04:53:33.958Z",
+  "generatedAt": "2026-09-14T15:00:38.070Z",
   "alerts": [
     {
-      "eventId": "event-19cnvd4",
-      "title": "票房七千全网刷屏，《牛来》反向爆火，是猎奇狂欢还是行业缩影",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xRHRLUHk3cV9CYy1fdm1scVJXeHd5bk5jTTVoczZIOE9Qa19mNW1iQlJENVM2dGZUSk15YjM0dThHaXljNnZxNm56cUN1ZzFqdnNmdTgzT2QyQkZEVTVpUE5yaUw3UUQtS0MzblpVRQ?oc=5",
+      "eventId": "event-1q493iu",
+      "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-14T15:00:38.070Z"
+    },
+    {
+      "eventId": "event-rsg2zy",
+      "title": "便宜1300元！iPhone 17大降价冲上热搜苹果回应|iPhone 17 Pro|Apple|官方|官网|门店_手机新浪网",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNW91WFhtWHZMVUVRNU55LWZCdVB2YXZPbjJoN2Z0T1J0SVhZbEdDSlF2MW54UFZ2TnJSZW5ZNTNGRkMxcEZJU3Uzend1elRVQVVibkgwRnZJYjFBbkxPdXRMY3pYMDRUODFjYXpwV2VrckVTTUUtdjI4TVAzYlA3NS10TnlFUHlVQTVqTDJUSndwTVRONk1hcmQxSHJCeFhYNktxQjBySQ?oc=5",
       "channel": "society",
-      "heat": 39,
+      "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-09-14T04:53:33.958Z"
+      "detectedAt": "2026-09-14T15:00:38.070Z"
     },
     {
-      "eventId": "event-1kjd2yj",
-      "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+      "eventId": "event-1qufg7g",
+      "title": "Burnham cancels engagements after death of his father",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-14T04:53:33.958Z"
+      "detectedAt": "2026-09-14T15:00:38.070Z"
     },
     {
-      "eventId": "event-1orvcrv",
-      "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
+      "eventId": "event-pzyvc1",
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-14T15:00:38.070Z"
+    },
+    {
+      "eventId": "event-1144m2l",
+      "title": "Driver who killed Team GB triathlete to be deported",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr89j81de1edo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-14T04:53:33.958Z"
+      "detectedAt": "2026-09-14T15:00:38.070Z"
     },
     {
-      "eventId": "event-vvcuk8",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "eventId": "event-1tw3kti",
+      "title": "Bali police investigate after Australian man and children found dead in home",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-14T04:53:33.958Z"
-    },
-    {
-      "eventId": "event-1xny263",
-      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-14T04:53:33.958Z"
+      "detectedAt": "2026-09-14T15:00:38.070Z"
     }
   ]
 }
