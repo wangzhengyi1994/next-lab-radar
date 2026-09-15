@@ -1,49 +1,38 @@
 {
-  "generatedAt": "2026-09-15T04:52:21.073Z",
+  "generatedAt": "2026-09-15T13:32:20.055Z",
   "alerts": [
     {
-      "eventId": "event-1dbe0dt",
-      "title": "DevFest is back",
-      "source": "Google AI",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-09-15T04:52:21.073Z"
-    },
-    {
-      "eventId": "event-tdg6sx",
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+      "eventId": "event-ryhnu0",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-15T04:52:21.073Z"
+      "detectedAt": "2026-09-15T13:32:20.055Z"
     },
     {
-      "eventId": "event-pcb1f0",
-      "title": "Mass nesting brings swarms of turtles to Mexican beach",
+      "eventId": "event-mbi7ll",
+      "title": "Two dead after car hits group of pedestrians",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-15T04:52:21.073Z"
+      "detectedAt": "2026-09-15T13:32:20.055Z"
     },
     {
-      "eventId": "event-1q74rrt",
-      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "eventId": "event-13413qt",
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-15T04:52:21.073Z"
+      "detectedAt": "2026-09-15T13:32:20.055Z"
     }
   ]
 }
