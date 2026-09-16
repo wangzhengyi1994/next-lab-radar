@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-16T04:47:45.601Z",
+  "generatedAt": "2026-09-16T13:29:54.387Z",
   "alerts": [
     {
-      "eventId": "event-1iph4tm",
-      "title": "Gemini 3.8 Live models now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-09-16T04:47:45.601Z"
+      "eventId": "event-1m0932t",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-16T13:29:54.387Z"
     },
     {
-      "eventId": "event-3ti04e",
-      "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
-      "source": "BBC News",
+      "eventId": "event-b40izj",
+      "title": "Journalist and pilot among three killed after news helicopter crashes in LA",
+      "source": "BBC World",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-16T04:47:45.601Z"
+      "detectedAt": "2026-09-16T13:29:54.387Z"
     },
     {
-      "eventId": "event-rnmi1a",
-      "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+      "eventId": "event-1b0moah",
+      "title": "Author and critic Bonnie Greer dies aged 77",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39w4xqw4r2jo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-16T04:47:45.601Z"
-    },
-    {
-      "eventId": "event-1mbkolx",
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-16T04:47:45.601Z"
-    },
-    {
-      "eventId": "event-1fzb2h4",
-      "title": "暑期档票房领跑江苏，昆山做对了什么？|江苏省|电影票房|昆山市|苏州市|影院_新浪娱乐_新浪新闻",
-      "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12X3ZhTk1SQm5nVkdEWml5YXdrSzlyQm55Rks5am1fMFJfbExzck1fSE9wQVY1LXdZSDFpTjZxY082UDQxM1FHRDJBUGdKaWhfU0VuV0VhNDRaemZWSjExMFpaSkZ3ZkkxYkNvcDhyMkt2ZGZMX1Z6aDQ3aXI?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-09-16T04:47:45.601Z"
-    },
-    {
-      "eventId": "event-cu11rq",
-      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-16T04:47:45.601Z"
+      "detectedAt": "2026-09-16T13:29:54.387Z"
+    },
+    {
+      "eventId": "event-qszokk",
+      "title": "Petrol and diesel price rises push UK inflation higher",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-16T13:29:54.387Z"
+    },
+    {
+      "eventId": "event-2rsky",
+      "title": "Kosovo's former president sentenced to 25 years for war crimes",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd79z0pdzgjo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-16T13:29:54.387Z"
+    },
+    {
+      "eventId": "event-yegqn2",
+      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-16T13:29:54.387Z"
     }
   ]
 }
