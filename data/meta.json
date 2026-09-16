@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-15T13:32:20.056Z",
-  "count": 944,
+  "fetchedAt": "2026-09-16T04:47:45.602Z",
+  "count": 957,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -13,14 +13,14 @@
     "rss:entertainment-watch": 20,
     "rss:viral-watch": 20,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 1,
+    "rss:consumer-watch": 2,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
     "rss:google-ai": 20,
     "rss:deepmind": 20,
-    "rss:google-research": 9,
-    "rss:nvidia": 13,
+    "rss:google-research": 10,
+    "rss:nvidia": 12,
     "rss:hf-blog": 20,
     "rss:mistral": 20,
     "rss:cohere": 0,
@@ -31,9 +31,9 @@
     "rss:msr": 7,
     "rss:aws-ml": 20,
     "rss:figma": 20,
-    "rss:vercel": 7,
+    "rss:vercel": 8,
     "rss:github-blog": 5,
-    "rss:webflow": 2,
+    "rss:webflow": 0,
     "rss:codrops": 0,
     "rss:smashing": 5,
     "rss:theverge-ai": 10,
@@ -47,7 +47,7 @@
     "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
-    "rss:simonwillison": 6,
+    "rss:simonwillison": 7,
     "rss:lilianweng": 20,
     "rss:raschka": 20,
     "rss:thegradient": 12,
@@ -61,16 +61,16 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 16,
     "rss:36kr": 0,
-    "rss:infoq": 9,
-    "rss:sspai": 2,
-    "rss:ithome": 4,
-    "arxiv": 0
+    "rss:infoq": 7,
+    "rss:sspai": 1,
+    "rss:ithome": 6,
+    "arxiv": 20
   },
   "errors": {
     "rss:bair": "fetch failed",
+    "rss:webflow": "fetch failed",
     "rss:codrops": "HTTP 410 Gone <- https://tympanus.net/codrops/feed/",
     "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/",
-    "rss:marktechpost": "HTTP 403 Forbidden <- https://www.marktechpost.com/feed/",
-    "arxiv": "HTTP 429 Unknown Error <- https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=20"
+    "rss:marktechpost": "HTTP 403 Forbidden <- https://www.marktechpost.com/feed/"
   }
 }

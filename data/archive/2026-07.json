@@ -41176,7 +41176,7 @@
     "tags": [
       "Hacker News"
     ],
-    "heat": 24,
+    "heat": 23,
     "aiSelected": true,
     "origin": "hackernews",
     "firstSeen": "2026-07-27T03:14:21.883Z",
@@ -51611,8 +51611,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-19a4xez",
-    "corroboration": 1,
-    "confidence": 74,
+    "corroboration": 2,
+    "confidence": 78,
     "surge": false
   },
   {
@@ -64101,7 +64101,7 @@
     "origin": "hackernews",
     "aiNote": "将顶尖模型知识蒸馏到开源模型，突破审查限制，为金融领域提供低成本高效方案。",
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2,
