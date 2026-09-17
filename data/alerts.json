@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-16T13:29:54.387Z",
+  "generatedAt": "2026-09-17T04:50:51.563Z",
   "alerts": [
     {
-      "eventId": "event-1m0932t",
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "eventId": "event-9plo0x",
+      "title": "TypeSafe AI's Jev now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-09-17T04:50:51.563Z"
+    },
+    {
+      "eventId": "event-1gdx82j",
+      "title": "Jev ⚡, Periodic Neon 🧬, Gemini 3.8 Live 💬",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-09-16",
+      "channel": "ai-tech",
+      "heat": 38,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-09-17T04:50:51.563Z"
+    },
+    {
+      "eventId": "event-yjvnl9",
+      "title": "Claude Cowork and chat are now one Claude",
+      "source": "Simon Willison",
+      "sourceUrl": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-09-17T04:50:51.563Z"
+    },
+    {
+      "eventId": "event-rmx3sh",
+      "title": "US interest rates raised for first time in three years",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-16T13:29:54.387Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-17T04:50:51.563Z"
     },
     {
-      "eventId": "event-b40izj",
-      "title": "Journalist and pilot among three killed after news helicopter crashes in LA",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-16T13:29:54.387Z"
+      "eventId": "event-8s9kod",
+      "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+      "source": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2609.19128v1",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-17T04:50:51.563Z"
     },
     {
-      "eventId": "event-1b0moah",
-      "title": "Author and critic Bonnie Greer dies aged 77",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39w4xqw4r2jo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-16T13:29:54.387Z"
-    },
-    {
-      "eventId": "event-qszokk",
-      "title": "Petrol and diesel price rises push UK inflation higher",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-16T13:29:54.387Z"
-    },
-    {
-      "eventId": "event-2rsky",
-      "title": "Kosovo's former president sentenced to 25 years for war crimes",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd79z0pdzgjo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-16T13:29:54.387Z"
-    },
-    {
-      "eventId": "event-yegqn2",
-      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-16T13:29:54.387Z"
+      "eventId": "event-1dbtklw",
+      "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "source": "Apple ML Research",
+      "sourceUrl": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-17T04:50:51.563Z"
     }
   ]
 }
