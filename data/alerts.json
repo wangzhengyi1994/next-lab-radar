@@ -1,71 +1,60 @@
 {
-  "generatedAt": "2026-09-17T04:50:51.563Z",
+  "generatedAt": "2026-09-17T13:26:06.164Z",
   "alerts": [
     {
-      "eventId": "event-9plo0x",
-      "title": "TypeSafe AI's Jev now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-09-17T04:50:51.563Z"
-    },
-    {
-      "eventId": "event-1gdx82j",
-      "title": "Jev ⚡, Periodic Neon 🧬, Gemini 3.8 Live 💬",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-09-16",
-      "channel": "ai-tech",
-      "heat": 38,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-09-17T04:50:51.563Z"
-    },
-    {
-      "eventId": "event-yjvnl9",
-      "title": "Claude Cowork and chat are now one Claude",
-      "source": "Simon Willison",
-      "sourceUrl": "https://simonwillison.net/2026/Sep/16/one-claude/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-09-17T04:50:51.563Z"
-    },
-    {
-      "eventId": "event-rmx3sh",
-      "title": "US interest rates raised for first time in three years",
+      "eventId": "event-5lmhzf",
+      "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-09-17T04:50:51.563Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-17T13:26:06.164Z"
     },
     {
-      "eventId": "event-8s9kod",
-      "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
-      "source": "arXiv",
-      "sourceUrl": "http://arxiv.org/abs/2609.19128v1",
-      "channel": "ai-tech",
+      "eventId": "event-19kma0l",
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-17T13:26:06.164Z"
+    },
+    {
+      "eventId": "event-v7v7p0",
+      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-17T13:26:06.164Z"
+    },
+    {
+      "eventId": "event-bvosuz",
+      "title": "One dead after torrential rain and flash floods hit Barcelona region",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-17T13:26:06.164Z"
+    },
+    {
+      "eventId": "event-tn2gad",
+      "title": "Abducted South African journalist found dead with gunshot wounds",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
       "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-09-17T04:50:51.563Z"
-    },
-    {
-      "eventId": "event-1dbtklw",
-      "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
-      "source": "Apple ML Research",
-      "sourceUrl": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-09-17T04:50:51.563Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-17T13:26:06.164Z"
     }
   ]
 }
