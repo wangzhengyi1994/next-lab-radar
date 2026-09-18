@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-18T04:41:22.036Z",
-  "count": 983,
+  "fetchedAt": "2026-09-18T12:57:37.950Z",
+  "count": 984,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -13,7 +13,7 @@
     "rss:entertainment-watch": 20,
     "rss:viral-watch": 20,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 7,
+    "rss:consumer-watch": 6,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -31,7 +31,7 @@
     "rss:msr": 7,
     "rss:aws-ml": 20,
     "rss:figma": 20,
-    "rss:vercel": 8,
+    "rss:vercel": 9,
     "rss:github-blog": 6,
     "rss:webflow": 0,
     "rss:codrops": 0,
@@ -61,7 +61,7 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 18,
     "rss:36kr": 0,
-    "rss:infoq": 14,
+    "rss:infoq": 16,
     "rss:sspai": 3,
     "rss:ithome": 8,
     "arxiv": 20
