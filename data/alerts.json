@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-09-17T13:26:06.164Z",
+  "generatedAt": "2026-09-18T04:41:22.035Z",
   "alerts": [
     {
-      "eventId": "event-5lmhzf",
-      "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-17T13:26:06.164Z"
+      "eventId": "event-1gd9z0m",
+      "title": "Hacking OpenAI",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.hacktron.ai/blog/hacking-openai",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-09-18T04:41:22.035Z"
     },
     {
-      "eventId": "event-19kma0l",
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-17T13:26:06.164Z"
+      "eventId": "event-5wvowp",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/cooley-gopublic",
+      "channel": "ai-tech",
+      "heat": 53,
+      "confidence": 99,
+      "corroboration": 6,
+      "detectedAt": "2026-09-18T04:41:22.035Z"
     },
     {
-      "eventId": "event-v7v7p0",
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-17T13:26:06.164Z"
+      "eventId": "event-1sf940i",
+      "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
+      "source": "Apple ML Research",
+      "sourceUrl": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 5,
+      "detectedAt": "2026-09-18T04:41:22.035Z"
     },
     {
-      "eventId": "event-bvosuz",
-      "title": "One dead after torrential rain and flash floods hit Barcelona region",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-17T13:26:06.164Z"
+      "eventId": "event-1rdmjie",
+      "title": "Sex, AI, and the Apocalypse",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "channel": "ai-tech",
+      "heat": 44,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-09-18T04:41:22.035Z"
     },
     {
-      "eventId": "event-tn2gad",
-      "title": "Abducted South African journalist found dead with gunshot wounds",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-17T13:26:06.164Z"
+      "eventId": "event-1ipwo3",
+      "title": "Rival AI agents, Instinct and Meta&#8217;s Muse, both add the ability to make calls",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-09-18T04:41:22.035Z"
+    },
+    {
+      "eventId": "event-44i63w",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-09-18T04:41:22.035Z"
     }
   ]
 }
