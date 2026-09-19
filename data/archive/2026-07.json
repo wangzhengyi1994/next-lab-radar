@@ -51611,8 +51611,8 @@
     "tier": 2,
     "radarChannel": "ai-tech",
     "eventId": "event-19a4xez",
-    "corroboration": 2,
-    "confidence": 78,
+    "corroboration": 1,
+    "confidence": 74,
     "surge": false
   },
   {
@@ -64526,7 +64526,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 28,
+    "heat": 29,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2,

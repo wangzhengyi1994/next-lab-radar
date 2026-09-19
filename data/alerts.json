@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-18T12:57:37.949Z",
+  "generatedAt": "2026-09-19T04:36:03.752Z",
   "alerts": [
     {
-      "eventId": "event-1bw937l",
-      "title": "GLM 5.3 FlashX now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/glm-5-3-flashx-now-available-on-ai-gateway",
+      "eventId": "event-17owhkl",
+      "title": "Security researchers used Anthropic&#039;s Claude to hack OpenAI&#039;s internal systems in under 72 hours",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/",
       "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-09-19T04:36:03.752Z"
+    },
+    {
+      "eventId": "event-rfij15",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-19T04:36:03.752Z"
+    },
+    {
+      "eventId": "event-ivoja1",
+      "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
+      "source": "HuggingFace Papers",
+      "sourceUrl": "https://huggingface.co/papers/2609.19499",
+      "channel": "ai-tech",
+      "heat": 24,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-19T04:36:03.752Z"
+    },
+    {
+      "eventId": "event-1vzvuvh",
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
       "heat": 54,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-09-18T12:57:37.949Z"
-    },
-    {
-      "eventId": "event-13wqyh7",
-      "title": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-18T12:57:37.949Z"
+      "detectedAt": "2026-09-19T04:36:03.752Z"
     },
     {
-      "eventId": "event-8xwhya",
-      "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+      "eventId": "event-1vslumc",
+      "title": "The Papers: 'Monstrous words' and 'Russia to ramp up war'",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-18T12:57:37.949Z"
-    },
-    {
-      "eventId": "event-18ekxyi",
-      "title": "热搜第一！网友吐槽苹果iOS 27电池图标丑",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlZtdGhoTGpCUkIxNlJiVXBQa3FtRFB1NURiV2NNLW5RRHR0X0UyRm9QYjhmYk9KTXZaZXMyZV83dnh0RzdxbDF6V3NiZEFfQkZDSEEwNmZMa1g4ajFSVzhjSW5Ca2Vld0FyVXM3SlNUY0lvekptRTJ4M3Fsa0JfREw4aHVyamM?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-09-18T12:57:37.949Z"
-    },
-    {
-      "eventId": "event-rnpxax",
-      "title": "Flight chaos caused by software defect, says air traffic control body",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw14d58dxm8jo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-18T12:57:37.949Z"
+      "detectedAt": "2026-09-19T04:36:03.752Z"
     },
     {
-      "eventId": "event-1e036qe",
-      "title": "British rapper Sway dies aged 44",
+      "eventId": "event-bafvfx",
+      "title": "Temperatures could peak at 26C as summerlike warmth returns next week",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cqlym1m2kllgo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-18T12:57:37.949Z"
+      "detectedAt": "2026-09-19T04:36:03.752Z"
     }
   ]
 }
