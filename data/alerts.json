@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-19T04:36:03.752Z",
+  "generatedAt": "2026-09-19T12:29:27.481Z",
   "alerts": [
     {
-      "eventId": "event-17owhkl",
-      "title": "Security researchers used Anthropic&#039;s Claude to hack OpenAI&#039;s internal systems in under 72 hours",
+      "eventId": "event-qxy83o",
+      "title": "Google&#039;s Gemini also accidentally hacked three real companies during security testing",
       "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/",
+      "sourceUrl": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-09-19T04:36:03.752Z"
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-19T12:29:27.481Z"
     },
     {
-      "eventId": "event-rfij15",
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "eventId": "event-1cxxwqg",
+      "title": "The Overhang",
+      "source": "Ethan Mollick",
+      "sourceUrl": "https://www.oneusefulthing.org/p/the-overhang",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-19T04:36:03.752Z"
+      "detectedAt": "2026-09-19T12:29:27.481Z"
     },
     {
-      "eventId": "event-ivoja1",
-      "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2609.19499",
-      "channel": "ai-tech",
-      "heat": 24,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-19T04:36:03.752Z"
-    },
-    {
-      "eventId": "event-1vzvuvh",
-      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "eventId": "event-1ol4c8i",
+      "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-19T04:36:03.752Z"
+      "detectedAt": "2026-09-19T12:29:27.481Z"
     },
     {
-      "eventId": "event-1vslumc",
-      "title": "The Papers: 'Monstrous words' and 'Russia to ramp up war'",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw14d58dxm8jo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-19T04:36:03.752Z"
+      "eventId": "event-jr87uk",
+      "title": "影视飓风Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍",
+      "source": "Google News · 爆点",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QdFJpT1Rvdy02ckhDNmRZUFNUcEdwbUNsN1QzaFpjMGphWFZUUVZiSVVSSkV1eUN6UXJSazRYa1lROUxCVWdqeEstMks?oc=5",
+      "channel": "society",
+      "heat": 38,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-09-19T12:29:27.481Z"
     },
     {
-      "eventId": "event-bafvfx",
-      "title": "Temperatures could peak at 26C as summerlike warmth returns next week",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cqlym1m2kllgo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-16ifqzg",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 53,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-19T04:36:03.752Z"
+      "detectedAt": "2026-09-19T12:29:27.481Z"
+    },
+    {
+      "eventId": "event-ssqea2",
+      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 53,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-19T12:29:27.481Z"
     }
   ]
 }
