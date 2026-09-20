@@ -1,71 +1,60 @@
 {
-  "generatedAt": "2026-09-19T12:29:27.481Z",
+  "generatedAt": "2026-09-20T04:51:57.533Z",
   "alerts": [
     {
-      "eventId": "event-qxy83o",
-      "title": "Google&#039;s Gemini also accidentally hacked three real companies during security testing",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-19T12:29:27.481Z"
-    },
-    {
-      "eventId": "event-1cxxwqg",
-      "title": "The Overhang",
-      "source": "Ethan Mollick",
-      "sourceUrl": "https://www.oneusefulthing.org/p/the-overhang",
+      "eventId": "event-1ngheut",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
       "channel": "ai-tech",
       "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-19T12:29:27.481Z"
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-09-20T04:51:57.533Z"
     },
     {
-      "eventId": "event-1ol4c8i",
-      "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+      "eventId": "event-1icg7rp",
+      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-20T04:51:57.533Z"
+    },
+    {
+      "eventId": "event-qydgfd",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-19T12:29:27.481Z"
+      "detectedAt": "2026-09-20T04:51:57.533Z"
     },
     {
-      "eventId": "event-jr87uk",
-      "title": "影视飓风Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QdFJpT1Rvdy02ckhDNmRZUFNUcEdwbUNsN1QzaFpjMGphWFZUUVZiSVVSSkV1eUN6UXJSazRYa1lROUxCVWdqeEstMks?oc=5",
-      "channel": "society",
-      "heat": 38,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-09-19T12:29:27.481Z"
-    },
-    {
-      "eventId": "event-16ifqzg",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "eventId": "event-1ogjwx5",
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 53,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-19T12:29:27.481Z"
+      "detectedAt": "2026-09-20T04:51:57.533Z"
     },
     {
-      "eventId": "event-ssqea2",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-d0rtqt",
+      "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 53,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-19T12:29:27.481Z"
+      "detectedAt": "2026-09-20T04:51:57.533Z"
     }
   ]
 }
