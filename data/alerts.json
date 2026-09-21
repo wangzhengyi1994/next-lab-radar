@@ -1,4 +1,16 @@
 {
-  "generatedAt": "2026-09-20T13:02:35.085Z",
-  "alerts": []
+  "generatedAt": "2026-09-21T04:53:04.946Z",
+  "alerts": [
+    {
+      "eventId": "event-1lw3acc",
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-21T04:53:04.946Z"
+    }
+  ]
 }
