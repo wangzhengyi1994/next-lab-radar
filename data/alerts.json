@@ -1,16 +1,38 @@
 {
-  "generatedAt": "2026-09-21T04:53:04.946Z",
+  "generatedAt": "2026-09-21T15:05:44.087Z",
   "alerts": [
     {
-      "eventId": "event-1lw3acc",
-      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "eventId": "event-stkbx3",
+      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-21T15:05:44.087Z"
+    },
+    {
+      "eventId": "event-ymm1vo",
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-21T15:05:44.087Z"
+    },
+    {
+      "eventId": "event-1k4pfgg",
+      "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-21T04:53:04.946Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-21T15:05:44.087Z"
     }
   ]
 }
