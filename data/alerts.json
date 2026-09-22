@@ -1,38 +1,71 @@
 {
-  "generatedAt": "2026-09-21T15:05:44.087Z",
+  "generatedAt": "2026-09-22T04:52:50.410Z",
   "alerts": [
     {
-      "eventId": "event-stkbx3",
-      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
+      "eventId": "event-1g1wz8d",
+      "title": "MiMo V2.6 models now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-09-22T04:52:50.410Z"
+    },
+    {
+      "eventId": "event-ctxmbw",
+      "title": "Grok 4.7",
+      "source": "Hacker News",
+      "sourceUrl": "https://x.ai/news/grok-4-7",
+      "channel": "ai-tech",
+      "heat": 49,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-09-22T04:52:50.410Z"
+    },
+    {
+      "eventId": "event-1rt7vyb",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-09-22T04:52:50.410Z"
+    },
+    {
+      "eventId": "event-1ldcpp1",
+      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-09-22T04:52:50.410Z"
+    },
+    {
+      "eventId": "event-1rj2fh9",
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "channel": "ai-tech",
+      "heat": 42,
+      "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-21T15:05:44.087Z"
+      "detectedAt": "2026-09-22T04:52:50.410Z"
     },
     {
-      "eventId": "event-ymm1vo",
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "eventId": "event-1c7tfej",
+      "title": "Schools not ready for AI and 'crying out' for government guidance, report warns",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8r68mpm6p3o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-21T15:05:44.087Z"
-    },
-    {
-      "eventId": "event-1k4pfgg",
-      "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-21T15:05:44.087Z"
+      "detectedAt": "2026-09-22T04:52:50.410Z"
     }
   ]
 }
