@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-22T04:52:50.410Z",
+  "generatedAt": "2026-09-22T13:24:11.172Z",
   "alerts": [
     {
-      "eventId": "event-1g1wz8d",
-      "title": "MiMo V2.6 models now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-09-22T04:52:50.410Z"
+      "eventId": "event-1e8y8he",
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-22T13:24:11.172Z"
     },
     {
-      "eventId": "event-ctxmbw",
-      "title": "Grok 4.7",
-      "source": "Hacker News",
-      "sourceUrl": "https://x.ai/news/grok-4-7",
+      "eventId": "event-6jec2",
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
       "channel": "ai-tech",
-      "heat": 49,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-09-22T04:52:50.410Z"
-    },
-    {
-      "eventId": "event-1rt7vyb",
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-09-22T04:52:50.410Z"
-    },
-    {
-      "eventId": "event-1ldcpp1",
-      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-09-22T04:52:50.410Z"
-    },
-    {
-      "eventId": "event-1rj2fh9",
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "source": "Hacker News",
-      "sourceUrl": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "channel": "ai-tech",
-      "heat": 42,
+      "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-22T04:52:50.410Z"
+      "detectedAt": "2026-09-22T13:24:11.172Z"
     },
     {
-      "eventId": "event-1c7tfej",
-      "title": "Schools not ready for AI and 'crying out' for government guidance, report warns",
+      "eventId": "event-666lyz",
+      "title": "Xiaomi&#039;s affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-22T13:24:11.172Z"
+    },
+    {
+      "eventId": "event-1mjt904",
+      "title": "New EU industry rules would damage UK, warns Burnham",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8r68mpm6p3o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-22T04:52:50.410Z"
+      "detectedAt": "2026-09-22T13:24:11.172Z"
+    },
+    {
+      "eventId": "event-1h7t62k",
+      "title": "Father admits causing death of his son in hotel fall",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-22T13:24:11.172Z"
+    },
+    {
+      "eventId": "event-107h1f2",
+      "title": "Eleven injured in shooting outside Turkish school",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-22T13:24:11.172Z"
     }
   ]
 }
