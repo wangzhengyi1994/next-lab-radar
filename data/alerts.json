@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-23T04:43:11.563Z",
+  "generatedAt": "2026-09-23T13:37:52.737Z",
   "alerts": [
     {
-      "eventId": "event-f9wcoz",
-      "title": "Introducing Claude Opus 5.5",
-      "source": "Anthropic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-09-23T04:43:11.563Z"
-    },
-    {
-      "eventId": "event-1mhotl",
-      "title": "OpenAI&#039;s GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+      "eventId": "event-1s39od6",
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-09-23T04:43:11.563Z"
+      "corroboration": 7,
+      "detectedAt": "2026-09-23T13:37:52.737Z"
     },
     {
-      "eventId": "event-1fbq7z2",
-      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
-      "source": "AWS ML",
-      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-09-23T04:43:11.563Z"
-    },
-    {
-      "eventId": "event-6q70y7",
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-09-23T04:43:11.563Z"
-    },
-    {
-      "eventId": "event-11rsbxn",
-      "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-09-23T04:43:11.563Z"
-    },
-    {
-      "eventId": "event-4soa8v",
-      "title": "Frost, wind and rain forecast as autumn warmth fades for many",
+      "eventId": "event-cl0g53",
+      "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cwp80lxpr71go?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-23T04:43:11.563Z"
+      "detectedAt": "2026-09-23T13:37:52.737Z"
+    },
+    {
+      "eventId": "event-1qp4exf",
+      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-23T13:37:52.737Z"
+    },
+    {
+      "eventId": "event-3sdej4",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-23T13:37:52.737Z"
+    },
+    {
+      "eventId": "event-17oj22o",
+      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-23T13:37:52.737Z"
+    },
+    {
+      "eventId": "event-1n0l9s9",
+      "title": "Drug deaths in Scotland rise 11% as country struggles with worst rate in Europe",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyz2pvw058o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-23T13:37:52.737Z"
     }
   ]
 }
