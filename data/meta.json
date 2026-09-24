@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-24T04:47:16.044Z",
-  "count": 976,
+  "fetchedAt": "2026-09-24T13:32:29.586Z",
+  "count": 968,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 122,
+    "hackernews": 123,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
@@ -20,7 +20,7 @@
     "rss:google-ai": 20,
     "rss:deepmind": 20,
     "rss:google-research": 10,
-    "rss:nvidia": 14,
+    "rss:nvidia": 13,
     "rss:hf-blog": 20,
     "rss:mistral": 20,
     "rss:cohere": 0,
@@ -44,7 +44,7 @@
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
     "rss:marktechpost": 0,
-    "rss:semianalysis": 10,
+    "rss:semianalysis": 0,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
     "rss:simonwillison": 11,
@@ -61,15 +61,16 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 18,
     "rss:36kr": 0,
-    "rss:infoq": 11,
-    "rss:sspai": 3,
-    "rss:ithome": 5,
+    "rss:infoq": 14,
+    "rss:sspai": 1,
+    "rss:ithome": 8,
     "arxiv": 20
   },
   "errors": {
     "rss:webflow": "fetch failed",
     "rss:codrops": "HTTP 410 Gone <- https://tympanus.net/codrops/feed/",
     "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/",
-    "rss:marktechpost": "HTTP 403 Forbidden <- https://www.marktechpost.com/feed/"
+    "rss:marktechpost": "HTTP 403 Forbidden <- https://www.marktechpost.com/feed/",
+    "rss:semianalysis": "HTTP 403 Forbidden <- https://semianalysis.com/feed/"
   }
 }

@@ -1,71 +1,60 @@
 {
-  "generatedAt": "2026-09-24T04:47:16.043Z",
+  "generatedAt": "2026-09-24T13:32:29.585Z",
   "alerts": [
     {
-      "eventId": "event-1bq3xa",
-      "title": "Introducing MentalHealthBench",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-mentalhealthbench",
+      "eventId": "event-1t9sr77",
+      "title": "Back to Claude",
+      "source": "Ben's Bites",
+      "sourceUrl": "https://www.bensbites.com/p/back-to-claude",
       "channel": "ai-tech",
-      "heat": 53,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-09-24T04:47:16.043Z"
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 9,
+      "detectedAt": "2026-09-24T13:32:29.585Z"
     },
     {
-      "eventId": "event-gxuhm7",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/airbnb-gpt-6-astra",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-09-24T04:47:16.043Z"
-    },
-    {
-      "eventId": "event-5mxftl",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "source": "Google DeepMind",
-      "sourceUrl": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-09-24T04:47:16.043Z"
-    },
-    {
-      "eventId": "event-2s0a4x",
-      "title": "Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation, and Emergent Locality",
-      "source": "arXiv",
-      "sourceUrl": "http://arxiv.org/abs/2609.28448v1",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-09-24T04:47:16.043Z"
-    },
-    {
-      "eventId": "event-4tcy0t",
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "eventId": "event-q2p4tk",
+      "title": "OpenAI agent hacked Australian government website, PM says",
       "source": "Hacker News",
-      "sourceUrl": "https://artificialanalysis.ai/models/mercury-2-5",
+      "sourceUrl": "https://www.bbc.com/news/live/cvgl73pxgndwt",
       "channel": "ai-tech",
-      "heat": 35,
+      "heat": 41,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-24T04:47:16.043Z"
+      "detectedAt": "2026-09-24T13:32:29.585Z"
     },
     {
-      "eventId": "event-a42pyc",
-      "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2609.27334",
+      "eventId": "event-1tkhnew",
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
       "channel": "ai-tech",
-      "heat": 24,
+      "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-24T04:47:16.043Z"
+      "detectedAt": "2026-09-24T13:32:29.585Z"
+    },
+    {
+      "eventId": "event-eq6dem",
+      "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-24T13:32:29.585Z"
+    },
+    {
+      "eventId": "event-5j7erb",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-24T13:32:29.585Z"
     }
   ]
 }
