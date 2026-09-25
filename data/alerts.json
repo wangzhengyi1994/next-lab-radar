@@ -1,71 +1,49 @@
 {
-  "generatedAt": "2026-09-25T04:55:22.386Z",
+  "generatedAt": "2026-09-25T13:45:22.556Z",
   "alerts": [
     {
-      "eventId": "event-14eyj8w",
-      "title": "Opus 5.5 for Work",
-      "source": "Anthropic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dWwwdEZIOXRVaHBSM09MYy1ZMk5TQ1RsUzFxem8wQTQwMGdvVmxHTFd4NTN5ODhTUVdLSi1ObUx1WjJ0aTA5ZU1lNHZEeWlBSkliTkoxTjY2czRzaFprVGpB?oc=5",
-      "channel": "ai-tech",
-      "heat": 55,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-09-25T04:55:22.386Z"
-    },
-    {
-      "eventId": "event-c20mxw",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "source": "Google DeepMind",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 5,
-      "detectedAt": "2026-09-25T04:55:22.386Z"
-    },
-    {
-      "eventId": "event-18iklq7",
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-25T04:55:22.386Z"
-    },
-    {
-      "eventId": "event-f77qmq",
-      "title": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+      "eventId": "event-1951pmx",
+      "title": "Google&#039;s \"Call for Me\" lets Gemini phone businesses for you",
       "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/",
+      "sourceUrl": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-25T04:55:22.386Z"
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-09-25T13:45:22.556Z"
     },
     {
-      "eventId": "event-1fl7i21",
-      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-25T04:55:22.386Z"
-    },
-    {
-      "eventId": "event-1molrg2",
-      "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
+      "eventId": "event-74kp78",
+      "title": "Trump and Xi exchange warm words but little progress on key issues",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-25T04:55:22.386Z"
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-25T13:45:22.556Z"
+    },
+    {
+      "eventId": "event-5hcv9j",
+      "title": "突然爆火！单依纯、汪苏泷都在跳，医院紧急提醒",
+      "source": "Google News · 爆点",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBObnN3QzNSUVJmMF91ODZ4bUMzdkZxQ2FHQXBaaHd6VUhiV3ROTTdpRzhyRktTY3NFNmRfaGNsVHdWOEtUbWtsZTVfNVZDaGhERW1EMUx6azlYTVJuY2hxMHdEa19CclRCNEVXQXhNSE8?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-09-25T13:45:22.556Z"
+    },
+    {
+      "eventId": "event-8oj9t0",
+      "title": "\"猕猴桃是全世界最团结的水果\"上热搜！网友吐槽：太真实！",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BLXVOaFdVNHhDbnVzbXk5MnhFeldpQ1F5blFyaGpJcU0ycTkzeWNfMmNLdGVOQks0RXVtT2p1dXU1SmlmWDdFMVVSWGM1TG44eGVFd3JNNTVFalcwZGwzT1gxN3pjajNNZGxORHpTOHhpRlhZSEE?oc=5",
+      "channel": "society",
+      "heat": 39,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-09-25T13:45:22.556Z"
     }
   ]
 }
