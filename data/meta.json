@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-26T04:55:44.379Z",
-  "count": 970,
+  "fetchedAt": "2026-09-26T13:03:50.224Z",
+  "count": 964,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 122,
+    "hackernews": 120,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
@@ -13,7 +13,7 @@
     "rss:entertainment-watch": 20,
     "rss:viral-watch": 13,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 8,
+    "rss:consumer-watch": 7,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -56,20 +56,21 @@
     "rss:latentspace": 20,
     "rss:oneusefulthing": 20,
     "rss:bensbites": 20,
-    "rss:qbitai": 10,
+    "rss:qbitai": 0,
     "rss:jiqizhixin": 20,
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 15,
     "rss:36kr": 0,
     "rss:infoq": 14,
     "rss:sspai": 1,
-    "rss:ithome": 1,
+    "rss:ithome": 7,
     "arxiv": 20
   },
   "errors": {
     "rss:webflow": "fetch failed",
     "rss:codrops": "HTTP 410 Gone <- https://tympanus.net/codrops/feed/",
     "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/",
-    "rss:marktechpost": "HTTP 403 Forbidden <- https://www.marktechpost.com/feed/"
+    "rss:marktechpost": "HTTP 403 Forbidden <- https://www.marktechpost.com/feed/",
+    "rss:qbitai": "fetch failed"
   }
 }
