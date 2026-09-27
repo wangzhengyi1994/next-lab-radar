@@ -1,38 +1,16 @@
 {
-  "generatedAt": "2026-09-27T05:16:37.888Z",
+  "generatedAt": "2026-09-27T13:56:46.061Z",
   "alerts": [
     {
-      "eventId": "event-1qst7qz",
-      "title": "Four killed in helicopter crash near Montreal",
+      "eventId": "event-1uamrpl",
+      "title": "Two mass shootings in South Africa leave 27 dead",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-09-27T05:16:37.888Z"
-    },
-    {
-      "eventId": "event-1b4qps9",
-      "title": "Heathrow Airport warns third runway could be delayed by four years",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-27T05:16:37.888Z"
-    },
-    {
-      "eventId": "event-1rsl07h",
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-27T05:16:37.888Z"
+      "detectedAt": "2026-09-27T13:56:46.061Z"
     }
   ]
 }
