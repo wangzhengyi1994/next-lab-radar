@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-09-28T05:21:04.549Z",
+  "generatedAt": "2026-09-28T16:44:54.308Z",
   "alerts": [
     {
-      "eventId": "event-1dcm6no",
-      "title": "“爱奇艺广告请勿眨眼”冲上热搜，有人晒截图称看广告时如果眨眼，将从眨眼位置强制重播，爱奇艺回应：大过节的，别恶搞造谣了",
+      "eventId": "event-sqedni",
+      "title": "Prompting Claude Opus 5.5",
+      "source": "Hacker News",
+      "sourceUrl": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "channel": "ai-tech",
+      "heat": 44,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-28T16:44:54.308Z"
+    },
+    {
+      "eventId": "event-1j9rpnm",
+      "title": "88元山姆纪念帆布包走红：实用轻奢平替还是自费打广告？",
       "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRGx1cms0ZTFoZXduMmFVY0JJTnB3d0xhVlZjSEdGN2xpd1pnS09EVnR2S2RmZnVON1ZmbS1RTmg3MHJOQjZ3V2dpdVF3MVRxSlI5aW5ib1MzN290QTRIanhUaWZUWjJkMDFlcjIzZllZcFRVZWdWemgwTnlMRng1X2xpTkxBSDB1ZHQ5SQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03cFRkaGh2ZURtWnRpMEFQZXRac1h5eW4wNFRCUW4tQVRpWDd2TktIRGw4YmM3RUxFeGdwaVl6d0RTVVBMUUNCSGk5dmJvSF8yVDBxOWRVTHNmakZ1ZVNEMHJ4djFjVWRN?oc=5",
       "channel": "society",
       "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-09-28T05:21:04.549Z"
+      "detectedAt": "2026-09-28T16:44:54.308Z"
     },
     {
-      "eventId": "event-zg1s8f",
-      "title": "美女AI主播火了，2万人冲进直播间狂刷礼物！最强实时互动模型首秀",
-      "source": "Google News · 娱乐",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52cnV6Q3E2Q0dqSmViR2VhZTY5LVV6T2FxQXBJZHY5NEpkbGMxR0hSdExlS3MxOTBJbzJFZVVKamRzN1ZvRmRWYQ?oc=5",
-      "channel": "people",
-      "heat": 39,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-09-28T05:21:04.549Z"
-    },
-    {
-      "eventId": "event-1e338ta",
-      "title": "Late September warmth before wind and rain returns this week",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c8wyzzyxed3zo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-upbrn4",
+      "title": "Four bodies found after avalanche hits Himalayan climbing group",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-28T05:21:04.549Z"
+      "detectedAt": "2026-09-28T16:44:54.308Z"
     },
     {
-      "eventId": "event-1faf5jk",
-      "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-8xvtiv",
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-28T05:21:04.549Z"
+      "detectedAt": "2026-09-28T16:44:54.308Z"
     },
     {
-      "eventId": "event-142mt6r",
-      "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+      "eventId": "event-1xgdh4w",
+      "title": "Lithium-ion battery caused fire that killed mum and 3 children",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62jyk6ne4vo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-09-28T05:21:04.549Z"
+      "detectedAt": "2026-09-28T16:44:54.308Z"
+    },
+    {
+      "eventId": "event-rw15yx",
+      "title": "Three dead, including child, in Channel crossing attempt",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-28T16:44:54.308Z"
     }
   ]
 }
