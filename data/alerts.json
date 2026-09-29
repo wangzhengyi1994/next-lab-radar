@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-28T16:44:54.308Z",
+  "generatedAt": "2026-09-29T05:41:51.537Z",
   "alerts": [
     {
-      "eventId": "event-sqedni",
-      "title": "Prompting Claude Opus 5.5",
-      "source": "Hacker News",
-      "sourceUrl": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "eventId": "event-1kff6s",
+      "title": "Claude Sonnet 5.5 System Card",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qV0J6eHRjNVU4N0s5TXVvN3Q1NUZ1SWt6a0dZLW9pcFppU0VhbmpFVS1NRzRTZGpyXzJseDI0S2JmcVlrTDEwUHRDSlRxYXNMNEQwUXE3TUpyTEVQT2w5RDM0RENpdw?oc=5",
       "channel": "ai-tech",
-      "heat": 44,
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 8,
+      "detectedAt": "2026-09-29T05:41:51.537Z"
+    },
+    {
+      "eventId": "event-rtmogd",
+      "title": "[AINews] Opus 5.5 is good at explainer videos",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 8,
+      "detectedAt": "2026-09-29T05:41:51.537Z"
+    },
+    {
+      "eventId": "event-39bdke",
+      "title": "OpenAI’s AI agents need to catch up",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-09-29T05:41:51.537Z"
+    },
+    {
+      "eventId": "event-1terrkc",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "channel": "ai-tech",
+      "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-28T16:44:54.308Z"
+      "detectedAt": "2026-09-29T05:41:51.537Z"
     },
     {
-      "eventId": "event-1j9rpnm",
-      "title": "88元山姆纪念帆布包走红：实用轻奢平替还是自费打广告？",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03cFRkaGh2ZURtWnRpMEFQZXRac1h5eW4wNFRCUW4tQVRpWDd2TktIRGw4YmM3RUxFeGdwaVl6d0RTVVBMUUNCSGk5dmJvSF8yVDBxOWRVTHNmakZ1ZVNEMHJ4djFjVWRN?oc=5",
+      "eventId": "event-1j3y7qg",
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-09-29T05:41:51.537Z"
+    },
+    {
+      "eventId": "event-7ahdnf",
+      "title": "中秋档票房老片挑大梁 - 手机新浪网",
+      "source": "Google News · 电影",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42NWs5WDVCdElGV1dVeDF3WG1vRkV0UEtFdWJlSHhWei15TnNFMjI2REZYMnJDQlR4aEd6U0RTUFYtUm4yZzV3U3h2Rll6YnM0cW1HVGEyYjMyN2RxUGhHakJYVFlyb0syUEVGNUw0bm0?oc=5",
       "channel": "society",
-      "heat": 40,
+      "heat": 39,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-09-28T16:44:54.308Z"
-    },
-    {
-      "eventId": "event-upbrn4",
-      "title": "Four bodies found after avalanche hits Himalayan climbing group",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-28T16:44:54.308Z"
-    },
-    {
-      "eventId": "event-8xvtiv",
-      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-28T16:44:54.308Z"
-    },
-    {
-      "eventId": "event-1xgdh4w",
-      "title": "Lithium-ion battery caused fire that killed mum and 3 children",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62jyk6ne4vo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-28T16:44:54.308Z"
-    },
-    {
-      "eventId": "event-rw15yx",
-      "title": "Three dead, including child, in Channel crossing attempt",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-28T16:44:54.308Z"
+      "detectedAt": "2026-09-29T05:41:51.537Z"
     }
   ]
 }
