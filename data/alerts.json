@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-29T05:41:51.537Z",
+  "generatedAt": "2026-09-29T14:50:43.142Z",
   "alerts": [
     {
-      "eventId": "event-1kff6s",
-      "title": "Claude Sonnet 5.5 System Card",
-      "source": "Anthropic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qV0J6eHRjNVU4N0s5TXVvN3Q1NUZ1SWt6a0dZLW9pcFppU0VhbmpFVS1NRzRTZGpyXzJseDI0S2JmcVlrTDEwUHRDSlRxYXNMNEQwUXE3TUpyTEVQT2w5RDM0RENpdw?oc=5",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 8,
-      "detectedAt": "2026-09-29T05:41:51.537Z"
-    },
-    {
-      "eventId": "event-rtmogd",
-      "title": "[AINews] Opus 5.5 is good at explainer videos",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+      "eventId": "event-bpjvq6",
+      "title": "Sonnet 5.5 is worth a try",
+      "source": "Ben's Bites",
+      "sourceUrl": "https://www.bensbites.com/p/sonnet-55-is-worth-a-try",
       "channel": "ai-tech",
       "heat": 40,
       "confidence": 85,
-      "corroboration": 8,
-      "detectedAt": "2026-09-29T05:41:51.537Z"
+      "corroboration": 9,
+      "detectedAt": "2026-09-29T14:50:43.142Z"
     },
     {
-      "eventId": "event-39bdke",
-      "title": "OpenAI’s AI agents need to catch up",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "eventId": "event-1egzkx0",
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-09-29T05:41:51.537Z"
-    },
-    {
-      "eventId": "event-1terrkc",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "channel": "ai-tech",
-      "heat": 39,
+      "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-09-29T05:41:51.537Z"
+      "detectedAt": "2026-09-29T14:50:43.142Z"
     },
     {
-      "eventId": "event-1j3y7qg",
-      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-      "source": "BBC News",
+      "eventId": "event-1ht44si",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-29T14:50:43.142Z"
+    },
+    {
+      "eventId": "event-1qmyvvy",
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-29T14:50:43.142Z"
+    },
+    {
+      "eventId": "event-1f7verf",
+      "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+      "source": "BBC World",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-09-29T05:41:51.537Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-29T14:50:43.142Z"
     },
     {
-      "eventId": "event-7ahdnf",
-      "title": "中秋档票房老片挑大梁 - 手机新浪网",
-      "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42NWs5WDVCdElGV1dVeDF3WG1vRkV0UEtFdWJlSHhWei15TnNFMjI2REZYMnJDQlR4aEd6U0RTUFYtUm4yZzV3U3h2Rll6YnM0cW1HVGEyYjMyN2RxUGhHakJYVFlyb0syUEVGNUw0bm0?oc=5",
-      "channel": "society",
-      "heat": 39,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-09-29T05:41:51.537Z"
+      "eventId": "event-1oqb88f",
+      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-29T14:50:43.142Z"
     }
   ]
 }
