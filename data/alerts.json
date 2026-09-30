@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-30T05:30:11.157Z",
+  "generatedAt": "2026-09-30T14:54:42.595Z",
   "alerts": [
     {
-      "eventId": "event-j1owpw",
-      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
-      "source": "Anthropic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRHZqQWJnNEZtVXVNWUx1RlRacG5MLUFTcVBEb2FMZUtzMzNRdklBR0NIMERTbFppaTEyZUZrOFhWRjhMaFFPenE3eTBRX21vSlJKakwxU2Q4SzFqRXFyRDd5X1R5X2dQTUg4c0IxR2o2c09BTG9tOE5VZm1UczdHSjQyMGlPeEtqVzhzSURXb0xQbTJKVFFyQVFrTEpkMFZ1UUtPd2lTcEszMWh0NVA3SDBvcUREaVBDV1lVMUs0TzluNG0xcjk1MA?oc=5",
+      "eventId": "event-1ejf3mi",
+      "title": "feder-cr/dots",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/feder-cr/dots",
       "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 8,
-      "detectedAt": "2026-09-30T05:30:11.157Z"
-    },
-    {
-      "eventId": "event-rngnqc",
-      "title": "Claude Opus 5.5 now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 41,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-09-30T05:30:11.157Z"
-    },
-    {
-      "eventId": "event-1z21q7",
-      "title": "Introducing GPT-6.1 Sol",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "channel": "ai-tech",
-      "heat": 53,
-      "confidence": 99,
-      "corroboration": 5,
-      "detectedAt": "2026-09-30T05:30:11.157Z"
-    },
-    {
-      "eventId": "event-1vldeym",
-      "title": "Introducing dots",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-dots",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 5,
-      "detectedAt": "2026-09-30T05:30:11.157Z"
-    },
-    {
-      "eventId": "event-1sisr4q",
-      "title": "GPT-6.1 Sol now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 5,
-      "detectedAt": "2026-09-30T05:30:11.157Z"
-    },
-    {
-      "eventId": "event-c8hhb9",
-      "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
-      "source": "AWS ML",
-      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
-      "channel": "ai-tech",
-      "heat": 39,
+      "heat": 51,
       "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-09-30T05:30:11.157Z"
+      "corroboration": 7,
+      "detectedAt": "2026-09-30T14:54:42.595Z"
+    },
+    {
+      "eventId": "event-1ay4nk2",
+      "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-09-30T14:54:42.595Z"
+    },
+    {
+      "eventId": "event-1bs17sc",
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-30T14:54:42.595Z"
+    },
+    {
+      "eventId": "event-1ukqb4i",
+      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "source": "Hacker News",
+      "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "channel": "ai-tech",
+      "heat": 34,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-09-30T14:54:42.595Z"
+    },
+    {
+      "eventId": "event-st1e1s",
+      "title": "UK research funded by China front company being sent to Beijing's spies, MI5 warns",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-30T14:54:42.595Z"
+    },
+    {
+      "eventId": "event-wqniok",
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-09-30T14:54:42.595Z"
     }
   ]
 }

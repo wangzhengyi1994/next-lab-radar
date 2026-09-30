@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-30T05:30:11.158Z",
-  "count": 980,
+  "fetchedAt": "2026-09-30T14:54:42.596Z",
+  "count": 981,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 126,
+    "hackernews": 124,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
@@ -13,7 +13,7 @@
     "rss:entertainment-watch": 20,
     "rss:viral-watch": 20,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 5,
+    "rss:consumer-watch": 6,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -47,7 +47,7 @@
     "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
-    "rss:simonwillison": 8,
+    "rss:simonwillison": 7,
     "rss:lilianweng": 20,
     "rss:raschka": 20,
     "rss:thegradient": 12,
@@ -61,9 +61,9 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 15,
     "rss:36kr": 0,
-    "rss:infoq": 9,
+    "rss:infoq": 10,
     "rss:sspai": 3,
-    "rss:ithome": 8,
+    "rss:ithome": 5,
     "arxiv": 20
   },
   "errors": {
