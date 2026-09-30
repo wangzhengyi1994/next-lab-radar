@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-29T14:50:43.142Z",
+  "generatedAt": "2026-09-30T05:30:11.157Z",
   "alerts": [
     {
-      "eventId": "event-bpjvq6",
-      "title": "Sonnet 5.5 is worth a try",
-      "source": "Ben's Bites",
-      "sourceUrl": "https://www.bensbites.com/p/sonnet-55-is-worth-a-try",
+      "eventId": "event-j1owpw",
+      "title": "Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRHZqQWJnNEZtVXVNWUx1RlRacG5MLUFTcVBEb2FMZUtzMzNRdklBR0NIMERTbFppaTEyZUZrOFhWRjhMaFFPenE3eTBRX21vSlJKakwxU2Q4SzFqRXFyRDd5X1R5X2dQTUg4c0IxR2o2c09BTG9tOE5VZm1UczdHSjQyMGlPeEtqVzhzSURXb0xQbTJKVFFyQVFrTEpkMFZ1UUtPd2lTcEszMWh0NVA3SDBvcUREaVBDV1lVMUs0TzluNG0xcjk1MA?oc=5",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 8,
+      "detectedAt": "2026-09-30T05:30:11.157Z"
+    },
+    {
+      "eventId": "event-rngnqc",
+      "title": "Claude Opus 5.5 now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 41,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-09-30T05:30:11.157Z"
+    },
+    {
+      "eventId": "event-1z21q7",
+      "title": "Introducing GPT-6.1 Sol",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "channel": "ai-tech",
+      "heat": 53,
+      "confidence": 99,
+      "corroboration": 5,
+      "detectedAt": "2026-09-30T05:30:11.157Z"
+    },
+    {
+      "eventId": "event-1vldeym",
+      "title": "Introducing dots",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-dots",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 5,
+      "detectedAt": "2026-09-30T05:30:11.157Z"
+    },
+    {
+      "eventId": "event-1sisr4q",
+      "title": "GPT-6.1 Sol now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 5,
+      "detectedAt": "2026-09-30T05:30:11.157Z"
+    },
+    {
+      "eventId": "event-c8hhb9",
+      "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
+      "source": "AWS ML",
+      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
+      "channel": "ai-tech",
+      "heat": 39,
       "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-09-29T14:50:43.142Z"
-    },
-    {
-      "eventId": "event-1egzkx0",
-      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-29T14:50:43.142Z"
-    },
-    {
-      "eventId": "event-1ht44si",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-29T14:50:43.142Z"
-    },
-    {
-      "eventId": "event-1qmyvvy",
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-09-29T14:50:43.142Z"
-    },
-    {
-      "eventId": "event-1f7verf",
-      "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-29T14:50:43.142Z"
-    },
-    {
-      "eventId": "event-1oqb88f",
-      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-09-29T14:50:43.142Z"
+      "corroboration": 5,
+      "detectedAt": "2026-09-30T05:30:11.157Z"
     }
   ]
 }
