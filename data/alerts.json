@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-01T05:49:10.326Z",
+  "generatedAt": "2026-10-01T15:26:26.364Z",
   "alerts": [
     {
-      "eventId": "event-1mkkio1",
-      "title": "Ling 3.1 Flash is now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway",
+      "eventId": "event-1dtqkx3",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/allenai/olmocore3",
       "channel": "ai-tech",
-      "heat": 52,
+      "heat": 55,
       "confidence": 99,
-      "corroboration": 8,
-      "detectedAt": "2026-10-01T05:49:10.326Z"
+      "corroboration": 5,
+      "detectedAt": "2026-10-01T15:26:26.364Z"
     },
     {
-      "eventId": "event-97ll7g",
-      "title": "Introducing SynthID Bio",
-      "source": "Google DeepMind",
-      "sourceUrl": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "eventId": "event-7nzyw4",
+      "title": "OpenAI DevDay 2026",
+      "source": "Ben's Bites",
+      "sourceUrl": "https://www.bensbites.com/p/openai-devday-2026",
       "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-10-01T05:49:10.326Z"
-    },
-    {
-      "eventId": "event-q8uuvx",
-      "title": "The AI Tamagotchis are coming",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "channel": "ai-tech",
-      "heat": 39,
+      "heat": 40,
       "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-01T05:49:10.326Z"
+      "corroboration": 5,
+      "detectedAt": "2026-10-01T15:26:26.364Z"
     },
     {
-      "eventId": "event-ohn5kw",
-      "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-01T05:49:10.326Z"
-    },
-    {
-      "eventId": "event-dau22j",
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+      "eventId": "event-6dvq0t",
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-01T05:49:10.326Z"
+      "detectedAt": "2026-10-01T15:26:26.364Z"
     },
     {
-      "eventId": "event-1kyoewq",
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-8qcnay",
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-01T05:49:10.326Z"
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-01T15:26:26.364Z"
+    },
+    {
+      "eventId": "event-u2d4pp",
+      "title": "UK on track for one of the warmest years on record after warm September",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cqg7k7j388m4o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-01T15:26:26.364Z"
+    },
+    {
+      "eventId": "event-1q3pouk",
+      "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-01T15:26:26.364Z"
     }
   ]
 }
