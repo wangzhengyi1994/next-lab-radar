@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-01T15:26:26.364Z",
+  "generatedAt": "2026-10-02T05:34:44.515Z",
   "alerts": [
     {
-      "eventId": "event-1dtqkx3",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/allenai/olmocore3",
+      "eventId": "event-ngrz1c",
+      "title": "Laya decision model now available on AI Gateway, free through October 31",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31",
       "channel": "ai-tech",
-      "heat": 55,
+      "heat": 52,
       "confidence": 99,
-      "corroboration": 5,
-      "detectedAt": "2026-10-01T15:26:26.364Z"
+      "corroboration": 8,
+      "detectedAt": "2026-10-02T05:34:44.515Z"
     },
     {
-      "eventId": "event-7nzyw4",
-      "title": "OpenAI DevDay 2026",
-      "source": "Ben's Bites",
-      "sourceUrl": "https://www.bensbites.com/p/openai-devday-2026",
+      "eventId": "event-5ohg5b",
+      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "source": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2610.02200v1",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-10-01T15:26:26.364Z"
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 6,
+      "detectedAt": "2026-10-02T05:34:44.515Z"
     },
     {
-      "eventId": "event-6dvq0t",
-      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-01T15:26:26.364Z"
-    },
-    {
-      "eventId": "event-8qcnay",
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "eventId": "event-td0om3",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-01T15:26:26.364Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-02T05:34:44.515Z"
     },
     {
-      "eventId": "event-u2d4pp",
-      "title": "UK on track for one of the warmest years on record after warm September",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cqg7k7j388m4o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-01T15:26:26.364Z"
+      "eventId": "event-1m95ri7",
+      "title": "Whatever AI Safety Is, It’s Not This",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-02T05:34:44.515Z"
     },
     {
-      "eventId": "event-1q3pouk",
-      "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1mtrm2",
+      "title": "Christa Pike is in critical condition after failed execution in Tennessee, her lawyers say",
+      "source": "Google News · Breaking",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdVkxVG9BVEpHTm1BaHBvSmFOU3pYcmlUYjFSV3JmMVZ1WEd0MzJ2VFJRVXRrQkVkZ0xwNTdNdmMzQWwxZWtSeUJySUV1UzFvbHF3N3BMRmlOVjNpSnhVUzRpVVpmVTVkRm5sU2hvclVCMWtKNUdCbEZBaFFyanotYjhoUkVEOWc2d3NpNmJOWnBZZzlQWExlT09KeVBjcXZqYVhHMkY4QnpXdF9pT25XV1pNWWlZSjdESXc?oc=5",
       "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-01T15:26:26.364Z"
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-02T05:34:44.515Z"
+    },
+    {
+      "eventId": "event-gvcsaa",
+      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-02T05:34:44.515Z"
     }
   ]
 }
