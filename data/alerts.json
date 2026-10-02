@@ -1,71 +1,60 @@
 {
-  "generatedAt": "2026-10-02T05:34:44.515Z",
+  "generatedAt": "2026-10-02T14:43:42.092Z",
   "alerts": [
     {
-      "eventId": "event-ngrz1c",
-      "title": "Laya decision model now available on AI Gateway, free through October 31",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31",
+      "eventId": "event-126w5wq",
+      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/airbnb",
       "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 8,
-      "detectedAt": "2026-10-02T05:34:44.515Z"
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-02T14:43:42.092Z"
     },
     {
-      "eventId": "event-5ohg5b",
-      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
-      "source": "arXiv",
-      "sourceUrl": "http://arxiv.org/abs/2610.02200v1",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-10-02T05:34:44.515Z"
-    },
-    {
-      "eventId": "event-td0om3",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1gf0fmu",
+      "title": "Dolly Parton sings Jolene in Welsh in recording released after her death",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-02T05:34:44.515Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-02T14:43:42.092Z"
     },
     {
-      "eventId": "event-1m95ri7",
-      "title": "Whatever AI Safety Is, It’s Not This",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-02T05:34:44.515Z"
-    },
-    {
-      "eventId": "event-1mtrm2",
-      "title": "Christa Pike is in critical condition after failed execution in Tennessee, her lawyers say",
-      "source": "Google News · Breaking",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdVkxVG9BVEpHTm1BaHBvSmFOU3pYcmlUYjFSV3JmMVZ1WEd0MzJ2VFJRVXRrQkVkZ0xwNTdNdmMzQWwxZWtSeUJySUV1UzFvbHF3N3BMRmlOVjNpSnhVUzRpVVpmVTVkRm5sU2hvclVCMWtKNUdCbEZBaFFyanotYjhoUkVEOWc2d3NpNmJOWnBZZzlQWExlT09KeVBjcXZqYVhHMkY4QnpXdF9pT25XV1pNWWlZSjdESXc?oc=5",
+      "eventId": "event-zzrbcp",
+      "title": "Why UK diesel prices have breached the £2 per litre mark",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-02T05:34:44.515Z"
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-02T14:43:42.092Z"
     },
     {
-      "eventId": "event-gvcsaa",
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-02T05:34:44.515Z"
+      "eventId": "event-1kfq5k2",
+      "title": "Woman who killed abusive partner has murder conviction overturned",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmz98wwklwz7o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-02T14:43:42.092Z"
+    },
+    {
+      "eventId": "event-185bd4",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-02T14:43:42.092Z"
     }
   ]
 }

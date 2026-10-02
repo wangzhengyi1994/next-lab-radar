@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-02T05:34:44.516Z",
-  "count": 971,
+  "fetchedAt": "2026-10-02T14:43:42.094Z",
+  "count": 959,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -11,9 +11,9 @@
     "rss:china-society": 20,
     "rss:people-watch": 20,
     "rss:entertainment-watch": 20,
-    "rss:viral-watch": 20,
+    "rss:viral-watch": 14,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 7,
+    "rss:consumer-watch": 5,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -31,7 +31,7 @@
     "rss:msr": 7,
     "rss:aws-ml": 20,
     "rss:figma": 20,
-    "rss:vercel": 8,
+    "rss:vercel": 7,
     "rss:github-blog": 5,
     "rss:webflow": 0,
     "rss:codrops": 0,
@@ -62,15 +62,14 @@
     "rss:geekpark": 15,
     "rss:36kr": 0,
     "rss:infoq": 8,
-    "rss:sspai": 0,
-    "rss:ithome": 7,
+    "rss:sspai": 2,
+    "rss:ithome": 6,
     "arxiv": 20
   },
   "errors": {
     "rss:webflow": "fetch failed",
     "rss:codrops": "HTTP 403 Forbidden <- https://tympanus.net/codrops/feed/",
     "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/",
-    "rss:marktechpost": "HTTP 403 Forbidden <- https://www.marktechpost.com/feed/",
-    "rss:sspai": "This operation was aborted"
+    "rss:marktechpost": "HTTP 403 Forbidden <- https://www.marktechpost.com/feed/"
   }
 }
