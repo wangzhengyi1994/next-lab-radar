@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-10-02T14:43:42.092Z",
+  "generatedAt": "2026-10-03T05:16:14.792Z",
   "alerts": [
     {
-      "eventId": "event-126w5wq",
-      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/airbnb",
+      "eventId": "event-e7b20y",
+      "title": "FLUX 3 Image",
+      "source": "Hacker News",
+      "sourceUrl": "https://bfl.ai/models/flux-3-image",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 46,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-10-03T05:16:14.792Z"
+    },
+    {
+      "eventId": "event-i0vags",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-03T05:16:14.792Z"
+    },
+    {
+      "eventId": "event-7zl6kh",
+      "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+      "source": "AWS ML",
+      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+      "channel": "ai-tech",
+      "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-10-02T14:43:42.092Z"
+      "detectedAt": "2026-10-03T05:16:14.792Z"
     },
     {
-      "eventId": "event-1gf0fmu",
-      "title": "Dolly Parton sings Jolene in Welsh in recording released after her death",
+      "eventId": "event-fhj36y",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-02T14:43:42.092Z"
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-03T05:16:14.792Z"
     },
     {
-      "eventId": "event-zzrbcp",
-      "title": "Why UK diesel prices have breached the £2 per litre mark",
+      "eventId": "event-18z301a",
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-02T14:43:42.092Z"
-    },
-    {
-      "eventId": "event-1kfq5k2",
-      "title": "Woman who killed abusive partner has murder conviction overturned",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmz98wwklwz7o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-02T14:43:42.092Z"
-    },
-    {
-      "eventId": "event-185bd4",
-      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-02T14:43:42.092Z"
+      "detectedAt": "2026-10-03T05:16:14.792Z"
+    },
+    {
+      "eventId": "event-apypoe",
+      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-03T05:16:14.792Z"
     }
   ]
 }
