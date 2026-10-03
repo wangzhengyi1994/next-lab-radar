@@ -1,71 +1,16 @@
 {
-  "generatedAt": "2026-10-03T05:16:14.792Z",
+  "generatedAt": "2026-10-03T13:22:19.676Z",
   "alerts": [
     {
-      "eventId": "event-e7b20y",
-      "title": "FLUX 3 Image",
-      "source": "Hacker News",
-      "sourceUrl": "https://bfl.ai/models/flux-3-image",
-      "channel": "ai-tech",
-      "heat": 46,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-03T05:16:14.792Z"
-    },
-    {
-      "eventId": "event-i0vags",
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "eventId": "event-zg7v5e",
+      "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-03T05:16:14.792Z"
-    },
-    {
-      "eventId": "event-7zl6kh",
-      "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
-      "source": "AWS ML",
-      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-03T05:16:14.792Z"
-    },
-    {
-      "eventId": "event-fhj36y",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-03T05:16:14.792Z"
-    },
-    {
-      "eventId": "event-18z301a",
-      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-03T05:16:14.792Z"
-    },
-    {
-      "eventId": "event-apypoe",
-      "title": "Watch: Why has UK diesel price hit an all time high?",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-03T05:16:14.792Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-03T13:22:19.676Z"
     }
   ]
 }
