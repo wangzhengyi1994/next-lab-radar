@@ -1,16 +1,38 @@
 {
-  "generatedAt": "2026-10-03T13:22:19.676Z",
+  "generatedAt": "2026-10-04T05:49:53.610Z",
   "alerts": [
     {
-      "eventId": "event-zg7v5e",
-      "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
+      "eventId": "event-1vrqgm4",
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "source": "Hacker News",
+      "sourceUrl": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "channel": "ai-tech",
+      "heat": 45,
+      "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-10-03T13:22:19.676Z"
+      "detectedAt": "2026-10-04T05:49:53.610Z"
+    },
+    {
+      "eventId": "event-caa36i",
+      "title": "小沈阳夫妇电影《什么意思夫妇》成国庆档黑马，票房破亿，预测票房超3亿，沈春阳回应首次当导演：我已经尽自己最大的努力了",
+      "source": "Google News · 电影",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZUJnSThIeU5wcDZrWnYwSVpEbzlhV1FNeGgwSjc2R0RHVGw2SFVKWU9HbG9oSkFkWHlXNXpEYjd5dDFjMDFsOG5wdU81X0ZldzNxM0EtWUpVdS0yVkI2XzljLTVwRmdlSXdpTEI2ajE?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-10-04T05:49:53.610Z"
+    },
+    {
+      "eventId": "event-lr716w",
+      "title": "Man shot dead as families gather for memorial in London",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-04T05:49:53.610Z"
     }
   ]
 }
