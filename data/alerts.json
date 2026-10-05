@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-10-04T14:04:36.205Z",
+  "generatedAt": "2026-10-05T05:36:10.996Z",
   "alerts": [
     {
-      "eventId": "event-6b7n8h",
-      "title": "NASA and IBM&#039;s open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-04T14:04:36.205Z"
-    },
-    {
-      "eventId": "event-1lssr6u",
-      "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-04T14:04:36.205Z"
-    },
-    {
-      "eventId": "event-1344soj",
-      "title": "突然火了！小沈阳夫妇电影票房逆袭，冲上热搜",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQenMzT2NHYUZ3YThsaWN0cnZCVGhTWE8wVEwtT1Bza0ZxU0dPZU83YVFIMnJGaHRfVzdWdTY3eDBteGVwa2lkTHRCVHZtYzN1amZVc0xYWjMxbXppNzl3Zi1BT3JWZlpVVVR5Y3pkUTVwU2hqM1gxZXlJaVIzQVBzQ0VDSEpmWFgtcUc0?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-10-04T14:04:36.205Z"
-    },
-    {
-      "eventId": "event-1pho9ev",
-      "title": "US father and son arrested after 'gas station heroin' deaths",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1vxa7j4",
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 53,
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-05T05:36:10.996Z"
+    },
+    {
+      "eventId": "event-yb32bn",
+      "title": "All six passengers presumed dead after plane went missing off US coast",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-05T05:36:10.996Z"
+    },
+    {
+      "eventId": "event-1m3utr",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-05T05:36:10.996Z"
+    },
+    {
+      "eventId": "event-8hm3d",
+      "title": "Why Canada is wargaming a (long shot) US invasion",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 52,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-04T14:04:36.205Z"
+      "detectedAt": "2026-10-05T05:36:10.996Z"
     }
   ]
 }
