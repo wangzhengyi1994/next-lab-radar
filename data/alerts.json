@@ -1,49 +1,60 @@
 {
-  "generatedAt": "2026-10-05T05:36:10.996Z",
+  "generatedAt": "2026-10-05T17:08:02.556Z",
   "alerts": [
     {
-      "eventId": "event-1vxa7j4",
-      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "eventId": "event-9vetjj",
+      "title": "Our approach to EU text provenance rules",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/eu-text-provenance",
+      "channel": "ai-tech",
+      "heat": 55,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-10-05T17:08:02.556Z"
+    },
+    {
+      "eventId": "event-1dnugez",
+      "title": "Our minds aren’t equipped to handle AI",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-10-05T17:08:02.556Z"
+    },
+    {
+      "eventId": "event-1qn4wvm",
+      "title": "Man who killed dog walker should be deported, says judge",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm20w6dlqgj3o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-05T05:36:10.996Z"
-    },
-    {
-      "eventId": "event-yb32bn",
-      "title": "All six passengers presumed dead after plane went missing off US coast",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-05T05:36:10.996Z"
-    },
-    {
-      "eventId": "event-1m3utr",
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-05T05:36:10.996Z"
-    },
-    {
-      "eventId": "event-8hm3d",
-      "title": "Why Canada is wargaming a (long shot) US invasion",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 52,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-05T05:36:10.996Z"
+      "detectedAt": "2026-10-05T17:08:02.556Z"
+    },
+    {
+      "eventId": "event-1opxm1w",
+      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-05T17:08:02.556Z"
+    },
+    {
+      "eventId": "event-1yattz",
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-05T17:08:02.556Z"
     }
   ]
 }
