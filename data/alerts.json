@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-06T06:17:51.152Z",
+  "generatedAt": "2026-10-06T15:09:27.103Z",
   "alerts": [
     {
-      "eventId": "event-xwc5qt",
-      "title": "Beam: Reflection's 501B open-weight model",
+      "eventId": "event-etf3jg",
+      "title": "Reflection&#039;s Beam becomes the most capable open-weight model built outside China",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-10-06T15:09:27.103Z"
+    },
+    {
+      "eventId": "event-1ykprnh",
+      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-10-06T15:09:27.103Z"
+    },
+    {
+      "eventId": "event-1y28sc9",
+      "title": "Instinct group chats 💬, Reflection’s 501B model 🧠, OpenAI text watermarks 🏷️",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-10-06",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-10-06T15:09:27.103Z"
+    },
+    {
+      "eventId": "event-19ledls",
+      "title": "Mistral Large 4",
       "source": "Hacker News",
-      "sourceUrl": "https://reflection.ai/blog/introducing-beam",
+      "sourceUrl": "https://docs.mistral.ai/models/mistral-large-4-0",
       "channel": "ai-tech",
-      "heat": 48,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-06T06:17:51.152Z"
+      "heat": 52,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-10-06T15:09:27.103Z"
     },
     {
-      "eventId": "event-qmtxqu",
-      "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "eventId": "event-tilhf5",
+      "title": "Mistral Large 4: \"Le Chonk\"",
+      "source": "Hacker News",
+      "sourceUrl": "https://mistral.ai/news/mistral-large-4/",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-06T06:17:51.152Z"
+      "heat": 47,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-10-06T15:09:27.103Z"
     },
     {
-      "eventId": "event-1tpyea3",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "eventId": "event-2s6jlm",
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-06T06:17:51.152Z"
-    },
-    {
-      "eventId": "event-1v365in",
-      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-06T06:17:51.152Z"
-    },
-    {
-      "eventId": "event-16ovefx",
-      "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-06T06:17:51.152Z"
-    },
-    {
-      "eventId": "event-emtk34",
-      "title": "US 'watching closely' after plague researcher dies in Russia",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-06T06:17:51.152Z"
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-10-06T15:09:27.103Z"
     }
   ]
 }
