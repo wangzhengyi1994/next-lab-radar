@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-10-05T17:08:02.556Z",
+  "generatedAt": "2026-10-06T06:17:51.152Z",
   "alerts": [
     {
-      "eventId": "event-9vetjj",
-      "title": "Our approach to EU text provenance rules",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/eu-text-provenance",
+      "eventId": "event-xwc5qt",
+      "title": "Beam: Reflection's 501B open-weight model",
+      "source": "Hacker News",
+      "sourceUrl": "https://reflection.ai/blog/introducing-beam",
       "channel": "ai-tech",
-      "heat": 55,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-10-05T17:08:02.556Z"
+      "heat": 48,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-06T06:17:51.152Z"
     },
     {
-      "eventId": "event-1dnugez",
-      "title": "Our minds aren’t equipped to handle AI",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "eventId": "event-qmtxqu",
+      "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "channel": "ai-tech",
       "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-05T17:08:02.556Z"
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-06T06:17:51.152Z"
     },
     {
-      "eventId": "event-1qn4wvm",
-      "title": "Man who killed dog walker should be deported, says judge",
+      "eventId": "event-1tpyea3",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-06T06:17:51.152Z"
+    },
+    {
+      "eventId": "event-1v365in",
+      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm20w6dlqgj3o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-05T17:08:02.556Z"
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-06T06:17:51.152Z"
     },
     {
-      "eventId": "event-1opxm1w",
-      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-16ovefx",
+      "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-05T17:08:02.556Z"
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-06T06:17:51.152Z"
     },
     {
-      "eventId": "event-1yattz",
-      "title": "Nobel Prize awarded for revealing inner workings of the brain",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-emtk34",
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-05T17:08:02.556Z"
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-06T06:17:51.152Z"
     }
   ]
 }
