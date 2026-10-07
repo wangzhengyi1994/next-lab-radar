@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-06T15:09:27.103Z",
+  "generatedAt": "2026-10-07T05:56:36.468Z",
   "alerts": [
     {
-      "eventId": "event-etf3jg",
-      "title": "Reflection&#039;s Beam becomes the most capable open-weight model built outside China",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-10-06T15:09:27.103Z"
-    },
-    {
-      "eventId": "event-1ykprnh",
-      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-10-06T15:09:27.103Z"
-    },
-    {
-      "eventId": "event-1y28sc9",
-      "title": "Instinct group chats 💬, Reflection’s 501B model 🧠, OpenAI text watermarks 🏷️",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-10-06",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-10-06T15:09:27.103Z"
-    },
-    {
-      "eventId": "event-19ledls",
-      "title": "Mistral Large 4",
-      "source": "Hacker News",
-      "sourceUrl": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "eventId": "event-sfkx14",
+      "title": "Mistral Large 4 now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway",
       "channel": "ai-tech",
       "heat": 52,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-10-06T15:09:27.103Z"
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-10-07T05:56:36.468Z"
     },
     {
-      "eventId": "event-tilhf5",
-      "title": "Mistral Large 4: \"Le Chonk\"",
+      "eventId": "event-1st13d1",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
       "source": "Hacker News",
-      "sourceUrl": "https://mistral.ai/news/mistral-large-4/",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
       "channel": "ai-tech",
-      "heat": 47,
+      "heat": 46,
       "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-10-06T15:09:27.103Z"
+      "corroboration": 4,
+      "detectedAt": "2026-10-07T05:56:36.468Z"
     },
     {
-      "eventId": "event-2s6jlm",
-      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "eventId": "event-1u2hfep",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-07T05:56:36.468Z"
+    },
+    {
+      "eventId": "event-5qe4v9",
+      "title": "Towards In-Parameter Memory Augmentation for Large Language Models",
+      "source": "HuggingFace Papers",
+      "sourceUrl": "https://huggingface.co/papers/2610.08630",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-10-06T15:09:27.103Z"
+      "heat": 26,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-07T05:56:36.468Z"
+    },
+    {
+      "eventId": "event-5z0szn",
+      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-07T05:56:36.468Z"
+    },
+    {
+      "eventId": "event-pwxf4k",
+      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns oil giant",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-07T05:56:36.468Z"
     }
   ]
 }
