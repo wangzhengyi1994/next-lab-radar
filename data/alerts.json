@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-07T05:56:36.468Z",
+  "generatedAt": "2026-10-07T15:32:37.434Z",
   "alerts": [
     {
-      "eventId": "event-sfkx14",
-      "title": "Mistral Large 4 now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway",
+      "eventId": "event-1rbghqf",
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
       "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-10-07T05:56:36.468Z"
-    },
-    {
-      "eventId": "event-1st13d1",
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "source": "Hacker News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "channel": "ai-tech",
-      "heat": 46,
+      "heat": 40,
       "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-07T05:56:36.468Z"
+      "corroboration": 9,
+      "detectedAt": "2026-10-07T15:32:37.434Z"
     },
     {
-      "eventId": "event-1u2hfep",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-07T05:56:36.468Z"
-    },
-    {
-      "eventId": "event-5qe4v9",
-      "title": "Towards In-Parameter Memory Augmentation for Large Language Models",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2610.08630",
+      "eventId": "event-xg5tki",
+      "title": "Mistral Large 4 🧠, OpenAI Decisions API ❓, Nano Banana 2.1 🍌",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-10-07",
       "channel": "ai-tech",
-      "heat": 26,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-07T05:56:36.468Z"
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 9,
+      "detectedAt": "2026-10-07T15:32:37.434Z"
     },
     {
-      "eventId": "event-5z0szn",
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+      "eventId": "event-12rqi0p",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-07T05:56:36.468Z"
+      "detectedAt": "2026-10-07T15:32:37.434Z"
     },
     {
-      "eventId": "event-pwxf4k",
-      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns oil giant",
+      "eventId": "event-1toq3an",
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-07T15:32:37.434Z"
+    },
+    {
+      "eventId": "event-1cnn5cm",
+      "title": "Notorious gangland enforcer Paul Ferris dies aged 62",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwx28l8dp2lxo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-07T05:56:36.468Z"
+      "detectedAt": "2026-10-07T15:32:37.434Z"
+    },
+    {
+      "eventId": "event-1y5x7t9",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-07T15:32:37.434Z"
     }
   ]
 }
