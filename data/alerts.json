@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-07T15:32:37.434Z",
+  "generatedAt": "2026-10-08T06:00:47.258Z",
   "alerts": [
     {
-      "eventId": "event-1rbghqf",
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "eventId": "event-1t5kiyq",
+      "title": "Glyph Cluster is now available in stealth for free on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-10-07T15:32:37.434Z"
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 8,
+      "detectedAt": "2026-10-08T06:00:47.258Z"
     },
     {
-      "eventId": "event-xg5tki",
-      "title": "Mistral Large 4 🧠, OpenAI Decisions API ❓, Nano Banana 2.1 🍌",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-10-07",
+      "eventId": "event-1cbe5qb",
+      "title": "Introducing Claude Haiku 5.5",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-10-08T06:00:47.258Z"
+    },
+    {
+      "eventId": "event-ami53l",
+      "title": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-10-07T15:32:37.434Z"
+      "corroboration": 4,
+      "detectedAt": "2026-10-08T06:00:47.258Z"
     },
     {
-      "eventId": "event-12rqi0p",
-      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+      "eventId": "event-1dlxuc5",
+      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-08T06:00:47.258Z"
+    },
+    {
+      "eventId": "event-wdmo48",
+      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-07T15:32:37.434Z"
+      "detectedAt": "2026-10-08T06:00:47.258Z"
     },
     {
-      "eventId": "event-1toq3an",
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "eventId": "event-i5zhpi",
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-07T15:32:37.434Z"
-    },
-    {
-      "eventId": "event-1cnn5cm",
-      "title": "Notorious gangland enforcer Paul Ferris dies aged 62",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwx28l8dp2lxo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-07T15:32:37.434Z"
-    },
-    {
-      "eventId": "event-1y5x7t9",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-07T15:32:37.434Z"
+      "detectedAt": "2026-10-08T06:00:47.258Z"
     }
   ]
 }
