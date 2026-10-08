@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-08T06:00:47.258Z",
+  "generatedAt": "2026-10-08T15:34:54.630Z",
   "alerts": [
     {
-      "eventId": "event-1t5kiyq",
-      "title": "Glyph Cluster is now available in stealth for free on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 8,
-      "detectedAt": "2026-10-08T06:00:47.258Z"
-    },
-    {
-      "eventId": "event-1cbe5qb",
-      "title": "Introducing Claude Haiku 5.5",
-      "source": "Anthropic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-10-08T06:00:47.258Z"
-    },
-    {
-      "eventId": "event-ami53l",
-      "title": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/",
+      "eventId": "event-1ciyd5p",
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-08T06:00:47.258Z"
+      "corroboration": 9,
+      "detectedAt": "2026-10-08T15:34:54.630Z"
     },
     {
-      "eventId": "event-1dlxuc5",
-      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-08T06:00:47.258Z"
+      "eventId": "event-1t4312d",
+      "title": "ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-10-08",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 9,
+      "detectedAt": "2026-10-08T15:34:54.630Z"
     },
     {
-      "eventId": "event-wdmo48",
-      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+      "eventId": "event-1xcea5d",
+      "title": "Mistral Large 4",
+      "source": "Simon Willison",
+      "sourceUrl": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+      "channel": "ai-tech",
+      "heat": 37,
+      "confidence": 85,
+      "corroboration": 8,
+      "detectedAt": "2026-10-08T15:34:54.630Z"
+    },
+    {
+      "eventId": "event-kvm0gt",
+      "title": "Text is so 2023",
+      "source": "Ben's Bites",
+      "sourceUrl": "https://www.bensbites.com/p/text-is-so-2023",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-10-08T15:34:54.630Z"
+    },
+    {
+      "eventId": "event-8unckz",
+      "title": "Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-08T06:00:47.258Z"
+      "detectedAt": "2026-10-08T15:34:54.630Z"
     },
     {
-      "eventId": "event-i5zhpi",
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
+      "eventId": "event-14cd2dw",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-08T06:00:47.258Z"
+      "detectedAt": "2026-10-08T15:34:54.630Z"
     }
   ]
 }
