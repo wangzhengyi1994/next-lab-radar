@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-08T15:34:54.630Z",
+  "generatedAt": "2026-10-09T06:06:03.899Z",
   "alerts": [
     {
-      "eventId": "event-1ciyd5p",
-      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "eventId": "event-pga6ys",
+      "title": "Step 5 Preview now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-10-08T15:34:54.630Z"
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-10-09T06:06:03.899Z"
     },
     {
-      "eventId": "event-1t4312d",
-      "title": "ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-10-08",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-10-08T15:34:54.630Z"
+      "eventId": "event-1yoqyxj",
+      "title": "Firing squad execution to be livestreamed, Pentagon says",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-09T06:06:03.899Z"
     },
     {
-      "eventId": "event-1xcea5d",
-      "title": "Mistral Large 4",
-      "source": "Simon Willison",
-      "sourceUrl": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+      "eventId": "event-1a59mpm",
+      "title": "ICE agent shoots man in New York City",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-09T06:06:03.899Z"
+    },
+    {
+      "eventId": "event-vmr6h1",
+      "title": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-09T06:06:03.899Z"
+    },
+    {
+      "eventId": "event-h33pcb",
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "source": "Hacker News",
+      "sourceUrl": "https://karagila.org/2026/openai-pp/",
       "channel": "ai-tech",
       "heat": 37,
-      "confidence": 85,
-      "corroboration": 8,
-      "detectedAt": "2026-10-08T15:34:54.630Z"
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-09T06:06:03.899Z"
     },
     {
-      "eventId": "event-kvm0gt",
-      "title": "Text is so 2023",
-      "source": "Ben's Bites",
-      "sourceUrl": "https://www.bensbites.com/p/text-is-so-2023",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-10-08T15:34:54.630Z"
-    },
-    {
-      "eventId": "event-8unckz",
-      "title": "Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
+      "eventId": "event-1my759g",
+      "title": "“刹车踏板断裂”冲上热搜，尊界、懂车帝回应",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yb2tURmY4bVVjUmx2NXZyZlFzUnJxVlZIem1ZYXhiS2hoM203Qlgxb1FYeUdfdW9uQVdJZHhvTmNVUUdEb1ltR3FWcjJ6Nk9QMU5xalg1R1FZQnF5RXhNOXVR?oc=5",
+      "channel": "society",
+      "heat": 39,
+      "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-10-08T15:34:54.630Z"
-    },
-    {
-      "eventId": "event-14cd2dw",
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-08T15:34:54.630Z"
+      "detectedAt": "2026-10-09T06:06:03.899Z"
     }
   ]
 }

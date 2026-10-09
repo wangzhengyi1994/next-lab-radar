@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-10-08T15:34:54.631Z",
-  "count": 963,
+  "fetchedAt": "2026-10-09T06:06:03.901Z",
+  "count": 989,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 122,
+    "hackernews": 121,
     "rss:bbc-top": 20,
     "rss:bbc-world": 20,
     "rss:world-breaking": 20,
@@ -13,7 +13,7 @@
     "rss:entertainment-watch": 20,
     "rss:viral-watch": 10,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 6,
+    "rss:consumer-watch": 7,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -44,10 +44,10 @@
     "rss:wired-ai": 10,
     "rss:thedecoder": 10,
     "rss:marktechpost": 10,
-    "rss:semianalysis": 0,
+    "rss:semianalysis": 10,
     "rss:smol-ainews": 20,
     "rss:tldr-ai": 20,
-    "rss:simonwillison": 12,
+    "rss:simonwillison": 13,
     "rss:lilianweng": 20,
     "rss:raschka": 20,
     "rss:thegradient": 12,
@@ -61,16 +61,15 @@
     "rss:xinzhiyuan": 20,
     "rss:geekpark": 17,
     "rss:36kr": 0,
-    "rss:infoq": 10,
-    "rss:sspai": 1,
-    "rss:ithome": 1,
+    "rss:infoq": 12,
+    "rss:sspai": 2,
+    "rss:ithome": 5,
     "arxiv": 20
   },
   "errors": {
     "rss:webflow": "fetch failed",
     "rss:codrops": "HTTP 403 Forbidden <- https://tympanus.net/codrops/feed/",
     "rss:venturebeat-ai": "HTTP 429 Too Many Requests <- https://venturebeat.com/category/ai/feed/",
-    "rss:semianalysis": "HTTP 403 Forbidden <- https://semianalysis.com/feed/",
     "validator": "dropped 1 malformed item(s)"
   }
 }
