@@ -1,71 +1,49 @@
 {
-  "generatedAt": "2026-10-09T06:06:03.899Z",
+  "generatedAt": "2026-10-09T15:17:09.896Z",
   "alerts": [
     {
-      "eventId": "event-pga6ys",
-      "title": "Step 5 Preview now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway",
+      "eventId": "event-11mqpql",
+      "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
+      "source": "HuggingFace Papers",
+      "sourceUrl": "https://huggingface.co/papers/2610.09087",
       "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
+      "heat": 40,
+      "confidence": 85,
       "corroboration": 4,
-      "detectedAt": "2026-10-09T06:06:03.899Z"
+      "detectedAt": "2026-10-09T15:17:09.896Z"
     },
     {
-      "eventId": "event-1yoqyxj",
-      "title": "Firing squad execution to be livestreamed, Pentagon says",
+      "eventId": "event-oyiaek",
+      "title": "Survivor of US Army shooting supports gunman's execution but questions livestream",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-09T06:06:03.899Z"
-    },
-    {
-      "eventId": "event-1a59mpm",
-      "title": "ICE agent shoots man in New York City",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-09T06:06:03.899Z"
-    },
-    {
-      "eventId": "event-vmr6h1",
-      "title": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-09T06:06:03.899Z"
-    },
-    {
-      "eventId": "event-h33pcb",
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "source": "Hacker News",
-      "sourceUrl": "https://karagila.org/2026/openai-pp/",
-      "channel": "ai-tech",
-      "heat": 37,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-09T06:06:03.899Z"
-    },
-    {
-      "eventId": "event-1my759g",
-      "title": "“刹车踏板断裂”冲上热搜，尊界、懂车帝回应",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yb2tURmY4bVVjUmx2NXZyZlFzUnJxVlZIem1ZYXhiS2hoM203Qlgxb1FYeUdfdW9uQVdJZHhvTmNVUUdEb1ltR3FWcjJ6Nk9QMU5xalg1R1FZQnF5RXhNOXVR?oc=5",
-      "channel": "society",
-      "heat": 39,
-      "confidence": 78,
+      "heat": 54,
+      "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-09T06:06:03.899Z"
+      "detectedAt": "2026-10-09T15:17:09.896Z"
+    },
+    {
+      "eventId": "event-1b10ejx",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-09T15:17:09.896Z"
+    },
+    {
+      "eventId": "event-jj6pay",
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-09T15:17:09.896Z"
     }
   ]
 }
