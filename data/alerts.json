@@ -1,71 +1,38 @@
 {
-  "generatedAt": "2026-10-10T05:49:42.633Z",
+  "generatedAt": "2026-10-10T14:27:47.089Z",
   "alerts": [
     {
-      "eventId": "event-1kfvszh",
-      "title": "Microsoft Decision-1 now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/microsoft-decision-1-now-available-on-ai-gateway",
+      "eventId": "event-10tyhq6",
+      "title": "Anthropic cuts off Claude&#039;s internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
       "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-10-10T05:49:42.633Z"
-    },
-    {
-      "eventId": "event-b160kg",
-      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-10T05:49:42.633Z"
-    },
-    {
-      "eventId": "event-17fh7ga",
-      "title": "Isaias makes landfall along the US Gulf Coast as a dangerous Category 2 hurricane",
-      "source": "Google News · Breaking",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWUcwaTZKSWdYLWo1Vk9PT2x4cERwWERnUG05ekJaOWx3X1htWXF0bU9ZSVBNckIzbWFLMWhjd0MxUzkxZTlmdF9LcXBGT0hwOU1MUFRSVm5zWDRhaUowOHZyckF0TDZHcWgwUmhPck4zWWUxNXVLdHdiZWtDM0otQ1VCeDF1bVJ6Z0Q4QkpfZ0o3cDU3VktrV2xlcG14SVJpOWl2R3J4Q1ZCREZqc1NFRlQ0Tl9tUDZJUnRlQXJsQy1oQmtWTW9PLVV4RDQ?oc=5",
-      "channel": "breaking",
       "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-10-10T05:49:42.633Z"
+      "detectedAt": "2026-10-10T14:27:47.089Z"
     },
     {
-      "eventId": "event-umkc98",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-10T05:49:42.633Z"
+      "eventId": "event-1dcggg3",
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-10T14:27:47.089Z"
     },
     {
-      "eventId": "event-rk23p5",
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "eventId": "event-pkp8am",
+      "title": "'Speculation over daughter's death is devastating'",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-10T05:49:42.633Z"
-    },
-    {
-      "eventId": "event-1mav1vm",
-      "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr62y9dd33peo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-10T05:49:42.633Z"
+      "detectedAt": "2026-10-10T14:27:47.089Z"
     }
   ]
 }
