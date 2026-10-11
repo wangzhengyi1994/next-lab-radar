@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-10T14:27:47.090Z",
-  "count": 993,
+  "fetchedAt": "2026-10-11T05:43:41.125Z",
+  "count": 997,
   "sources": {
     "hf-papers": 50,
     "github": 80,
@@ -11,9 +11,9 @@
     "rss:china-society": 20,
     "rss:people-watch": 20,
     "rss:entertainment-watch": 20,
-    "rss:viral-watch": 15,
+    "rss:viral-watch": 17,
     "rss:film-watch": 20,
-    "rss:consumer-watch": 7,
+    "rss:consumer-watch": 6,
     "rss:openai": 20,
     "rss:anthropic": 20,
     "rss:meta-ai": 20,
@@ -59,11 +59,11 @@
     "rss:qbitai": 10,
     "rss:jiqizhixin": 20,
     "rss:xinzhiyuan": 20,
-    "rss:geekpark": 17,
+    "rss:geekpark": 18,
     "rss:36kr": 0,
     "rss:infoq": 12,
     "rss:sspai": 2,
-    "rss:ithome": 5,
+    "rss:ithome": 3,
     "arxiv": 20
   },
   "errors": {

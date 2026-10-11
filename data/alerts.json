@@ -1,38 +1,71 @@
 {
-  "generatedAt": "2026-10-10T14:27:47.089Z",
+  "generatedAt": "2026-10-11T05:43:41.124Z",
   "alerts": [
     {
-      "eventId": "event-10tyhq6",
-      "title": "Anthropic cuts off Claude&#039;s internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-10T14:27:47.089Z"
-    },
-    {
-      "eventId": "event-1dcggg3",
-      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-10T14:27:47.089Z"
-    },
-    {
-      "eventId": "event-pkp8am",
-      "title": "'Speculation over daughter's death is devastating'",
+      "eventId": "event-14x0bcp",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr62y9dd33peo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-10T14:27:47.089Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-11T05:43:41.124Z"
+    },
+    {
+      "eventId": "event-e921af",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-11T05:43:41.124Z"
+    },
+    {
+      "eventId": "event-gzm3vv",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-11T05:43:41.124Z"
+    },
+    {
+      "eventId": "event-slfegn",
+      "title": "Man dies after tiger attack at wildlife park",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-11T05:43:41.124Z"
+    },
+    {
+      "eventId": "event-rf055r",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-11T05:43:41.124Z"
+    },
+    {
+      "eventId": "event-1vefosu",
+      "title": "【百万庄小课堂】“还我白砂糖”上热搜 控糖到底怎么吃？",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fUUZ2Wm5kNVNiRmNrVEI1bzBibm02em9hRXFVWHNlRTAxSFM3OVNXTmFkdHg3VENUYzRQMnVxcnQzNVplRDFKMkxaSXQ2eUlOa3VZSlNxOExxYzBtT3dxTXVoVS1mb0hERFdNTkZaeEdPQk9XaVFv?oc=5",
+      "channel": "society",
+      "heat": 39,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-10-11T05:43:41.124Z"
     }
   ]
 }
