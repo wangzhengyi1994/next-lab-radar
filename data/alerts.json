@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-13T06:45:41.062Z",
+  "generatedAt": "2026-10-13T15:56:20.131Z",
   "alerts": [
     {
-      "eventId": "event-19xxbe8",
-      "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
-      "source": "Hacker News",
-      "sourceUrl": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+      "eventId": "event-65mgym",
+      "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/character-ai-will-shut-down-if-no-buyer-emerges-capping-a-fall-from-2-7-billion-google-deal-to-bankruptcy/",
       "channel": "ai-tech",
-      "heat": 27,
+      "heat": 40,
       "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-10-13T06:45:41.062Z"
+      "corroboration": 4,
+      "detectedAt": "2026-10-13T15:56:20.131Z"
     },
     {
-      "eventId": "event-9ph7u1",
-      "title": "Meta&#039;s new frontier model Muse Wonder Full breaks into the AI top tier",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+      "eventId": "event-15eo0er",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-10-13T15:56:20.131Z"
+    },
+    {
+      "eventId": "event-4hib8f",
+      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-10-13T15:56:20.131Z"
+    },
+    {
+      "eventId": "event-d3o9wp",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "source": "Hacker News",
+      "sourceUrl": "https://blog.character.ai/an-update-on-character-ai/",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
       "corroboration": 4,
-      "detectedAt": "2026-10-13T06:45:41.062Z"
+      "detectedAt": "2026-10-13T15:56:20.131Z"
     },
     {
-      "eventId": "event-r2ux42",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "eventId": "event-mnxxbo",
+      "title": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8gj20j2ljo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 96,
       "corroboration": 3,
-      "detectedAt": "2026-10-13T06:45:41.062Z"
+      "detectedAt": "2026-10-13T15:56:20.131Z"
     },
     {
-      "eventId": "event-18kyymg",
-      "title": "Anthropic&#039;s Claude AI submitted false murder tip to Philadelphia police",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-13T06:45:41.062Z"
-    },
-    {
-      "eventId": "event-1w70s1w",
-      "title": "One dead and several hurt after rollercoaster incident at US amusement park",
+      "eventId": "event-vczt6h",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-13T06:45:41.062Z"
-    },
-    {
-      "eventId": "event-nrhjiw",
-      "title": "【全系买一送一结果送的是车模！上汽奥迪借郑钦文夺冠营销翻车：被吐槽套路太深】郑钦文拿下中网女单冠军后，上汽奥迪借势打出“全系买一赠一”促销，点进详情才发现所谓赠品是指定电车的车模而非整车，和同期霸王茶姬实打实的饮品买一赠一形成反差，不少网友",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Q000bWZ2YXBoX2ZNZGltY1Q4QTFSVFMxRUJUbWtsU1lDcUd2Ym1aRUlaTmVJSVVwTWhsVFlJQW04YnhRUTExN0kxMXdTTzN5bDNvbEY5TUE1UHZpLWRsSGJ6NA?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-10-13T06:45:41.062Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-13T15:56:20.131Z"
     }
   ]
 }
