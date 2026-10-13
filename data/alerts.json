@@ -1,49 +1,71 @@
 {
-  "generatedAt": "2026-10-12T17:52:51.366Z",
+  "generatedAt": "2026-10-13T06:45:41.062Z",
   "alerts": [
     {
-      "eventId": "event-1d19hay",
-      "title": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
+      "eventId": "event-19xxbe8",
+      "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+      "channel": "ai-tech",
+      "heat": 27,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-10-13T06:45:41.062Z"
+    },
+    {
+      "eventId": "event-9ph7u1",
+      "title": "Meta&#039;s new frontier model Muse Wonder Full breaks into the AI top tier",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-10-13T06:45:41.062Z"
+    },
+    {
+      "eventId": "event-r2ux42",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 96,
       "corroboration": 3,
-      "detectedAt": "2026-10-12T17:52:51.366Z"
+      "detectedAt": "2026-10-13T06:45:41.062Z"
     },
     {
-      "eventId": "event-i7l9k6",
-      "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-12T17:52:51.366Z"
+      "eventId": "event-18kyymg",
+      "title": "Anthropic&#039;s Claude AI submitted false murder tip to Philadelphia police",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-13T06:45:41.062Z"
     },
     {
-      "eventId": "event-1a1izaw",
-      "title": "Which war is having the biggest impact on diesel prices - Iran or Ukraine?",
+      "eventId": "event-1w70s1w",
+      "title": "One dead and several hurt after rollercoaster incident at US amusement park",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr0qk1j7q0eno?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-12T17:52:51.366Z"
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-13T06:45:41.062Z"
     },
     {
-      "eventId": "event-1gbh80o",
-      "title": "Normandy veteran Henry Rice dies aged 100",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg47kww9k7no?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-12T17:52:51.366Z"
+      "eventId": "event-nrhjiw",
+      "title": "【全系买一送一结果送的是车模！上汽奥迪借郑钦文夺冠营销翻车：被吐槽套路太深】郑钦文拿下中网女单冠军后，上汽奥迪借势打出“全系买一赠一”促销，点进详情才发现所谓赠品是指定电车的车模而非整车，和同期霸王茶姬实打实的饮品买一赠一形成反差，不少网友",
+      "source": "Google News · 爆点",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Q000bWZ2YXBoX2ZNZGltY1Q4QTFSVFMxRUJUbWtsU1lDcUd2Ym1aRUlaTmVJSVVwTWhsVFlJQW04YnhRUTExN0kxMXdTTzN5bDNvbEY5TUE1UHZpLWRsSGJ6NA?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-10-13T06:45:41.062Z"
     }
   ]
 }
