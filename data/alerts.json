@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-13T15:56:20.131Z",
+  "generatedAt": "2026-10-14T04:50:20.176Z",
   "alerts": [
     {
-      "eventId": "event-65mgym",
-      "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/character-ai-will-shut-down-if-no-buyer-emerges-capping-a-fall-from-2-7-billion-google-deal-to-bankruptcy/",
+      "eventId": "event-1nbu5x5",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-13T15:56:20.131Z"
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-10-14T04:50:20.176Z"
     },
     {
-      "eventId": "event-15eo0er",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "eventId": "event-1hwi87",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-13T15:56:20.131Z"
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-10-14T04:50:20.176Z"
     },
     {
-      "eventId": "event-4hib8f",
-      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "eventId": "event-yhm7ps",
+      "title": "Drama 3 now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/drama-3-now-available-on-ai-gateway",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-13T15:56:20.131Z"
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-10-14T04:50:20.176Z"
     },
     {
-      "eventId": "event-d3o9wp",
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "source": "Hacker News",
-      "sourceUrl": "https://blog.character.ai/an-update-on-character-ai/",
+      "eventId": "event-10ied43",
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
       "corroboration": 4,
-      "detectedAt": "2026-10-13T15:56:20.131Z"
+      "detectedAt": "2026-10-14T04:50:20.176Z"
     },
     {
-      "eventId": "event-mnxxbo",
-      "title": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8gj20j2ljo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
+      "eventId": "event-1cpndwn",
+      "title": "Redesigning source control at Anthropic",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5",
+      "channel": "ai-tech",
+      "heat": 54,
       "confidence": 96,
       "corroboration": 3,
-      "detectedAt": "2026-10-13T15:56:20.131Z"
+      "detectedAt": "2026-10-14T04:50:20.176Z"
     },
     {
-      "eventId": "event-vczt6h",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "eventId": "event-8co5kp",
+      "title": "The Papers: 'Spy chief's grim warning' and 'tiger victim was child actor'",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmze41x6l116o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-13T15:56:20.131Z"
+      "detectedAt": "2026-10-14T04:50:20.176Z"
     }
   ]
 }
