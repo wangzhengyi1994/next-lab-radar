@@ -1,71 +1,49 @@
 {
-  "generatedAt": "2026-10-14T04:50:20.176Z",
+  "generatedAt": "2026-10-14T13:42:39.470Z",
   "alerts": [
     {
-      "eventId": "event-1nbu5x5",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "source": "Google DeepMind",
-      "sourceUrl": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-10-14T04:50:20.176Z"
-    },
-    {
-      "eventId": "event-1hwi87",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "source": "Google AI",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-10-14T04:50:20.176Z"
-    },
-    {
-      "eventId": "event-yhm7ps",
-      "title": "Drama 3 now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/drama-3-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-10-14T04:50:20.176Z"
-    },
-    {
-      "eventId": "event-10ied43",
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "eventId": "event-m02fl5",
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-14T04:50:20.176Z"
+      "corroboration": 12,
+      "detectedAt": "2026-10-14T13:42:39.470Z"
     },
     {
-      "eventId": "event-1cpndwn",
-      "title": "Redesigning source control at Anthropic",
-      "source": "Anthropic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5",
+      "eventId": "event-fekjsp",
+      "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
       "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-14T04:50:20.176Z"
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 12,
+      "detectedAt": "2026-10-14T13:42:39.470Z"
     },
     {
-      "eventId": "event-8co5kp",
-      "title": "The Papers: 'Spy chief's grim warning' and 'tiger victim was child actor'",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmze41x6l116o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-14T04:50:20.176Z"
+      "eventId": "event-1uqq748",
+      "title": "GreenWAM: A World Foundation Model for Robotics",
+      "source": "HuggingFace Papers",
+      "sourceUrl": "https://huggingface.co/papers/2610.18774",
+      "channel": "ai-tech",
+      "heat": 48,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-14T13:42:39.470Z"
+    },
+    {
+      "eventId": "event-1k9h5s0",
+      "title": "票房三天破亿，女儿上热搜，这家人到底惹了谁？ 小沈阳 沈春阳 沈佳润 #微博视频精选大赏# | #二创有戏# ​",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yaWk1Qm5kNGxBejZ6dHhnNUxxMGc1bllEUGd0MWR5WVZSTTcxWWhvTm85Z1VGUmQ1RDg3THd0NC10bmsxa2RqS1ZzUXZZMGc3SXZRbmVxdmRfWWdpejNKTzFqclhxWHQ0eFZMQmd3Z0RoT3M?oc=5",
+      "channel": "society",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-10-14T13:42:39.470Z"
     }
   ]
 }
