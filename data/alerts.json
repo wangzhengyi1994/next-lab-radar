@@ -1,49 +1,71 @@
 {
-  "generatedAt": "2026-10-14T13:42:39.470Z",
+  "generatedAt": "2026-10-15T04:35:13.090Z",
   "alerts": [
     {
-      "eventId": "event-m02fl5",
-      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "eventId": "event-1jh08lo",
+      "title": "Nemotron 3.5 Lightning now available on AI Gateway for free",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 12,
-      "detectedAt": "2026-10-14T13:42:39.470Z"
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 8,
+      "detectedAt": "2026-10-15T04:35:13.090Z"
     },
     {
-      "eventId": "event-fekjsp",
-      "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 12,
-      "detectedAt": "2026-10-14T13:42:39.470Z"
-    },
-    {
-      "eventId": "event-1uqq748",
-      "title": "GreenWAM: A World Foundation Model for Robotics",
+      "eventId": "event-17ymsvz",
+      "title": "Pristine Models",
       "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2610.18774",
+      "sourceUrl": "https://huggingface.co/papers/2610.14091",
       "channel": "ai-tech",
-      "heat": 48,
+      "heat": 38,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-10-15T04:35:13.090Z"
+    },
+    {
+      "eventId": "event-1bbfj3o",
+      "title": "My AI doppelganger tells me what to eat",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-10-15T04:35:13.090Z"
+    },
+    {
+      "eventId": "event-thtayq",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 5,
+      "detectedAt": "2026-10-15T04:35:13.090Z"
+    },
+    {
+      "eventId": "event-17b0rnv",
+      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/crossing-the-threshold",
+      "channel": "ai-tech",
+      "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-10-14T13:42:39.470Z"
+      "detectedAt": "2026-10-15T04:35:13.090Z"
     },
     {
-      "eventId": "event-1k9h5s0",
-      "title": "票房三天破亿，女儿上热搜，这家人到底惹了谁？ 小沈阳 沈春阳 沈佳润 #微博视频精选大赏# | #二创有戏# ​",
+      "eventId": "event-19k43up",
+      "title": "“红果短剧降智”上热搜，医生回应：不是真的变笨了",
       "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yaWk1Qm5kNGxBejZ6dHhnNUxxMGc1bllEUGd0MWR5WVZSTTcxWWhvTm85Z1VGUmQ1RDg3THd0NC10bmsxa2RqS1ZzUXZZMGc3SXZRbmVxdmRfWWdpejNKTzFqclhxWHQ0eFZMQmd3Z0RoT3M?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE82dkZiWnRYZFdYazFJLWcyY211M2VsU0lqZWVWMy1KdXJscDlyQlBoQl9tRkhCYldrMjVHMzlDZVZIdEgxOUNVckRB?oc=5",
       "channel": "society",
       "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-10-14T13:42:39.470Z"
+      "detectedAt": "2026-10-15T04:35:13.090Z"
     }
   ]
 }
