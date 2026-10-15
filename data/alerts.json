@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-15T04:35:13.090Z",
+  "generatedAt": "2026-10-15T13:23:55.591Z",
   "alerts": [
     {
-      "eventId": "event-1jh08lo",
-      "title": "Nemotron 3.5 Lightning now available on AI Gateway for free",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
+      "eventId": "event-a7x7mr",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "source": "Simon Willison",
+      "sourceUrl": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
       "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 8,
-      "detectedAt": "2026-10-15T04:35:13.090Z"
-    },
-    {
-      "eventId": "event-17ymsvz",
-      "title": "Pristine Models",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2610.14091",
-      "channel": "ai-tech",
-      "heat": 38,
+      "heat": 40,
       "confidence": 85,
       "corroboration": 6,
-      "detectedAt": "2026-10-15T04:35:13.090Z"
+      "detectedAt": "2026-10-15T13:23:55.591Z"
     },
     {
-      "eventId": "event-1bbfj3o",
-      "title": "My AI doppelganger tells me what to eat",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-10-15T04:35:13.090Z"
+      "eventId": "event-uus17w",
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-15T13:23:55.591Z"
     },
     {
-      "eventId": "event-thtayq",
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-10-15T04:35:13.090Z"
-    },
-    {
-      "eventId": "event-17b0rnv",
-      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/crossing-the-threshold",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-15T04:35:13.090Z"
-    },
-    {
-      "eventId": "event-19k43up",
-      "title": "“红果短剧降智”上热搜，医生回应：不是真的变笨了",
+      "eventId": "event-1e1revt",
+      "title": "“红果短剧降智”冲上热搜！网友日刷超10小时，医生提醒：无节制沉溺其中会让专注力下降",
       "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE82dkZiWnRYZFdYazFJLWcyY211M2VsU0lqZWVWMy1KdXJscDlyQlBoQl9tRkhCYldrMjVHMzlDZVZIdEgxOUNVckRB?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalloZVVRTGkxazJQN0x1YnM1VmM3c2Q2SzNHLVRNZDdzN0JLeUxvWkdjaURrRUdGMFFSN2JySmhUWVEtazR2SHZ5MkhTOGVLMXd4UkhiYXhXT1ZaejR2Nnk4c1JmRjV0RTZ1RlJIS0hCVGN6Smd2eWJqVzNlbDZzTHJsSVdDNUNt?oc=5",
       "channel": "society",
       "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-10-15T04:35:13.090Z"
+      "detectedAt": "2026-10-15T13:23:55.591Z"
+    },
+    {
+      "eventId": "event-136doer",
+      "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-15T13:23:55.591Z"
+    },
+    {
+      "eventId": "event-1sm87qs",
+      "title": "Obama says drift towards extremism 'not inevitable'",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-15T13:23:55.591Z"
+    },
+    {
+      "eventId": "event-p9sdnj",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-15T13:23:55.591Z"
     }
   ]
 }
