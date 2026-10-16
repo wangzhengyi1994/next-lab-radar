@@ -1,71 +1,27 @@
 {
-  "generatedAt": "2026-10-16T04:29:08.206Z",
+  "generatedAt": "2026-10-16T13:14:29.706Z",
   "alerts": [
     {
-      "eventId": "event-1h3mhvr",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/meta-muse-spark-open",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-10-16T04:29:08.206Z"
-    },
-    {
-      "eventId": "event-2nqkqr",
-      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
-      "source": "AWS ML",
-      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-10-16T04:29:08.206Z"
-    },
-    {
-      "eventId": "event-19x31qs",
-      "title": "Three children and teacher killed in US primary school shooting",
+      "eventId": "event-1uq1y9j",
+      "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-16T04:29:08.206Z"
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-16T13:14:29.706Z"
     },
     {
-      "eventId": "event-3refr1",
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1ythvtm",
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-16T04:29:08.206Z"
-    },
-    {
-      "eventId": "event-fp2njc",
-      "title": "Introducing Timestral",
-      "source": "Mistral AI",
-      "sourceUrl": "https://mistral.ai/news/timestral/",
-      "channel": "ai-tech",
-      "heat": 53,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-16T04:29:08.206Z"
-    },
-    {
-      "eventId": "event-17sd3ca",
-      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-16T04:29:08.206Z"
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-16T13:14:29.706Z"
     }
   ]
 }
