@@ -1,27 +1,71 @@
 {
-  "generatedAt": "2026-10-16T13:14:29.706Z",
+  "generatedAt": "2026-10-17T04:23:07.161Z",
   "alerts": [
     {
-      "eventId": "event-1uq1y9j",
-      "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-16T13:14:29.706Z"
+      "eventId": "event-g12gag",
+      "title": "Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-10-16",
+      "channel": "ai-tech",
+      "heat": 38,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-10-17T04:23:07.161Z"
     },
     {
-      "eventId": "event-1ythvtm",
-      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-r1h1k8",
+      "title": "Introducing Specs: Markdown As a Medium",
+      "source": "Figma",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51RDg1cTdpczVjZEVTTVh5SmoxalFucG1mamZRSlF0MElZd0lId21hTEdYeFg5WkVwZzh4eUx1RzlRUTlCQnlsOHlZV2VEVXdaYmtzZ21iNG04RDZ6ODFvVw?oc=5",
+      "channel": "ai-tech",
+      "heat": 51,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-10-17T04:23:07.161Z"
+    },
+    {
+      "eventId": "event-mc32za",
+      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "source": "AWS ML",
+      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-10-17T04:23:07.161Z"
+    },
+    {
+      "eventId": "event-166d5gg",
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-17T04:23:07.161Z"
+    },
+    {
+      "eventId": "event-lej74z",
+      "title": "FLUX 3 Image Klein",
+      "source": "Hacker News",
+      "sourceUrl": "https://bfl.ai/blog/flux-3-image-klein",
+      "channel": "ai-tech",
+      "heat": 38,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-17T04:23:07.161Z"
+    },
+    {
+      "eventId": "event-uiwp8q",
+      "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-16T13:14:29.706Z"
+      "detectedAt": "2026-10-17T04:23:07.161Z"
     }
   ]
 }
