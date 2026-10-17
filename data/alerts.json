@@ -1,71 +1,60 @@
 {
-  "generatedAt": "2026-10-17T04:23:07.161Z",
+  "generatedAt": "2026-10-17T12:10:35.860Z",
   "alerts": [
     {
-      "eventId": "event-g12gag",
-      "title": "Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-10-16",
+      "eventId": "event-30j984",
+      "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
       "channel": "ai-tech",
-      "heat": 38,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-10-17T04:23:07.161Z"
-    },
-    {
-      "eventId": "event-r1h1k8",
-      "title": "Introducing Specs: Markdown As a Medium",
-      "source": "Figma",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51RDg1cTdpczVjZEVTTVh5SmoxalFucG1mamZRSlF0MElZd0lId21hTEdYeFg5WkVwZzh4eUx1RzlRUTlCQnlsOHlZV2VEVXdaYmtzZ21iNG04RDZ6ODFvVw?oc=5",
-      "channel": "ai-tech",
-      "heat": 51,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-10-17T04:23:07.161Z"
-    },
-    {
-      "eventId": "event-mc32za",
-      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
-      "source": "AWS ML",
-      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-17T04:23:07.161Z"
-    },
-    {
-      "eventId": "event-166d5gg",
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 96,
       "corroboration": 3,
-      "detectedAt": "2026-10-17T04:23:07.161Z"
+      "detectedAt": "2026-10-17T12:10:35.860Z"
     },
     {
-      "eventId": "event-lej74z",
-      "title": "FLUX 3 Image Klein",
-      "source": "Hacker News",
-      "sourceUrl": "https://bfl.ai/blog/flux-3-image-klein",
+      "eventId": "event-134siyv",
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "source": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2610.22367v1",
       "channel": "ai-tech",
-      "heat": 38,
+      "heat": 51,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-17T12:10:35.860Z"
+    },
+    {
+      "eventId": "event-zfadaw",
+      "title": "Designing Transformers for Continuous Diffusion Language Models",
+      "source": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2610.22330v1",
+      "channel": "ai-tech",
+      "heat": 51,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-17T12:10:35.860Z"
+    },
+    {
+      "eventId": "event-dq96y9",
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "channel": "ai-tech",
+      "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-10-17T04:23:07.161Z"
+      "detectedAt": "2026-10-17T12:10:35.860Z"
     },
     {
-      "eventId": "event-uiwp8q",
-      "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-17T04:23:07.161Z"
+      "eventId": "event-vwk5ut",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-17T12:10:35.860Z"
     }
   ]
 }
