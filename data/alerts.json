@@ -1,4 +1,38 @@
 {
-  "generatedAt": "2026-10-17T15:31:38.752Z",
-  "alerts": []
+  "generatedAt": "2026-10-18T04:28:40.247Z",
+  "alerts": [
+    {
+      "eventId": "event-1331n4d",
+      "title": "Deadly fire breaks out at Canada military base",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-18T04:28:40.247Z"
+    },
+    {
+      "eventId": "event-1ruszzu",
+      "title": "Dubois destroys Wardley in two rounds to retain title",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-18T04:28:40.247Z"
+    },
+    {
+      "eventId": "event-1vgb76a",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-18T04:28:40.247Z"
+    }
+  ]
 }
