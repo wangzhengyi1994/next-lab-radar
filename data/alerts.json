@@ -1,60 +1,60 @@
 {
-  "generatedAt": "2026-10-18T12:36:04.688Z",
+  "generatedAt": "2026-10-19T04:37:31.447Z",
   "alerts": [
     {
-      "eventId": "event-1dzz4a6",
-      "title": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta",
-      "source": "Google News · Breaking",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5",
-      "channel": "breaking",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-18T12:36:04.688Z"
-    },
-    {
-      "eventId": "event-17h4w0t",
-      "title": "Why Math Dumped OpenAI",
-      "source": "Hacker News",
-      "sourceUrl": "https://raymyers.org/post/math-dumped-openai/",
-      "channel": "ai-tech",
-      "heat": 26,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-18T12:36:04.688Z"
-    },
-    {
-      "eventId": "event-4b6fdw",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "eventId": "event-cqhn6w",
+      "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-18T12:36:04.688Z"
+      "detectedAt": "2026-10-19T04:37:31.447Z"
     },
     {
-      "eventId": "event-1sv6gpo",
-      "title": "“林诗栋妈妈的餐馆被拿排骨数量审判”冲上热搜，林诗栋舅舅回应：从未卖过排骨面，店里生意没有受到什么影响",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWhubTNteDFyR01XR0Fzc1JzSTVIZ0hJcVFPem1OTHJ5WDRMOGFLTXdCZk41QVI5OWtQTFo2Z3ZPTVdEVnlGTEN0Y0VySk80dzB0YUZhc2QyRmNCLTV3d1diTTJSRXk3cmx0cnZmN3pRQjFjV1o1ZnN5dFZSRDduY3gzbTFSSEtYQ2wwTw?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
+      "eventId": "event-18haya1",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-18T12:36:04.688Z"
+      "detectedAt": "2026-10-19T04:37:31.447Z"
     },
     {
-      "eventId": "event-1e9tewq",
-      "title": "林诗栋妈妈的餐馆遭网友吐槽排骨缩水 林诗栋舅舅：从没卖过排骨面 最近店里“客流还可以”",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVTVvYVlkRUh1SXhORjh6NlVxV0RrczY0eFducVlLYTN6NkZyUGJSU2o0MlVRUmRqTW52UlYtakpnRjJpX0ZRM29hRGNYeWZmOXA4WWttbG9mM0twbnFUV0hOenJRU00tSE9wMkxTVE55ZnBGYVFzaGZUSnBUNzBjNzBXeG9oU1RhMHZB?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
+      "eventId": "event-o9jucf",
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-18T12:36:04.688Z"
+      "detectedAt": "2026-10-19T04:37:31.447Z"
+    },
+    {
+      "eventId": "event-10oii35",
+      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-19T04:37:31.447Z"
+    },
+    {
+      "eventId": "event-1yyb16u",
+      "title": "Australian Greens senator denies claims of misconduct towards women",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-19T04:37:31.447Z"
     }
   ]
 }
