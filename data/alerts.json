@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-10-19T04:37:31.447Z",
+  "generatedAt": "2026-10-19T15:34:58.840Z",
   "alerts": [
     {
-      "eventId": "event-cqhn6w",
-      "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+      "eventId": "event-vygia8",
+      "title": "Uefa gives Infantino two-week deadline to release key documents",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-19T04:37:31.447Z"
-    },
-    {
-      "eventId": "event-18haya1",
-      "title": "Major fire at Canada military base leaves four dead, dozens injured",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-19T04:37:31.447Z"
-    },
-    {
-      "eventId": "event-o9jucf",
-      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-19T04:37:31.447Z"
-    },
-    {
-      "eventId": "event-10oii35",
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-19T04:37:31.447Z"
+      "detectedAt": "2026-10-19T15:34:58.840Z"
     },
     {
-      "eventId": "event-1yyb16u",
-      "title": "Australian Greens senator denies claims of misconduct towards women",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-gr74jm",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-19T04:37:31.447Z"
+      "detectedAt": "2026-10-19T15:34:58.840Z"
+    },
+    {
+      "eventId": "event-9u3vx7",
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-19T15:34:58.840Z"
+    },
+    {
+      "eventId": "event-p5gfq2",
+      "title": "Watch: Are the French riots a warning of an intense election to come?",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-19T15:34:58.840Z"
+    },
+    {
+      "eventId": "event-11q6qgy",
+      "title": "Four arrested after police officer injured in shooting",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-19T15:34:58.840Z"
+    },
+    {
+      "eventId": "event-hrkugf",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-19T15:34:58.840Z"
     }
   ]
 }
