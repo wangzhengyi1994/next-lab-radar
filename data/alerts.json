@@ -1,4 +1,38 @@
 {
-  "generatedAt": "2026-10-20T04:47:03.031Z",
-  "alerts": []
+  "generatedAt": "2026-10-20T13:32:54.162Z",
+  "alerts": [
+    {
+      "eventId": "event-13ahmkv",
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-20T13:32:54.162Z"
+    },
+    {
+      "eventId": "event-i2i5bk",
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-20T13:32:54.162Z"
+    },
+    {
+      "eventId": "event-1mqyott",
+      "title": "Storm Austen to bring severe gales to UK as weather warning issued",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-20T13:32:54.162Z"
+    }
+  ]
 }
