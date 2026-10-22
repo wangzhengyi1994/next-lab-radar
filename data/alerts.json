@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-10-22T04:40:49.272Z",
+  "generatedAt": "2026-10-22T13:46:24.569Z",
   "alerts": [
     {
-      "eventId": "event-tk2yyw",
-      "title": "Mistral Large 4",
+      "eventId": "event-1lvs95",
+      "title": "What FDE means at OpenAI",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/forward-deployed-engineering-means",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 10,
+      "detectedAt": "2026-10-22T13:46:24.569Z"
+    },
+    {
+      "eventId": "event-11he8jl",
+      "title": "OpenAI CLI",
       "source": "Hacker News",
-      "sourceUrl": "https://mistral.ai/news/mistral-large-4/",
+      "sourceUrl": "https://github.com/openai/openai-cli",
       "channel": "ai-tech",
-      "heat": 46,
+      "heat": 41,
       "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-22T04:40:49.272Z"
+      "corroboration": 10,
+      "detectedAt": "2026-10-22T13:46:24.569Z"
     },
     {
-      "eventId": "event-75qeus",
-      "title": "OpenAI&#039;s latest AI models are coming to Google Cloud and Antigravity",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "eventId": "event-434o6g",
+      "title": "Claude’s personal agent",
+      "source": "Ben's Bites",
+      "sourceUrl": "https://www.bensbites.com/p/claudes-personal-agent",
       "channel": "ai-tech",
-      "heat": 39,
+      "heat": 40,
       "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-22T04:40:49.272Z"
+      "corroboration": 10,
+      "detectedAt": "2026-10-22T13:46:24.569Z"
     },
     {
-      "eventId": "event-jr8n0j",
-      "title": "Cache Engineering for Agents",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2610.28577",
+      "eventId": "event-1bvw9u2",
+      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "source": "Latent Space",
+      "sourceUrl": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
       "channel": "ai-tech",
-      "heat": 49,
-      "confidence": 82,
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 10,
+      "detectedAt": "2026-10-22T13:46:24.569Z"
+    },
+    {
+      "eventId": "event-16nlaw4",
+      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+      "source": "Hacker News",
+      "sourceUrl": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "channel": "ai-tech",
+      "heat": 29,
+      "confidence": 85,
+      "corroboration": 10,
+      "detectedAt": "2026-10-22T13:46:24.569Z"
+    },
+    {
+      "eventId": "event-aclg0o",
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "source": "NVIDIA",
+      "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 96,
       "corroboration": 3,
-      "detectedAt": "2026-10-22T04:40:49.272Z"
-    },
-    {
-      "eventId": "event-qn5hgf",
-      "title": "UK working to identify exposure after global cyber-security warning",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-22T04:40:49.272Z"
-    },
-    {
-      "eventId": "event-a91vti",
-      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-22T04:40:49.272Z"
+      "detectedAt": "2026-10-22T13:46:24.569Z"
     }
   ]
 }
