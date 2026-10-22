@@ -1,71 +1,60 @@
 {
-  "generatedAt": "2026-10-21T13:45:56.393Z",
+  "generatedAt": "2026-10-22T04:40:49.272Z",
   "alerts": [
     {
-      "eventId": "event-18ioz3x",
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "eventId": "event-tk2yyw",
+      "title": "Mistral Large 4",
+      "source": "Hacker News",
+      "sourceUrl": "https://mistral.ai/news/mistral-large-4/",
+      "channel": "ai-tech",
+      "heat": 46,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-10-22T04:40:49.272Z"
+    },
+    {
+      "eventId": "event-75qeus",
+      "title": "OpenAI&#039;s latest AI models are coming to Google Cloud and Antigravity",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-10-22T04:40:49.272Z"
+    },
+    {
+      "eventId": "event-jr8n0j",
+      "title": "Cache Engineering for Agents",
+      "source": "HuggingFace Papers",
+      "sourceUrl": "https://huggingface.co/papers/2610.28577",
+      "channel": "ai-tech",
+      "heat": 49,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-22T04:40:49.272Z"
+    },
+    {
+      "eventId": "event-qn5hgf",
+      "title": "UK working to identify exposure after global cyber-security warning",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-21T13:45:56.393Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-22T04:40:49.272Z"
     },
     {
-      "eventId": "event-15pmhi0",
-      "title": "De novo design of protein binders against scorpion toxins with Claude",
-      "source": "Anthropic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ybGt0MHV6S1FUdG8zUkZWYXdfR2dVRXQ1bHpwamxlb25mZTN1eER3RWMzcHo5T0ZyWG1NaDFZYlgzZ0JndUR1ZlkwSV9tclozSF9YWm8xWmZmVzY4RTFpc0dRT0F5RmI5bzhEa1dXS21TckhhZ181ZHpTNjhSSnc?oc=5",
-      "channel": "ai-tech",
-      "heat": 53,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-21T13:45:56.393Z"
-    },
-    {
-      "eventId": "event-lb5y6j",
-      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-21T13:45:56.393Z"
-    },
-    {
-      "eventId": "event-kiwvqk",
-      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-21T13:45:56.393Z"
-    },
-    {
-      "eventId": "event-1law0yh",
-      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-21T13:45:56.393Z"
-    },
-    {
-      "eventId": "event-1b5xbc6",
-      "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-21T13:45:56.393Z"
+      "eventId": "event-a91vti",
+      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-22T04:40:49.272Z"
     }
   ]
 }
