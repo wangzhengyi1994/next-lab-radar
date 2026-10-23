@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-22T13:46:24.569Z",
+  "generatedAt": "2026-10-23T04:46:02.933Z",
   "alerts": [
     {
-      "eventId": "event-1lvs95",
-      "title": "What FDE means at OpenAI",
+      "eventId": "event-1n2k0b3",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/forward-deployed-engineering-means",
+      "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
       "channel": "ai-tech",
-      "heat": 54,
+      "heat": 52,
       "confidence": 99,
-      "corroboration": 10,
-      "detectedAt": "2026-10-22T13:46:24.569Z"
+      "corroboration": 9,
+      "detectedAt": "2026-10-23T04:46:02.933Z"
     },
     {
-      "eventId": "event-11he8jl",
-      "title": "OpenAI CLI",
-      "source": "Hacker News",
-      "sourceUrl": "https://github.com/openai/openai-cli",
-      "channel": "ai-tech",
-      "heat": 41,
-      "confidence": 85,
-      "corroboration": 10,
-      "detectedAt": "2026-10-22T13:46:24.569Z"
-    },
-    {
-      "eventId": "event-434o6g",
-      "title": "Claude’s personal agent",
-      "source": "Ben's Bites",
-      "sourceUrl": "https://www.bensbites.com/p/claudes-personal-agent",
+      "eventId": "event-ap4r5o",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "channel": "ai-tech",
       "heat": 40,
       "confidence": 85,
-      "corroboration": 10,
-      "detectedAt": "2026-10-22T13:46:24.569Z"
+      "corroboration": 9,
+      "detectedAt": "2026-10-23T04:46:02.933Z"
     },
     {
-      "eventId": "event-1bvw9u2",
-      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "source": "Latent Space",
-      "sourceUrl": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "eventId": "event-1j48n8y",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 39,
       "confidence": 85,
-      "corroboration": 10,
-      "detectedAt": "2026-10-22T13:46:24.569Z"
+      "corroboration": 9,
+      "detectedAt": "2026-10-23T04:46:02.933Z"
     },
     {
-      "eventId": "event-16nlaw4",
-      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
-      "source": "Hacker News",
-      "sourceUrl": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "eventId": "event-rayizc",
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
       "channel": "ai-tech",
-      "heat": 29,
+      "heat": 39,
       "confidence": 85,
-      "corroboration": 10,
-      "detectedAt": "2026-10-22T13:46:24.569Z"
+      "corroboration": 9,
+      "detectedAt": "2026-10-23T04:46:02.933Z"
     },
     {
-      "eventId": "event-aclg0o",
-      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-      "source": "NVIDIA",
-      "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-      "channel": "ai-tech",
+      "eventId": "event-1gwmq6k",
+      "title": "Amber warning in place as Storm Austen hits parts of UK",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-23T04:46:02.933Z"
+    },
+    {
+      "eventId": "event-p3guix",
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
       "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-22T13:46:24.569Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-23T04:46:02.933Z"
     }
   ]
 }
