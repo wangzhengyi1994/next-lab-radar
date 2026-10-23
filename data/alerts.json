@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-23T04:46:02.933Z",
+  "generatedAt": "2026-10-23T13:24:03.616Z",
   "alerts": [
     {
-      "eventId": "event-1n2k0b3",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 9,
-      "detectedAt": "2026-10-23T04:46:02.933Z"
-    },
-    {
-      "eventId": "event-ap4r5o",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-10-23T04:46:02.933Z"
-    },
-    {
-      "eventId": "event-1j48n8y",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-10-23T04:46:02.933Z"
-    },
-    {
-      "eventId": "event-rayizc",
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-10-23T04:46:02.933Z"
-    },
-    {
-      "eventId": "event-1gwmq6k",
-      "title": "Amber warning in place as Storm Austen hits parts of UK",
+      "eventId": "event-ehy9k1",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-23T04:46:02.933Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-23T13:24:03.616Z"
     },
     {
-      "eventId": "event-p3guix",
-      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "eventId": "event-9xfi0n",
+      "title": "Canva launches Craft, its first in-house image model",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-23T13:24:03.616Z"
+    },
+    {
+      "eventId": "event-1fklnma",
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-23T13:24:03.616Z"
+    },
+    {
+      "eventId": "event-1aezw4k",
+      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-23T13:24:03.616Z"
+    },
+    {
+      "eventId": "event-r7kdmw",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-23T13:24:03.616Z"
+    },
+    {
+      "eventId": "event-xiwqz2",
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-23T04:46:02.933Z"
+      "detectedAt": "2026-10-23T13:24:03.616Z"
     }
   ]
 }
