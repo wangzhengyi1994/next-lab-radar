@@ -1,71 +1,60 @@
 {
-  "generatedAt": "2026-10-24T04:33:18.836Z",
+  "generatedAt": "2026-10-24T12:40:17.237Z",
   "alerts": [
     {
-      "eventId": "event-1vq38dd",
-      "title": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/kimi-k3-1-pro-and-kimi-k3-1-pro-highspeed-are-available-now-in-ai-gateway",
+      "eventId": "event-1b0102n",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "source": "Latent Space",
+      "sourceUrl": "https://latent.space/p/ainews-kimi-31/",
       "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-10-24T04:33:18.836Z"
-    },
-    {
-      "eventId": "event-16e5vp1",
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "source": "Hacker News",
-      "sourceUrl": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "channel": "ai-tech",
-      "heat": 52,
+      "heat": 40,
       "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-24T04:33:18.836Z"
+      "corroboration": 6,
+      "detectedAt": "2026-10-24T12:40:17.237Z"
     },
     {
-      "eventId": "event-o8y3rs",
-      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic&#039;s Claude Opus 5.5",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-10-24T04:33:18.836Z"
-    },
-    {
-      "eventId": "event-1qb74mp",
-      "title": "Quick Study",
-      "source": "Simon Willison",
-      "sourceUrl": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-24T04:33:18.836Z"
-    },
-    {
-      "eventId": "event-3i79ks",
-      "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+      "eventId": "event-5ygu82",
+      "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-24T04:33:18.836Z"
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-24T12:40:17.237Z"
     },
     {
-      "eventId": "event-1h9q67j",
-      "title": "Strictly's new presenters - after frosty reviews have they warmed up?",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-18try6y",
+      "title": "媒体：“劣迹艺人”标签岂能随便贴 举报与取消演出的灰色地带",
+      "source": "Google News · 娱乐",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fNFlTSDVXVHl3QTdsMTE1VDZRTFdEc3hUSTdUc21nQzR3enUwNG5FaWtxUzZxVENBS1hiYl9PRGVZNjBOUW1lVHFWc1p1dVJ3dXpEa3RHdVdzRFFZdkJaT0cwM1E4Ui11bWd5WC0tYjA?oc=5",
+      "channel": "people",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-10-24T12:40:17.237Z"
+    },
+    {
+      "eventId": "event-1qsophs",
+      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-24T04:33:18.836Z"
+      "detectedAt": "2026-10-24T12:40:17.237Z"
+    },
+    {
+      "eventId": "event-1lqbne6",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 53,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-24T12:40:17.237Z"
     }
   ]
 }
