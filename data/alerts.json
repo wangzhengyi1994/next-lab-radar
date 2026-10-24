@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-23T13:24:03.616Z",
+  "generatedAt": "2026-10-24T04:33:18.836Z",
   "alerts": [
     {
-      "eventId": "event-ehy9k1",
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-23T13:24:03.616Z"
+      "eventId": "event-1vq38dd",
+      "title": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/kimi-k3-1-pro-and-kimi-k3-1-pro-highspeed-are-available-now-in-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-10-24T04:33:18.836Z"
     },
     {
-      "eventId": "event-9xfi0n",
-      "title": "Canva launches Craft, its first in-house image model",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
+      "eventId": "event-16e5vp1",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 52,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-10-24T04:33:18.836Z"
+    },
+    {
+      "eventId": "event-o8y3rs",
+      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic&#039;s Claude Opus 5.5",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-10-24T04:33:18.836Z"
+    },
+    {
+      "eventId": "event-1qb74mp",
+      "title": "Quick Study",
+      "source": "Simon Willison",
+      "sourceUrl": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "channel": "ai-tech",
+      "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-10-23T13:24:03.616Z"
+      "detectedAt": "2026-10-24T04:33:18.836Z"
     },
     {
-      "eventId": "event-1fklnma",
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "eventId": "event-3i79ks",
+      "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-23T13:24:03.616Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-24T04:33:18.836Z"
     },
     {
-      "eventId": "event-1aezw4k",
-      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+      "eventId": "event-1h9q67j",
+      "title": "Strictly's new presenters - after frosty reviews have they warmed up?",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-23T13:24:03.616Z"
-    },
-    {
-      "eventId": "event-r7kdmw",
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-23T13:24:03.616Z"
-    },
-    {
-      "eventId": "event-xiwqz2",
-      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-23T13:24:03.616Z"
+      "detectedAt": "2026-10-24T04:33:18.836Z"
     }
   ]
 }
