@@ -1,60 +1,38 @@
 {
-  "generatedAt": "2026-10-24T12:40:17.237Z",
+  "generatedAt": "2026-10-25T04:37:55.932Z",
   "alerts": [
     {
-      "eventId": "event-1b0102n",
-      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "source": "Latent Space",
-      "sourceUrl": "https://latent.space/p/ainews-kimi-31/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-10-24T12:40:17.237Z"
-    },
-    {
-      "eventId": "event-5ygu82",
-      "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-24T12:40:17.237Z"
-    },
-    {
-      "eventId": "event-18try6y",
-      "title": "媒体：“劣迹艺人”标签岂能随便贴 举报与取消演出的灰色地带",
-      "source": "Google News · 娱乐",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fNFlTSDVXVHl3QTdsMTE1VDZRTFdEc3hUSTdUc21nQzR3enUwNG5FaWtxUzZxVENBS1hiYl9PRGVZNjBOUW1lVHFWc1p1dVJ3dXpEa3RHdVdzRFFZdkJaT0cwM1E4Ui11bWd5WC0tYjA?oc=5",
+      "eventId": "event-1uh5y1p",
+      "title": "大衣哥遭长期举报，“劣迹艺人”标签岂能随便贴 | 新京报快评",
+      "source": "Google News · 人物",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WRENJNXd3SW9ZYnNsVDRJMzNMS3hWTkUwYnloNjJ1ZEdKbGFpR1NpMXU3VVNQRW1PUVRMZFFFM3Jma0swYUx4WnBzRHlPUndZTnlVZUtDRUdLSHFvQ1hHTGUtVUo?oc=5",
       "channel": "people",
-      "heat": 40,
+      "heat": 39,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-10-24T12:40:17.237Z"
+      "detectedAt": "2026-10-25T04:37:55.932Z"
     },
     {
-      "eventId": "event-1qsophs",
-      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1goztoe",
+      "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-24T12:40:17.237Z"
+      "detectedAt": "2026-10-25T04:37:55.932Z"
     },
     {
-      "eventId": "event-1lqbne6",
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1pg8p0",
+      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 53,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-24T12:40:17.237Z"
+      "detectedAt": "2026-10-25T04:37:55.932Z"
     }
   ]
 }
