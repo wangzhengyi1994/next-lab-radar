@@ -1,38 +1,71 @@
 {
-  "generatedAt": "2026-10-26T04:43:31.251Z",
+  "generatedAt": "2026-10-26T15:10:26.405Z",
   "alerts": [
     {
-      "eventId": "event-1lp5oyu",
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-26T04:43:31.251Z"
+      "eventId": "event-x3lex2",
+      "title": "Apple’s 20B model 📱, Kimi K3.1 Pro 🧠, Block Dessa 🗣️, frontier training security 🔐",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-10-26",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-10-26T15:10:26.405Z"
     },
     {
-      "eventId": "event-dukwc4",
-      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+      "eventId": "event-19p4tqi",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-26T15:10:26.405Z"
+    },
+    {
+      "eventId": "event-dn9y4v",
+      "title": "大衣哥朱之文报警，被黑粉组团举报扣劣迹艺人帽子，商演全叫停已回老家务农",
+      "source": "Google News · 人物",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbUJpaE9Fc3VyekJjTlE0Um9EM0dfWkppZjI1RTdua3QxUjdBUGVmc0F3QjlCR21Sdk5zRE9NVmg2d0MtV1l0QUdvSTZ6T1JGdllGc1lhUExnTG1YLWViS1RFOWZ4dnAxSW1hYVB4ZFBObjYxU1k4dVhMMmRWV1RfMl9GNk5YQVFYUDF4X1JYMUxIX3hJZWVfazhzOHVMbTFWY0Voc2ZHdlBLZW1GSzRKaTBwQ3Y3WG45LWV3aTZPUFRnSmdJMUtkR19rYzVPSWVSVXpOYXhLOWM?oc=5",
+      "channel": "people",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-10-26T15:10:26.405Z"
+    },
+    {
+      "eventId": "event-7s80m7",
+      "title": "Drivers who killed mum and girl while racing jailed",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-26T04:43:31.251Z"
+      "detectedAt": "2026-10-26T15:10:26.405Z"
     },
     {
-      "eventId": "event-1bc0rsh",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "eventId": "event-woyj6r",
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-26T04:43:31.251Z"
+      "detectedAt": "2026-10-26T15:10:26.405Z"
+    },
+    {
+      "eventId": "event-zgkjuf",
+      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-26T15:10:26.405Z"
     }
   ]
 }
