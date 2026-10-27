@@ -1,71 +1,16 @@
 {
-  "generatedAt": "2026-10-27T05:00:45.613Z",
+  "generatedAt": "2026-10-27T14:29:14.342Z",
   "alerts": [
     {
-      "eventId": "event-442dfl",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "channel": "ai-tech",
-      "heat": 53,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-10-27T05:00:45.613Z"
-    },
-    {
-      "eventId": "event-1l532fa",
-      "title": "GPT-6.1 Terra now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/gpt-6-1-terra-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-10-27T05:00:45.613Z"
-    },
-    {
-      "eventId": "event-gg2xi9",
-      "title": "GPT-6.1 Terra",
-      "source": "Hacker News",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "channel": "ai-tech",
-      "heat": 50,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-10-27T05:00:45.613Z"
-    },
-    {
-      "eventId": "event-2fmzm",
-      "title": "GPT-6.1 Terra halves OpenAI&#039;s API prices and still gains ground on its larger models",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+      "eventId": "event-2uifx4",
+      "title": "GPT-6.1 Terra ⚡, Anthropic IPO filing 📈, agent native git 👨‍💻",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-10-27",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-10-27T05:00:45.613Z"
-    },
-    {
-      "eventId": "event-9eczcf",
-      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-27T05:00:45.613Z"
-    },
-    {
-      "eventId": "event-du1xxf",
-      "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-27T05:00:45.613Z"
+      "corroboration": 7,
+      "detectedAt": "2026-10-27T14:29:14.342Z"
     }
   ]
 }
