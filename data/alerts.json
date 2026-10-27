@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-26T15:10:26.405Z",
+  "generatedAt": "2026-10-27T05:00:45.613Z",
   "alerts": [
     {
-      "eventId": "event-x3lex2",
-      "title": "Apple’s 20B model 📱, Kimi K3.1 Pro 🧠, Block Dessa 🗣️, frontier training security 🔐",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-10-26",
+      "eventId": "event-442dfl",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "channel": "ai-tech",
+      "heat": 53,
+      "confidence": 99,
+      "corroboration": 6,
+      "detectedAt": "2026-10-27T05:00:45.613Z"
+    },
+    {
+      "eventId": "event-1l532fa",
+      "title": "GPT-6.1 Terra now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/gpt-6-1-terra-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 6,
+      "detectedAt": "2026-10-27T05:00:45.613Z"
+    },
+    {
+      "eventId": "event-gg2xi9",
+      "title": "GPT-6.1 Terra",
+      "source": "Hacker News",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "channel": "ai-tech",
+      "heat": 50,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-10-27T05:00:45.613Z"
+    },
+    {
+      "eventId": "event-2fmzm",
+      "title": "GPT-6.1 Terra halves OpenAI&#039;s API prices and still gains ground on its larger models",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
       "corroboration": 6,
-      "detectedAt": "2026-10-26T15:10:26.405Z"
+      "detectedAt": "2026-10-27T05:00:45.613Z"
     },
     {
-      "eventId": "event-19p4tqi",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "eventId": "event-9eczcf",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-26T15:10:26.405Z"
+      "detectedAt": "2026-10-27T05:00:45.613Z"
     },
     {
-      "eventId": "event-dn9y4v",
-      "title": "大衣哥朱之文报警，被黑粉组团举报扣劣迹艺人帽子，商演全叫停已回老家务农",
-      "source": "Google News · 人物",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbUJpaE9Fc3VyekJjTlE0Um9EM0dfWkppZjI1RTdua3QxUjdBUGVmc0F3QjlCR21Sdk5zRE9NVmg2d0MtV1l0QUdvSTZ6T1JGdllGc1lhUExnTG1YLWViS1RFOWZ4dnAxSW1hYVB4ZFBObjYxU1k4dVhMMmRWV1RfMl9GNk5YQVFYUDF4X1JYMUxIX3hJZWVfazhzOHVMbTFWY0Voc2ZHdlBLZW1GSzRKaTBwQ3Y3WG45LWV3aTZPUFRnSmdJMUtkR19rYzVPSWVSVXpOYXhLOWM?oc=5",
-      "channel": "people",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-10-26T15:10:26.405Z"
-    },
-    {
-      "eventId": "event-7s80m7",
-      "title": "Drivers who killed mum and girl while racing jailed",
+      "eventId": "event-du1xxf",
+      "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-26T15:10:26.405Z"
-    },
-    {
-      "eventId": "event-woyj6r",
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-26T15:10:26.405Z"
-    },
-    {
-      "eventId": "event-zgkjuf",
-      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-26T15:10:26.405Z"
+      "detectedAt": "2026-10-27T05:00:45.613Z"
     }
   ]
 }
