@@ -1,16 +1,71 @@
 {
-  "generatedAt": "2026-10-27T14:29:14.342Z",
+  "generatedAt": "2026-10-28T05:38:40.449Z",
   "alerts": [
     {
-      "eventId": "event-2uifx4",
-      "title": "GPT-6.1 Terra ⚡, Anthropic IPO filing 📈, agent native git 👨‍💻",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-10-27",
+      "eventId": "event-dmjyer",
+      "title": "ElevenLabs on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/blog/elevenlabs-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 53,
+      "confidence": 99,
+      "corroboration": 8,
+      "detectedAt": "2026-10-28T05:38:40.449Z"
+    },
+    {
+      "eventId": "event-oi2f65",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-28T05:38:40.449Z"
+    },
+    {
+      "eventId": "event-1e8n31h",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "channel": "ai-tech",
       "heat": 39,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-10-27T14:29:14.342Z"
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-28T05:38:40.449Z"
+    },
+    {
+      "eventId": "event-mlk1sy",
+      "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-28T05:38:40.449Z"
+    },
+    {
+      "eventId": "event-16f4jz",
+      "title": "Landline switchover could cut people off in emergency, minister warned",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-28T05:38:40.449Z"
+    },
+    {
+      "eventId": "event-10hjwit",
+      "title": "Dutch zookeeper dies after being mauled by leopard",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-28T05:38:40.449Z"
     }
   ]
 }
