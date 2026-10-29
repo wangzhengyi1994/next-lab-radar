@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-29T05:44:27.236Z",
+  "generatedAt": "2026-10-29T15:12:52.046Z",
   "alerts": [
     {
-      "eventId": "event-1slgexi",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "source": "Google DeepMind",
-      "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-10-29T05:44:27.236Z"
-    },
-    {
-      "eventId": "event-93esx2",
-      "title": "Gemini 4 Carbon",
+      "eventId": "event-qfs1tg",
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
       "source": "Hacker News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "sourceUrl": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
       "channel": "ai-tech",
-      "heat": 51,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-10-29T05:44:27.236Z"
+      "heat": 43,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-29T15:12:52.046Z"
     },
     {
-      "eventId": "event-19mck4t",
-      "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+      "eventId": "event-tk5otn",
+      "title": "AI is overwhelming and I’m doing it wrong",
+      "source": "Ben's Bites",
+      "sourceUrl": "https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-10-29T05:44:27.236Z"
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-10-29T15:12:52.046Z"
     },
     {
-      "eventId": "event-66nr04",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-10-29T05:44:27.236Z"
-    },
-    {
-      "eventId": "event-190ews9",
-      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-10-29T05:44:27.236Z"
-    },
-    {
-      "eventId": "event-fttg5d",
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "eventId": "event-1hjziu9",
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-29T15:12:52.046Z"
+    },
+    {
+      "eventId": "event-18ghvn6",
+      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-29T15:12:52.046Z"
+    },
+    {
+      "eventId": "event-r8iw7r",
+      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-29T15:12:52.046Z"
+    },
+    {
+      "eventId": "event-169w4tq",
+      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-10-29T05:44:27.236Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-29T15:12:52.046Z"
     }
   ]
 }
