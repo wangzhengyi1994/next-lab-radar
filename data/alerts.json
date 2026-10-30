@@ -1,71 +1,38 @@
 {
-  "generatedAt": "2026-10-29T15:12:52.046Z",
+  "generatedAt": "2026-10-30T05:44:37.737Z",
   "alerts": [
     {
-      "eventId": "event-qfs1tg",
-      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "source": "Hacker News",
-      "sourceUrl": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "channel": "ai-tech",
-      "heat": 43,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-29T15:12:52.046Z"
-    },
-    {
-      "eventId": "event-tk5otn",
-      "title": "AI is overwhelming and I’m doing it wrong",
-      "source": "Ben's Bites",
-      "sourceUrl": "https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-29T15:12:52.046Z"
-    },
-    {
-      "eventId": "event-1hjziu9",
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "eventId": "event-1imivhq",
+      "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-10-29T15:12:52.046Z"
+      "detectedAt": "2026-10-30T05:44:37.737Z"
     },
     {
-      "eventId": "event-18ghvn6",
-      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "eventId": "event-js1i8q",
+      "title": "Three dead after two helicopters collide midair near Oregon airport",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-29T15:12:52.046Z"
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-30T05:44:37.737Z"
     },
     {
-      "eventId": "event-r8iw7r",
-      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-29T15:12:52.046Z"
-    },
-    {
-      "eventId": "event-169w4tq",
-      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "eventId": "event-1k6om1q",
+      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-29T15:12:52.046Z"
+      "heat": 53,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-10-30T05:44:37.737Z"
     }
   ]
 }
