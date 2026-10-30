@@ -1,38 +1,49 @@
 {
-  "generatedAt": "2026-10-30T05:44:37.737Z",
+  "generatedAt": "2026-10-30T15:02:00.239Z",
   "alerts": [
     {
-      "eventId": "event-1imivhq",
-      "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+      "eventId": "event-119t1fl",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-30T05:44:37.737Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-10-30T15:02:00.239Z"
     },
     {
-      "eventId": "event-js1i8q",
-      "title": "Three dead after two helicopters collide midair near Oregon airport",
+      "eventId": "event-164lf1r",
+      "title": "Driver guilty of hitting cyclist and dragging him to death under car",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-30T05:44:37.737Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-30T15:02:00.239Z"
     },
     {
-      "eventId": "event-1k6om1q",
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-yn2gpl",
+      "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 53,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-10-30T05:44:37.737Z"
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-30T15:02:00.239Z"
+    },
+    {
+      "eventId": "event-1eg79x1",
+      "title": "Watch: Iconic moments from the career of Sir Patrick Stewart, who has died aged 86",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-10-30T15:02:00.239Z"
     }
   ]
 }
