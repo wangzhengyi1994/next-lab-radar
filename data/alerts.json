@@ -1,38 +1,16 @@
 {
-  "generatedAt": "2026-10-31T05:36:49.622Z",
+  "generatedAt": "2026-10-31T14:30:56.088Z",
   "alerts": [
     {
-      "eventId": "event-edz26a",
-      "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2610.34298",
-      "channel": "ai-tech",
-      "heat": 25,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-10-31T05:36:49.622Z"
-    },
-    {
-      "eventId": "event-1o51z00",
-      "title": "The Papers: 'Rush to recover stolen $6bn' and 'War on wind farms'",
+      "eventId": "event-11am376",
+      "title": "UK police cannot 'intervene' over woman killed by father in US, despite 'unlawful' ruling",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjnp91pzv8o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-10-31T05:36:49.622Z"
-    },
-    {
-      "eventId": "event-1uo79ei",
-      "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9dz48g24yzo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-31T05:36:49.622Z"
+      "detectedAt": "2026-10-31T14:30:56.088Z"
     }
   ]
 }
