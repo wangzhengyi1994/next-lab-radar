@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-31T14:30:56.088Z",
+  "generatedAt": "2026-11-01T05:58:55.976Z",
   "alerts": [
     {
-      "eventId": "event-11am376",
-      "title": "UK police cannot 'intervene' over woman killed by father in US, despite 'unlawful' ruling",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9dz48g24yzo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-n3yucg",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-10-31T14:30:56.088Z"
+      "detectedAt": "2026-11-01T05:58:55.976Z"
     }
   ]
 }
