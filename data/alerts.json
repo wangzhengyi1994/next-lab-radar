@@ -1,16 +1,38 @@
 {
-  "generatedAt": "2026-11-01T05:58:55.976Z",
+  "generatedAt": "2026-11-01T15:05:27.411Z",
   "alerts": [
     {
-      "eventId": "event-n3yucg",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1lke9hn",
+      "title": "Former European champion and two-time Olympian Ciara Mageean dies aged 34",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-01T15:05:27.411Z"
+    },
+    {
+      "eventId": "event-y1h8wd",
+      "title": "Hospital admits full responsibility for 24 failures that led to toddler's death",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn06eldj9rwo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-01T05:58:55.976Z"
+      "detectedAt": "2026-11-01T15:05:27.411Z"
+    },
+    {
+      "eventId": "event-k9z5fc",
+      "title": "'The necktie is dead': How candidates are dressing for votes",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 51,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-01T15:05:27.411Z"
     }
   ]
 }
