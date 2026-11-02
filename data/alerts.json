@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-11-02T05:58:19.513Z",
+  "generatedAt": "2026-11-02T18:19:32.864Z",
   "alerts": [
     {
-      "eventId": "event-1iv32sh",
-      "title": "Hierarchical World Models with Implicit Dynamics",
-      "source": "arXiv",
-      "sourceUrl": "http://arxiv.org/abs/2610.42146v1",
-      "channel": "ai-tech",
-      "heat": 50,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-02T05:58:19.513Z"
+      "eventId": "event-l6p0zn",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-11-02T18:19:32.864Z"
     },
     {
-      "eventId": "event-kf6seh",
-      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+      "eventId": "event-ouyqjm",
+      "title": "Jamal Edwards' sister on celebrating SBTV's 20-year legacy and hopes of discovering new talent",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c54g1xnm3pezo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-02T05:58:19.513Z"
+      "detectedAt": "2026-11-02T18:19:32.864Z"
     },
     {
-      "eventId": "event-5pqgdd",
-      "title": "A&E warning system to flag sick children deteriorating quickly",
+      "eventId": "event-1fs2l9u",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-02T18:19:32.864Z"
+    },
+    {
+      "eventId": "event-1tk0rvf",
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-02T05:58:19.513Z"
-    },
-    {
-      "eventId": "event-11j43ma",
-      "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-02T05:58:19.513Z"
+      "detectedAt": "2026-11-02T18:19:32.864Z"
     }
   ]
 }
