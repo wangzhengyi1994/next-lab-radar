@@ -1,38 +1,49 @@
 {
-  "generatedAt": "2026-11-01T15:05:27.411Z",
+  "generatedAt": "2026-11-02T05:58:19.513Z",
   "alerts": [
     {
-      "eventId": "event-1lke9hn",
-      "title": "Former European champion and two-time Olympian Ciara Mageean dies aged 34",
+      "eventId": "event-1iv32sh",
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "source": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2610.42146v1",
+      "channel": "ai-tech",
+      "heat": 50,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-02T05:58:19.513Z"
+    },
+    {
+      "eventId": "event-kf6seh",
+      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-01T15:05:27.411Z"
+      "detectedAt": "2026-11-02T05:58:19.513Z"
     },
     {
-      "eventId": "event-y1h8wd",
-      "title": "Hospital admits full responsibility for 24 failures that led to toddler's death",
+      "eventId": "event-5pqgdd",
+      "title": "A&E warning system to flag sick children deteriorating quickly",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn06eldj9rwo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-01T15:05:27.411Z"
+      "detectedAt": "2026-11-02T05:58:19.513Z"
     },
     {
-      "eventId": "event-k9z5fc",
-      "title": "'The necktie is dead': How candidates are dressing for votes",
+      "eventId": "event-11j43ma",
+      "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 51,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-01T15:05:27.411Z"
+      "detectedAt": "2026-11-02T05:58:19.513Z"
     }
   ]
 }
