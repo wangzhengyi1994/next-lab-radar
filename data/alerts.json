@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-11-03T06:44:27.941Z",
+  "generatedAt": "2026-11-03T16:13:56.818Z",
   "alerts": [
     {
-      "eventId": "event-xzlgp1",
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-03T06:44:27.941Z"
-    },
-    {
-      "eventId": "event-3o0pf6",
-      "title": "MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration Workloads",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2610.40293",
+      "eventId": "event-1mrpc18",
+      "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/",
       "channel": "ai-tech",
-      "heat": 25,
+      "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-11-03T06:44:27.941Z"
+      "detectedAt": "2026-11-03T16:13:56.818Z"
     },
     {
-      "eventId": "event-hw4l4s",
-      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-03T06:44:27.941Z"
+      "eventId": "event-1dao7d5",
+      "title": "OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-03T16:13:56.818Z"
     },
     {
-      "eventId": "event-1ybjl3v",
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "eventId": "event-7fjgmn",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-03T16:13:56.818Z"
+    },
+    {
+      "eventId": "event-1hmsbxj",
+      "title": "Spanish footballer dies after collision with goalkeeper during match",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-03T06:44:27.941Z"
+      "detectedAt": "2026-11-03T16:13:56.818Z"
     }
   ]
 }
