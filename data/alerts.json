@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-11-02T18:19:32.864Z",
+  "generatedAt": "2026-11-03T06:44:27.941Z",
   "alerts": [
     {
-      "eventId": "event-l6p0zn",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "eventId": "event-xzlgp1",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-03T06:44:27.941Z"
+    },
+    {
+      "eventId": "event-3o0pf6",
+      "title": "MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration Workloads",
+      "source": "HuggingFace Papers",
+      "sourceUrl": "https://huggingface.co/papers/2610.40293",
+      "channel": "ai-tech",
+      "heat": 25,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-03T06:44:27.941Z"
+    },
+    {
+      "eventId": "event-hw4l4s",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-11-02T18:19:32.864Z"
+      "detectedAt": "2026-11-03T06:44:27.941Z"
     },
     {
-      "eventId": "event-ouyqjm",
-      "title": "Jamal Edwards' sister on celebrating SBTV's 20-year legacy and hopes of discovering new talent",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c54g1xnm3pezo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-02T18:19:32.864Z"
-    },
-    {
-      "eventId": "event-1fs2l9u",
-      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "eventId": "event-1ybjl3v",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-02T18:19:32.864Z"
-    },
-    {
-      "eventId": "event-1tk0rvf",
-      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-02T18:19:32.864Z"
+      "detectedAt": "2026-11-03T06:44:27.941Z"
     }
   ]
 }
