@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-11-04T06:15:16.198Z",
+  "generatedAt": "2026-11-04T16:17:16.344Z",
   "alerts": [
     {
-      "eventId": "event-1n4iwg7",
-      "title": "Spanish transport minister resigns days after deadly train crash",
+      "eventId": "event-1gw2gur",
+      "title": "Israel's president to begin consultations with parties after election deadlock",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-11-04T06:15:16.198Z"
+      "detectedAt": "2026-11-04T16:17:16.344Z"
     },
     {
-      "eventId": "event-srjolu",
-      "title": "多地下周五气温骤降到-32℃？iPhone系统天气显示异常，网友吐槽：离谱！",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WMTM3WF8wRGdXa1NscVFNdmlyLUdRQm5rT0w1cGpTdE1GRW1pVlFkSVRKcHYxLUxpN3hfWUJ2SlBIeno4VThqWE1PRFEtMW1nUENNQVdYOG10TFUtNmVJdVFFWnlrekRsczZn?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-11-04T06:15:16.198Z"
-    },
-    {
-      "eventId": "event-h0p2rr",
-      "title": "“大麦哥”突然爆火，最热视频单条获赞1154万次！一周涨粉超400万，定制视频报价12万元一条，已有2条带货视频",
-      "source": "Google News · 爆点",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVR1NGM4SGtRZXZUZEU0RWlnQzZWME1rUXJEREFvVUwxRUhWT0JHUW5aSW84OEc5ZWJNa1g1Q1NvSkc2TWFyb21RX09rNnB4anQ2Vm1xNm5CNnBEMnFYRU1WUXJHaHlQODRRNGUyeTM4RlAwcWF5NzB5YkdtMFI4cENJd0dWY0E?oc=5",
-      "channel": "society",
-      "heat": 39,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-11-04T06:15:16.198Z"
-    },
-    {
-      "eventId": "event-cy2sic",
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+      "eventId": "event-n6kbrv",
+      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-11-04T16:17:16.344Z"
+    },
+    {
+      "eventId": "event-1255urb",
+      "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-04T06:15:16.198Z"
+      "detectedAt": "2026-11-04T16:17:16.344Z"
     },
     {
-      "eventId": "event-1uf58xd",
-      "title": "Housing targets threaten ancient woods, campaigners warn",
+      "eventId": "event-4slhdj",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-04T16:17:16.344Z"
+    },
+    {
+      "eventId": "event-kpnxup",
+      "title": "Goalkeeper Owono 'would never intentionally hurt anyone', team-mate says after De Miguel death",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/articles/cred36e7e9y2o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-04T16:17:16.344Z"
+    },
+    {
+      "eventId": "event-d3yd4u",
+      "title": "Celebrity hairstylist John Frieda dies aged 75",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crlykl5gl3x4o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-04T06:15:16.198Z"
-    },
-    {
-      "eventId": "event-ccn4m8",
-      "title": "Scammers using AI-generated images of missing pets to demand reward money",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx8080nq74o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-04T06:15:16.198Z"
+      "detectedAt": "2026-11-04T16:17:16.344Z"
     }
   ]
 }
