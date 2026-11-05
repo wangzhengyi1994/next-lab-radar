@@ -1,71 +1,27 @@
 {
-  "generatedAt": "2026-11-05T06:42:10.675Z",
+  "generatedAt": "2026-11-05T16:27:38.124Z",
   "alerts": [
     {
-      "eventId": "event-110jpil",
-      "title": "Introducing Images 2.6",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-images-2-6",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-05T06:42:10.675Z"
-    },
-    {
-      "eventId": "event-ust3o4",
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "source": "Hacker News",
-      "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre/",
-      "channel": "ai-tech",
-      "heat": 42,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-05T06:42:10.675Z"
-    },
-    {
-      "eventId": "event-vxwhie",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-05T06:42:10.675Z"
-    },
-    {
-      "eventId": "event-16dr5pt",
-      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-05T06:42:10.675Z"
-    },
-    {
-      "eventId": "event-1m8uqo",
-      "title": "The Results Are In: Voters Hate Data Centers",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-05T06:42:10.675Z"
-    },
-    {
-      "eventId": "event-1iu3nil",
-      "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-f92qxy",
+      "title": "Six dead and others injured in fire at New York City building",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-11-05T06:42:10.675Z"
+      "detectedAt": "2026-11-05T16:27:38.124Z"
+    },
+    {
+      "eventId": "event-yrvyek",
+      "title": "'Flawed' training contributed to officer's death",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6j4425p3zo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-05T16:27:38.124Z"
     }
   ]
 }
