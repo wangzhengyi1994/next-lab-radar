@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-11-04T16:17:16.344Z",
+  "generatedAt": "2026-11-05T06:42:10.675Z",
   "alerts": [
     {
-      "eventId": "event-1gw2gur",
-      "title": "Israel's president to begin consultations with parties after election deadlock",
+      "eventId": "event-110jpil",
+      "title": "Introducing Images 2.6",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-images-2-6",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-05T06:42:10.675Z"
+    },
+    {
+      "eventId": "event-ust3o4",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "source": "Hacker News",
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-pierre/",
+      "channel": "ai-tech",
+      "heat": 42,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-05T06:42:10.675Z"
+    },
+    {
+      "eventId": "event-vxwhie",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-05T06:42:10.675Z"
+    },
+    {
+      "eventId": "event-16dr5pt",
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-05T06:42:10.675Z"
+    },
+    {
+      "eventId": "event-1m8uqo",
+      "title": "The Results Are In: Voters Hate Data Centers",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-05T06:42:10.675Z"
+    },
+    {
+      "eventId": "event-1iu3nil",
+      "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-11-04T16:17:16.344Z"
-    },
-    {
-      "eventId": "event-n6kbrv",
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-04T16:17:16.344Z"
-    },
-    {
-      "eventId": "event-1255urb",
-      "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-04T16:17:16.344Z"
-    },
-    {
-      "eventId": "event-4slhdj",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-04T16:17:16.344Z"
-    },
-    {
-      "eventId": "event-kpnxup",
-      "title": "Goalkeeper Owono 'would never intentionally hurt anyone', team-mate says after De Miguel death",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-04T16:17:16.344Z"
-    },
-    {
-      "eventId": "event-d3yd4u",
-      "title": "Celebrity hairstylist John Frieda dies aged 75",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crlykl5gl3x4o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-04T16:17:16.344Z"
+      "detectedAt": "2026-11-05T06:42:10.675Z"
     }
   ]
 }
