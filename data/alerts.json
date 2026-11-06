@@ -1,71 +1,27 @@
 {
-  "generatedAt": "2026-11-06T06:38:47.447Z",
+  "generatedAt": "2026-11-06T15:54:38.384Z",
   "alerts": [
     {
-      "eventId": "event-1q6mbrq",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "source": "Google AI",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-11-06T06:38:47.447Z"
-    },
-    {
-      "eventId": "event-ez8ple",
-      "title": "Gemini Omni 1.2 Flash now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-11-06T06:38:47.447Z"
-    },
-    {
-      "eventId": "event-19cs657",
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "eventId": "event-1fzl8vg",
+      "title": "Burnham says he was not aware of Brand's 'horrific' crimes",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjkgee4yw3xno?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-06T06:38:47.447Z"
-    },
-    {
-      "eventId": "event-1my7nhu",
-      "title": "Met chief warns policing 'heading for failure' without reform",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-06T06:38:47.447Z"
+      "detectedAt": "2026-11-06T15:54:38.384Z"
     },
     {
-      "eventId": "event-jymt3c",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "eventId": "event-1yh8fit",
+      "title": "Two dead after bus crashes in France, officials say",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-06T06:38:47.447Z"
-    },
-    {
-      "eventId": "event-uu9061",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-06T06:38:47.447Z"
+      "detectedAt": "2026-11-06T15:54:38.384Z"
     }
   ]
 }
