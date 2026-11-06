@@ -1,27 +1,71 @@
 {
-  "generatedAt": "2026-11-05T16:27:38.124Z",
+  "generatedAt": "2026-11-06T06:38:47.447Z",
   "alerts": [
     {
-      "eventId": "event-f92qxy",
-      "title": "Six dead and others injured in fire at New York City building",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1q6mbrq",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-11-06T06:38:47.447Z"
+    },
+    {
+      "eventId": "event-ez8ple",
+      "title": "Gemini Omni 1.2 Flash now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-11-06T06:38:47.447Z"
+    },
+    {
+      "eventId": "event-19cs657",
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-11-05T16:27:38.124Z"
+      "detectedAt": "2026-11-06T06:38:47.447Z"
     },
     {
-      "eventId": "event-yrvyek",
-      "title": "'Flawed' training contributed to officer's death",
+      "eventId": "event-1my7nhu",
+      "title": "Met chief warns policing 'heading for failure' without reform",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6j4425p3zo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-05T16:27:38.124Z"
+      "detectedAt": "2026-11-06T06:38:47.447Z"
+    },
+    {
+      "eventId": "event-jymt3c",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-06T06:38:47.447Z"
+    },
+    {
+      "eventId": "event-uu9061",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-06T06:38:47.447Z"
     }
   ]
 }
