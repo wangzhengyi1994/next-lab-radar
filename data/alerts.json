@@ -1,49 +1,16 @@
 {
-  "generatedAt": "2026-11-07T05:55:26.430Z",
+  "generatedAt": "2026-11-07T14:53:19.314Z",
   "alerts": [
     {
-      "eventId": "event-jpdpyc",
-      "title": "Ampersand from Humans& now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/humans-and-ampersand-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-11-07T05:55:26.430Z"
-    },
-    {
-      "eventId": "event-mbm5yt",
-      "title": "AI is the new dating dealbreaker",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-07T05:55:26.430Z"
-    },
-    {
-      "eventId": "event-1v4kvg6",
-      "title": "Gladiator II stuntman sues over injuries from on-set explosion",
+      "eventId": "event-dtwaq7",
+      "title": "Boy, 4, dies after Range Rover crashes on country road",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-07T05:55:26.430Z"
-    },
-    {
-      "eventId": "event-1mhsd75",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3ellge7qwjo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-07T05:55:26.430Z"
+      "detectedAt": "2026-11-07T14:53:19.314Z"
     }
   ]
 }
