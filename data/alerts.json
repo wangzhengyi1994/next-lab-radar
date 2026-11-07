@@ -1,27 +1,49 @@
 {
-  "generatedAt": "2026-11-06T15:54:38.384Z",
+  "generatedAt": "2026-11-07T05:55:26.430Z",
   "alerts": [
     {
-      "eventId": "event-1fzl8vg",
-      "title": "Burnham says he was not aware of Brand's 'horrific' crimes",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjkgee4yw3xno?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-06T15:54:38.384Z"
+      "eventId": "event-jpdpyc",
+      "title": "Ampersand from Humans& now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/humans-and-ampersand-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 6,
+      "detectedAt": "2026-11-07T05:55:26.430Z"
     },
     {
-      "eventId": "event-1yh8fit",
-      "title": "Two dead after bus crashes in France, officials say",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-mbm5yt",
+      "title": "AI is the new dating dealbreaker",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-07T05:55:26.430Z"
+    },
+    {
+      "eventId": "event-1v4kvg6",
+      "title": "Gladiator II stuntman sues over injuries from on-set explosion",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-06T15:54:38.384Z"
+      "detectedAt": "2026-11-07T05:55:26.430Z"
+    },
+    {
+      "eventId": "event-1mhsd75",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-07T05:55:26.430Z"
     }
   ]
 }
