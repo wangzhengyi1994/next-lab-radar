@@ -1,16 +1,71 @@
 {
-  "generatedAt": "2026-11-07T14:53:19.314Z",
+  "generatedAt": "2026-11-08T05:57:41.534Z",
   "alerts": [
     {
-      "eventId": "event-dtwaq7",
-      "title": "Boy, 4, dies after Range Rover crashes on country road",
+      "eventId": "event-n3haqh",
+      "title": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 5,
+      "detectedAt": "2026-11-08T05:57:41.534Z"
+    },
+    {
+      "eventId": "event-1xp3qd7",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-08T05:57:41.534Z"
+    },
+    {
+      "eventId": "event-10yio6s",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-08T05:57:41.534Z"
+    },
+    {
+      "eventId": "event-pa8tem",
+      "title": "Briton among six killed in 'far-right' shooting in Krakow",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3ellge7qwjo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-07T14:53:19.314Z"
+      "detectedAt": "2026-11-08T05:57:41.534Z"
+    },
+    {
+      "eventId": "event-qkiuv7",
+      "title": "The Papers: 'Briton dies in Krakow shootings' and 'Royals honour the fallen'",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr9dz7jqel02o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-08T05:57:41.534Z"
+    },
+    {
+      "eventId": "event-eulx12",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-08T05:57:41.534Z"
     }
   ]
 }
