@@ -1,38 +1,60 @@
 {
-  "generatedAt": "2026-11-09T06:21:13.213Z",
+  "generatedAt": "2026-11-09T18:45:44.058Z",
   "alerts": [
     {
-      "eventId": "event-pigxl4",
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "eventId": "event-1txinqi",
+      "title": "France accuses Iran of supermarket fridge hacking",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-09T18:45:44.058Z"
+    },
+    {
+      "eventId": "event-uq1fo6",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-11-09T06:21:13.213Z"
+      "detectedAt": "2026-11-09T18:45:44.058Z"
     },
     {
-      "eventId": "event-1rq2fi2",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "eventId": "event-1vh81h7",
+      "title": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck0e0elq4ndpo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-09T06:21:13.213Z"
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-09T18:45:44.058Z"
     },
     {
-      "eventId": "event-lbpro6",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-1s8uaed",
+      "title": "Man jailed over racist Badenoch death threats",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-09T06:21:13.213Z"
+      "detectedAt": "2026-11-09T18:45:44.058Z"
+    },
+    {
+      "eventId": "event-g8jf7p",
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-09T18:45:44.058Z"
     }
   ]
 }
