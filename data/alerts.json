@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-11-09T18:45:44.058Z",
+  "generatedAt": "2026-11-10T07:14:04.316Z",
   "alerts": [
     {
-      "eventId": "event-1txinqi",
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-09T18:45:44.058Z"
+      "eventId": "event-1veyx19",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-11-10T07:14:04.316Z"
     },
     {
-      "eventId": "event-uq1fo6",
-      "title": "Krakow shooting suspect has died in hospital, police say",
+      "eventId": "event-1ndacgg",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-11-10T07:14:04.316Z"
+    },
+    {
+      "eventId": "event-1y185s4",
+      "title": "Fable 5.2 and Jagged AGI",
+      "source": "Ethan Mollick",
+      "sourceUrl": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-11-10T07:14:04.316Z"
+    },
+    {
+      "eventId": "event-mzwno2",
+      "title": "SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery",
+      "source": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2611.12552v1",
+      "channel": "ai-tech",
+      "heat": 53,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-10T07:14:04.316Z"
+    },
+    {
+      "eventId": "event-1c4pkzd",
+      "title": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-10T07:14:04.316Z"
+    },
+    {
+      "eventId": "event-1l1531v",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 54,
       "confidence": 92,
       "corroboration": 2,
-      "detectedAt": "2026-11-09T18:45:44.058Z"
-    },
-    {
-      "eventId": "event-1vh81h7",
-      "title": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck0e0elq4ndpo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-09T18:45:44.058Z"
-    },
-    {
-      "eventId": "event-1s8uaed",
-      "title": "Man jailed over racist Badenoch death threats",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-09T18:45:44.058Z"
-    },
-    {
-      "eventId": "event-g8jf7p",
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-09T18:45:44.058Z"
+      "detectedAt": "2026-11-10T07:14:04.316Z"
     }
   ]
 }
