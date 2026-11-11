@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-11-11T06:11:13.069Z",
+  "generatedAt": "2026-11-11T16:08:28.326Z",
   "alerts": [
     {
-      "eventId": "event-1y759le",
-      "title": "MiniMax H3 Image and Highspeed now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-11-11T06:11:13.069Z"
-    },
-    {
-      "eventId": "event-wbbjkg",
-      "title": "Gemini 4 Carbon arrives just in time to feel like yesterday&#039;s news in the fastest model cycle yet",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+      "eventId": "event-wn0odf",
+      "title": "Gemini 4 Carbon ⚡, Claude Sheets 📊, Antigravity Swarm 🤖",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-11-11",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
+      "corroboration": 8,
+      "detectedAt": "2026-11-11T16:08:28.326Z"
+    },
+    {
+      "eventId": "event-xjp6j9",
+      "title": "Anthropic's IPO roadshow video",
+      "source": "Simon Willison",
+      "sourceUrl": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
       "corroboration": 7,
-      "detectedAt": "2026-11-11T06:11:13.069Z"
+      "detectedAt": "2026-11-11T16:08:28.326Z"
     },
     {
-      "eventId": "event-c8qndn",
-      "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
+      "eventId": "event-1b21kck",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm20w093y3gqo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-11T06:11:13.069Z"
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-11-11T16:08:28.326Z"
     },
     {
-      "eventId": "event-1sdk931",
-      "title": "Students passing university assessments in minutes using AI, regulator warns",
+      "eventId": "event-1726k95",
+      "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-11T06:11:13.069Z"
+      "detectedAt": "2026-11-11T16:08:28.326Z"
     },
     {
-      "eventId": "event-1067zde",
-      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "eventId": "event-rs5kkf",
+      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-11T06:11:13.069Z"
+      "detectedAt": "2026-11-11T16:08:28.326Z"
     },
     {
-      "eventId": "event-mch5ar",
-      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "eventId": "event-qzrvnm",
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
+      "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-11T06:11:13.069Z"
+      "detectedAt": "2026-11-11T16:08:28.326Z"
     }
   ]
 }
