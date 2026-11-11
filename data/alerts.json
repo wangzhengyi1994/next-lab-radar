@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-11-10T16:24:45.373Z",
+  "generatedAt": "2026-11-11T06:11:13.069Z",
   "alerts": [
     {
-      "eventId": "event-yrde22",
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "eventId": "event-1y759le",
+      "title": "MiniMax H3 Image and Highspeed now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-11-10T16:24:45.373Z"
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 7,
+      "detectedAt": "2026-11-11T06:11:13.069Z"
     },
     {
-      "eventId": "event-uqyl2",
-      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-11-10T16:24:45.373Z"
-    },
-    {
-      "eventId": "event-3ava7r",
-      "title": "Decision Models in Hugging Face",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/decision",
-      "channel": "ai-tech",
-      "heat": 53,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-10T16:24:45.373Z"
-    },
-    {
-      "eventId": "event-1bu4v2t",
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-10T16:24:45.373Z"
-    },
-    {
-      "eventId": "event-gs6kf4",
-      "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+      "eventId": "event-wbbjkg",
+      "title": "Gemini 4 Carbon arrives just in time to feel like yesterday&#039;s news in the fastest model cycle yet",
       "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+      "sourceUrl": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-10T16:24:45.373Z"
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-11-11T06:11:13.069Z"
     },
     {
-      "eventId": "event-ffcx4f",
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "eventId": "event-c8qndn",
+      "title": "New photos are 'essential evidence' of possible SAS war crimes, inquiry told",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm20w093y3gqo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-10T16:24:45.373Z"
+      "detectedAt": "2026-11-11T06:11:13.069Z"
+    },
+    {
+      "eventId": "event-1sdk931",
+      "title": "Students passing university assessments in minutes using AI, regulator warns",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-11T06:11:13.069Z"
+    },
+    {
+      "eventId": "event-1067zde",
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-11T06:11:13.069Z"
+    },
+    {
+      "eventId": "event-mch5ar",
+      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-11T06:11:13.069Z"
     }
   ]
 }
