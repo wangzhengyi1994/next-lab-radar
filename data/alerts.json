@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-11-11T16:08:28.326Z",
+  "generatedAt": "2026-11-12T07:06:52.150Z",
   "alerts": [
     {
-      "eventId": "event-wn0odf",
-      "title": "Gemini 4 Carbon ⚡, Claude Sheets 📊, Antigravity Swarm 🤖",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-11-11",
+      "eventId": "event-1uxv82k",
+      "title": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
+      "source": "Apple ML Research",
+      "sourceUrl": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 8,
-      "detectedAt": "2026-11-11T16:08:28.326Z"
+      "heat": 50,
+      "confidence": 99,
+      "corroboration": 6,
+      "detectedAt": "2026-11-12T07:06:52.150Z"
     },
     {
-      "eventId": "event-xjp6j9",
-      "title": "Anthropic's IPO roadshow video",
-      "source": "Simon Willison",
-      "sourceUrl": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "eventId": "event-k5njwz",
+      "title": "Gemini Decision 1 now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-11-11T16:08:28.326Z"
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 5,
+      "detectedAt": "2026-11-12T07:06:52.150Z"
     },
     {
-      "eventId": "event-1b21kck",
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "eventId": "event-1108imh",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-11-12T07:06:52.150Z"
+    },
+    {
+      "eventId": "event-d5a75t",
+      "title": "New York building collapse kills at least two, officials say",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-11T16:08:28.326Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-12T07:06:52.150Z"
     },
     {
-      "eventId": "event-1726k95",
-      "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
+      "eventId": "event-qsju0v",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-11T16:08:28.326Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-12T07:06:52.150Z"
     },
     {
-      "eventId": "event-rs5kkf",
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-11T16:08:28.326Z"
-    },
-    {
-      "eventId": "event-qzrvnm",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-11T16:08:28.326Z"
+      "eventId": "event-1q5il83",
+      "title": "AWS emulator",
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/aws/aws-emulator",
+      "channel": "ai-tech",
+      "heat": 50,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-12T07:06:52.150Z"
     }
   ]
 }
