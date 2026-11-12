@@ -1,71 +1,49 @@
 {
-  "generatedAt": "2026-11-12T07:06:52.150Z",
+  "generatedAt": "2026-11-12T16:47:38.246Z",
   "alerts": [
     {
-      "eventId": "event-1uxv82k",
-      "title": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
-      "source": "Apple ML Research",
-      "sourceUrl": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
+      "eventId": "event-1we91il",
+      "title": "Class A Common Stock 825,000,000 Shares Anthropic, PBC",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zTjI0cnBrNGZXT2ZpNmpnakRlbjQzUFNKaHh0ZjJsMWRtd211WC1QMVZLRTNoVEp5Rk9MSGdVU1FsUHQ4elNjTFNJc2k3VWhSeUl5OV9WNHRkTkxhd2FnQnh4OA?oc=5",
       "channel": "ai-tech",
       "heat": 50,
       "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-11-12T07:06:52.150Z"
+      "corroboration": 11,
+      "detectedAt": "2026-11-12T16:47:38.246Z"
     },
     {
-      "eventId": "event-k5njwz",
-      "title": "Gemini Decision 1 now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+      "eventId": "event-qph45j",
+      "title": "Grok Bot 1.0 🤖, AlphaGenome 2 🧬, Gemini Decisions 🧠",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-11-12",
       "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
+      "heat": 39,
+      "confidence": 85,
       "corroboration": 5,
-      "detectedAt": "2026-11-12T07:06:52.150Z"
+      "detectedAt": "2026-11-12T16:47:38.246Z"
     },
     {
-      "eventId": "event-1108imh",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "source": "Google AI",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "eventId": "event-1q6lbjh",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
       "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-11-12T07:06:52.150Z"
-    },
-    {
-      "eventId": "event-d5a75t",
-      "title": "New York building collapse kills at least two, officials say",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-12T07:06:52.150Z"
-    },
-    {
-      "eventId": "event-qsju0v",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-12T07:06:52.150Z"
-    },
-    {
-      "eventId": "event-1q5il83",
-      "title": "AWS emulator",
-      "source": "Hacker News",
-      "sourceUrl": "https://github.com/aws/aws-emulator",
-      "channel": "ai-tech",
-      "heat": 50,
+      "heat": 40,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-11-12T07:06:52.150Z"
+      "detectedAt": "2026-11-12T16:47:38.246Z"
+    },
+    {
+      "eventId": "event-8klmar",
+      "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
+      "source": "AWS ML",
+      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-12T16:47:38.246Z"
     }
   ]
 }
