@@ -1,49 +1,71 @@
 {
-  "generatedAt": "2026-11-12T16:47:38.246Z",
+  "generatedAt": "2026-11-13T06:40:50.776Z",
   "alerts": [
     {
-      "eventId": "event-1we91il",
-      "title": "Class A Common Stock 825,000,000 Shares Anthropic, PBC",
-      "source": "Anthropic",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zTjI0cnBrNGZXT2ZpNmpnakRlbjQzUFNKaHh0ZjJsMWRtd211WC1QMVZLRTNoVEp5Rk9MSGdVU1FsUHQ4elNjTFNJc2k3VWhSeUl5OV9WNHRkTkxhd2FnQnh4OA?oc=5",
+      "eventId": "event-1hwk8t1",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
       "channel": "ai-tech",
-      "heat": 50,
+      "heat": 54,
       "confidence": 99,
       "corroboration": 11,
-      "detectedAt": "2026-11-12T16:47:38.246Z"
+      "detectedAt": "2026-11-13T06:40:50.776Z"
     },
     {
-      "eventId": "event-qph45j",
-      "title": "Grok Bot 1.0 🤖, AlphaGenome 2 🧬, Gemini Decisions 🧠",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-11-12",
+      "eventId": "event-gt9edm",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 11,
+      "detectedAt": "2026-11-13T06:40:50.776Z"
+    },
+    {
+      "eventId": "event-t3cy3u",
+      "title": "Inkling 2 Small now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 11,
+      "detectedAt": "2026-11-13T06:40:50.776Z"
+    },
+    {
+      "eventId": "event-17laxnn",
+      "title": "Gemini 4 Hydrogen",
+      "source": "Hacker News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "channel": "ai-tech",
+      "heat": 47,
+      "confidence": 85,
+      "corroboration": 11,
+      "detectedAt": "2026-11-13T06:40:50.776Z"
+    },
+    {
+      "eventId": "event-fd06gl",
+      "title": "Claude Meetings lets Anthropic&#039;s AI join your video calls",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-11-12T16:47:38.246Z"
+      "corroboration": 11,
+      "detectedAt": "2026-11-13T06:40:50.776Z"
     },
     {
-      "eventId": "event-1q6lbjh",
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "eventId": "event-1ic0ki8",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-12T16:47:38.246Z"
-    },
-    {
-      "eventId": "event-8klmar",
-      "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
-      "source": "AWS ML",
-      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-12T16:47:38.246Z"
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 11,
+      "detectedAt": "2026-11-13T06:40:50.776Z"
     }
   ]
 }
