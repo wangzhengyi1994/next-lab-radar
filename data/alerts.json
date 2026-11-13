@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-11-13T06:40:50.776Z",
+  "generatedAt": "2026-11-13T16:18:32.085Z",
   "alerts": [
     {
-      "eventId": "event-1hwk8t1",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "source": "Google DeepMind",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "eventId": "event-14eax7k",
+      "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
       "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 11,
-      "detectedAt": "2026-11-13T06:40:50.776Z"
-    },
-    {
-      "eventId": "event-gt9edm",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "source": "Google AI",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 11,
-      "detectedAt": "2026-11-13T06:40:50.776Z"
-    },
-    {
-      "eventId": "event-t3cy3u",
-      "title": "Inkling 2 Small now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 11,
-      "detectedAt": "2026-11-13T06:40:50.776Z"
-    },
-    {
-      "eventId": "event-17laxnn",
-      "title": "Gemini 4 Hydrogen",
-      "source": "Hacker News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "channel": "ai-tech",
-      "heat": 47,
+      "heat": 40,
       "confidence": 85,
       "corroboration": 11,
-      "detectedAt": "2026-11-13T06:40:50.776Z"
+      "detectedAt": "2026-11-13T16:18:32.085Z"
     },
     {
-      "eventId": "event-fd06gl",
-      "title": "Claude Meetings lets Anthropic&#039;s AI join your video calls",
+      "eventId": "event-177d6e5",
+      "title": "Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-11-13",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 11,
+      "detectedAt": "2026-11-13T16:18:32.085Z"
+    },
+    {
+      "eventId": "event-16ffjuk",
+      "title": "Anthropic&#039;s IPO is six times oversubscribed and on track to become the largest public offering in history",
       "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+      "sourceUrl": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
       "channel": "ai-tech",
-      "heat": 39,
+      "heat": 40,
       "confidence": 85,
-      "corroboration": 11,
-      "detectedAt": "2026-11-13T06:40:50.776Z"
+      "corroboration": 9,
+      "detectedAt": "2026-11-13T16:18:32.085Z"
     },
     {
-      "eventId": "event-1ic0ki8",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "eventId": "event-1roox8a",
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
       "channel": "ai-tech",
-      "heat": 39,
+      "heat": 40,
       "confidence": 85,
-      "corroboration": 11,
-      "detectedAt": "2026-11-13T06:40:50.776Z"
+      "corroboration": 6,
+      "detectedAt": "2026-11-13T16:18:32.085Z"
+    },
+    {
+      "eventId": "event-8o4ek6",
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-11-13T16:18:32.085Z"
+    },
+    {
+      "eventId": "event-140550u",
+      "title": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-11-13T16:18:32.085Z"
     }
   ]
 }
