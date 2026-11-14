@@ -1,71 +1,38 @@
 {
-  "generatedAt": "2026-11-14T06:18:08.711Z",
+  "generatedAt": "2026-11-14T15:02:00.274Z",
   "alerts": [
     {
-      "eventId": "event-aob7nc",
-      "title": "Parallel Decisions now available on AI Gateway for free",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 7,
-      "detectedAt": "2026-11-14T06:18:08.711Z"
-    },
-    {
-      "eventId": "event-9gdi97",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-11-14T06:18:08.711Z"
-    },
-    {
-      "eventId": "event-8ccdxk",
-      "title": "Jensen Huang&#039;s ouster likely traces back to Nvidia&#039;s risky business practices more than his personal life",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-11-14T06:18:08.711Z"
-    },
-    {
-      "eventId": "event-1ntos4r",
-      "title": "Kimi K3.1 Pro is now available in Token Pass",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/kimi-k3-1-pro-is-now-available-in-token-pass",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 5,
-      "detectedAt": "2026-11-14T06:18:08.711Z"
-    },
-    {
-      "eventId": "event-1nz2hlr",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "eventId": "event-13811o2",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
       "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "sourceUrl": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
       "channel": "ai-tech",
-      "heat": 39,
+      "heat": 40,
       "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-11-14T06:18:08.711Z"
+      "corroboration": 6,
+      "detectedAt": "2026-11-14T15:02:00.274Z"
     },
     {
-      "eventId": "event-l1k4a8",
-      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-11-14T06:18:08.711Z"
+      "eventId": "event-1032z8h",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 53,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-14T15:02:00.274Z"
+    },
+    {
+      "eventId": "event-dq1ipe",
+      "title": "Man dies after being stabbed by gang of masked men",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gn7pp5r85o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-14T15:02:00.274Z"
     }
   ]
 }
