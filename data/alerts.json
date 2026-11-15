@@ -1,38 +1,49 @@
 {
-  "generatedAt": "2026-11-14T15:02:00.274Z",
+  "generatedAt": "2026-11-15T06:25:10.745Z",
   "alerts": [
     {
-      "eventId": "event-13811o2",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "eventId": "event-34ilf8",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
       "channel": "ai-tech",
-      "heat": 40,
+      "heat": 39,
       "confidence": 85,
       "corroboration": 6,
-      "detectedAt": "2026-11-14T15:02:00.274Z"
+      "detectedAt": "2026-11-15T06:25:10.745Z"
     },
     {
-      "eventId": "event-1032z8h",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 53,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-14T15:02:00.274Z"
+      "eventId": "event-4swhm1",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 6,
+      "detectedAt": "2026-11-15T06:25:10.745Z"
     },
     {
-      "eventId": "event-dq1ipe",
-      "title": "Man dies after being stabbed by gang of masked men",
+      "eventId": "event-11lm2mu",
+      "title": "王晶电影麻将女王票房4455元",
+      "source": "Google News · 电影",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nU3ZjV2g5ZVJycUtCV2NQVGYxaEx3ZEdpc0I4NkJUZVdvVHlSdWhkNjc2eVByOGZPQm1PMmIwV05qcU5BNThqc0wyTE9hN0FvVkpXSlVRbENSeUE3SEFXUkVxSThkYUdVY0g3ZmlxQXM?oc=5",
+      "channel": "society",
+      "heat": 39,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-11-15T06:25:10.745Z"
+    },
+    {
+      "eventId": "event-1ldf1s6",
+      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gn7pp5r85o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-14T15:02:00.274Z"
+      "detectedAt": "2026-11-15T06:25:10.745Z"
     }
   ]
 }
