@@ -1,49 +1,71 @@
 {
-  "generatedAt": "2026-11-15T06:25:10.745Z",
+  "generatedAt": "2026-11-15T15:38:48.404Z",
   "alerts": [
     {
-      "eventId": "event-34ilf8",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-11-15T06:25:10.745Z"
+      "eventId": "event-17cppoz",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-15T15:38:48.404Z"
     },
     {
-      "eventId": "event-4swhm1",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-11-15T06:25:10.745Z"
+      "eventId": "event-nir9ee",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-11-15T15:38:48.404Z"
     },
     {
-      "eventId": "event-11lm2mu",
-      "title": "王晶电影麻将女王票房4455元",
-      "source": "Google News · 电影",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nU3ZjV2g5ZVJycUtCV2NQVGYxaEx3ZEdpc0I4NkJUZVdvVHlSdWhkNjc2eVByOGZPQm1PMmIwV05qcU5BNThqc0wyTE9hN0FvVkpXSlVRbENSeUE3SEFXUkVxSThkYUdVY0g3ZmlxQXM?oc=5",
+      "eventId": "event-12sapu1",
+      "title": "冲上热搜！海报穿搭遭网友吐槽“太雷霆”，知名品牌明星同款仅售16件",
+      "source": "Google News · 社会",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUU1zVjJxamRwQUlZR2wzdS1wSGYwMDZWd3YybEQzZVY0YnlKU2F3TDJHQm4zdFhXQXlPQ19ZaUdvR2RRdE5vV2dfY0JYVGlQLVktcVFiblFRYlFXMWFIUzZkVGtteVZNSVFwZjBjWXJaY3hoRksyMTBWb1dfVjRVSU1CTUpuTTBLcGRj?oc=5",
       "channel": "society",
-      "heat": 39,
+      "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-11-15T06:25:10.745Z"
+      "detectedAt": "2026-11-15T15:38:48.404Z"
     },
     {
-      "eventId": "event-1ldf1s6",
-      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+      "eventId": "event-y92d3z",
+      "title": "Man dies after being hit by ambulance near Sunderland",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy492w3wpwo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-15T06:25:10.745Z"
+      "detectedAt": "2026-11-15T15:38:48.404Z"
+    },
+    {
+      "eventId": "event-13wk47j",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-15T15:38:48.404Z"
+    },
+    {
+      "eventId": "event-tax244",
+      "title": "Onions in your socks? Why homespun cold remedies can work for some",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4g1xln3wvdo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 42,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-15T15:38:48.404Z"
     }
   ]
 }
