@@ -1,60 +1,71 @@
 {
-  "generatedAt": "2026-11-16T06:23:39.035Z",
+  "generatedAt": "2026-11-16T18:29:47.481Z",
   "alerts": [
     {
-      "eventId": "event-1kaf2f7",
-      "title": "Aligning AI Teams",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2611.17820",
+      "eventId": "event-j2nyl2",
+      "title": "Hy4 Flash now available on AI Gateway for 50% off",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
       "channel": "ai-tech",
-      "heat": 24,
-      "confidence": 85,
-      "corroboration": 6,
-      "detectedAt": "2026-11-16T06:23:39.035Z"
-    },
-    {
-      "eventId": "event-b2whxm",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-11-16T06:23:39.035Z"
-    },
-    {
-      "eventId": "event-1ondg",
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 85,
-      "corroboration": 5,
-      "detectedAt": "2026-11-16T06:23:39.035Z"
-    },
-    {
-      "eventId": "event-9162fk",
-      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-16T06:23:39.035Z"
-    },
-    {
-      "eventId": "event-18ys8ol",
-      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
       "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-16T06:23:39.035Z"
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-11-16T18:29:47.481Z"
+    },
+    {
+      "eventId": "event-v70rn5",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/science-at-the-frontier",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-11-16T18:29:47.481Z"
+    },
+    {
+      "eventId": "event-2oy0dh",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-11-16T18:29:47.481Z"
+    },
+    {
+      "eventId": "event-75mjj8",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-11-16T18:29:47.481Z"
+    },
+    {
+      "eventId": "event-1tvms5u",
+      "title": "Alibaba&#039;s Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-11-16T18:29:47.481Z"
+    },
+    {
+      "eventId": "event-15a4wu5",
+      "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-11-16T18:29:47.481Z"
     }
   ]
 }
