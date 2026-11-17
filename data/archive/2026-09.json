@@ -133138,9 +133138,9 @@
     "fetchedAt": null,
     "radarChannel": "ai-tech",
     "eventId": "event-cw0gbl",
-    "corroboration": 2,
-    "confidence": 92,
-    "surge": false,
+    "corroboration": 3,
+    "confidence": 96,
+    "surge": true,
     "tier": 1
   },
   {
@@ -141967,9 +141967,9 @@
     "fetchedAt": null,
     "radarChannel": "ai-tech",
     "eventId": "event-1r89hni",
-    "corroboration": 2,
-    "confidence": 78,
-    "surge": false,
+    "corroboration": 3,
+    "confidence": 82,
+    "surge": true,
     "tier": 2
   },
   {
@@ -143193,9 +143193,9 @@
     "fetchedAt": null,
     "radarChannel": "ai-tech",
     "eventId": "event-cw0gbl",
-    "corroboration": 2,
-    "confidence": 92,
-    "surge": false,
+    "corroboration": 3,
+    "confidence": 96,
+    "surge": true,
     "tier": 1
   },
   {
@@ -157753,9 +157753,9 @@
     "fetchedAt": null,
     "radarChannel": "ai-tech",
     "eventId": "event-1r89hni",
-    "corroboration": 2,
-    "confidence": 78,
-    "surge": false,
+    "corroboration": 3,
+    "confidence": 82,
+    "surge": true,
     "tier": 2
   },
   {
@@ -172326,7 +172326,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 18,
     "firstSeen": "2026-09-23T04:43:11.539Z",
     "fetchedAt": null,
     "radarChannel": "ai-tech",
