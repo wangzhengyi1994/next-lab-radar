@@ -1,38 +1,71 @@
 {
-  "generatedAt": "2026-11-17T07:52:11.487Z",
+  "generatedAt": "2026-11-17T17:37:12.212Z",
   "alerts": [
     {
-      "eventId": "event-ektkqi",
-      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-17T07:52:11.487Z"
+      "eventId": "event-qjoqhu",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5",
+      "channel": "ai-tech",
+      "heat": 41,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-11-17T17:37:12.212Z"
     },
     {
-      "eventId": "event-qwlbpd",
-      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-17T07:52:11.487Z"
+      "eventId": "event-1ad6ngl",
+      "title": "Proton&#8217;s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-11-17T17:37:12.212Z"
     },
     {
-      "eventId": "event-24ecjh",
-      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-17T07:52:11.487Z"
+      "eventId": "event-qes4xa",
+      "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-17T17:37:12.212Z"
+    },
+    {
+      "eventId": "event-1tt5iqk",
+      "title": "California&#039;s attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-17T17:37:12.212Z"
+    },
+    {
+      "eventId": "event-1vjin98",
+      "title": "Perplexity Research 🧪, NVIDIA Rubin HPC 🖥️, OpenAI safety assessments 👨‍💻",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-11-17",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-17T17:37:12.212Z"
+    },
+    {
+      "eventId": "event-177k59i",
+      "title": "2次曾超越董宇辉，初代“千万网红顶流”姜乘澜，无惧负债1119万",
+      "source": "Google News · 人物",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EcTV3Z2ltUEJELS01WUJOS2JhSFZ5V1lsLVh2NzU3NldZeXJNenR4em1xc3hia1BvYUs2cVZXeXNtYWNJeGd1ODMwZ3I0WFNs?oc=5",
+      "channel": "people",
+      "heat": 40,
+      "confidence": 78,
+      "corroboration": 2,
+      "detectedAt": "2026-11-17T17:37:12.212Z"
     }
   ]
 }
