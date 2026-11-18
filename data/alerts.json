@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-11-18T07:24:14.194Z",
+  "generatedAt": "2026-11-18T17:14:12.532Z",
   "alerts": [
     {
-      "eventId": "event-1mfk319",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "eventId": "event-9eeygo",
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "source": "Latent Space",
+      "sourceUrl": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
       "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-11-18T07:24:14.194Z"
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-11-18T17:14:12.532Z"
     },
     {
-      "eventId": "event-m0w6fx",
-      "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
-      "source": "Vercel",
-      "sourceUrl": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
-      "channel": "ai-tech",
-      "heat": 52,
-      "confidence": 99,
-      "corroboration": 6,
-      "detectedAt": "2026-11-18T07:24:14.194Z"
-    },
-    {
-      "eventId": "event-1rbgcvp",
-      "title": "Introducing ChatGPT for Sales",
+      "eventId": "event-19sa0i9",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "sourceUrl": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "channel": "ai-tech",
       "heat": 53,
       "confidence": 99,
       "corroboration": 4,
-      "detectedAt": "2026-11-18T07:24:14.194Z"
+      "detectedAt": "2026-11-18T17:14:12.532Z"
     },
     {
-      "eventId": "event-24k6f5",
-      "title": "Nvidia is abandoning China after Jensen Huang&#8217;s ouster",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-18T07:24:14.194Z"
+      "eventId": "event-b41o0t",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-11-18T17:14:12.532Z"
     },
     {
-      "eventId": "event-1gralo7",
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-18T07:24:14.194Z"
+      "eventId": "event-1gn3mze",
+      "title": "Police investigate death of boy, 3, after nursery incident",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm8x0q1p2q8jo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-18T17:14:12.532Z"
     },
     {
-      "eventId": "event-17hw2wy",
-      "title": "Not Everything Needs an LLM",
-      "source": "Hacker News",
-      "sourceUrl": "https://newsletter.posthog.com/p/decision-models",
-      "channel": "ai-tech",
-      "heat": 38,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-18T07:24:14.194Z"
+      "eventId": "event-1pdfxb0",
+      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-18T17:14:12.532Z"
+    },
+    {
+      "eventId": "event-18usihi",
+      "title": "George thought his funeral was paid for – but now his wife will get nothing when he dies",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq23jvxm3jldo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-18T17:14:12.532Z"
     }
   ]
 }
