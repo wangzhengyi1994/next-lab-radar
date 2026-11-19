@@ -1,71 +1,49 @@
 {
-  "generatedAt": "2026-11-19T07:20:41.238Z",
+  "generatedAt": "2026-11-19T17:21:34.125Z",
   "alerts": [
     {
-      "eventId": "event-1hqr8xh",
-      "title": "Introducing Gemini 4 Neon",
-      "source": "Google DeepMind",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 8,
-      "detectedAt": "2026-11-19T07:20:41.238Z"
-    },
-    {
-      "eventId": "event-1j7duzm",
-      "title": "Genie 4 is now available",
-      "source": "Google DeepMind",
-      "sourceUrl": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 99,
-      "corroboration": 8,
-      "detectedAt": "2026-11-19T07:20:41.238Z"
-    },
-    {
-      "eventId": "event-166qwj5",
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "source": "Hacker News",
-      "sourceUrl": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-      "channel": "ai-tech",
-      "heat": 42,
-      "confidence": 85,
-      "corroboration": 8,
-      "detectedAt": "2026-11-19T07:20:41.238Z"
-    },
-    {
-      "eventId": "event-1naahcg",
-      "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
-      "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 8,
-      "detectedAt": "2026-11-19T07:20:41.238Z"
-    },
-    {
-      "eventId": "event-ets6yw",
-      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+      "eventId": "event-1akyuqx",
+      "title": "Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬",
+      "source": "TLDR AI",
+      "sourceUrl": "https://tldr.tech/ai/2026-11-19",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 8,
-      "detectedAt": "2026-11-19T07:20:41.238Z"
+      "corroboration": 9,
+      "detectedAt": "2026-11-19T17:21:34.125Z"
     },
     {
-      "eventId": "event-xjmeop",
-      "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
-      "source": "arXiv",
-      "sourceUrl": "http://arxiv.org/abs/2611.24887v1",
+      "eventId": "event-194hrr9",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
       "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-11-19T17:21:34.125Z"
+    },
+    {
+      "eventId": "event-7kjsfz",
+      "title": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw1md5m39n35o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
       "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-19T07:20:41.238Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-19T17:21:34.125Z"
+    },
+    {
+      "eventId": "event-1qmfs5w",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-19T17:21:34.125Z"
     }
   ]
 }
