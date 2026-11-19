@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-11-18T17:14:12.532Z",
+  "generatedAt": "2026-11-19T07:20:41.238Z",
   "alerts": [
     {
-      "eventId": "event-9eeygo",
-      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "source": "Latent Space",
-      "sourceUrl": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+      "eventId": "event-1hqr8xh",
+      "title": "Introducing Gemini 4 Neon",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 8,
+      "detectedAt": "2026-11-19T07:20:41.238Z"
+    },
+    {
+      "eventId": "event-1j7duzm",
+      "title": "Genie 4 is now available",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 8,
+      "detectedAt": "2026-11-19T07:20:41.238Z"
+    },
+    {
+      "eventId": "event-166qwj5",
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "source": "Hacker News",
+      "sourceUrl": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "channel": "ai-tech",
+      "heat": 42,
+      "confidence": 85,
+      "corroboration": 8,
+      "detectedAt": "2026-11-19T07:20:41.238Z"
+    },
+    {
+      "eventId": "event-1naahcg",
+      "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 85,
+      "corroboration": 8,
+      "detectedAt": "2026-11-19T07:20:41.238Z"
+    },
+    {
+      "eventId": "event-ets6yw",
+      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 7,
-      "detectedAt": "2026-11-18T17:14:12.532Z"
+      "corroboration": 8,
+      "detectedAt": "2026-11-19T07:20:41.238Z"
     },
     {
-      "eventId": "event-19sa0i9",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "eventId": "event-xjmeop",
+      "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+      "source": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2611.24887v1",
       "channel": "ai-tech",
-      "heat": 53,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-11-18T17:14:12.532Z"
-    },
-    {
-      "eventId": "event-b41o0t",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-18T17:14:12.532Z"
-    },
-    {
-      "eventId": "event-1gn3mze",
-      "title": "Police investigate death of boy, 3, after nursery incident",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm8x0q1p2q8jo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-18T17:14:12.532Z"
-    },
-    {
-      "eventId": "event-1pdfxb0",
-      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-18T17:14:12.532Z"
-    },
-    {
-      "eventId": "event-18usihi",
-      "title": "George thought his funeral was paid for – but now his wife will get nothing when he dies",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq23jvxm3jldo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
       "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-18T17:14:12.532Z"
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-19T07:20:41.238Z"
     }
   ]
 }
