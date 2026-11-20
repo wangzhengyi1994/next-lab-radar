@@ -1,49 +1,71 @@
 {
-  "generatedAt": "2026-11-19T17:21:34.125Z",
+  "generatedAt": "2026-11-20T07:10:27.995Z",
   "alerts": [
     {
-      "eventId": "event-1akyuqx",
-      "title": "Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-11-19",
+      "eventId": "event-n3paoe",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "channel": "ai-tech",
+      "heat": 54,
+      "confidence": 99,
+      "corroboration": 13,
+      "detectedAt": "2026-11-20T07:10:27.995Z"
+    },
+    {
+      "eventId": "event-1tgu1k9",
+      "title": "GPT-Live 1.1 now available on AI Gateway",
+      "source": "Vercel",
+      "sourceUrl": "https://vercel.com/changelog/gpt-live-1-1-now-available-on-ai-gateway",
+      "channel": "ai-tech",
+      "heat": 52,
+      "confidence": 99,
+      "corroboration": 13,
+      "detectedAt": "2026-11-20T07:10:27.995Z"
+    },
+    {
+      "eventId": "event-11k743m",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "source": "Hacker News",
+      "sourceUrl": "https://git-aarvin.github.io/mei/",
+      "channel": "ai-tech",
+      "heat": 47,
+      "confidence": 85,
+      "corroboration": 13,
+      "detectedAt": "2026-11-20T07:10:27.995Z"
+    },
+    {
+      "eventId": "event-1i4ivgh",
+      "title": "Gemini on Mac can now use your computer",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
       "channel": "ai-tech",
       "heat": 39,
       "confidence": 85,
-      "corroboration": 9,
-      "detectedAt": "2026-11-19T17:21:34.125Z"
+      "corroboration": 13,
+      "detectedAt": "2026-11-20T07:10:27.995Z"
     },
     {
-      "eventId": "event-194hrr9",
-      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "eventId": "event-1tg5k2q",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "channel": "ai-tech",
+      "heat": 53,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-11-20T07:10:27.995Z"
+    },
+    {
+      "eventId": "event-1v2uy0m",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "channel": "ai-tech",
       "heat": 40,
-      "confidence": 85,
-      "corroboration": 4,
-      "detectedAt": "2026-11-19T17:21:34.125Z"
-    },
-    {
-      "eventId": "event-7kjsfz",
-      "title": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw1md5m39n35o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-19T17:21:34.125Z"
-    },
-    {
-      "eventId": "event-1qmfs5w",
-      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-19T17:21:34.125Z"
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-20T07:10:27.995Z"
     }
   ]
 }
