@@ -1,71 +1,38 @@
 {
-  "generatedAt": "2026-11-20T16:56:39.035Z",
+  "generatedAt": "2026-11-21T07:02:05.908Z",
   "alerts": [
     {
-      "eventId": "event-utfeh6",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "eventId": "event-1uz0eqd",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "source": "Google Research",
+      "sourceUrl": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
       "channel": "ai-tech",
-      "heat": 40,
-      "confidence": 85,
-      "corroboration": 12,
-      "detectedAt": "2026-11-20T16:56:39.035Z"
+      "heat": 54,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-21T07:02:05.908Z"
     },
     {
-      "eventId": "event-31iwz3",
-      "title": "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
-      "source": "TLDR AI",
-      "sourceUrl": "https://tldr.tech/ai/2026-11-20",
+      "eventId": "event-yioqx2",
+      "title": "Google&#039;s Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
       "channel": "ai-tech",
       "heat": 39,
-      "confidence": 85,
-      "corroboration": 12,
-      "detectedAt": "2026-11-20T16:56:39.035Z"
+      "confidence": 82,
+      "corroboration": 3,
+      "detectedAt": "2026-11-21T07:02:05.908Z"
     },
     {
-      "eventId": "event-1iwddtj",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
+      "eventId": "event-fujg7j",
+      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-20T16:56:39.035Z"
-    },
-    {
-      "eventId": "event-1nd9br1",
-      "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvg2e0e9138o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
+      "heat": 54,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-20T16:56:39.035Z"
-    },
-    {
-      "eventId": "event-lzvs6r",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-20T16:56:39.035Z"
-    },
-    {
-      "eventId": "event-1tead09",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-20T16:56:39.035Z"
+      "detectedAt": "2026-11-21T07:02:05.908Z"
     }
   ]
 }
