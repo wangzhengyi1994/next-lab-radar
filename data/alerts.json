@@ -1,38 +1,16 @@
 {
-  "generatedAt": "2026-11-21T07:02:05.908Z",
+  "generatedAt": "2026-11-21T16:07:44.644Z",
   "alerts": [
     {
-      "eventId": "event-1uz0eqd",
-      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-      "source": "Google Research",
-      "sourceUrl": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-      "channel": "ai-tech",
-      "heat": 54,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-21T07:02:05.908Z"
-    },
-    {
-      "eventId": "event-yioqx2",
-      "title": "Google&#039;s Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
-      "source": "The Decoder",
-      "sourceUrl": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
-      "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-21T07:02:05.908Z"
-    },
-    {
-      "eventId": "event-fujg7j",
-      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "eventId": "event-8b0340",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-21T07:02:05.908Z"
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-11-21T16:07:44.644Z"
     }
   ]
 }
