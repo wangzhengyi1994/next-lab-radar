@@ -1,16 +1,38 @@
 {
-  "generatedAt": "2026-11-21T16:07:44.644Z",
+  "generatedAt": "2026-11-22T06:43:10.517Z",
   "alerts": [
     {
-      "eventId": "event-8b0340",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "eventId": "event-1co9b28",
+      "title": "May warns Burnham 'Brexit is done' after PM's EU talks",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-21T16:07:44.644Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-22T06:43:10.517Z"
+    },
+    {
+      "eventId": "event-1844bjg",
+      "title": "Parents urged to spot online stalking warning signs as cases rise",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c674pejp1110o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-22T06:43:10.517Z"
+    },
+    {
+      "eventId": "event-14r00z",
+      "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-22T06:43:10.517Z"
     }
   ]
 }
