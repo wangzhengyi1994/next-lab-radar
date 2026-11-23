@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-11-23T07:32:30.847Z",
+  "generatedAt": "2026-11-23T20:11:52.420Z",
   "alerts": [
     {
-      "eventId": "event-62yvk3",
-      "title": "What's next after no deal at COP31 climate talks?",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 96,
+      "eventId": "event-bhbef6",
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "channel": "ai-tech",
+      "heat": 40,
+      "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-11-23T07:32:30.847Z"
-    },
-    {
-      "eventId": "event-15ln0xc",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-23T07:32:30.847Z"
+      "detectedAt": "2026-11-23T20:11:52.420Z"
     }
   ]
 }
