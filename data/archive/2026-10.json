@@ -244836,7 +244836,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-30T15:02:00.210Z",
     "fetchedAt": null,
     "radarChannel": "ai-tech",
@@ -249569,7 +249569,7 @@
       "automation",
       "Kotlin"
     ],
-    "engagement": 9757,
+    "engagement": 9825,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -249697,7 +249697,7 @@
       "chinese",
       "HTML"
     ],
-    "engagement": 664,
+    "engagement": 669,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,

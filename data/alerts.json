@@ -1,16 +1,60 @@
 {
-  "generatedAt": "2026-11-23T20:11:52.420Z",
+  "generatedAt": "2026-11-24T09:51:00.888Z",
   "alerts": [
     {
-      "eventId": "event-bhbef6",
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "eventId": "event-c45pdc",
+      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 7,
+      "detectedAt": "2026-11-24T09:51:00.888Z"
+    },
+    {
+      "eventId": "event-rkc72q",
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "source": "Latent Space",
+      "sourceUrl": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
       "channel": "ai-tech",
       "heat": 40,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-23T20:11:52.420Z"
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-11-24T09:51:00.888Z"
+    },
+    {
+      "eventId": "event-13d3lsl",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "channel": "ai-tech",
+      "heat": 39,
+      "confidence": 85,
+      "corroboration": 4,
+      "detectedAt": "2026-11-24T09:51:00.888Z"
+    },
+    {
+      "eventId": "event-19zbwxt",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-11-24T09:51:00.888Z"
+    },
+    {
+      "eventId": "event-ajsebv",
+      "title": "State failing to keep public safe, warns victims' commissioner",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr0jx7dw234jo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-24T09:51:00.888Z"
     }
   ]
 }
