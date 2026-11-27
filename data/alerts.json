@@ -1,71 +1,38 @@
 {
-  "generatedAt": "2026-11-26T18:24:13.588Z",
+  "generatedAt": "2026-11-27T08:24:21.456Z",
   "alerts": [
     {
-      "eventId": "event-z1u3tv",
-      "title": "Collect for Coverage, Replay with Evidence: Adaptive and Efficient On-Policy Distillation for Long-Horizon Agents",
+      "eventId": "event-lcexnd",
+      "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
       "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2611.34756",
+      "sourceUrl": "https://huggingface.co/papers/2611.34813",
       "channel": "ai-tech",
-      "heat": 29,
+      "heat": 39,
       "confidence": 82,
       "corroboration": 3,
-      "detectedAt": "2026-11-26T18:24:13.588Z"
+      "detectedAt": "2026-11-27T08:24:21.456Z"
     },
     {
-      "eventId": "event-81ydnp",
-      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-26T18:24:13.588Z"
-    },
-    {
-      "eventId": "event-1xt8b56",
-      "title": "“终于有人说说干发帽了”上热搜，网友：原来如此",
+      "eventId": "event-1swnl7o",
+      "title": "抖音终于适配iPhone Duo！网友吐槽上热搜：适配了 但没完全适配",
       "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS28xNXh5cmRucWpnSGRKSVlBcXdIelZEMFVlVDdrMXo2RkxYUFRrQURVZGRfVjdVVlM0ZXBRUVgxVkNmNnhicU04NEFYejgwUzFzZFlqX1RkcGVaRzd6anM3Nnk2UlpGUTZQS1Rhb3pNOW05eVFWcjFBYXN4aThyeFowaXo5YlpoZUdDNg?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zODdBdTZMZ0Y0WjI0WkU0NnF0X0RVamZ3VXFpMFBmT1pJV3hSSHg2bEVPaUgtVTVhSDlSeWVjdVpGb3BjOVcydktjRm5Kcm5qUGp5VEs0dUw?oc=5",
       "channel": "society",
       "heat": 40,
       "confidence": 78,
       "corroboration": 2,
-      "detectedAt": "2026-11-26T18:24:13.588Z"
+      "detectedAt": "2026-11-27T08:24:21.456Z"
     },
     {
-      "eventId": "event-jt72ig",
-      "title": "神秘模型突降热搜！一夜爆火HungerG，到底是谁？",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpaENJQlRBNzk0UXdqZWVNZzdoSHBxUk1jNzVreTd6VUs0eHNGelFab3ViYlBMYl9NVFVsN0g2NEdGWmNhUlYzUA?oc=5",
-      "channel": "society",
-      "heat": 39,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-11-26T18:24:13.588Z"
-    },
-    {
-      "eventId": "event-1kkbzje",
-      "title": "Huw Edwards gives first interviews since child abuse image conviction",
+      "eventId": "event-7tsemw",
+      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-26T18:24:13.588Z"
-    },
-    {
-      "eventId": "event-f5per4",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-26T18:24:13.588Z"
+      "detectedAt": "2026-11-27T08:24:21.456Z"
     }
   ]
 }
