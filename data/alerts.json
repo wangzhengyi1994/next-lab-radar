@@ -1,38 +1,71 @@
 {
-  "generatedAt": "2026-11-27T08:24:21.456Z",
+  "generatedAt": "2026-11-27T21:14:21.130Z",
   "alerts": [
     {
-      "eventId": "event-lcexnd",
-      "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
-      "source": "HuggingFace Papers",
-      "sourceUrl": "https://huggingface.co/papers/2611.34813",
+      "eventId": "event-1euwwi6",
+      "title": "Mixture-of-Loops Transformer",
+      "source": "arXiv",
+      "sourceUrl": "http://arxiv.org/abs/2611.34923v1",
       "channel": "ai-tech",
-      "heat": 39,
-      "confidence": 82,
-      "corroboration": 3,
-      "detectedAt": "2026-11-27T08:24:21.456Z"
+      "heat": 50,
+      "confidence": 99,
+      "corroboration": 4,
+      "detectedAt": "2026-11-27T21:14:21.130Z"
     },
     {
-      "eventId": "event-1swnl7o",
-      "title": "抖音终于适配iPhone Duo！网友吐槽上热搜：适配了 但没完全适配",
-      "source": "Google News · 社会",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zODdBdTZMZ0Y0WjI0WkU0NnF0X0RVamZ3VXFpMFBmT1pJV3hSSHg2bEVPaUgtVTVhSDlSeWVjdVpGb3BjOVcydktjRm5Kcm5qUGp5VEs0dUw?oc=5",
-      "channel": "society",
-      "heat": 40,
-      "confidence": 78,
-      "corroboration": 2,
-      "detectedAt": "2026-11-27T08:24:21.456Z"
-    },
-    {
-      "eventId": "event-7tsemw",
-      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+      "eventId": "event-ziunky",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 96,
+      "corroboration": 3,
+      "detectedAt": "2026-11-27T21:14:21.130Z"
+    },
+    {
+      "eventId": "event-znp3xt",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 92,
+      "corroboration": 2,
+      "detectedAt": "2026-11-27T21:14:21.130Z"
+    },
+    {
+      "eventId": "event-64lc9h",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-27T08:24:21.456Z"
+      "detectedAt": "2026-11-27T21:14:21.130Z"
+    },
+    {
+      "eventId": "event-1fzlw04",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "source": "BBC World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 55,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-27T21:14:21.130Z"
+    },
+    {
+      "eventId": "event-yfapk4",
+      "title": "'We have no interest in hearing from Huw Edwards', Downing Street says",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss",
+      "channel": "breaking",
+      "heat": 54,
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-27T21:14:21.130Z"
     }
   ]
 }
