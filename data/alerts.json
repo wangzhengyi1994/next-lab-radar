@@ -1,71 +1,38 @@
 {
-  "generatedAt": "2026-11-27T21:14:21.130Z",
+  "generatedAt": "2026-11-28T07:44:01.804Z",
   "alerts": [
     {
-      "eventId": "event-1euwwi6",
-      "title": "Mixture-of-Loops Transformer",
-      "source": "arXiv",
-      "sourceUrl": "http://arxiv.org/abs/2611.34923v1",
-      "channel": "ai-tech",
-      "heat": 50,
-      "confidence": 99,
-      "corroboration": 4,
-      "detectedAt": "2026-11-27T21:14:21.130Z"
-    },
-    {
-      "eventId": "event-ziunky",
-      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "eventId": "event-vq5lz6",
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 96,
-      "corroboration": 3,
-      "detectedAt": "2026-11-27T21:14:21.130Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-28T07:44:01.804Z"
     },
     {
-      "eventId": "event-znp3xt",
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "eventId": "event-1f5rcjz",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
       "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
-      "confidence": 92,
-      "corroboration": 2,
-      "detectedAt": "2026-11-27T21:14:21.130Z"
+      "confidence": 88,
+      "corroboration": 1,
+      "detectedAt": "2026-11-28T07:44:01.804Z"
     },
     {
-      "eventId": "event-64lc9h",
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "eventId": "event-1ngia3z",
+      "title": "Eight killed in Peruvian military helicopter crash",
       "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
       "channel": "breaking",
       "heat": 55,
       "confidence": 88,
       "corroboration": 1,
-      "detectedAt": "2026-11-27T21:14:21.130Z"
-    },
-    {
-      "eventId": "event-1fzlw04",
-      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "source": "BBC World",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 55,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-27T21:14:21.130Z"
-    },
-    {
-      "eventId": "event-yfapk4",
-      "title": "'We have no interest in hearing from Huw Edwards', Downing Street says",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss",
-      "channel": "breaking",
-      "heat": 54,
-      "confidence": 88,
-      "corroboration": 1,
-      "detectedAt": "2026-11-27T21:14:21.130Z"
+      "detectedAt": "2026-11-28T07:44:01.804Z"
     }
   ]
 }
